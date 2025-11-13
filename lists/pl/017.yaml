@@ -1,0 +1,263 @@
+- pl: oczywiście
+  en: obviously
+  word_type: adverb
+  key: ddec2c60-7db6-461e-b6f1-a42a82488d0c
+- pl: czyli
+  en: that is
+  word_type: conjunction
+  key: 6979b333-7953-4c9c-86bc-afc16fb1aa92
+- pl: Niech...
+  en: Let...
+  word_type: other
+  key: c8bc9bdd-8792-4b7b-aab3-1938eed8a990
+- pl: ani
+  en: nor
+  word_type: conjunction
+  key: 1cede942-f69c-4d3c-ac1e-0f4bd1f145a0
+- pl: pan
+  en: mister
+  word_type: noun
+  gender: masculine
+  plural_form: panowie
+  key: 1fa20d78-8cae-42b7-adde-c0893383ab70
+- pl: pewnie
+  en: probably
+  word_type: adverb
+  key: be6e03b3-e26f-4924-9a77-c6db79687da9
+- pl: jeżeli
+  en: if
+  word_type: conjunction
+  key: 47c03563-e6ce-401e-958e-a0755ee2d303
+- pl: nadal
+  en: still
+  word_type: adverb
+  key: 935874fb-aa01-4107-9411-a9df2933fc42
+- pl: wy
+  en: you (plural)
+  word_type: pronoun
+  key: eb46df9b-8a26-4eb4-89cd-cd65057ec504
+- pl: jakiś
+  en: some
+  word_type: pronoun
+  key: ddd1a653-07bc-405f-bad3-0399027a422f
+- pl: poza
+  en: beyond
+  word_type: preposition
+  key: 100c907d-f753-4221-9ef5-a5f570121513
+- pl: dziękować
+  en: to thank
+  word_type: verb
+  first_person_singular: ja dziękuję
+  first_person_plural: my dziękujemy
+  second_person_singular: ty dziękujesz
+  second_person_plural: wy dziękujecie
+  third_person_singular: on/ona/ono dziękuje
+  third_person_plural: oni/one dziękują
+  perfective: podziękować
+  key: e598aafc-4c1d-40d5-8971-f9701721d1cf
+- pl: kiedyś
+  en: sometime
+  word_type: adverb
+  key: 4c53135d-22c4-40e1-99fd-e4f1f022feec
+- pl: ponad
+  en: over
+  word_type: preposition
+  key: 354299a6-f6c1-492b-a866-c5fb538a6f9b
+- pl: pani
+  en: lady
+  word_type: noun
+  gender: feminine
+  plural_form: panie
+  key: cb665eff-18a4-4f92-bcd0-00b4367633f7
+- pl: samo
+  en: itself
+  word_type: pronoun
+  key: 55e5ffe0-6272-4965-8329-f506ea2eff31
+- pl: wyglądać
+  en: to look (appear)
+  word_type: verb
+  first_person_singular: ja wyglądam
+  first_person_plural: my wyglądamy
+  second_person_singular: ty wyglądasz
+  second_person_plural: wy wygladacie
+  third_person_singular: on/ona/ono wygląda
+  third_person_plural: oni/one wyglądają
+  perfective: wyglądnąć
+  key: 8a52be6d-ccd6-4576-ad21-4e14c778c01d
+- pl: wcześniej
+  en: earlier
+  word_type: adverb
+  key: ded971b2-1dab-4920-a12a-7198d4077a6a
+- pl: gdyby
+  en: if (conditional)
+  word_type: conjunction
+  key: 577e00c1-78ec-4f17-a16b-c1d681b89b19
+- pl: szybko
+  en: quickly
+  word_type: adverb
+  key: 09a415ea-4aa9-4338-9341-4ce0423a5431
+- pl: obecnie
+  en: currently
+  word_type: adverb
+  key: 5414b84e-0676-40d0-82a0-b29a8769f6c2
+- pl: mimo
+  en: despite
+  word_type: preposition
+  key: c72cacae-64f5-4653-aedd-d337936751b4
+- pl: prawda
+  en: truth
+  word_type: noun
+  gender: feminine
+  plural_form: prawdy
+  key: fa9784b7-159d-41a4-b9f4-65198146c43e
+- pl: należeć
+  en: to belong
+  word_type: verb
+  first_person_singular: ja należę
+  first_person_plural: my należymy
+  second_person_singular: ty należysz
+  second_person_plural: wy należycie
+  third_person_singular: on/ona/ono należy
+  third_person_plural: oni/one należą
+  key: bf56feb7-5bc4-4e57-8db6-b5ba3bf1019d
+- pl: około
+  en: approximately
+  word_type: adverb
+  key: 4c1b9efe-2e36-4345-8374-c5647af8a238
+- pl: przecież
+  en: after all
+  word_type: adverb
+  key: f71fe7c1-ff8e-44da-af16-d974d783f283
+- pl: wydawać się
+  en: to seem
+  word_type: verb
+  first_person_singular: ja wydaję się
+  first_person_plural: my wydajemy się
+  second_person_singular: ty wydajesz się
+  second_person_plural: wy wydajecie się
+  third_person_singular: on/ona/ono wydaje się
+  third_person_plural: oni/one wydają się
+  perfective: wydać się
+  key: e895516a-b841-4609-9832-a2daf3f06b17
+- pl: dopiero
+  en: only (just now)
+  word_type: adverb
+  key: 43c33be4-b0a7-4d6a-9db0-33cb0308467e
+- pl: jakby
+  en: as if
+  word_type: conjunction
+  key: 4fcb1462-d820-4420-baad-8921e7350e8f
+- pl: cel
+  en: goal
+  word_type: noun
+  gender: masculine
+  plural_form: cele
+  key: cc161dfb-058b-4d50-a6bc-e26521f04aeb
+- pl: wśród
+  en: among
+  word_type: preposition
+  key: 57363540-a8ed-4fb9-834c-1f55a2e06c71
+- pl: zbyt
+  en: too
+  word_type: adverb
+  key: 7b2110da-7e04-476e-8d70-db37bc2e8a0f
+- pl: państwo
+  en: state
+  word_type: noun
+  gender: neuter
+  plural_form: państwa
+  key: 55adfebd-c224-4730-b651-e9b30c180f30
+- pl: sprawa
+  en: matter
+  word_type: noun
+  gender: feminine
+  plural_form: sprawy
+  key: d98e280f-41f9-4697-be97-6e5aca3cef54
+- pl: większość
+  en: majority
+  word_type: noun
+  gender: feminine
+  plural_form: większości
+  key: 143cc6f3-bfbb-4a12-8253-fa3665235783
+- pl: dość
+  en: enough
+  word_type: adverb
+  key: ee47241d-8b62-4d76-902e-88bba473e5e6
+- pl: typ
+  en: type
+  word_type: noun
+  gender: masculine
+  plural_form: typy
+  key: eacd3ab2-c69a-40aa-8f79-fabd0a5049c3
+- pl: udział
+  en: participation
+  word_type: noun
+  gender: masculine
+  plural_form: udziały
+  key: bfac83cd-2922-4fc6-8064-5b2a432371fb
+- pl: brak
+  en: lack
+  word_type: noun
+  gender: masculine
+  plural_form: braki
+  key: b11f47b2-32e8-4ad3-9d7f-4b203af2787b
+- pl: rodzina
+  en: family
+  word_type: noun
+  gender: feminine
+  plural_form: rodziny
+  key: f00ba793-5c53-4701-9205-bc035fa6df5d
+- pl: dane
+  en: data
+  word_type: noun
+  gender: neuter
+  plural_form: dane
+  key: 97b84116-eea5-4e91-b46e-4df2277164a2
+- pl: niestety
+  en: unfortunately
+  word_type: adverb
+  key: 6a8cb965-5cd4-4c05-a32a-8bff3b1c535c
+- pl: znaczyć
+  en: to mean
+  word_type: verb
+  first_person_singular: ja znaczę
+  first_person_plural: my znaczymy
+  second_person_singular: ty znaczysz
+  second_person_plural: wy znaczycie
+  third_person_singular: on/ona/ono znaczy
+  third_person_plural: oni/one znaczą
+  perfective: oznaczyć
+  key: 4bd149cb-5ed9-4a1c-826e-17838b81770c
+- pl: choć
+  en: although
+  word_type: conjunction
+  key: 99534975-d651-4b2c-96d7-cfb3a42b86c8
+- pl: jedynie
+  en: only
+  word_type: adverb
+  key: 04622317-8202-4dc5-a331-0ee0e8e1583e
+- pl: natomiast
+  en: however
+  word_type: conjunction
+  key: 5ffec19d-dade-4291-bfa0-ef2fa2831c96
+- pl: pomoc
+  en: help
+  word_type: noun
+  gender: feminine
+  plural_form: pomoce
+  key: 17f66c70-4415-479b-95fa-47900c34fe9c
+- pl: wraz
+  en: together
+  word_type: adverb
+  key: d1a4810e-264a-4a3e-a622-aab5a80e8e11
+- pl: zaraz
+  en: immediately
+  word_type: adverb
+  key: 4f6e79e3-6a1f-4946-9897-0f5b2afd59df
+- pl: mało
+  en: little
+  word_type: adverb
+  positive: mało
+  comparative: mniej
+  superlative: najmniej
+  key: 31096b17-ccdb-458d-8162-07dde442ba8f

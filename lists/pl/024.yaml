@@ -1,0 +1,358 @@
+- pl: odpowiadać
+  en: to answer
+  word_type: verb
+  perfective: odpowiedzieć
+  first_person_singular: ja odpowiadam
+  second_person_singular: ty odpowiadasz
+  third_person_singular: on/ona/ono odpowiada
+  first_person_plural: my odpowiadamy
+  second_person_plural: wy odpowiadacie
+  third_person_plural: oni/one odpowiadają
+  key: 1da360fd-bcbd-4fc8-a61f-7c625efe0011
+- pl: ostatecznie
+  en: ultimately
+  word_type: adverb
+  key: fc70662c-c961-43e4-a600-c629dc17ea64
+- pl: polityk
+  en: politician
+  word_type: noun
+  gender: masculine
+  plural_form: politycy
+  key: 235800cb-b0cd-4c27-b983-1c63b587816d
+- pl: prezes
+  en: chairman
+  word_type: noun
+  gender: masculine
+  plural_form: prezesi
+  key: 8ed50f12-b841-4748-88b2-018a9e3860de
+- pl: premiera
+  en: premiere
+  word_type: noun
+  gender: feminine
+  plural_form: premiery
+  key: c54a7ff9-6dad-4726-a7f3-5e6a04a3ce37
+- pl: profil
+  en: profile
+  word_type: noun
+  gender: masculine
+  plural_form: profile
+  key: 23ad57e3-acba-475a-990c-96cd84407979
+- pl: przypominać
+  en: to remind
+  word_type: verb
+  perfective: przypomnieć
+  first_person_singular: ja przypominam
+  second_person_singular: ty przypominasz
+  third_person_singular: on/ona/ono przypomina
+  first_person_plural: my przypominamy
+  second_person_plural: wy przypominacie
+  third_person_plural: oni/one przypominają
+  key: 577d6eba-268c-478a-8c95-83b87763a265
+- pl: póki
+  en: while (as long as)
+  word_type: conjunction
+  key: 570b3322-f82f-4cea-b227-1ba833dddf6f
+- pl: sprawdzać
+  en: to check
+  word_type: verb
+  perfective: sprawdzić
+  first_person_singular: ja sprawdzam
+  second_person_singular: ty sprawdzasz
+  third_person_singular: on/ona/ono sprawdza
+  first_person_plural: my sprawdzamy
+  second_person_plural: wy sprawdzacie
+  third_person_plural: oni/one sprawdzają
+  key: 1bbd279d-52fb-4d40-8e84-03477e2eafc5
+- pl: stosunek
+  en: relation
+  word_type: noun
+  gender: masculine
+  plural_form: stosunki
+  key: 16a111a8-730b-447a-b551-8c601243726b
+- pl: wolno
+  en: slowly
+  word_type: adverb
+  key: 595ec7a1-069c-4ec3-988d-5510cae4c8c7
+- pl: wymagać
+  en: to require
+  word_type: verb
+  perfective: wymagać
+  first_person_singular: ja wymagam
+  second_person_singular: ty wymagasz
+  third_person_singular: on/ona/ono wymaga
+  first_person_plural: my wymagamy
+  second_person_plural: wy wymagacie
+  third_person_plural: oni/one wymagają
+  comment: This verb has the same form for both imperfective and perfective aspects
+  key: 4d4924fd-64cd-410c-bd77-8b616ed9cfd1
+- pl: wynosić
+  en: to amount to
+  word_type: verb
+  perfective: wynieść
+  first_person_singular: ja wynoszę
+  second_person_singular: ty wynosisz
+  third_person_singular: on/ona/ono wynosi
+  first_person_plural: my wynosimy
+  second_person_plural: wy wynosicie
+  third_person_plural: oni/one wynoszą
+  key: f5be4b6a-6474-4959-953d-62a77075376f
+- pl: zwierzę
+  en: animal
+  word_type: noun
+  gender: neuter
+  plural_form: zwierzęta
+  key: 22463eaf-66ea-45f8-97e5-d156afc53fe9
+- pl: warunek
+  en: condition
+  word_type: noun
+  gender: masculine
+  plural_form: warunki
+  key: 83d01abf-4517-4801-825c-06c9868ee709
+- pl: światowy
+  en: world (adjective)
+  word_type: adjective
+  positive: światowy
+  key: 99a47a0d-b50b-403a-8d6e-169537bba87c
+- pl: gorzej
+  en: worse
+  word_type: adverb
+  key: 1ec7a5e1-c206-4fe6-8d98-a33184a9a8e5
+- pl: mieszkać
+  en: to live (reside)
+  word_type: verb
+  perfective: zamieszkać
+  first_person_singular: ja mieszkam
+  second_person_singular: ty mieszkasz
+  third_person_singular: on/ona/ono mieszka
+  first_person_plural: my mieszkamy
+  second_person_plural: wy mieszkacie
+  third_person_plural: oni/one mieszkają
+  key: 30db0f17-cc59-4588-bc2f-bc1306a23018
+- pl: nagroda
+  en: prize
+  word_type: noun
+  gender: feminine
+  plural_form: nagrody
+  key: ee898180-ef90-4723-b167-5390e4e23271
+- pl: pasować
+  en: to fit
+  word_type: verb
+  perfective: pasować
+  first_person_singular: ja pasuję
+  second_person_singular: ty pasujesz
+  third_person_singular: on/ona/ono pasuje
+  first_person_plural: my pasujemy
+  second_person_plural: wy pasujecie
+  third_person_plural: oni/one pasują
+  comment: This verb has the same form for both imperfective and perfective aspects
+  key: 7779da36-de5a-4943-b2ad-3d272193e0b2
+- pl: powodzenie
+  en: success
+  word_type: noun
+  gender: neuter
+  plural_form: powodzenia
+  key: 6a2a007c-8161-4735-a6b8-42be74c84ec8
+- pl: sezon
+  en: season
+  word_type: noun
+  gender: masculine
+  plural_form: sezony
+  key: b2aaab8e-5af7-46d3-ad24-b5f89c1ca03b
+- pl: stały
+  en: constant
+  word_type: adjective
+  positive: stały
+  comparative: bardziej stały
+  superlative: najbardziej stały
+  key: dc445f56-88cc-4a4f-b4e3-a970bcf9fec3
+- pl: tuż
+  en: right (next to)
+  word_type: adverb
+  key: 15c17b8c-2e3e-40b8-b061-19b296ab819c
+- pl: tłumaczenie
+  en: translation
+  word_type: noun
+  gender: neuter
+  plural_form: tłumaczenia
+  key: a4c0aefb-41a1-4b66-bbe7-15b07b921d00
+- pl: woleć
+  en: to prefer
+  word_type: verb
+  perfective: woleć
+  first_person_singular: ja wolę
+  second_person_singular: ty wolisz
+  third_person_singular: on/ona/ono woli
+  first_person_plural: my wolimy
+  second_person_plural: wy wolicie
+  third_person_plural: oni/one wolą
+  comment: This verb is primarily imperfective; perfective use is rare
+  key: 6eb20108-a4dc-4802-866f-aa25eabecdd6
+- pl: wydarzenie
+  en: event
+  word_type: noun
+  gender: neuter
+  plural_form: wydarzenia
+  key: 5a1acbfc-d645-43fd-bac4-eb545bb0a482
+- pl: zakres
+  en: scope
+  word_type: noun
+  gender: masculine
+  plural_form: zakresy
+  key: da633fa5-15f9-4ca9-af0a-636509143274
+- pl: dosyć
+  en: enough
+  word_type: adverb
+  key: 1a9640b5-d50e-4272-8687-098a389f71a3
+- pl: granica
+  en: border
+  word_type: noun
+  gender: feminine
+  plural_form: granice
+  key: 5e2f039b-e6e0-4b8d-ab31-40c65b21d41d
+- pl: kwestia
+  en: matter (issue)
+  word_type: noun
+  gender: feminine
+  plural_form: kwestie
+  key: b6997af1-4417-4c9e-b21f-1573f0633002
+- pl: miło
+  en: nicely
+  word_type: adverb
+  key: 27086df0-84ee-4dc8-84d6-36cf0269ad65
+- pl: okolica
+  en: vicinity
+  word_type: noun
+  gender: feminine
+  plural_form: okolice
+  key: a6639e93-a071-4e26-96ba-7e7f5ba2bf13
+- pl: pobliże
+  en: vicinity
+  word_type: noun
+  gender: neuter
+  plural_form: pobliża
+  key: 4e1d360d-dcfe-4615-b780-b7858ef4b741
+- pl: poznawać
+  en: to get to know
+  word_type: verb
+  aspect: imperfective
+  perfective: poznać
+  first_person_singular: ja poznaję
+  second_person_singular: ty poznajesz
+  third_person_singular: on/ona/ono poznaje
+  first_person_plural: my poznajemy
+  second_person_plural: wy poznajacie
+  third_person_plural: oni/one poznają
+  key: 5a590f0f-f15e-41ff-94ee-aa59478d673f
+- pl: rozwiązanie
+  en: solution
+  word_type: noun
+  gender: neuter
+  plural_form: rozwiązania
+  key: 75372233-d734-49f0-9e60-a0cb8a7ce398
+- pl: sens
+  en: sense
+  word_type: noun
+  gender: masculine
+  plural_form: sensy
+  key: 09dc8b2f-49fc-447c-a1f8-a428b398980c
+- pl: walczyć
+  en: to fight
+  word_type: verb
+  aspect: imperfective
+  first_person_singular: ja walczę
+  second_person_singular: ty walczysz
+  third_person_singular: on/ona/ono walczy
+  first_person_plural: my walczymy
+  second_person_plural: wy walczycie
+  third_person_plural: oni/one walczą
+  comment: This verb does not have a simple perfective form; "wywalczyć" or "powalczyć"
+    are used depending on context
+  key: c7712caa-4e53-403a-bce4-2ce977c08a7a
+- pl: żeby
+  en: in order to
+  word_type: conjunction
+  key: 6818bf13-b70b-414d-aa71-4839a628d3f8
+- pl: dyrektor
+  en: director
+  word_type: noun
+  gender: masculine
+  plural_form: dyrektorzy
+  key: 18fd987c-467f-4200-a02e-2e26c828c95e
+- pl: gimnazjum
+  en: middle school
+  word_type: noun
+  gender: neuter
+  plural_form: gimnazja
+  key: 7bdd28ec-2e41-406e-9dfc-483ab4d35081
+- pl: kampania
+  en: campaign
+  word_type: noun
+  gender: feminine
+  plural_form: kampanie
+  key: 0fba4676-2bf2-48f1-978b-26c12b1ed4cf
+- pl: niepodległość
+  en: independence
+  word_type: noun
+  gender: feminine
+  plural_form: niepodległości
+  key: 633761a4-4bb5-47e5-8922-f5247e0c0121
+- pl: obchodzić
+  en: to celebrate
+  word_type: verb
+  aspect: imperfective
+  perfective: obejść
+  first_person_singular: ja obchodzę
+  second_person_singular: ty obchodzisz
+  third_person_singular: on/ona/ono obchodzi
+  first_person_plural: my obchodzimy
+  second_person_plural: wy obchodzicie
+  third_person_plural: oni/one obchodzą
+  key: a81f7268-ba9b-4fff-8908-a9ca61070497
+- pl: polegać
+  en: to rely
+  word_type: verb
+  aspect: imperfective
+  perfective: położyć (on something specific) / zaufać (to trust)
+  first_person_singular: ja polegam
+  second_person_singular: ty polegasz
+  third_person_singular: on/ona/ono polega
+  first_person_plural: my polegamy
+  second_person_plural: wy polegacie
+  third_person_plural: oni/one polegają
+  comment: Perfective form depends on specific meaning; "polegać na" (to rely on)
+    typically stays imperfective in usage
+  key: 10d105b4-00b6-4772-9120-4e2a354f4f9b
+- pl: praktycznie
+  en: practically
+  word_type: adverb
+  key: 790ae33d-62a2-4eca-9b0c-05285cffdbac
+- pl: sprawiedliwość
+  en: justice
+  word_type: noun
+  gender: feminine
+  plural_form: sprawiedliwości
+  key: d705b88f-71b5-44db-8323-d49e801174eb
+- pl: tło
+  en: background
+  word_type: noun
+  gender: neuter
+  plural_form: tła
+  key: cf9e47c7-1abe-4645-a8c6-d5ae939f0181
+- pl: twierdzić
+  en: to claim
+  word_type: verb
+  aspect: imperfective
+  first_person_singular: ja twierdzę
+  second_person_singular: ty twierdzisz
+  third_person_singular: on/ona/ono twierdzi
+  first_person_plural: my twierdzimy
+  second_person_plural: wy twierdzicie
+  third_person_plural: oni/one twierdzą
+  comment: This verb does not have a standard perfective form; it remains imperfective
+  key: 64e17eb4-4d8e-41f1-ba90-ded7ae86aa1c
+- pl: użytkownik
+  en: user
+  word_type: noun
+  gender: masculine
+  plural_form: użytkownicy
+  key: ce5e1949-0f35-49a9-8958-785c0ef79bd3

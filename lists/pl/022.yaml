@@ -1,0 +1,326 @@
+- pl: dostawać
+  en: to get
+  word_type: verb
+  aspect: imperfective
+  perfective: dostać
+  first_person_singular: ja dostaję
+  second_person_singular: ty dostajesz
+  third_person_singular: on/ona/ono dostaje
+  first_person_plural: my dostajemy
+  second_person_plural: wy dostajecie
+  third_person_plural: oni/one dostają
+  key: f85a0847-14df-4f99-afcb-4342185f9fff
+- pl: europejski
+  en: European
+  word_type: adjective
+  positive: europejski
+  key: 6151f9c7-ecef-4b53-a979-840770f51ad5
+- pl: mecz
+  en: match
+  word_type: noun
+  gender: masculine
+  plural_form: mecze
+  key: aacaf1c2-194c-4c5c-93d1-05a8f0349f51
+- pl: potrafić
+  en: to be able to
+  word_type: verb
+  aspect: imperfective
+  perfective: potrafić
+  first_person_singular: ja potrafię
+  second_person_singular: ty potrafisz
+  third_person_singular: on/ona/ono potrafi
+  first_person_plural: my potrafimy
+  second_person_plural: wy potraficie
+  third_person_plural: oni/one potrafią
+  comment: Note - potrafić functions as both imperfective and perfective
+  key: c1cb2ccc-4f03-4a75-83a4-88327d53e871
+- pl: przyjaciel
+  en: friend
+  word_type: noun
+  gender: masculine
+  plural_form: przyjaciele
+  key: 30efb9ed-e396-495e-9892-72483a1cd2f4
+- pl: szczerze
+  en: honestly
+  word_type: adverb
+  key: 95e80616-f7d3-4be2-af61-5ca85eea4159
+- pl: codziennie
+  en: daily
+  word_type: adverb
+  key: 3013014f-3b69-4a12-9aa5-f1ce2c40fd82
+- pl: ilość
+  en: quantity
+  word_type: noun
+  gender: feminine
+  plural_form: ilości
+  key: f600055b-a037-4b96-88d4-7e9b5bae6d2a
+- pl: konto
+  en: account
+  word_type: noun
+  gender: neuter
+  plural_form: konta
+  key: b8b71f75-a712-4bbf-b21b-654b958102e3
+- pl: podobno
+  en: apparently
+  word_type: adverb
+  key: 87f2d20f-f4e0-42b3-be8d-832dee6b7f2f
+- pl: pora
+  en: time (of day)
+  word_type: noun
+  gender: feminine
+  plural_form: pory
+  key: c01f023e-38af-47c1-8d80-50bb56c98b63
+- pl: post
+  en: post
+  word_type: noun
+  gender: masculine
+  plural_form: posty
+  key: 136ded18-f284-402e-b05b-0083652234fd
+- pl: służba
+  en: service
+  word_type: noun
+  gender: feminine
+  plural_form: służby
+  key: 0d2577db-c1d1-482a-a6d5-5d1d147d04c3
+- pl: unia
+  en: union
+  word_type: noun
+  gender: feminine
+  plural_form: unie
+  key: fa20bca7-eaed-46fc-8a72-dcab7bf60e54
+- pl: widzenie
+  en: sight
+  word_type: noun
+  gender: neuter
+  plural_form: widzenia
+  key: 9d353283-9ba2-4b90-b3ce-47ac35bb8927
+- pl: świetnie
+  en: great
+  word_type: adverb
+  key: 1ce24db6-5f4c-498c-8dd7-fa63402d87a5
+- pl: edukacja
+  en: education
+  word_type: noun
+  gender: feminine
+  plural_form: edukacje
+  key: c244820f-dade-40ae-91c5-0311d5f724a1
+- pl: ogólnie
+  en: generally
+  word_type: adverb
+  key: 1eec07e6-e086-4b91-abdd-c75150949ea4
+- pl: pomimo
+  en: despite
+  word_type: preposition
+  key: 189f4b06-ca89-4b2e-a4f5-a0c18ec368db
+- pl: sprawiać
+  en: to cause
+  word_type: verb
+  aspect: imperfective
+  perfective: sprawić
+  first_person_singular: ja sprawiam
+  second_person_singular: ty sprawiasz
+  third_person_singular: on/ona/ono sprawia
+  first_person_plural: my sprawiamy
+  second_person_plural: wy sprawiacie
+  third_person_plural: oni/one sprawiają
+  key: 3002f58e-f38c-44d5-b061-16e9afce80c1
+- pl: błąd
+  en: error
+  word_type: noun
+  gender: masculine
+  plural_form: błędy
+  key: f87fc58c-4e04-49ba-8ef2-3c452576fda0
+- pl: lista
+  en: list
+  word_type: noun
+  gender: feminine
+  plural_form: listy
+  key: 706f15e3-93fe-4be2-bdc1-ba9cf36352e1
+- pl: obrona
+  en: defense
+  word_type: noun
+  gender: feminine
+  plural_form: obrony
+  key: a5e7a86b-b90b-4cfd-b008-23a4c4c94f37
+- pl: wieś
+  en: village
+  word_type: noun
+  gender: feminine
+  plural_form: wsie
+  key: 88b89a2c-d346-47df-a646-e4a750dd430b
+- pl: potrzeba
+  en: need
+  word_type: noun
+  gender: feminine
+  plural_form: potrzeby
+  key: 0d7d8f6b-f69d-4481-a80d-1f002951ee67
+- pl: dziwny
+  en: strange
+  word_type: adjective
+  positive: dziwny
+  comparative: dziwniejszy
+  superlative: najdziwniejszy
+  key: 2d274230-a8ed-41fa-ba6f-494d127846bd
+- pl: akurat
+  en: just (exactly)
+  word_type: adverb
+  key: d0d25d12-dbe0-4864-977b-0dfc57fb79d3
+- pl: niemal
+  en: almost
+  word_type: adverb
+  key: 711262f1-6cab-4f6a-9f4c-f713a21212db
+- pl: najczęściej
+  en: most often
+  word_type: adverb
+  key: deb6e58d-512b-4068-bb7c-e5070eea8a1a
+- pl: dopóki
+  en: until
+  word_type: conjunction
+  key: 25d58b16-2395-4b09-b7dc-cd60c51cc2c0
+- pl: ku
+  en: toward
+  word_type: preposition
+  key: f5b9569f-2105-4e29-8079-c000e7a4bafd
+- pl: Z pewnością...
+  en: certainly...
+  word_type: other
+  key: 242c15d5-76bc-42de-8cff-20fc1fb282e7
+- pl: dotyczący
+  en: concerning
+  word_type: adjective
+  positive: dotyczący
+  key: 1b22ad8d-dd2a-4c53-b37e-388bef7f6cc1
+- pl: pozwalać
+  en: to allow
+  word_type: verb
+  aspect: imperfective
+  perfective: pozwolić
+  first_person_singular: ja pozwalam
+  second_person_singular: ty pozwalasz
+  third_person_singular: on/ona/ono pozwala
+  first_person_plural: my pozwalamy
+  second_person_plural: wy pozwalacie
+  third_person_plural: oni/one pozwalają
+  key: 5e2a3779-8fe5-4eae-83e2-0ec1617d293d
+- pl: południowy
+  en: southern
+  word_type: adjective
+  positive: południowy
+  key: 4877d928-47dd-45ef-9d32-643f0b499916
+- pl: rzeczywistość
+  en: reality
+  word_type: noun
+  gender: feminine
+  plural_form: rzeczywistości
+  key: 030ed39c-9cf6-4b43-b7f0-b5dc163a1b20
+- pl: stanowisko
+  en: position
+  word_type: noun
+  gender: neuter
+  plural_form: stanowiska
+  key: cb6393ab-0d76-4570-9d92-051cf73ef0be
+- pl: zawierać
+  en: to contain
+  word_type: verb
+  perfective: zawrzeć
+  first_person_singular: ja zawiera
+  second_person_singular: ty zawierasz
+  third_person_singular: on/ona/ono zawiera
+  first_person_plural: my zawieramy
+  second_person_plural: wy zawieracie
+  third_person_plural: oni/one zawierają
+  key: c0feb0ce-067a-44e3-b7e4-201c6d430a18
+- pl: bezpośrednio
+  en: directly
+  word_type: adverb
+  key: 0410eed1-4b57-40ba-9902-6173160cc731
+- pl: dotyczyć
+  en: to concern
+  word_type: verb
+  perfective: dotknąć
+  first_person_singular: ja dotyczę
+  second_person_singular: ty dotyczysz
+  third_person_singular: on/ona/ono dotyczy
+  first_person_plural: my dotyczymy
+  second_person_plural: wy dotyczycie
+  third_person_plural: oni/one dotyczą
+  key: 5df5d317-04e0-479f-a4fc-a25fc9baeefc
+- pl: forma
+  en: form
+  word_type: noun
+  gender: feminine
+  plural_form: formy
+  key: 9944b4db-bb27-459c-89c8-8267ad580ff8
+- pl: pełnić
+  en: to fulfill
+  word_type: verb
+  perfective: spełnić
+  first_person_singular: ja pełnię
+  second_person_singular: ty pełnisz
+  third_person_singular: on/ona/ono pełni
+  first_person_plural: my pełnimy
+  second_person_plural: wy pełnicie
+  third_person_plural: oni/one pełnią
+  key: 73b815ab-e63a-436b-b961-5ac122e4e4f5
+- pl: stopień
+  en: degree
+  word_type: noun
+  gender: masculine
+  plural_form: stopnie
+  key: 766fe058-ec21-4e9f-9be2-45481cefa7f2
+- pl: zajmować
+  en: to occupy
+  word_type: verb
+  perfective: zająć
+  first_person_singular: ja zajmuję
+  second_person_singular: ty zajmujesz
+  third_person_singular: on/ona/ono zajmuje
+  first_person_plural: my zajmujemy
+  second_person_plural: wy zajmujecie
+  third_person_plural: oni/one zajmują
+  key: 0737f6ce-d151-4afe-a13f-fd161b11f235
+- pl: znany
+  en: known
+  word_type: adjective
+  positive: znany
+  comparative: bardziej znany
+  superlative: najbardziej znany
+  key: 19d1bd06-c995-4a28-9b06-4e9f52499fdc
+- pl: dochodzić
+  en: to reach
+  word_type: verb
+  perfective: dojść
+  first_person_singular: ja dochodzę
+  second_person_singular: ty dochodzisz
+  third_person_singular: on/ona/ono dochodzi
+  first_person_plural: my dochodzimy
+  second_person_plural: wy dochodzicie
+  third_person_plural: oni/one dochodzą
+  key: 596fdc5d-f53b-40a6-868c-951b40201317
+- pl: faktycznie
+  en: actually
+  word_type: adverb
+  key: 7d2ddb7e-c884-4b9a-8d36-597e70320704
+- pl: liczyć
+  en: to count
+  word_type: verb
+  perfective: policzyć
+  first_person_singular: ja liczę
+  second_person_singular: ty liczysz
+  third_person_singular: on/ona/ono liczy
+  first_person_plural: my liczymy
+  second_person_plural: wy liczycie
+  third_person_plural: oni/one liczą
+  key: 7769fc58-69e9-44eb-8e68-42e2b076b0bf
+- pl: muzeum
+  en: museum
+  word_type: noun
+  gender: neuter
+  plural_form: muzea
+  key: f1050782-428f-4275-bfac-ecdc839de326
+- pl: młodzież
+  en: youth
+  word_type: noun
+  gender: feminine
+  plural_form: młodzieże
+  key: 95f7cb5b-1d91-4df4-bb5d-e7fa0c62c378

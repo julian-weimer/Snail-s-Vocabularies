@@ -1,0 +1,292 @@
+- pl: ostatnio
+  en: recently
+  word_type: adverb
+  key: 04b8c8c4-1431-4701-adde-58906552fbf4
+- pl: partia
+  en: party (political)
+  word_type: noun
+  gender: feminine
+  plural_form: partie
+  key: c6968f80-b20e-43d7-8469-ce5d54dbb8c9
+- pl: przypadek
+  en: case
+  word_type: noun
+  gender: masculine
+  plural_form: przypadki
+  key: 56810ca0-e425-4028-a126-fbe029affcd5
+- pl: raczej
+  en: rather
+  word_type: adverb
+  key: 9ccf2f24-0ba9-4b9e-9c4b-174d71d3cbb0
+- pl: coraz
+  en: increasingly
+  word_type: adverb
+  key: 100d822a-a094-4ffa-98cd-0f1603e30965
+- pl: czasem
+  en: sometimes
+  word_type: adverb
+  key: 3a17483b-99fd-4084-9463-89bafe43aaf5
+- pl: skoro
+  en: since
+  word_type: conjunction
+  key: d567747e-76a5-4e3d-a48e-b2e923e186a6
+- pl: dziać się
+  en: to happen
+  word_type: verb
+  perfective: stać się
+  first_person_singular: ja dzieję się
+  first_person_plural: my dziejemy się
+  second_person_singular: ty dziejesz się
+  second_person_plural: wy dziejecie się
+  third_person_singular: on/ona/ono dzieje się
+  third_person_plural: oni/one dzieją się
+  key: 99dd5f38-542a-4538-8bb3-9fcfb597b4b3
+- pl: zamiast
+  en: instead
+  word_type: preposition
+  key: 2d6c83df-9c1c-4d3a-89c8-ee97f608141b
+- pl: różny
+  en: different
+  word_type: adjective
+  positive: różny
+  comparative: różniejszy
+  superlative: najróżniejszy
+  key: 9e39d74c-7906-449f-9412-8793ec9c1e9b
+- pl: znowu
+  en: again
+  word_type: adverb
+  key: 86d51bee-9170-44cf-9129-9ea9240690cb
+- pl: sprawy
+  en: matters
+  word_type: noun
+  plural_form: sprawy
+  gender: feminine
+  key: bdb0d023-fc59-4229-b627-3ae8bcc4b032
+- pl: system
+  en: system
+  word_type: noun
+  gender: masculine
+  plural_form: systemy
+  key: 99682634-c8d1-4c47-ae01-539e4aae4d30
+- pl: sytuacja
+  en: situation
+  word_type: noun
+  gender: feminine
+  plural_form: sytuacje
+  key: eac0a3be-1490-4277-b9a8-b1fd0872b4e1
+- pl: oznaczać
+  en: to mean
+  word_type: verb
+  perfective: oznaczyć
+  first_person_singular: ja oznaczam
+  second_person_singular: ty oznaczasz
+  third_person_singular: on/ona/ono oznacza
+  first_person_plural: my oznaczamy
+  second_person_plural: wy oznaczacie
+  third_person_plural: oni/one oznaczają
+  key: 0d5737a8-d441-43b1-95a2-5aeffdbb8e7f
+- pl: przeciwko
+  en: against
+  word_type: preposition
+  key: 9913de8e-6fe7-4371-9e8b-4f4048fa0b01
+- pl: przynajmniej
+  en: at least
+  word_type: adverb
+  key: 48b20bf3-643d-4943-bee6-aaf3b1210068
+- pl: zarówno
+  en: both
+  word_type: conjunction
+  key: 9c9499ce-4c8c-47f8-9b50-ddf05264dced
+- pl: głównie
+  en: mainly
+  word_type: adverb
+  key: e4b3c42f-8d08-4c22-89d0-685008eccf43
+- pl: istnieć
+  en: to exist
+  word_type: verb
+  comment: No perfective form exists for this verb
+  first_person_singular: ja istnieję
+  second_person_singular: ty istniejesz
+  third_person_singular: on/ona/ono istnieje
+  first_person_plural: my istniejemy
+  second_person_plural: wy istniejecie
+  third_person_plural: oni/one istnieją
+  key: 84470ab5-0931-47ab-b15c-df6f0c13e57c
+- pl: lecz
+  en: but
+  word_type: conjunction
+  key: 5601acbd-0676-431a-aca9-92c7938239f5
+- pl: mieszkaniec
+  en: inhabitant
+  word_type: noun
+  gender: masculine
+  plural_form: mieszkańcy
+  key: f810f05d-26d9-471b-b70c-34082989170d
+- pl: poprzez
+  en: through
+  word_type: preposition
+  key: 13867016-a876-4086-a988-552b203b839a
+- pl: wobec
+  en: towards
+  word_type: preposition
+  key: aacfaa84-eb57-4f69-ae9b-f51c761e3e1a
+- pl: względ
+  en: regard
+  word_type: noun
+  gender: masculine
+  plural_form: względy
+  key: 92589420-2b07-49c8-a711-093484c58caf
+- pl: źle
+  en: badly
+  word_type: adverb
+  key: 3aa9b0c1-f519-4b97-bb38-e94d2b42e912
+- pl: podobać się
+  en: to please
+  word_type: verb
+  perfective: spodobać się
+  first_person_singular: podoba mi się
+  second_person_singular: podoba ci się
+  third_person_singular: podoba się
+  first_person_plural: podoba nam się
+  second_person_plural: podoba wam się
+  third_person_plural: podoba im się
+  key: bba706c9-1522-4fef-8007-cc2026cb023a
+- pl: rama
+  en: frame
+  word_type: noun
+  gender: feminine
+  plural_form: ramy
+  key: 077305a2-f241-4887-b080-b6fa09a92eca
+- pl: szczególnie
+  en: particularly
+  word_type: adverb
+  key: 5a26057f-d3a0-4f82-9a14-b27d0a491cb4
+- pl: Warto...
+  en: It's worth...
+  word_type: other
+  key: c676cf54-5913-42a3-89e5-09a309b67310
+- pl: wystarczać
+  en: to suffice
+  word_type: verb
+  perfective: wystarczyć
+  first_person_singular: ja wystarczam
+  second_person_singular: ty wystarczasz
+  third_person_singular: on/ona/ono wystarcza
+  first_person_plural: my wystarczamy
+  second_person_plural: wy wystarczacie
+  third_person_plural: oni/one wystarczają
+  key: e16355ac-bbe8-444b-b972-9f21dbfec7c1
+- pl: działać
+  en: to work (function)
+  word_type: verb
+  perfective: zadziałać
+  first_person_singular: ja działam
+  second_person_singular: ty działasz
+  third_person_singular: on/ona/ono działa
+  first_person_plural: my działamy
+  second_person_plural: wy działacie
+  third_person_plural: oni/one działają
+  key: 40af00fc-0379-4fa0-8143-03aa4d65aeba
+- pl: pomiędzy
+  en: between
+  word_type: preposition
+  key: 45224511-9d8b-4194-a6bf-7be900cc4c04
+- pl: stawać się
+  en: to happen/to become
+  word_type: verb
+  perfective: stać się
+  first_person_singular: ja staję się
+  second_person_singular: ty stajesz się
+  third_person_singular: on/ona/ono staje się
+  first_person_plural: my stajemy się
+  second_person_plural: wy stajecie się
+  third_person_plural: oni/one stają się
+  key: a0267dbf-c162-4bd0-a3ce-0bee07cc7744
+- pl: działanie
+  en: action
+  word_type: noun
+  gender: neuter
+  plural_form: działania
+  key: 71e8893d-ca6d-4f96-a794-f56cfd340187
+- pl: gdzieś
+  en: somewhere
+  word_type: adverb
+  key: 425a222a-9713-4fb8-bcc0-287a6eb77807
+- pl: inaczej
+  en: differently
+  word_type: adverb
+  key: 4ebecd35-2e35-4c0c-825e-7ba267835c20
+- pl: długo
+  en: long (time)
+  word_type: adverb
+  key: f779b0d1-5177-4c32-9aab-430d49d8a2c0
+- pl: kolejny
+  en: next
+  word_type: adjective
+  positive: kolejny
+  key: 9437e509-ffe5-4b0c-985a-77e58491795c
+- pl: chwila
+  en: moment
+  word_type: noun
+  gender: feminine
+  plural_form: chwile
+  key: 03f4f1e7-6a6a-44a1-8843-c1904405fdb9
+- pl: ciąg
+  en: sequence
+  word_type: noun
+  gender: masculine
+  plural_form: ciągi
+  key: 6f26d2a7-2aba-4992-a84b-a7c26054debe
+- pl: ciekawy
+  en: interesting
+  word_type: adjective
+  positive: ciekawy
+  comparative: ciekawszy
+  superlative: najciekawszy
+  key: f7b4cc8f-d2d4-454e-9a90-5bd779e4497e
+- pl: jednocześnie
+  en: simultaneously
+  word_type: adverb
+  key: 2a095367-4d7f-487f-99d2-f93e96f2021f
+- pl: kultura
+  en: culture
+  word_type: noun
+  gender: feminine
+  plural_form: kultury
+  key: 00c35598-0bbe-4e21-8c45-b39236c1a94e
+- pl: widać
+  en: apparently
+  word_type: adverb
+  key: 8cc1b687-10fa-4ee8-94fe-777fa11d0e6d
+- pl: jakoś
+  en: somehow
+  word_type: adverb
+  key: 8773f454-9ba7-4bcd-89cc-a57089da400f
+- pl: projekt
+  en: project
+  word_type: noun
+  gender: masculine
+  plural_form: projekty
+  key: 31275199-eb47-4fdb-8935-acc6b91c30e9
+- pl: suma
+  en: sum
+  word_type: noun
+  gender: feminine
+  plural_form: sumy
+  key: 55d45785-07bc-4f43-8521-b30f2e4e4a64
+- pl: zanim
+  en: before
+  word_type: conjunction
+  key: 970ad0b5-40a7-4bb8-840c-6471fa213f5a
+- pl: znać
+  en: to know
+  word_type: verb
+  imperfective: znać
+  perfective: poznać
+  first_person_singular: ja znam
+  second_person_singular: ty znasz
+  third_person_singular: on/ona/ono zna
+  first_person_plural: my znamy
+  second_person_plural: wy znacie
+  third_person_plural: oni/one znają
+  key: e3ace23a-7745-4a91-be1a-1cf762666969

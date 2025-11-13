@@ -1,0 +1,320 @@
+- pl: konkurs
+  en: contest
+  word_type: noun
+  gender: masculine
+  plural_form: konkursy
+  key: 3399c059-0ed7-4e21-bcaa-87720141ef3f
+- pl: próba
+  en: trial
+  word_type: noun
+  gender: feminine
+  plural_form: próby
+  key: 8b807003-78d0-41fa-b72f-e3c4521db1b5
+- pl: rosnąć
+  en: to grow
+  word_type: verb
+  perfective: urosnąć
+  first_person_singular: ja rosnę
+  first_person_plural: my rośniemy
+  second_person_singular: ty rośniesz
+  second_person_plural: wy rośniecie
+  third_person_singular: on/ona/ono rośnie
+  third_person_plural: oni/one rosną
+  key: c262e33d-1692-4667-8ad1-bfedc836f9b3
+- pl: skala
+  en: scale
+  word_type: noun
+  gender: feminine
+  plural_form: skale
+  key: 8b395333-7c25-486e-9fb4-8f41d203d9af
+- pl: stolica
+  en: capital (city)
+  word_type: noun
+  gender: feminine
+  plural_form: stolice
+  key: 30949165-a335-40ce-b440-a01c4a2db7d3
+- pl: warunki
+  en: conditions
+  word_type: noun
+  gender: masculine
+  plural_form: warunki
+  key: c1d98d91-4578-4f6a-8d5a-7678c939ae6d
+- pl: wskazywać
+  en: to indicate
+  word_type: verb
+  perfective: wskazać
+  first_person_singular: ja wskazuję
+  first_person_plural: my wskazujemy
+  second_person_singular: ty wskazujesz
+  second_person_plural: wy wskazujecie
+  third_person_singular: on/ona/ono wskazuje
+  third_person_plural: oni/one wskazują
+  key: 43a8cf6b-c584-457b-a4c9-4ffbc38c2f1a
+- pl: drużyna
+  en: team
+  word_type: noun
+  gender: feminine
+  plural_form: drużyny
+  key: 2514ba4c-c6fc-42e9-a6ea-d0da66e82e99
+- pl: głosowanie
+  en: voting
+  word_type: noun
+  gender: neuter
+  plural_form: głosowania
+  key: b30667c1-3101-42bf-b076-1509ddd39188
+- pl: koncert
+  en: concert
+  word_type: noun
+  gender: masculine
+  plural_form: koncerty
+  key: 71473b86-968c-4628-ac8d-c60a57d12d75
+- pl: miara
+  en: measure
+  word_type: noun
+  gender: feminine
+  plural_form: miary
+  key: 8c77bad1-a7e0-452a-a998-4366a2053f68
+- pl: prawy
+  en: right (direction)
+  word_type: adjective
+  positive: prawy
+  key: fe51eb5a-79f8-4f63-bc29-15d04cf8bddf
+- pl: późno
+  en: late
+  word_type: adverb
+  key: d00832e1-5b45-4deb-9259-ac312e043f42
+- pl: republika
+  en: republic
+  word_type: noun
+  gender: feminine
+  plural_form: republiki
+  key: d7d420da-5645-450e-9511-94857826d65c
+- pl: sala
+  en: hall
+  word_type: noun
+  gender: feminine
+  plural_form: sale
+  key: e7219f24-59e4-48ce-be4d-17de73e60c08
+- pl: spokój
+  en: peace
+  word_type: noun
+  gender: masculine
+  plural_form: spokoje
+  key: b20b990e-6b83-457d-9f45-140e9ffb3d8b
+- pl: uczestnik
+  en: participant
+  word_type: noun
+  gender: masculine
+  plural_form: uczestnicy
+  key: e5fecb9f-729d-4f60-ae8e-2c6212af0e30
+- pl: wysoko
+  en: high
+  word_type: adverb
+  positive: wysoko
+  comparative: wyżej
+  superlative: najwyżej
+  key: 523d4569-95c2-4632-b23f-a063da890223
+- pl: łączyć
+  en: to connect
+  word_type: verb
+  perfective: połączyć
+  first_person_singular: ja łączę
+  second_person_singular: ty łączysz
+  third_person_singular: on/ona/ono łączy
+  first_person_plural: my łączymy
+  second_person_plural: wy łączycie
+  third_person_plural: oni/one łączą
+  key: af1aa741-4c79-4811-bfae-95deddf49793
+- pl: dziedzina
+  en: field (domain)
+  word_type: noun
+  gender: feminine
+  plural_form: dziedziny
+  key: 08fb5a68-8acd-4284-a7f5-280538e787bb
+- pl: dziennie
+  en: daily
+  word_type: adverb
+  key: ec7c3e55-2fea-47b3-9cc6-7a05b927061b
+- pl: gość
+  en: guest
+  word_type: noun
+  gender: masculine
+  plural_form: goście
+  key: 4001736e-e6e5-4645-ac35-25ce0f21c67f
+- pl: instytucja
+  en: institution
+  word_type: noun
+  gender: feminine
+  plural_form: instytucje
+  key: 47626d6d-dea6-43f5-bf11-b4a30aee658b
+- pl: jechać
+  en: to go (by vehicle)
+  word_type: verb
+  first_person_singular: ja jadę
+  second_person_singular: ty jedziesz
+  third_person_singular: on/ona/ono jedzie
+  first_person_plural: my jedziemy
+  second_person_plural: wy jedziecie
+  third_person_plural: oni/one jadą
+  perfective: pojechać
+  key: ae0d5453-6d5d-4501-a19e-c7011eb31bc3
+- pl: kasa
+  en: cash register
+  word_type: noun
+  gender: feminine
+  plural_form: kasy
+  key: af902548-1f32-40a1-beb1-c9f464e00b93
+- pl: kolega
+  en: friend (male)
+  word_type: noun
+  gender: masculine
+  plural_form: koledzy
+  key: 341b23a5-8ffe-4981-a5b9-724e85a6f2df
+- pl: kontekst
+  en: context
+  word_type: noun
+  gender: masculine
+  plural_form: konteksty
+  key: ec0e06cd-e20f-4a43-a42a-74f64b537f8e
+- pl: lewy
+  en: left
+  word_type: adjective
+  positive: lewy
+  key: 253c5258-9200-446a-887a-fe79cc1b5ff3
+- pl: parlament
+  en: parliament
+  word_type: noun
+  gender: masculine
+  plural_form: parlamenty
+  key: 5661e4e9-8ce1-4533-a987-529e07c1ec02
+- pl: patrzyć
+  en: to look (at)
+  word_type: verb
+  first_person_singular: ja patrzę
+  second_person_singular: ty patrzysz
+  third_person_singular: on/ona/ono patrzy
+  first_person_plural: my patrzymy
+  second_person_plural: wy patrzycie
+  third_person_plural: oni/one patrzą
+  perfective: popatrzyć
+  key: c8830bcc-e2e4-45f2-ba83-2932fca0daa4
+- pl: prywatny
+  en: private
+  word_type: adjective
+  positive: prywatny
+  comparative: bardziej prywatny
+  superlative: najbardziej prywatny
+  key: 62f73abe-3600-4025-a2a4-eb0840cf588d
+- pl: płyta
+  en: disc
+  word_type: noun
+  gender: feminine
+  plural_form: płyty
+  key: 3de060e4-a75b-4a29-a212-53f8a052c6b7
+- pl: uczucia
+  en: feeling
+  word_type: noun
+  gender: neuter
+  plural_form: uczucia
+  key: 1073d7b8-1593-4345-bb27-4d7c8efd6d00
+- pl: wyjątek
+  en: exception
+  word_type: noun
+  gender: masculine
+  plural_form: wyjątki
+  key: c8684a1c-7307-4df1-8e24-edcc5a77e2fe
+- pl: zresztą
+  en: besides
+  word_type: adverb
+  key: 0444a1b5-7ba1-4b0b-b8c9-f3e2c7b36c14
+- pl: żart
+  en: joke
+  word_type: noun
+  gender: masculine
+  plural_form: żarty
+  key: a7fb14b6-ad3b-4fbc-b171-5fca1d649c93
+- pl: album
+  en: album
+  word_type: noun
+  gender: masculine
+  plural_form: albumy
+  key: 630c5023-5b51-4702-b2c3-ab44c232b365
+- pl: Dobranoc!
+  en: Good Night!
+  word_type: other
+  key: dfcbef9f-d0a4-45f3-8f5e-abd8901d634e
+- pl: gazeta
+  en: newspaper
+  word_type: noun
+  gender: feminine
+  plural_form: gazety
+  key: 2b4f65bd-c7f8-46f7-89a6-c4696af602aa
+- pl: kompletnie
+  en: completely
+  word_type: adverb
+  key: 52f95331-966d-4ed4-b98b-9a6e584fcbf1
+- pl: powstawać
+  en: to arise
+  word_type: verb
+  first_person_singular: ja powstaję
+  second_person_singular: ty powstajesz
+  third_person_singular: on/ona/ono powstaje
+  first_person_plural: my powstajemy
+  second_person_plural: wy powstajacie
+  third_person_plural: oni/one powstają
+  perfective: powstać
+  key: 6b0fc955-a061-4485-9eba-3d93e7b39a2d
+- pl: status
+  en: status
+  word_type: noun
+  gender: masculine
+  plural_form: statusy
+  key: e1e4def0-0804-44c7-a02c-2ee880b2a39b
+- pl: stowarzyszenie
+  en: association
+  word_type: noun
+  gender: neuter
+  plural_form: stowarzyszenia
+  key: 0b3f9079-72b5-4c70-99bb-8d219dcebb72
+- pl: student
+  en: student
+  word_type: noun
+  gender: masculine
+  plural_form: studenci
+  key: 1c434b6d-56f9-49bf-bae4-2e0f612811d0
+- pl: teoria
+  en: theory
+  word_type: noun
+  gender: feminine
+  plural_form: teorie
+  key: a67f1f4d-218e-4e3e-ac95-9a36d1952984
+- pl: wracać
+  en: to return
+  word_type: verb
+  first_person_singular: ja wracam
+  second_person_singular: ty wracasz
+  third_person_singular: on/ona/ono wraca
+  first_person_plural: my wracamy
+  second_person_plural: wy wracacie
+  third_person_plural: oni/one wracają
+  perfective: wrócić
+  key: 514d8f6b-af9e-4142-876b-14eb566f33cb
+- pl: łącznie
+  en: in total
+  word_type: adverb
+  key: c51948d5-b37e-4271-9db0-930c5b105114
+- pl: darmo
+  en: free (of charge)
+  word_type: adverb
+  key: d8906bcb-25ba-4f7f-a89a-cd65dc0d98af
+- pl: funkcja
+  en: function
+  word_type: noun
+  gender: feminine
+  plural_form: funkcje
+  key: e55cc1bf-9cee-4971-8b81-7c3d5f76de28
+- pl: niemiecki
+  en: German
+  word_type: adjective
+  positive: niemiecki
+  key: d66235fc-57fc-4e66-8df9-b9b5cac9dcbc

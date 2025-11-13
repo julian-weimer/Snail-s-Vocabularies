@@ -1,0 +1,340 @@
+- en: letter (mail)
+  pl: list
+  plural_form: listy
+  word_type: noun
+  gender: masculine
+  key: 494e2b2c-61e3-4075-9619-ffb69bc2b190
+- en: meaning
+  pl: znaczenie
+  plural_form: znaczenia
+  word_type: noun
+  gender: neuter
+  key: f8846117-240a-48a3-8c95-e9d92ea79a32
+- en: message
+  pl: wiadomość
+  plural_form: wiadomości
+  word_type: noun
+  gender: feminine
+  key: a51fd8d0-5a27-46be-a646-198298c76e66
+- en: name
+  pl: nazwa
+  plural_form: nazwy
+  word_type: noun
+  gender: feminine
+  key: 2551c894-a4dc-466f-8083-28848bee7cde
+- en: post (publication)
+  pl: wpis
+  plural_form: wpisy
+  word_type: noun
+  gender: masculine
+  key: a27e4d6a-262b-4c64-a390-41288250612a
+- en: report
+  pl: raport
+  plural_form: raporty
+  word_type: noun
+  gender: masculine
+  key: 252fa4b6-ead4-4091-970c-8f9a3c3eb04a
+- en: request
+  pl: żądanie
+  plural_form: żądania
+  word_type: noun
+  gender: neuter
+  key: d5495dc4-348c-4563-be5a-1eaf3347bbb0
+- en: to send
+  pl: wysyłać
+  perfective: wysłać
+  word_type: verb
+  first_person_singular: ja wysyłam
+  first_person_plural: my wysyłamy
+  second_person_singular: ty wysyłasz
+  second_person_plural: wy wysyłacie
+  third_person_singular: on/ona/ono wysyła
+  third_person_plural: oni/one wysyłają
+  key: 34457bd0-637c-48fc-932d-74bfffb570eb
+- en: sign (symbol)
+  pl: znak
+  plural_form: znaki
+  word_type: noun
+  gender: masculine
+  key: f847e8b4-2b14-4e96-9a71-90a2c594fc98
+- en: spelling
+  pl: pisownia
+  plural_form: pisownie
+  word_type: noun
+  gender: feminine
+  key: 203d077c-55a7-40f0-856f-03b067edf678
+- en: stamp (postage)
+  pl: znaczek
+  plural_form: znaczki
+  word_type: noun
+  gender: masculine
+  key: 20eb38c6-7463-4676-ad1f-38f6c188ce8f
+- en: statement
+  pl: oświadczenie
+  plural_form: oświadczenia
+  word_type: noun
+  gender: neuter
+  key: 34e4d904-44b1-413e-8b93-66b81e066cb8
+- en: text
+  pl: tekst
+  plural_form: teksty
+  word_type: noun
+  gender: masculine
+  key: 0020435b-901a-4ade-a373-aaf66b734dfe
+- en: title
+  pl: tytuł
+  plural_form: tytuły
+  word_type: noun
+  gender: masculine
+  key: aa8f3b2b-5062-4c46-b66c-40956f80bec2
+- en: topic
+  pl: temat
+  plural_form: tematy
+  word_type: noun
+  gender: masculine
+  key: 9b21824c-2572-42a4-9128-acad73a5c60a
+- en: word
+  pl: słowo
+  word_type: noun
+  gender: neuter
+  plural_form: słowa
+  key: 4073877f-1a32-48cc-a32d-8d8a6fdd4e9a
+- en: writing
+  pl: pisanie
+  word_type: noun
+  gender: neuter
+  plural_form: pisania
+  key: af326b17-c67e-48bc-9e96-220bba6e3313
+- en: teacher
+  pl: nauczyciel
+  word_type: noun
+  gender: masculine
+  plural_form: nauczyciele
+  key: 64f0c696-d0b9-4a60-8c0e-9a3c6dee038a
+- en: student
+  pl: uczeń
+  word_type: noun
+  gender: masculine
+  plural_form: uczniowie
+  key: 9a96141f-7b21-4901-88e3-432756743c56
+- en: to learn
+  pl: uczyć się
+  perfective: nauczyć się
+  word_type: verb
+  first_person_singular: ja uczę się
+  first_person_plural: my uczymy się
+  second_person_singular: ty uczysz się
+  second_person_plural: wy uczycie się
+  third_person_singular: on/ona/ono uczy się
+  third_person_plural: oni/one uczą się
+  key: d93095a8-d132-440d-ade6-d7fad18802f5
+- en: to study
+  pl: studiować
+  perfective: wystudiować
+  word_type: verb
+  first_person_singular: ja studiuję
+  first_person_plural: my studiujemy
+  second_person_singular: ty studiujesz
+  second_person_plural: wy studiujecie
+  third_person_singular: on/ona/ono studiuje
+  third_person_plural: oni/one studiują
+  key: cdba1cf2-ba2f-41cb-a538-2657f895b25d
+- en: class
+  pl: klasa
+  word_type: noun
+  gender: feminine
+  plural_form: klasy
+  key: 169113f6-a902-49ce-9e7c-1d9a62e4f235
+- en: lesson
+  pl: lekcja
+  word_type: noun
+  gender: feminine
+  plural_form: lekcje
+  key: b5f97968-3fc9-4f3d-8a04-4d61faf05f25
+- en: test
+  pl: test
+  word_type: noun
+  gender: masculine
+  plural_form: testy
+  key: e056d682-0ef5-4945-8439-7f183d6c2459
+- en: book
+  pl: książka
+  word_type: noun
+  gender: feminine
+  plural_form: książki
+  key: 41e29bc8-d8d5-4ab4-ad22-a68ded60dc74
+- en: music
+  pl: muzyka
+  word_type: noun
+  gender: feminine
+  plural_form: muzyki
+  key: d48f3e0c-48aa-4efa-8102-5ca58887ee30
+- en: song
+  pl: piosenka
+  word_type: noun
+  gender: feminine
+  plural_form: piosenki
+  key: ae5526cc-695c-4a32-8992-49a6d90b6fdb
+- en: dance
+  pl: taniec
+  word_type: noun
+  gender: masculine
+  plural_form: tańce
+  key: 0bcc21f0-59a6-4153-97d4-4139fb38bf6c
+- en: picture
+  pl: zdjęcie
+  word_type: noun
+  gender: neuter
+  plural_form: zdjęcia
+  key: 16e28e5e-4c8a-4c58-930d-397f856c05c5
+- en: story
+  pl: historia
+  word_type: noun
+  gender: feminine
+  plural_form: historie
+  key: 62e02464-1cca-4266-a376-a9fc2aa87221
+- en: art
+  pl: sztuka
+  word_type: noun
+  gender: feminine
+  plural_form: sztuki
+  key: 2099baa9-918a-4a1a-b039-a8de0509f2c5
+- en: movie
+  pl: film
+  word_type: noun
+  gender: masculine
+  plural_form: filmy
+  key: 4f79ee7a-6b0d-4c93-8d00-95fe2d192005
+- en: to paint
+  pl: malować
+  perfective: pomalować
+  word_type: verb
+  first_person_singular: ja maluję
+  first_person_plural: my malujemy
+  second_person_singular: ty malujesz
+  second_person_plural: wy malujecie
+  third_person_singular: on/ona/ono maluje
+  third_person_plural: oni/one malują
+  key: 1ed3c0a9-11a1-42c0-bfd2-eb9efe3831fd
+- en: to draw
+  pl: rysować
+  perfective: narysować
+  word_type: verb
+  first_person_singular: ja rysuję
+  first_person_plural: my rysujemy
+  second_person_singular: ty rysujesz
+  second_person_plural: wy rysujecie
+  third_person_singular: on/ona/ono rysuje
+  third_person_plural: oni/one rysują
+  key: 1b838cff-bc8e-4b3e-88bb-91286d7c818f
+- en: singer
+  pl: piosenkarz
+  word_type: noun
+  gender: masculine
+  plural_form: piosenkarze
+  key: cd478c1c-98a0-44c6-b56f-3c475bfe4bd7
+- en: actor
+  pl: aktor
+  word_type: noun
+  gender: masculine
+  plural_form: aktorzy
+  key: b40bd9e2-1d49-48de-b782-ffee595f3f1f
+- en: news
+  pl: wiadomości
+  word_type: noun
+  gender: feminine
+  plural_form: wiadomości
+  key: 7e217195-eb26-40eb-b228-5346b7bdf147
+- en: festival
+  pl: festiwal
+  word_type: noun
+  gender: masculine
+  plural_form: festiwale
+  key: 6e61f136-4ca7-42aa-9fd3-3dd73d330c57
+- en: flag
+  pl: flaga
+  word_type: noun
+  gender: feminine
+  plural_form: flagi
+  key: d2004b7f-42eb-417e-a07b-67389b1c9f90
+- en: king
+  pl: król
+  word_type: noun
+  gender: masculine
+  plural_form: królowie
+  key: 1957b049-7c6d-41c0-8825-33693eb7e3e7
+- en: nation
+  pl: naród
+  word_type: noun
+  gender: masculine
+  plural_form: narody
+  key: 26415cfc-f7c2-4295-ac11-a9c1fbb7c849
+- en: queen
+  pl: królowa
+  word_type: noun
+  gender: feminine
+  plural_form: królowe
+  key: 0127d986-b986-4f6c-83bd-2b300ecc28f5
+- pl: wojna
+  en: war
+  word_type: noun
+  gender: feminine
+  plural_form: wojny
+  key: 17e102e5-ed7b-4b11-b2f8-04a8b2017543
+- pl: pieniądze
+  en: money
+  word_type: noun
+  gender: masculine
+  plural_form: pieniądze
+  key: ba7cce53-287d-4fc8-af4d-92993efff97f
+- pl: kupować
+  en: to buy
+  perfective: kupić
+  word_type: verb
+  first_person_singular: ja kupuję
+  second_person_singular: ty kupujesz
+  third_person_singular: on/ona/ono kupuje
+  first_person_plural: my kupujemy
+  second_person_plural: wy kupujecie
+  third_person_plural: oni/one kupują
+  key: 60ab0d4e-e970-4063-9805-194741b17cce
+- pl: sprzedawać
+  en: to sell
+  perfective: sprzedać
+  word_type: verb
+  first_person_singular: ja sprzedaję
+  second_person_singular: ty sprzedajesz
+  third_person_singular: on/ona/ono sprzedaje
+  first_person_plural: my sprzedajemy
+  second_person_plural: wy sprzedajecie
+  third_person_plural: oni/one sprzedają
+  key: 472e0395-0f54-4594-84a8-cd50031645a7
+- pl: płacić
+  en: to pay
+  perfective: zapłacić
+  word_type: verb
+  first_person_singular: ja płacę
+  second_person_singular: ty płacisz
+  third_person_singular: on/ona/ono płaci
+  first_person_plural: my płacimy
+  second_person_plural: wy płacicie
+  third_person_plural: oni/one płacą
+  key: df8600d2-b926-40f8-aa74-11260a468360
+- pl: cena
+  en: price
+  word_type: noun
+  gender: feminine
+  plural_form: ceny
+  key: 9c69f147-dcb9-487c-84b2-dbd37d5a2777
+- pl: bank
+  en: bank (financial)
+  word_type: noun
+  gender: masculine
+  plural_form: banki
+  key: 19f31e0c-69b2-4c0b-aee4-7048e368ccb9
+- pl: gotówka
+  en: cash
+  word_type: noun
+  gender: feminine
+  plural_form: gotówki
+  key: d40120a1-a653-400a-a7e8-e619a73a48f7

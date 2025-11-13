@@ -1,0 +1,249 @@
+- pl: modlić się
+  en: to pray
+  word_type: verb
+  perfective: pomodlić się
+  first_person_singular: ja modlę się
+  second_person_singular: ty modlisz się
+  third_person_singular: on/ona/ono modli się
+  first_person_plural: my modlimy się
+  second_person_plural: wy modlicie się
+  third_person_plural: oni/one modlą się
+  key: b7522e58-5c6d-43c4-b2da-61ce6c6ea023
+- pl: ksiądz
+  en: priest
+  word_type: noun
+  gender: masculine
+  plural_form: księża
+  key: 42c0e5d4-ad89-4df3-ae93-bbbdfeedc970
+- pl: religia
+  en: religion
+  word_type: noun
+  gender: feminine
+  plural_form: religie
+  key: d55dfa0b-297f-4185-9787-9eacafd9d5e4
+- pl: rząd
+  en: government
+  word_type: noun
+  gender: masculine
+  plural_form: rządy
+  key: 4641eb97-668f-4fdb-b645-4944e53fa143
+- pl: energia
+  en: energy
+  word_type: noun
+  gender: feminine
+  plural_form: energie
+  key: b180be35-cb39-4347-be41-b64700f28944
+- pl: ciepło
+  en: heat
+  word_type: noun
+  gender: neuter
+  plural_form: ciepła
+  key: 334c1e7a-71d4-477c-b5d9-6b3876a32a35
+- pl: światło
+  en: light (illumination)
+  word_type: noun
+  gender: neuter
+  plural_form: światła
+  key: f1ca1584-ee31-4330-a557-bc6094ffe384
+- pl: dźwięk
+  en: sound
+  word_type: noun
+  gender: masculine
+  plural_form: dźwięki
+  key: ecabc2a8-91ce-46d0-bc5e-ee613f78734a
+- pl: temperatura
+  en: temperature
+  word_type: noun
+  gender: feminine
+  plural_form: temperatury
+  key: 6bf3e1c6-2d02-4ab2-87f3-ecae31ac44ac
+- pl: gdy
+  en: when
+  word_type: conjunction
+  key: 7d857fd6-9934-46ad-8336-1fe3d3fe878b
+- pl: bez
+  en: without
+  word_type: preposition
+  key: 6c665d0e-f1f5-44c0-8817-a06dd081b8e6
+- pl: Można...
+  en: One can...
+  word_type: other
+  key: f21b7816-56f2-4df8-853e-830406984825
+- pl: przy
+  en: at
+  word_type: preposition
+  key: 661c8036-c5f1-449a-922e-2f136ffe6fc8
+- pl: chyba
+  en: probably
+  word_type: adverb
+  key: ee7993e0-c7c6-41e3-b499-e98181b32d5b
+- pl: człowiek
+  en: person
+  word_type: noun
+  gender: masculine
+  plural_form: ludzie
+  key: bfd71929-9ad5-4c5b-9154-099da5794995
+- pl: także
+  en: also
+  word_type: adverb
+  key: be61ea2e-9c1e-40de-8235-d979f4353e67
+- pl: tu
+  en: here
+  word_type: adverb
+  key: 5dc0e420-9629-4425-8e55-aa5c3dfd64d0
+- pl: być
+  en: to be (past tense)
+  word_type: verb
+  comment: Past tense forms of "być"
+  first_person_singular: ja byłem/byłam
+  first_person_plural: my byliśmy/byłyśmy
+  second_person_singular: ty byłeś/byłaś
+  second_person_plural: wy byliście/byłyście
+  third_person_singular: on był/ona była/ono było
+  third_person_plural: oni byli/one były
+  key: ce1d6e39-8050-407d-a4e9-2f70fd14dc4c
+- pl: ten
+  en: this
+  word_type: pronoun
+  key: ce527a8a-39d5-47b5-86c3-da5246217a01
+- pl: taki
+  en: such
+  word_type: pronoun
+  key: 3dd4b886-440b-4987-9b07-8b13f6b250ad
+- pl: ktoś
+  en: someone
+  word_type: pronoun
+  key: 97b86a69-d07d-4784-953b-0f58a3b29d0d
+- pl: niż
+  en: than
+  word_type: conjunction
+  key: e9d89527-a720-4b83-b52e-18ebcfa199a3
+- pl: dobrze
+  en: well
+  word_type: adverb
+  key: 80e8ad72-271a-4a1b-878f-6f4c5a1e77cd
+- pl: właśnie
+  en: just (exactly)
+  word_type: adverb
+  key: d0ca449f-8742-4a6b-850d-bd2237ea27ed
+- pl: aby
+  en: in order to
+  word_type: conjunction
+  key: 6bf445cd-cbea-44ff-ad1d-bf3a971f2eb7
+- pl: albo
+  en: or
+  word_type: conjunction
+  key: 7139e661-c7fb-4051-a5f9-747a6f34ba30
+- pl: dzięki
+  en: thanks to
+  word_type: preposition
+  key: 501efbb2-f68d-4408-86ab-c46c09a04664
+- pl: bardziej
+  en: more
+  word_type: adverb
+  key: 2bb4e956-0a8a-40d4-8afd-074b55da15b0
+- pl: nad
+  en: above
+  word_type: preposition
+  key: 2012464b-717d-4aa9-af51-0a2d46c18e60
+- pl: życie
+  en: life
+  word_type: noun
+  gender: neuter
+  plural_form: życia
+  key: 84c74772-411b-4a19-ac1c-4c6c04af5201
+- pl: polski
+  en: Polish
+  word_type: adjective
+  positive: polski
+  key: 490f17cd-a7c1-46a2-9d11-ebf3e8ba6c43
+- pl: wszystek
+  en: all
+  word_type: pronoun
+  key: 4745ad67-c329-4f3a-9925-e58f7d0b40fa
+- pl: kilka
+  en: several
+  word_type: pronoun
+  key: 7c470d77-8879-4511-9f44-a717a16587d8
+- pl: prosty
+  en: simple
+  word_type: adjective
+  positive: prosty
+  comparative: prostszy
+  superlative: najprostszy
+  key: 76c58a54-fdd6-4e84-854c-d3c9e5098ac9
+- pl: swój
+  en: one's own
+  word_type: pronoun
+  key: 422a9e0d-54eb-44b4-80eb-52f31ccb81fb
+- pl: trochę
+  en: a bit
+  word_type: adverb
+  key: 2d3f9d81-f6da-4d92-b961-ed68e13077c7
+- pl: Trzeba...
+  en: It is necessary...
+  word_type: other
+  key: 9416427b-01dc-42ce-8d39-1d5f340c1cc9
+- pl: oni
+  en: they (masculine)
+  word_type: pronoun
+  key: bcd9688a-7b1c-4d40-accf-adf25ce23f4f
+- pl: dalej
+  en: further
+  word_type: adverb
+  key: 914da3a8-7c5e-47e8-9151-3d480d57e27a
+- pl: stan
+  en: state
+  word_type: noun
+  gender: masculine
+  plural_form: stany
+  key: af7dd4f7-9eeb-4f86-95f0-86592dda742c
+- pl: dziś
+  en: today
+  word_type: adverb
+  key: c447414a-8693-4496-9b07-5312507457fd
+- pl: kraj
+  en: country
+  word_type: noun
+  gender: masculine
+  plural_form: kraje
+  key: 38c7b49c-09d6-4133-bed1-645d173e9b3d
+- pl: jaki
+  en: what kind of
+  word_type: pronoun
+  key: bdfaff5e-38ff-47e7-a77e-c13d147529d7
+- pl: potem
+  en: afterwards
+  word_type: adverb
+  key: c7ab2960-c582-4237-87b6-acde383d59c6
+- pl: aż
+  en: until
+  word_type: conjunction
+  key: 93b9a7c7-3143-4331-80c6-f7b04d1155b6
+- pl: tyle
+  en: so much
+  word_type: adverb
+  key: 07a57358-0a75-4fcd-af90-bd49cda2dc91
+- pl: cały
+  en: whole
+  word_type: adjective
+  positive: cały
+  key: b131b84e-7565-4319-9114-20488c146edc
+- pl: ile
+  en: how much
+  word_type: adverb
+  key: a9e42e62-6507-4d2d-ac5e-c710001893d6
+- pl: według
+  en: according to
+  word_type: preposition
+  key: 9f011c0f-5425-47d5-9371-b3f1e16c4451
+- pl: musieć
+  en: to have to
+  word_type: verb
+  first_person_singular: ja muszę
+  first_person_plural: my musimy
+  second_person_singular: ty musisz
+  second_person_plural: wy musicie
+  third_person_singular: on/ona/ono musi
+  third_person_plural: oni/one muszą
+  key: cc849f4d-338d-4f82-b76e-bd7608c02c99

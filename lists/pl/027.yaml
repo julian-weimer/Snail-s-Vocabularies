@@ -1,0 +1,337 @@
+- pl: zabijać
+  en: to kill
+  word_type: verb
+  perfective: zabić
+  first_person_singular: ja zabijam
+  second_person_singular: ty zabijasz
+  third_person_singular: on/ona/ono zabija
+  first_person_plural: my zabijamy
+  second_person_plural: wy zabijacie
+  third_person_plural: oni/one zabijają
+  key: 4536b068-18ff-494e-b00c-f1f78ff1cb19
+- pl: zaledwie
+  en: barely
+  word_type: adverb
+  key: 3e838dd9-30a0-4dd0-a76a-f495eabf4481
+- pl: dosłownie
+  en: literally
+  word_type: adverb
+  key: b1b9d877-3f94-4405-948b-7be5d1c95f6b
+- pl: interesować
+  en: to interest
+  word_type: verb
+  perfective: zainteresować
+  first_person_singular: ja interesuję
+  second_person_singular: ty interesujesz
+  third_person_singular: on/ona/ono interesuje
+  first_person_plural: my interesujemy
+  second_person_plural: wy interesujecie
+  third_person_plural: oni/one interesują
+  key: 8cd32c4f-f969-4092-aef4-1d76425657b8
+- pl: jazda
+  en: ride
+  word_type: noun
+  gender: feminine
+  plural_form: jazdy
+  key: c745472b-065c-49d2-80e6-2676ac2c099c
+- pl: komunikacja
+  en: communication
+  word_type: noun
+  gender: feminine
+  plural_form: komunikacje
+  key: fd96d905-b82e-42cb-8b42-a5b3506eda15
+- pl: marka
+  en: brand
+  word_type: noun
+  gender: feminine
+  plural_form: marki
+  key: 8642ca53-29bd-491c-8d63-1db91e4bf6c6
+- pl: nowo
+  en: newly
+  word_type: adverb
+  key: f90123c4-d288-4d95-b160-d1715b91d3c5
+- pl: powrót
+  en: return
+  word_type: noun
+  gender: masculine
+  plural_form: powroty
+  key: 103a9b0f-9d6a-4e8c-8175-409020c28cb9
+- pl: procent
+  en: percent
+  word_type: noun
+  gender: masculine
+  plural_form: procenty
+  key: 36b38423-2a6d-4846-9d5a-cff8e2d693ca
+- pl: przechodzić
+  en: to pass
+  word_type: verb
+  perfective: przejść
+  first_person_singular: ja przechodzę
+  second_person_singular: ty przechodzisz
+  third_person_singular: on/ona/ono przechodzi
+  first_person_plural: my przechodzimy
+  second_person_plural: wy przechodzicie
+  third_person_plural: oni/one przechodzą
+  key: de73e1d2-58a1-47ee-8ca8-aa0bff90362f
+- pl: przyznawać
+  en: to admit
+  word_type: verb
+  perfective: przyznać
+  first_person_singular: ja przyznaję
+  second_person_singular: ty przyznajesz
+  third_person_singular: on/ona/ono przyznaje
+  first_person_plural: my przyznajemy
+  second_person_plural: wy przyznajecie
+  third_person_plural: oni/one przyznają
+  key: e4de659b-cd0b-4f27-ba4e-6d9b6964ab84
+- pl: rozmawiać
+  en: to talk
+  word_type: verb
+  perfective: porozmawiać
+  first_person_singular: ja rozmawiam
+  second_person_singular: ty rozmawiasz
+  third_person_singular: on/ona/ono rozmawia
+  first_person_plural: my rozmawiamy
+  second_person_plural: wy rozmawiacie
+  third_person_plural: oni/one rozmawiają
+  key: c06253bf-605e-4a93-a982-3f4bc8f7855d
+- pl: sprzedaż
+  en: sale
+  word_type: noun
+  gender: feminine
+  plural_form: sprzedaże
+  key: 093cd45c-db27-4233-8df7-805c146e77db
+- pl: szczególność
+  en: particularity
+  word_type: noun
+  gender: feminine
+  plural_form: szczególności
+  key: 4752229e-777b-4219-af77-d118b8f50409
+- pl: sądzić
+  en: to think (believe)
+  word_type: verb
+  perfective: osądzić
+  first_person_singular: ja sądzę
+  second_person_singular: ty sądzisz
+  third_person_singular: on/ona/ono sądzi
+  first_person_plural: my sądzimy
+  second_person_plural: wy sądzicie
+  third_person_plural: oni/one sądzą
+  key: 6f5e033f-4859-4c65-b0df-4b4be4b1dc09
+- pl: wideo
+  en: video
+  word_type: noun
+  gender: neuter
+  plural_form: wideo
+  key: 4f2307bb-6039-4d62-9c33-7a85f0fbafb0
+- pl: wniosek
+  en: conclusion
+  word_type: noun
+  gender: masculine
+  plural_form: wnioski
+  key: 8c9fd495-1ead-4a1b-8c9b-284aac62b06c
+- pl: administracja
+  en: administration
+  word_type: noun
+  gender: feminine
+  plural_form: administracje
+  key: f5289790-01ec-4718-8b04-01a4c1b4f464
+- pl: angielski
+  en: English (language/adjective)
+  word_type: adjective
+  positive: angielski
+  key: d4270c19-1542-400b-ab84-d69938065f00
+- pl: bliżej
+  en: closer
+  word_type: adverb
+  key: cbea9e27-de78-48d8-8c0a-87e02c81bcf7
+- pl: bać się
+  en: to fear
+  word_type: verb
+  first_person_singular: ja boję się
+  second_person_singular: ty boisz się
+  third_person_singular: on/ona/ono boi się
+  first_person_plural: my boimy się
+  second_person_plural: wy boicie się
+  third_person_plural: oni/one boją się
+  key: 37b50cca-485a-4c9d-8558-33503657c235
+- pl: demokracja
+  en: democracy
+  word_type: noun
+  gender: feminine
+  plural_form: demokracje
+  key: ac5f349b-53d6-461b-a45b-a14eef2e73cb
+- pl: dzielnica
+  en: district
+  word_type: noun
+  gender: feminine
+  plural_form: dzielnice
+  key: f5710cfd-a352-4f15-99b1-bd257a5edcc1
+- pl: jednakże
+  en: however
+  word_type: conjunction
+  key: 1d28a97f-7f4d-49b2-ae4c-b2e6162f0756
+- pl: kolor
+  en: color
+  word_type: noun
+  gender: masculine
+  plural_form: kolory
+  key: 2852cb4b-6429-4db5-81fa-d2a400287aff
+- pl: koszt
+  en: cost
+  word_type: noun
+  gender: masculine
+  plural_form: koszty
+  key: e5da2b90-31a2-45ef-8df9-8d5ec895f349
+- pl: liczny
+  en: numerous
+  word_type: adjective
+  positive: liczny
+  comparative: liczniejszy
+  superlative: najliczniejszy
+  key: 817101f7-f79f-439a-b6a5-57fd98613696
+- pl: tom
+  en: volume (book)
+  word_type: noun
+  gender: masculine
+  plural_form: tomy
+  key: 6c559c27-ae02-45d7-a060-75389afea590
+- pl: tworzyć
+  en: to create
+  word_type: verb
+  perfective: stworzyć
+  first_person_singular: ja tworzę
+  second_person_singular: ty tworzysz
+  third_person_singular: on/ona/ono tworzy
+  first_person_plural: my tworzymy
+  second_person_plural: wy tworzycie
+  third_person_plural: oni/one tworzą
+  key: 7a98fa6f-d11a-4c72-aed2-e15dd1642baf
+- pl: zero
+  en: zero
+  word_type: noun
+  gender: neuter
+  plural_form: zera
+  key: e1cd1c22-d7fc-4feb-aaea-e191192d3b72
+- pl: umierać
+  en: to die
+  word_type: verb
+  perfective: umrzeć
+  first_person_singular: ja umieram
+  second_person_singular: ty umierasz
+  third_person_singular: on/ona/ono umiera
+  first_person_plural: my umieramy
+  second_person_plural: wy umieracie
+  third_person_plural: oni/one umierają
+  key: fb4e5590-aca8-4093-a4fb-5e1f30db6039
+- pl: śmieszny
+  en: funny
+  word_type: adjective
+  positive: śmieszny
+  comparative: śmieszniejszy
+  superlative: najśmieszniejszy
+  key: ac3ec26c-a4f5-43b0-8e77-bb59ed1d0e9e
+- pl: cicho
+  en: quietly
+  word_type: adverb
+  key: ce027098-374a-4687-af25-82e14bacc671
+- pl: fajny
+  en: cool (colloquial)
+  word_type: adjective
+  positive: fajny
+  comparative: fajniejszy
+  superlative: najfajniejszy
+  key: 8d0661e2-721a-450c-869a-b8958912efc7
+- pl: pochodzenie
+  en: origin
+  word_type: noun
+  gender: neuter
+  plural_form: pochodzenia
+  key: 1c8f1613-57af-4bc6-acb6-ad28dd5cdea2
+- pl: portal
+  en: portal
+  word_type: noun
+  gender: masculine
+  plural_form: portale
+  key: ca6050e3-5181-4601-959d-7f8f9d40916a
+- pl: pozostały
+  en: remaining
+  word_type: adjective
+  positive: pozostały
+  key: 96535b38-4249-4e21-84f9-8307e05712a6
+- pl: przepis
+  en: recipe
+  word_type: noun
+  gender: masculine
+  plural_form: przepisy
+  key: 1132e1e1-6884-439f-9fdd-146be60b9a13
+- pl: rozpoczynać
+  en: to begin
+  word_type: verb
+  perfective: rozpocząć
+  first_person_singular: ja rozpoczynam
+  second_person_singular: ty rozpoczynasz
+  third_person_singular: on/ona/ono rozpoczyna
+  first_person_plural: my rozpoczynamy
+  second_person_plural: wy rozpoczynacie
+  third_person_plural: oni/one rozpoczynają
+  key: 56a63e86-99e9-41a4-90ba-b2e9a65e8ce7
+- pl: ryzyko
+  en: risk
+  word_type: noun
+  gender: neuter
+  plural_form: ryzyka
+  key: 0b60c9f6-41c1-42e7-bb94-a551596aff53
+- pl: seks
+  en: sex
+  word_type: noun
+  gender: masculine
+  plural_form: seksy
+  key: 5c7d2108-40ad-46be-aaca-5636d9ef79b8
+- pl: spośród
+  en: from among
+  word_type: preposition
+  key: f8c2ecf7-6dff-4c2a-b3ce-2e8bd5e7ef89
+- pl: umiejętność
+  en: skill
+  word_type: noun
+  gender: feminine
+  plural_form: umiejętności
+  key: 661e0a08-e509-4a79-b57c-b7bfc031bea3
+- pl: wiara
+  en: faith
+  word_type: noun
+  gender: feminine
+  plural_form: wiary
+  key: ff4b54b8-f3b1-4c85-b154-5b43eb7198a8
+- pl: województwo
+  en: voivodeship (province)
+  word_type: noun
+  gender: neuter
+  plural_form: województwa
+  key: bde46eaa-f8ba-4b18-ad24-6b846dc72465
+- pl: zakaz
+  en: prohibition
+  word_type: noun
+  gender: masculine
+  plural_form: zakazy
+  key: 2afb8549-260f-463c-87be-e1961705021c
+- pl: zapraszać
+  en: to invite
+  word_type: verb
+  perfective: zaprosić
+  first_person_singular: ja zapraszam
+  second_person_singular: ty zapraszasz
+  third_person_singular: on/ona/ono zaprasza
+  first_person_plural: my zapraszamy
+  second_person_plural: wy zapraszacie
+  third_person_plural: oni/one zapraszają
+  key: a3677f7c-99ea-4e7a-99af-3d77d53174a1
+- pl: bowiem
+  en: for (because)
+  word_type: conjunction
+  key: dab901f1-442c-44eb-9520-68b1735c739c
+- pl: doskonale
+  en: perfectly
+  word_type: adverb
+  key: 76473087-8b51-4ac6-99fe-5570b28edcf6

@@ -1,0 +1,227 @@
+- en: Hello!
+  pl: Cześć!
+  word_type: other
+  key: 5abbb64b-9830-45d8-b933-d476bc41e0b7
+- en: Goodbye!
+  pl: Do widzenia!
+  word_type: other
+  key: 3d310a89-7e49-49d5-a528-f5840de5a936
+- en: Welcome!
+  pl: Witamy!
+  word_type: other
+  key: 46588b13-8789-41a9-a448-0f5752137498
+- en: Please...
+  pl: Proszę...
+  word_type: other
+  key: 9a8a5fd9-5c42-490e-8b68-c9029363c0ba
+- en: Sorry...
+  pl: Przepraszam...
+  word_type: other
+  key: 8cdfaace-cbe9-4f68-b43c-070dd9f04002
+- en: yes
+  pl: Tak
+  word_type: other
+  key: a3f25ff2-9ea9-43d9-818b-312c6981514b
+- en: no
+  pl: Nie
+  word_type: other
+  key: 6f52dfac-39ce-4cb2-a12c-1d421053380f
+- en: to say
+  pl: mówić
+  word_type: verb
+  perfective: powiedzieć
+  first_person_singular: ja mówię
+  first_person_plural: my mówimy
+  second_person_singular: ty mówisz
+  second_person_plural: wy mówicie
+  third_person_singular: on/ona/ono mówi
+  third_person_plural: oni/one mówią
+  key: a22ee433-b5f4-4337-a47b-b20f559d5ff1
+- en: to ask
+  pl: pytać
+  word_type: verb
+  perfective: zapytać
+  first_person_singular: ja pytam
+  first_person_plural: my pytamy
+  second_person_singular: ty pytasz
+  second_person_plural: wy pytacie
+  third_person_singular: on/ona/ono pyta
+  third_person_plural: oni/one pytają
+  key: e60bbac3-25d0-448b-abdf-bffba4376165
+- en: to introduce
+  pl: przedstawiać
+  word_type: verb
+  perfective: przedstawić
+  first_person_singular: ja przedstawiam
+  first_person_plural: my przedstawiamy
+  second_person_singular: ty przedstawiasz
+  second_person_plural: wy przedstawiacie
+  third_person_singular: on/ona/ono przedstawia
+  third_person_plural: oni/one przedstawiają
+  key: fb80fea9-56a9-42ad-800a-01adead2109b
+- en: conversation
+  pl: rozmowa
+  word_type: noun
+  gender: feminine
+  plural_form: rozmowy
+  key: 5e03a4bd-7c94-4460-989c-c3db06f3afa0
+- en: question
+  pl: pytanie
+  word_type: noun
+  gender: neuter
+  plural_form: pytania
+  key: f23cdbbd-2f51-4100-b7a2-4db43b48116a
+- en: answer
+  pl: odpowiedź
+  word_type: noun
+  gender: feminine
+  plural_form: odpowiedzi
+  key: 15690016-4ad2-4156-bec9-c211483e1139
+- en: he
+  pl: on
+  word_type: pronoun
+  key: ddca756d-44af-4122-b4e5-fe7e89845976
+- en: him
+  pl: jego
+  word_type: pronoun
+  key: 3dc6596f-5b52-4c11-8b56-9cfd99299939
+- en: I
+  pl: ja
+  word_type: pronoun
+  key: e2621f04-d7cd-4e5f-9222-775c8f317067
+- en: it
+  pl: to
+  word_type: pronoun
+  key: 3dc6cd36-30f9-475d-b925-d79aef01f778
+- en: me
+  pl: mnie
+  word_type: pronoun
+  key: e8c3d880-711e-4ab1-bfd8-105928ca1dcf
+- en: mine
+  pl: mój
+  word_type: pronoun
+  key: 80bbd2fc-5d8f-497b-985d-34394f56aeac
+- en: myself
+  pl: sam
+  word_type: pronoun
+  key: ba4971bb-ad33-4b00-97e8-fb954d7db17a
+- en: our
+  pl: nasz
+  word_type: pronoun
+  key: 1807e424-e346-4c67-a0f6-b7b823bfd12a
+- en: she
+  pl: ona
+  word_type: pronoun
+  key: 2beaa58a-3a1c-4031-b9fd-266e064af9ca
+- en: her
+  pl: jej
+  word_type: pronoun
+  key: f94c83c8-b71e-412d-9cca-6d2fa6e4d42d
+- en: us
+  pl: nas
+  word_type: pronoun
+  key: 25221ffd-9436-4dad-ba9e-46ba39d71c13
+- en: we
+  pl: my
+  word_type: pronoun
+  key: 0e021954-16b4-491c-b25b-215f46530c39
+- en: you
+  pl: ty
+  word_type: pronoun
+  key: 3dc88dfa-5e25-4da1-bd10-6ea4165139b9
+- en: your
+  pl: twój
+  word_type: pronoun
+  key: e81fecdd-2057-49e7-9153-c5606522cc8f
+- en: yourself
+  pl: siebie
+  word_type: pronoun
+  key: 6afc6731-4e11-454a-9f17-5d73b29fdf8a
+- en: one
+  pl: jeden
+  word_type: other
+  key: 8352a2ff-e044-466b-8ec2-18db10ee6112
+- en: two
+  pl: dwa
+  word_type: other
+  key: 0ff5b24c-0c87-4e41-a1d1-4fd3be400f2a
+- en: three
+  pl: trzy
+  word_type: other
+  key: c0340ec0-d0e2-4d41-9e06-b3d86ba2152a
+- en: four
+  pl: cztery
+  word_type: other
+  key: c03dbb78-6b01-4518-bcf8-a7f365871bf7
+- en: five
+  pl: pięć
+  word_type: other
+  key: d4e76f2d-eb26-45b9-a59c-3696d1c8ce19
+- en: six
+  pl: sześć
+  word_type: other
+  key: dbd5f58f-29d6-4e3f-925b-3be524019334
+- en: seven
+  pl: siedem
+  word_type: other
+  key: cea7c2b0-ee3f-46ff-8c46-d5ed680311c3
+- en: eight
+  pl: osiem
+  word_type: other
+  key: 9097ccff-ad61-48cc-bb16-ca873732619e
+- en: nine
+  pl: dziewięć
+  word_type: other
+  key: 6f9ab080-7fb7-4957-bb19-4925861b471c
+- en: ten
+  pl: dziesięć
+  word_type: other
+  key: 7948857b-ddb3-4db2-9dcf-7fc9017c7903
+- en: eleven
+  pl: jedenaście
+  word_type: other
+  key: 3c1ea4b6-2309-4db0-9ca0-73c1fdf01ea1
+- en: twelve
+  pl: dwanaście
+  word_type: other
+  key: f692c22b-dcec-4c26-961a-08720a759598
+- en: thirteen
+  pl: trzynaście
+  word_type: other
+  key: 34b91069-5764-4150-a1b6-a71a57bedb75
+- en: fourteen
+  pl: czternaście
+  word_type: other
+  key: e68cacb9-35ea-416a-b20c-9d777f2e8399
+- en: fifteen
+  pl: piętnaście
+  word_type: other
+  key: 434dea5f-8790-40db-8072-e9e58c1a09e2
+- en: sixteen
+  pl: szesnaście
+  word_type: other
+  key: 3ae546e8-0166-4ffd-8537-10b61f5fbcd0
+- en: seventeen
+  pl: siedemnaście
+  word_type: other
+  key: ec5cc807-0ed1-40aa-bc5b-fe078df3528b
+- en: eighteen
+  pl: osiemnaście
+  word_type: other
+  key: 63c099a9-9160-4be0-8de3-b699a4017800
+- en: nineteen
+  pl: dziewiętnaście
+  word_type: other
+  key: f0c410b9-c535-4b67-9cdc-9bcac283619f
+- en: twenty
+  pl: dwadzieścia
+  word_type: other
+  key: 0f303eab-d1fd-43e3-a650-bff828377a81
+- en: thirty
+  pl: trzydzieści
+  word_type: other
+  key: 0d43e3e3-114b-44b8-88a3-5b2f8deb83b1
+- en: forty
+  pl: czterdzieści
+  word_type: other
+  key: 6e073622-cbf3-4b96-ab9f-6d8e4206d771

@@ -1,0 +1,24 @@
+- pl: osiągnięcie
+  en: achievement
+  word_type: noun
+  gender: neuter
+  plural_form: osiągnięcia
+  key: bd16f2d4-1381-4352-a329-ebecee0c6bb2
+- pl: plac
+  en: square (public space)
+  word_type: noun
+  gender: masculine
+  plural_form: place
+  key: bc0140a1-1a2b-4de6-a2c1-29737c9a43a3
+- pl: publikacja
+  en: publication
+  word_type: noun
+  gender: feminine
+  plural_form: publikacje
+  key: 25e97d03-0dc1-417a-a2a8-651256f40564
+- pl: reakcja
+  en: reaction
+  word_type: noun
+  gender: feminine
+  plural_form: reakcje
+  key: ac86edc0-532f-404a-8457-7b3b4239050d

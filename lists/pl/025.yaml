@@ -1,0 +1,329 @@
+- pl: wasz
+  en: your (plural)
+  word_type: pronoun
+  key: 19c94434-2b27-4c7e-876a-e56cf926c0cd
+- pl: wchodzić
+  en: to enter
+  word_type: verb
+  aspect: imperfective
+  perfective: wejść
+  first_person_singular: ja wchodzę
+  second_person_singular: ty wchodzisz
+  third_person_singular: on/ona/ono wchodzi
+  first_person_plural: my wchodzimy
+  second_person_plural: wy wchodzicie
+  third_person_plural: oni/one wchodzą
+  key: bd26274b-5381-4c7f-be3a-caf2fab4b73f
+- pl: zapewne
+  en: probably
+  word_type: adverb
+  key: 9c374856-ef98-4d51-8f8d-cf506887111b
+- pl: zdawać się
+  en: to seem
+  word_type: verb
+  first_person_singular: ja zdaję się
+  first_person_plural: my zdajemy się
+  second_person_singular: ty zdajesz się
+  second_person_plural: wy zdajecie się
+  third_person_singular: on/ona/ono zdaje się
+  third_person_plural: oni/one zdają się
+  comment: This verb does not have a perfective form
+  key: 9082c30a-9839-413f-ba3f-b422e24d8097
+- pl: forum
+  en: forum
+  word_type: noun
+  gender: neuter
+  plural_form: fora
+  key: 4acacd3b-c4d3-43a6-b28d-dac7f830bc5e
+- pl: krok
+  en: step
+  word_type: noun
+  gender: masculine
+  plural_form: kroki
+  key: 4129f7b6-71d9-4e91-9476-8f6b8845d3a8
+- pl: leżeć
+  en: to lie (down)
+  word_type: verb
+  perfective: położyć się
+  first_person_singular: ja leżę
+  first_person_plural: my leżymy
+  second_person_singular: ty leżysz
+  second_person_plural: wy leżycie
+  third_person_singular: on/ona/ono leży
+  third_person_plural: oni/one leżą
+  key: 000e0c97-3dbc-4dc6-8860-88397a1ac8c2
+- pl: mnóstwo
+  en: plenty
+  word_type: noun
+  gender: neuter
+  plural_form: mnóstwa
+  key: fba3c069-41b4-4829-8834-50932a36c793
+- pl: natychmiast
+  en: immediately
+  word_type: adverb
+  key: 5a2fb97a-4f37-4b9d-80ca-167a24b0620f
+- pl: normalnie
+  en: normally
+  word_type: adverb
+  key: e5d570fa-e710-436d-8c6f-4b1807df016a
+- pl: ono
+  en: it
+  word_type: pronoun
+  key: 82155bf3-8d92-48d8-8757-56e9ac3e8a51
+- pl: równie
+  en: equally
+  word_type: adverb
+  key: 0779b455-5353-4cbe-9e08-598dca71e9cb
+- pl: specjalnie
+  en: specially
+  word_type: adverb
+  key: a9799bc0-462f-44c7-8f89-cbdc40465978
+- pl: technologia
+  en: technology
+  word_type: noun
+  gender: feminine
+  plural_form: technologie
+  key: 0dcad694-21f5-4545-84a9-65b8e1f18a80
+- pl: uczyć
+  en: to teach
+  word_type: verb
+  perfective: nauczyć
+  first_person_singular: ja uczę
+  first_person_plural: my uczymy
+  second_person_singular: ty uczysz
+  second_person_plural: wy uczycie
+  third_person_singular: on/ona/ono uczy
+  third_person_plural: oni/one uczą
+  key: 17d6f19f-0705-4a5e-a241-5ae14e12a47b
+- pl: ustawa
+  en: law (statute)
+  word_type: noun
+  gender: feminine
+  plural_form: ustawy
+  key: b912c323-f823-4086-bc47-828edde60ae6
+- pl: wręcz
+  en: directly
+  word_type: adverb
+  key: 699ab5bc-f66f-4d98-8812-808278e2a009
+- pl: wsparcie
+  en: support
+  word_type: noun
+  gender: neuter
+  plural_form: wsparcia
+  key: caef18fb-1d3f-4feb-b40b-addea79b936e
+- pl: wątpliwość
+  en: doubt
+  word_type: noun
+  gender: feminine
+  plural_form: wątpliwości
+  key: e9f8f2de-8113-4527-ae7c-b35d930df36e
+- pl: boleć
+  en: to hurt
+  word_type: verb
+  perfective: zaboleć
+  first_person_singular: ja bolę
+  first_person_plural: my bolimy
+  second_person_singular: ty bolisz
+  second_person_plural: wy bolicie
+  third_person_singular: on/ona/ono boli
+  third_person_plural: oni/one bolą
+  key: 125f732b-aaf1-462b-95f5-c208110efba2
+- pl: głupi
+  en: stupid
+  word_type: adjective
+  positive: głupi
+  comparative: głupszy
+  superlative: najgłupszy
+  key: 72c33b8f-4afc-4ad1-8d37-1ef5741e5b54
+- pl: oficjalnie
+  en: officially
+  word_type: adverb
+  key: 0d1ff31a-6169-442c-9338-b890abe403cc
+- pl: przykro
+  en: sorry (regretful)
+  word_type: adverb
+  key: 0a28d4a1-9e36-4fe8-8513-a2d83984bc21
+- pl: składać
+  en: to fold
+  word_type: verb
+  perfective: złożyć
+  first_person_singular: ja składam
+  first_person_plural: my składamy
+  second_person_singular: ty składasz
+  second_person_plural: wy składacie
+  third_person_singular: on/ona/ono składa
+  third_person_plural: oni/one składają
+  key: d8df65a1-0650-42ca-85e2-37f684e61242
+- pl: szukać
+  en: to search
+  word_type: verb
+  perfective: poszukać
+  first_person_singular: ja szukam
+  first_person_plural: my szukamy
+  second_person_singular: ty szukasz
+  second_person_plural: wy szukacie
+  third_person_singular: on/ona/ono szuka
+  third_person_plural: oni/one szukają
+  key: 1b0d2cbf-9047-42f2-a4d8-80b6bbb05744
+- pl: żołnierz
+  en: soldier
+  word_type: noun
+  gender: masculine
+  plural_form: żołnierze
+  key: 1505284a-9260-4f8a-b9df-4bb21b2cfc7b
+- pl: budowa
+  en: construction
+  word_type: noun
+  gender: feminine
+  plural_form: budowy
+  key: b31c7b07-6bd1-4cc9-bcf5-cb1f91d5fa49
+- pl: jakość
+  en: quality
+  word_type: noun
+  gender: feminine
+  plural_form: jakości
+  key: ddc870a0-0a5c-4e5d-89eb-2ef4d2985ef3
+- pl: nazwisko
+  en: surname
+  word_type: noun
+  gender: neuter
+  plural_form: nazwiska
+  key: c7f558a7-f8a0-4f0e-a1ce-3018bbafbe16
+- pl: pojawiać się
+  en: to appear
+  word_type: verb
+  perfective: pojawić się
+  first_person_singular: ja pojawiam się
+  second_person_singular: ty pojawiasz się
+  third_person_singular: on/ona/ono pojawia się
+  first_person_plural: my pojawiamy się
+  second_person_plural: wy pojawiacie się
+  third_person_plural: oni/one pojawiają się
+  key: 164e1481-6d30-486d-b8dd-d51ac52e1d8a
+- pl: polityczny
+  en: political
+  word_type: adjective
+  positive: polityczny
+  key: e4dd7b77-b9aa-4816-abf8-8f95898dc93e
+- pl: potrzebny
+  en: needed
+  word_type: adjective
+  positive: potrzebny
+  comparative: bardziej potrzebny
+  superlative: najbardziej potrzebny
+  key: 19088d21-2c01-4b35-9b20-16c0706513c1
+- pl: powstanie
+  en: uprising
+  word_type: noun
+  gender: neuter
+  plural_form: powstania
+  key: a16cfead-fe14-4155-865d-efd0dcb667dc
+- pl: publiczny
+  en: public
+  word_type: adjective
+  positive: publiczny
+  key: 9f855fb1-78d2-44f7-a5ff-edc72ba4b308
+- pl: robota
+  en: work
+  word_type: noun
+  gender: feminine
+  plural_form: roboty
+  key: 24065b1b-8e7f-40e1-a11c-8fd3bac095e0
+- pl: zachód
+  en: west
+  word_type: noun
+  gender: masculine
+  plural_form: zachody
+  key: 115276ce-9389-421c-83fb-011a1250009f
+- pl: zgadzać się
+  en: to agree
+  word_type: verb
+  perfective: zgodzić się
+  first_person_singular: ja zgadzam się
+  second_person_singular: ty zgadzasz się
+  third_person_singular: on/ona/ono zgadza się
+  first_person_plural: my zgadzamy się
+  second_person_plural: wy zgadzacie się
+  third_person_plural: oni/one zgadzają się
+  key: 2c2eb027-0b2d-4266-8175-4846392b5ec8
+- pl: ładnie
+  en: nicely
+  word_type: adverb
+  key: b267542d-3093-46d4-8ae5-193deb6c2ff7
+- pl: charakter
+  en: character
+  word_type: noun
+  gender: masculine
+  plural_form: charaktery
+  key: d93ddb25-ef87-41da-b080-cdcc736793f3
+- pl: gospodarka
+  en: economy
+  word_type: noun
+  gender: feminine
+  plural_form: gospodarki
+  key: 45a33bdf-b538-46e6-9255-e38624859195
+- pl: miejscowość
+  en: locality
+  word_type: noun
+  gender: feminine
+  plural_form: miejscowości
+  key: 92d11947-2bcf-4de8-afc0-aa9c2bb267f1
+- pl: model
+  en: model
+  word_type: noun
+  gender: masculine
+  plural_form: modele
+  key: 8b1a149c-3785-4cb0-9531-e641ffc4a8da
+- pl: obaj
+  en: both
+  word_type: pronoun
+  key: ff048883-2b17-48a0-9712-f8ceb6f6f586
+- pl: pozostawać
+  en: to remain
+  word_type: verb
+  perfective: pozostać
+  first_person_singular: ja pozostaję
+  second_person_singular: ty pozostajesz
+  third_person_singular: on/ona/ono pozostaje
+  first_person_plural: my pozostajemy
+  second_person_plural: wy pozostajecie
+  third_person_plural: oni/one pozostają
+  key: 04029e7f-2b5a-4cfa-b97d-dcef23d0a1ad
+- pl: skład
+  en: composition
+  word_type: noun
+  gender: masculine
+  plural_form: składy
+  key: cbdfa9f1-21eb-4df7-9125-dddbd1e67ab4
+- pl: wybierać
+  en: to choose
+  word_type: verb
+  perfective: wybrać
+  first_person_singular: ja wybieram
+  second_person_singular: ty wybierasz
+  third_person_singular: on/ona/ono wybiera
+  first_person_plural: my wybieramy
+  second_person_plural: wy wybieracie
+  third_person_plural: oni/one wybierają
+  key: bd5f94a6-d333-4e4c-9540-68e642f409db
+- pl: złoty
+  en: golden
+  word_type: adjective
+  positive: złoty
+  key: 7ca4031b-56b3-48a2-be2c-c87fdb46177d
+- pl: efekt
+  en: effect
+  word_type: noun
+  gender: masculine
+  plural_form: efekty
+  key: 443a59d2-c7e0-43e4-9b65-ac9f1c3f0fe0
+- pl: lekko
+  en: lightly
+  word_type: adverb
+  key: 75202780-3ee6-4d36-978b-497e6481cd55
+- pl: obywatel
+  en: citizen
+  word_type: noun
+  gender: masculine
+  plural_form: obywatele
+  key: 3f9d3a47-da9a-42bb-b22a-bdba5c048f2b

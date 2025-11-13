@@ -1,0 +1,346 @@
+- pl: zakup
+  en: purchase
+  word_type: noun
+  gender: masculine
+  plural_form: zakupy
+  key: d8c76b66-4030-43e9-b639-4abeb62e2b9d
+- pl: akt
+  en: act
+  word_type: noun
+  gender: masculine
+  plural_form: akty
+  key: 3c671bf5-00a1-4257-a82c-2247c4148d53
+- pl: dół
+  en: bottom
+  word_type: noun
+  gender: masculine
+  plural_form: doły
+  key: 48a40818-1cf3-42bf-97ca-168c9ba9ed16
+- pl: fan
+  en: fan
+  word_type: noun
+  gender: masculine
+  plural_form: fani
+  key: 3ab038e2-b3cf-4d38-8707-1002440aa6c3
+- pl: głośno
+  en: loudly
+  word_type: adverb
+  key: 52415194-2fc1-4089-a459-4ce99b2bb209
+- pl: idealnie
+  en: perfectly
+  word_type: adverb
+  key: 48fa56eb-54a3-4909-af25-932c8425c568
+- pl: klient
+  en: client
+  word_type: noun
+  gender: masculine
+  plural_form: klienci
+  key: 8730f852-e9c9-4fee-91ee-dba4ceb42196
+- pl: niemożliwy
+  en: impossible
+  word_type: adjective
+  positive: niemożliwy
+  key: f4636436-7e66-4bb8-ac1e-494f9b9b55f8
+- pl: ochota
+  en: desire
+  word_type: noun
+  gender: feminine
+  plural_form: ochoty
+  key: 8c635f51-bfd5-4845-b1b2-a7c320c3d60c
+- pl: odpowiedzialność
+  en: responsibility
+  word_type: noun
+  gender: feminine
+  plural_form: odpowiedzialności
+  key: 1cd4a2b5-ebbc-41e3-8353-018c4e3abd8c
+- pl: owszem
+  en: indeed
+  word_type: adverb
+  key: 647d481f-063a-4f0b-9482-a527ab12413a
+- pl: pole
+  en: field
+  word_type: noun
+  gender: neuter
+  plural_form: pola
+  key: 39185571-50ef-445f-b1e8-3af6a87b208c
+- pl: poseł
+  en: deputy (parliament member)
+  word_type: noun
+  gender: masculine
+  plural_form: posłowie
+  key: 43159c1c-6ff3-43ae-a366-a04ff4c32a3e
+- pl: przemysł
+  en: industry
+  word_type: noun
+  gender: masculine
+  plural_form: przemysły
+  key: a9afbed0-0932-449f-9dc4-854018d88eca
+- pl: reklama
+  en: advertisement
+  word_type: noun
+  gender: feminine
+  plural_form: reklamy
+  key: 1a7e59a6-0ee6-43ff-be1c-09b539e549fc
+- pl: stworzyć
+  en: to create
+  word_type: verb
+  perfective: stworzyć
+  first_person_singular: stworzę
+  first_person_plural: stworzymy
+  second_person_singular: stworzysz
+  second_person_plural: stworzycie
+  third_person_singular: stworzy
+  third_person_plural: stworzą
+  key: 5391a8e2-a574-4718-b1af-9aca3bd7a090
+- pl: transport
+  en: transport
+  word_type: noun
+  gender: masculine
+  plural_form: transporty
+  key: 684cd821-860a-428f-8988-8b219528d855
+- pl: utrzymywać
+  en: to maintain
+  word_type: verb
+  perfective: utrzymać
+  first_person_singular: ja utrzymuję
+  first_person_plural: my utrzymujemy
+  second_person_singular: ty utrzymujesz
+  second_person_plural: wy utrzymujecie
+  third_person_singular: on/ona/ono utrzymuje
+  third_person_plural: oni/one utrzymują
+  key: c06fc5b4-46a7-48a3-b189-81b73803c7a9
+- pl: wprost
+  en: directly
+  word_type: adverb
+  key: beebef5a-b92b-4350-918e-8440d25992a8
+- pl: wykorzystywać
+  en: to use (utilize)
+  word_type: verb
+  perfective: wykorzystać
+  first_person_singular: ja wykorzystuję
+  first_person_plural: my wykorzystujemy
+  second_person_singular: ty wykorzystujesz
+  second_person_plural: wy wykorzystujecie
+  third_person_singular: on/ona/ono wykorzystuje
+  third_person_plural: oni/one wykorzystują
+  key: 2097a1a5-e844-4beb-b011-fe01ed78f41d
+- pl: zakładać
+  en: to establish (found)
+  word_type: verb
+  perfective: założyć
+  first_person_singular: ja zakładam
+  first_person_plural: my zakładamy
+  second_person_singular: ty zakładasz
+  second_person_plural: wy zakładacie
+  third_person_singular: on/ona/ono zakłada
+  third_person_plural: oni/one zakładają
+  key: f44a53bd-5610-486f-8f23-e195224ba390
+- pl: zwracać
+  en: to return (give back)
+  word_type: verb
+  perfective: zwrócić
+  first_person_singular: ja zwracam
+  first_person_plural: my zwracamy
+  second_person_singular: ty zwracasz
+  second_person_plural: wy zwracacie
+  third_person_singular: on/ona/ono zwraca
+  third_person_plural: oni/one zwracają
+  key: db9d7b2c-58d3-4fd3-8bf8-330d4e84fcbb
+- pl: śmieć
+  en: trash (garbage)
+  word_type: noun
+  gender: masculine
+  plural_form: śmieci
+  key: a5b81a0e-816d-4e88-ba6d-f24f2bd6cb56
+- pl: czynić
+  en: to do (make)
+  word_type: verb
+  first_person_singular: ja czynię
+  first_person_plural: my czynimy
+  second_person_singular: ty czynisz
+  second_person_plural: wy czynicie
+  third_person_singular: on/ona/ono czyni
+  third_person_plural: oni/one czynią
+  key: 1596cb7e-67db-4923-a580-3561c8286676
+- pl: dokument
+  en: document
+  word_type: noun
+  gender: masculine
+  plural_form: dokumenty
+  key: d458924c-6e4d-4ec9-b0b0-d2c7b764c0b1
+- pl: emocja
+  en: emotion
+  word_type: noun
+  gender: feminine
+  plural_form: emocje
+  key: a51abce7-1fdf-43db-bb6b-efaa8f7919a6
+- pl: międzynarodowy
+  en: international
+  word_type: adjective
+  positive: międzynarodowy
+  key: c956c21f-5b3e-4afb-99c1-672cec304814
+- pl: nieważny
+  en: unimportant
+  word_type: adjective
+  positive: nieważny
+  comparative: mniej ważny
+  superlative: najmniej ważny
+  key: 2015918d-d0bd-41dd-bd00-451d1e37087d
+- pl: opowiadać
+  en: to tell (narrate)
+  word_type: verb
+  perfective: opowiedzieć
+  first_person_singular: ja opowiadam
+  first_person_plural: my opowiadamy
+  second_person_singular: ty opowiadasz
+  second_person_plural: wy opowiadacie
+  third_person_singular: on/ona/ono opowiada
+  third_person_plural: oni/one opowiadają
+  key: d747762a-dcdd-4895-a075-06fa79f1fad8
+- pl: perspektywa
+  en: perspective
+  word_type: noun
+  gender: feminine
+  plural_form: perspektywy
+  key: 69d58f21-a69a-471f-942f-baa4ed2ebf9c
+- pl: pogląd
+  en: view (opinion)
+  word_type: noun
+  gender: masculine
+  plural_form: poglądy
+  key: 57b95b2d-628b-495d-8d21-8ec3e5cbd065
+- pl: stwierdzać
+  en: to state (determine)
+  word_type: verb
+  perfective: stwierdzić
+  first_person_singular: ja stwierdzam
+  first_person_plural: my stwierdzamy
+  second_person_singular: ty stwierdzasz
+  second_person_plural: wy stwierdzacie
+  third_person_singular: on/ona/ono stwierdza
+  third_person_plural: oni/one stwierdzają
+  key: 76842e57-32d2-4ffa-8df4-27813b812694
+- pl: słabo
+  en: weakly (poorly)
+  word_type: adverb
+  key: 8ed4115c-fe23-4a73-921e-dbeb677436a3
+- pl: tradycja
+  en: tradition
+  word_type: noun
+  gender: feminine
+  plural_form: tradycje
+  key: 403e1247-c71d-407f-941f-d5112718fb0e
+- pl: uczelnia
+  en: university
+  word_type: noun
+  gender: feminine
+  plural_form: uczelnie
+  key: 28d8fa28-83bb-4433-81e6-e2261c9396cc
+- pl: uzyskiwać
+  en: to obtain
+  word_type: verb
+  first_person_singular: ja uzyskuję
+  first_person_plural: my uzyskujemy
+  second_person_singular: ty uzyskujesz
+  second_person_plural: wy uzyskujecie
+  third_person_singular: on/ona/ono uzyskuje
+  third_person_plural: oni/one uzyskują
+  perfective: uzyskać
+  key: f74ae928-76aa-4b64-9617-2d15a3afc05f
+- pl: wykonany
+  en: executed
+  word_type: adjective
+  positive: wykonany
+  key: d4ef5054-c193-49f4-9bf2-771e9c86a120
+- pl: wzdłuż
+  en: along
+  word_type: preposition
+  key: c38e05ca-40b9-4220-bf40-a0b0a8108475
+- pl: właściciel
+  en: owner
+  word_type: noun
+  gender: masculine
+  plural_form: właściciele
+  key: 7308e356-adf1-411a-9a1e-36091868701e
+- pl: zamiana
+  en: exchange
+  word_type: noun
+  gender: feminine
+  plural_form: zamiany
+  key: b681ca93-05a1-4cb0-ab05-1f227a12a92a
+- pl: chronić
+  en: to protect
+  word_type: verb
+  first_person_singular: ja chronię
+  first_person_plural: my chronimy
+  second_person_singular: ty chronisz
+  second_person_plural: wy chronicie
+  third_person_singular: on/ona/ono chroni
+  third_person_plural: oni/one chronią
+  perfective: ochronić
+  key: 6cfc2f9a-9201-4c87-b7de-f9758387099f
+- pl: fragment
+  en: fragment
+  word_type: noun
+  gender: masculine
+  plural_form: fragmenty
+  key: 0b2e20a0-8d88-40ef-930b-3ef0fe2f4469
+- pl: kandydat
+  en: candidate
+  word_type: noun
+  gender: masculine
+  plural_form: kandydaci
+  key: d38b9b36-538f-4869-9db9-8366932d027a
+- pl: marsz
+  en: march
+  word_type: noun
+  gender: masculine
+  plural_form: marsze
+  key: 653261a4-4f73-4633-98d1-154970a22356
+- pl: ministerstwo
+  en: ministry
+  word_type: noun
+  gender: neuter
+  plural_form: ministerstwa
+  key: 81089098-6673-4e35-9296-6142b94e8cb2
+- pl: myślenie
+  en: thinking
+  word_type: noun
+  gender: neuter
+  plural_form: myślenia
+  key: 1d3fee7e-f4bf-4c63-8e6f-bb122e504dac
+- pl: najgorszy
+  en: worst
+  word_type: adjective
+  positive: zły
+  comparative: gorszy
+  superlative: najgorszy
+  key: c6275102-9fb5-4a77-acec-f76d2423eb6e
+- pl: nienawiść
+  en: hatred
+  word_type: noun
+  gender: feminine
+  plural_form: nienawiści
+  key: 4d2952bb-fec2-4f23-a04f-45b64c39638c
+- pl: obejmować
+  en: to include
+  word_type: verb
+  first_person_singular: ja obejmuję
+  first_person_plural: my obejmujemy
+  second_person_singular: ty obejmujesz
+  second_person_plural: wy obejmujecie
+  third_person_singular: on/ona/ono obejmuje
+  third_person_plural: oni/one obejmują
+  perfective: objąć
+  key: 431775f1-c0b4-44a8-89bd-806fd6efd43b
+- pl: oddawać
+  en: to give back
+  word_type: verb
+  first_person_singular: ja oddaję
+  first_person_plural: my oddajemy
+  second_person_singular: ty oddajesz
+  second_person_plural: wy oddajecie
+  third_person_singular: on/ona/ono oddaje
+  third_person_plural: oni/one oddają
+  perfective: oddać
+  key: b61a6868-c519-4cce-b657-009277f2f296

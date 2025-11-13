@@ -1,0 +1,10 @@
+<!--
+  Template for the front side of the flashcard (question)
+
+  Available placeholders:
+  - {{native_word}}: The word in the user's native language
+  - {{word_type}}: The type of word (noun, verb, adjective, etc.)
+-->
+
+{{native_word}}
+{{word_type}}

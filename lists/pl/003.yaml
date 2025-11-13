@@ -1,0 +1,351 @@
+- pl: rok
+  en: year
+  word_type: noun
+  gender: masculine
+  plural_form: lata
+  key: 03eaefdc-7992-45e5-8813-122acb914850
+- pl: data
+  en: date (calendar)
+  word_type: noun
+  gender: feminine
+  plural_form: daty
+  key: 3a2e65dc-72b7-4971-8151-d578c788709d
+- pl: urodziny
+  en: birthday
+  word_type: noun
+  gender: neuter
+  plural_form: urodziny
+  key: 92e667b7-0da9-42e3-9fa1-0fd91a8829b8
+- pl: święto
+  en: holiday
+  word_type: noun
+  gender: neuter
+  plural_form: święta
+  key: 9d364a2d-f845-4bf5-afce-950d53235ca3
+- pl: wakacje
+  en: vacation
+  word_type: noun
+  gender: feminine
+  plural_form: wakacje
+  key: 50e16089-9208-4588-bec4-1036f2d2ca3c
+- pl: pora roku
+  en: season
+  word_type: noun
+  gender: feminine
+  plural_form: pory roku
+  key: b94ee5e0-d9f9-4de0-844e-399c59a5797d
+- pl: wąchać
+  en: to smell
+  word_type: verb
+  perfective: powąchać
+  first_person_singular: ja wącham
+  first_person_plural: my wąchamy
+  second_person_singular: ty wąchasz
+  second_person_plural: wy wąchacie
+  third_person_singular: on/ona/ono wącha
+  third_person_plural: oni/one wąchają
+  key: 178f3af0-7642-4a78-8ca5-2f0220ccaafe
+- pl: smakować
+  en: to taste
+  word_type: verb
+  perfective: posmakować
+  first_person_singular: ja smakuję
+  first_person_plural: my smakujemy
+  second_person_singular: ty smakujesz
+  second_person_plural: wy smakujecie
+  third_person_singular: on/ona/ono smakuje
+  third_person_plural: oni/one smakują
+  key: b9815141-fd4c-4b57-8ded-39b553406957
+- pl: zapach
+  en: smell
+  word_type: noun
+  gender: masculine
+  plural_form: zapachy
+  key: 1400a077-c6cd-4aff-af0c-a92230328df3
+- pl: aromat
+  en: scent
+  word_type: noun
+  gender: masculine
+  plural_form: aromaty
+  key: 81884389-8081-4573-81bf-d1ef2ed53ed9
+- pl: smak
+  en: taste (sense/ability)
+  word_type: noun
+  gender: masculine
+  plural_form: smaki
+  key: 0c723d54-1979-4bc3-ba83-806fcf3d01e2
+- pl: słodki
+  en: sweet
+  word_type: adjective
+  positive: słodki
+  comparative: słodszy
+  superlative: najsłodszy
+  key: f96ee7c3-ef4f-4fd0-80ea-28b81a4ba7d7
+- pl: kwaśny
+  en: sour
+  word_type: adjective
+  positive: kwaśny
+  comparative: kwaśniejszy
+  superlative: najkwaśniejszy
+  key: f9dbe9f8-a174-4d5d-84e8-5e88416adbd9
+- pl: gorzki
+  en: bitter
+  word_type: adjective
+  positive: gorzki
+  comparative: gorszy
+  superlative: najgorszy
+  key: 240a9636-3ce5-4f3e-9d35-52904deb9b68
+- pl: słony
+  en: salty
+  word_type: adjective
+  positive: słony
+  comparative: słoniejszy
+  superlative: najsłoniejszy
+  key: 6e0ff68c-a759-449b-b6fa-71ec5a0ab889
+- pl: pikantny
+  en: spicy
+  word_type: adjective
+  positive: pikantny
+  comparative: pikantniejszy
+  superlative: najpikantniejszy
+  key: c3019e7c-3c56-43a6-bc95-c6ed2cbe998c
+- pl: pyszny
+  en: delicious
+  word_type: adjective
+  positive: pyszny
+  comparative: pyszniejszy
+  superlative: najpyszniejszy
+  key: ae4d5aab-cc71-4058-a93d-403e53af5af8
+- pl: gładki
+  en: smooth
+  word_type: adjective
+  positive: gładki
+  comparative: gładszy
+  superlative: najgładszy
+  key: e95c1c56-0a9e-4790-a264-dae555080293
+- pl: szorstki
+  en: rough
+  word_type: adjective
+  positive: szorstki
+  comparative: bardziej szorstki
+  superlative: najbardziej szorstki
+  key: 14644e36-87e4-4c86-832a-9af8101432c2
+- pl: ostry
+  en: sharp
+  word_type: adjective
+  positive: ostry
+  comparative: ostrzejszy
+  superlative: najostrzejszy
+  key: 99120623-517e-4933-88f6-f11acbc1916a
+- pl: tępy
+  en: dull
+  word_type: adjective
+  positive: tępy
+  comparative: tępszy
+  superlative: najtępszy
+  key: 2366bdb7-a2c3-46de-ae9d-df5767142d07
+- pl: lepki
+  en: sticky
+  word_type: adjective
+  positive: lepki
+  comparative: lepszy
+  superlative: najlepszy
+  key: 3329f99a-4063-4481-8af8-1bea1dca7976
+- pl: śliski
+  en: slippery
+  word_type: adjective
+  positive: śliski
+  comparative: bardziej śliski
+  superlative: najbardziej śliski
+  key: ca16d8e1-e40c-416b-b6c9-ae93ecca5d82
+- pl: zły
+  en: angry
+  word_type: adjective
+  positive: zły
+  comparative: bardziej zły
+  superlative: najbardziej zły
+  key: 6489fa0f-f248-4d69-a70e-ac9800b88fb3
+- pl: uwaga
+  en: attention
+  word_type: noun
+  gender: feminine
+  plural_form: uwagi
+  key: 43183fda-3f2e-45eb-9a13-e50da2b29bdb
+- pl: zachowanie
+  en: behavior
+  word_type: noun
+  gender: neuter
+  plural_form: zachowania
+  key: 6faf705c-dee6-4289-bca2-dcafde4c6f5c
+- pl: znudzony
+  en: bored
+  word_type: adjective
+  positive: znudzony
+  comparative: bardziej znudzony
+  superlative: najbardziej znudzony
+  key: b70f3270-5059-4758-9b74-2c3bf904144f
+- pl: komfort
+  en: comfort
+  word_type: noun
+  gender: masculine
+  plural_form: komforty
+  key: 9179e697-bb48-40ec-91f1-281875c55290
+- pl: decydować
+  en: to decide
+  word_type: verb
+  perfective: zdecydować
+  first_person_singular: ja decyduję
+  first_person_plural: my decydujemy
+  second_person_singular: ty decydujesz
+  second_person_plural: wy decydujecie
+  third_person_singular: on/ona/ono decyduje
+  third_person_plural: oni/one decydują
+  key: c6037096-eab5-4bed-bab9-7abcd677f3b2
+- pl: decyzja
+  en: decision
+  word_type: noun
+  gender: feminine
+  plural_form: decyzje
+  key: f4acfec6-33c8-4b15-a155-886d7ff0a513
+- pl: pragnienie
+  en: desire
+  word_type: noun
+  gender: neuter
+  plural_form: pragnienia
+  key: 90e96195-13dc-41b3-a2b3-19690c68d480
+- pl: sen
+  en: dream
+  word_type: noun
+  gender: masculine
+  plural_form: sny
+  key: 1baaa37e-f07e-4050-a62f-ec276dcda85e
+- pl: cieszyć się
+  en: to enjoy
+  word_type: verb
+  perfective: ucieszyć się
+  first_person_singular: ja cieszę się
+  first_person_plural: my cieszymy się
+  second_person_singular: ty cieszysz się
+  second_person_plural: wy cieszycie się
+  third_person_singular: on/ona/ono cieszy się
+  third_person_plural: oni/one cieszą się
+  key: 1af758eb-4b03-4ad3-b098-9f4d2645fe00
+- pl: podekscytowany
+  en: excited
+  word_type: adjective
+  positive: podekscytowany
+  comparative: bardziej podekscytowany
+  superlative: najbardziej podekscytowany
+  key: 86e41977-fbda-48e9-ab7b-e7cf9a0fb6f0
+- pl: doświadczenie
+  en: experience
+  word_type: noun
+  gender: neuter
+  plural_form: doświadczenia
+  key: 8b186a60-252b-4aa5-b2f9-d320faa9fa0c
+- pl: strach
+  en: fear
+  word_type: noun
+  gender: masculine
+  plural_form: strachy
+  key: 039dc465-08d0-4370-85af-f771e281045d
+- pl: uczucie
+  en: feeling
+  word_type: noun
+  gender: neuter
+  plural_form: uczucia
+  key: b3b16a73-d881-4e3b-86f0-1aaa50122b5f
+- pl: szczęśliwy
+  en: happy
+  word_type: adjective
+  positive: szczęśliwy
+  comparative: szczęśliwszy
+  superlative: najszczęśliwszy
+  key: c445360e-3924-4550-ad62-97a17d3613bf
+- pl: nienawidzić
+  en: to hate
+  word_type: verb
+  perfective: znienawidzić
+  first_person_singular: ja nienawidzę
+  first_person_plural: my nienawidzimy
+  second_person_singular: ty nienawidzisz
+  second_person_plural: wy nienawidzicie
+  third_person_singular: on/ona/ono nienawidzi
+  third_person_plural: oni/one nienawidzą
+  key: 30c0991a-b1a2-4ad9-81f4-83099228a3f9
+- pl: nadzieja
+  en: hope
+  word_type: noun
+  gender: feminine
+  plural_form: nadzieje
+  key: f55bfb43-3148-4eb8-8239-2f700699cb01
+- pl: pomysł
+  en: idea
+  word_type: noun
+  gender: masculine
+  plural_form: pomysły
+  key: df764b0f-0e36-453d-b5b1-f722b2f0d605
+- pl: wyobrażać sobie
+  en: to imagine
+  word_type: verb
+  perfective: wyobrazić sobie
+  first_person_singular: ja wyobrażam sobie
+  first_person_plural: my wyobrażamy sobie
+  second_person_singular: ty wyobrażasz sobie
+  second_person_plural: wy wyobrażacie sobie
+  third_person_singular: on/ona/ono wyobraża sobie
+  third_person_plural: oni/one wyobrażają sobie
+  key: b3086070-18e2-4b81-a2f8-24f1f0a305a7
+- pl: zainteresowanie
+  en: interest
+  word_type: noun
+  gender: neuter
+  plural_form: zainteresowania
+  key: 4b95b4ab-4712-41f5-bce0-7566c1536241
+- pl: wiedza
+  en: knowledge
+  word_type: noun
+  gender: feminine
+  plural_form: wiedze
+  key: 5ac80fb0-4d64-4694-91b7-1eba412dc5c2
+- pl: miłość
+  en: love
+  word_type: noun
+  gender: feminine
+  plural_form: miłości
+  key: 0a772235-9b52-43b0-887d-d80760c8a7e9
+- pl: pamięć
+  en: memory
+  word_type: noun
+  gender: feminine
+  plural_form: pamięci
+  key: e47f5345-0234-4026-a441-73f538d929d5
+- pl: umysł
+  en: mind
+  word_type: noun
+  gender: masculine
+  plural_form: umysły
+  key: d0199780-131b-4918-8c18-a846581504ac
+- pl: opinia
+  en: opinion
+  word_type: noun
+  gender: feminine
+  plural_form: opinie
+  key: 2800b911-fea5-4ddb-ae35-b87b877588ac
+- pl: pokój
+  en: peace
+  word_type: noun
+  gender: masculine
+  plural_form: pokoje
+  key: 5ee7ff46-bace-4689-b853-9670a3c079a3
+- en: to remember
+  pl: pamiętać
+  word_type: verb
+  perfective: zapamiętać
+  first_person_singular: ja pamiętam
+  first_person_plural: my pamiętamy
+  second_person_singular: ty pamiętasz
+  second_person_plural: wy pamiętacie
+  third_person_singular: on/ona/ono pamięta
+  third_person_plural: oni/one pamiętają
+  key: 2dfdbcec-4593-4260-a00e-d3a84547359d

@@ -1,0 +1,311 @@
+- pl: otwarcie
+  en: opening
+  word_type: noun
+  gender: neuter
+  plural_form: otwarcia
+  key: 0d7595ac-0bbb-4871-951c-802ee4a56283
+- pl: podawać
+  en: to serve
+  word_type: verb
+  first_person_singular: ja podaję
+  second_person_singular: ty podajesz
+  third_person_singular: on/ona/ono podaje
+  first_person_plural: my podajemy
+  second_person_plural: wy podajecie
+  third_person_plural: oni/one podają
+  perfective: podać
+  key: f4ac21d0-f044-47f0-b303-d295f61c957a
+- pl: podejście
+  en: approach
+  word_type: noun
+  gender: neuter
+  plural_form: podejścia
+  key: 222bcdf4-b955-4b1a-87f5-b475f3883061
+- pl: profesor
+  en: professor
+  word_type: noun
+  gender: masculine
+  plural_form: profesorowie
+  key: a24afdc7-b69e-45e2-b14c-e224ec59faa2
+- pl: prosto
+  en: straight
+  word_type: adverb
+  key: aa056bd8-3045-49e5-8cd2-60bd134a8e16
+- pl: scena
+  en: scene
+  word_type: noun
+  gender: feminine
+  plural_form: sceny
+  key: fec64da7-be64-463a-89a5-09a226a23dfb
+- pl: starać się
+  en: to try
+  word_type: verb
+  first_person_singular: ja staram się
+  second_person_singular: ty starasz się
+  third_person_singular: on/ona/ono stara się
+  first_person_plural: my staramy się
+  second_person_plural: wy staracie się
+  third_person_plural: oni/one starają się
+  perfective: postarać się
+  key: 63942edc-454c-4ee6-a6fa-f670e15bbce4
+- pl: słońce
+  en: sun
+  word_type: noun
+  gender: neuter
+  plural_form: słońca
+  key: 754c9c63-25eb-49d1-b79d-7624a730f8fe
+- pl: terytorium
+  en: territory
+  word_type: noun
+  gender: neuter
+  plural_form: terytoria
+  key: 8ab8627f-5ef6-4a0c-b31c-9cfc1b856a20
+- pl: zajęcie
+  en: occupation
+  word_type: noun
+  gender: neuter
+  plural_form: zajęcia
+  key: 291f505e-af28-45b7-b8c2-5a5b54f47440
+- pl: całość
+  en: entirety
+  word_type: noun
+  gender: feminine
+  plural_form: całości
+  key: 8c796286-be2c-4f38-88fb-667cbb53c3e2
+- pl: dziennikarz
+  en: journalist
+  word_type: noun
+  gender: masculine
+  plural_form: dziennikarze
+  key: 5b02f7e5-2113-4418-8d6e-ad473c4f2ad3
+- pl: długość
+  en: length
+  word_type: noun
+  gender: feminine
+  plural_form: długości
+  key: 56b940d7-346b-4b44-a9ab-735166d537b4
+- pl: finansowy
+  en: financial
+  word_type: adjective
+  positive: finansowy
+  key: 9fb7ddc8-b2da-43b4-988d-dfa7796103e3
+- pl: idealny
+  en: ideal
+  word_type: adjective
+  positive: idealny
+  comparative: bardziej idealny
+  superlative: najbardziej idealny
+  key: eda433c0-9870-48a5-9865-961deec0f817
+- pl: metoda
+  en: method
+  word_type: noun
+  gender: feminine
+  plural_form: metody
+  key: 67293cdf-f5bc-440c-9276-5e452a91b461
+- pl: niezwykle
+  en: extremely
+  word_type: adverb
+  key: 01922f28-e31b-4376-b2ce-273762af6c34
+- pl: ocena
+  en: assessment
+  word_type: noun
+  gender: feminine
+  plural_form: oceny
+  key: 096575ec-c850-49e4-953f-ca6fb92e3c21
+- pl: odpowiednio
+  en: accordingly
+  word_type: adverb
+  key: 8f38722e-3c4b-441b-9247-c5545209d700
+- pl: papież
+  en: pope
+  word_type: noun
+  gender: masculine
+  plural_form: papieże
+  key: d66f81b9-e7df-4642-acd0-6a7463ebf1e1
+- pl: podstawowy
+  en: basic
+  word_type: adjective
+  positive: podstawowy
+  comparative: bardziej podstawowy
+  superlative: najbardziej podstawowy
+  key: c7082bbc-23d2-48ae-a5d1-47523bd1e083
+- pl: poszczególny
+  en: individual
+  word_type: adjective
+  positive: poszczególny
+  key: 5a45a0db-44fb-4f7c-9de4-f559e478b48d
+- pl: prezent
+  en: gift
+  word_type: noun
+  gender: masculine
+  plural_form: prezenty
+  key: 56ec15bc-2464-46dc-b418-f87c6bd36822
+- pl: przestawać
+  en: to stop
+  word_type: verb
+  perfective: przestać
+  first_person_singular: ja przestaję
+  second_person_singular: ty przestajesz
+  third_person_singular: on/ona/ono przestaje
+  first_person_plural: my przestajemy
+  second_person_plural: wy przestajecie
+  third_person_plural: oni/one przestają
+  key: ab13b9ec-5513-42ab-8aaf-df65cb9da07e
+- pl: rak
+  en: cancer
+  word_type: noun
+  gender: masculine
+  plural_form: raki
+  key: 4ab10a01-c120-4f29-931b-320a4d7c7f58
+- pl: relacja
+  en: relation
+  word_type: noun
+  gender: feminine
+  plural_form: relacje
+  key: e6533305-f7cf-4091-91a9-34863ead3b92
+- pl: rosyjski
+  en: Russian
+  word_type: adjective
+  positive: rosyjski
+  key: 3814292c-c850-40a9-9353-49ae24fea2e6
+- pl: termin
+  en: deadline
+  word_type: noun
+  gender: masculine
+  plural_form: terminy
+  key: 41431362-21be-4c1b-8c62-a4931f84583c
+- pl: wielkość
+  en: size
+  word_type: noun
+  gender: feminine
+  plural_form: wielkości
+  key: 24f4ed40-8ed4-4539-80a6-01e3e0e0e2a5
+- pl: wielokrotnie
+  en: repeatedly
+  word_type: adverb
+  key: 79f19908-7d68-456a-996c-451240f9ebaf
+- pl: wstyd
+  en: shame
+  word_type: noun
+  gender: masculine
+  plural_form: wstydy
+  key: f413ea00-82d3-49cf-bee9-10d9d5a8a260
+- pl: wydanie
+  en: edition
+  word_type: noun
+  gender: neuter
+  plural_form: wydania
+  key: 6116afdb-90f7-45c6-8f02-ac80060385e3
+- pl: występować
+  en: to appear
+  word_type: verb
+  perfective: wystąpić
+  first_person_singular: ja występuję
+  second_person_singular: ty występujesz
+  third_person_singular: on/ona/ono występuje
+  first_person_plural: my występujemy
+  second_person_plural: wy występujecie
+  third_person_plural: oni/one występują
+  key: d476f0c7-4fb2-488b-b7bc-6454dec59b3e
+- pl: zdobywać
+  en: to gain
+  word_type: verb
+  perfective: zdobyć
+  first_person_singular: ja zdobywam
+  second_person_singular: ty zdobywasz
+  third_person_singular: on/ona/ono zdobywa
+  first_person_plural: my zdobywamy
+  second_person_plural: wy zdobywacie
+  third_person_plural: oni/one zdobywają
+  key: 6a5cae31-693e-4c94-8002-7e4ba9f420c5
+- pl: zwycięstwo
+  en: victory
+  word_type: noun
+  gender: neuter
+  plural_form: zwycięstwa
+  key: 1e05142c-5a9c-4f45-b931-cc39bfe7e20a
+- pl: auto
+  en: car
+  word_type: noun
+  gender: neuter
+  plural_form: auta
+  key: c3d7f152-01f7-49d3-a919-c34ee60e6f72
+- pl: gwiazda
+  en: star
+  word_type: noun
+  gender: feminine
+  plural_form: gwiazdy
+  key: f83a461d-6edf-47b8-bc16-fd6ac1fe7bef
+- pl: handel
+  en: trade
+  word_type: noun
+  gender: masculine
+  plural_form: handle
+  key: 55612018-477f-4bd9-af5b-9f027f860f8d
+- pl: obecny
+  en: current
+  word_type: adjective
+  positive: obecny
+  comparative: bardziej obecny
+  superlative: najbardziej obecny
+  key: 5ed68eec-1dae-487d-8960-00aec358d076
+- pl: początkowo
+  en: initially
+  word_type: adverb
+  key: 3bbc08b3-6a09-4cb2-9114-c9e5c6d7c68d
+- pl: połączenie
+  en: connection
+  word_type: noun
+  gender: neuter
+  plural_form: połączenia
+  key: f3f879d7-ce5a-4f3a-badb-036dc149d072
+- pl: regularnie
+  en: regularly
+  word_type: adverb
+  key: 7efd3529-c35a-434e-806f-5c51535b5be2
+- pl: społeczność
+  en: community
+  word_type: noun
+  gender: feminine
+  plural_form: społeczności
+  key: 9648d179-b253-4224-b7a6-991c7c69066e
+- pl: sprzed
+  en: from before
+  word_type: preposition
+  key: 161282f3-f83b-4aa4-a50d-f6736540a56e
+- pl: statystyka
+  en: statistic
+  word_type: noun
+  gender: feminine
+  plural_form: statystyki
+  key: 3a40a2ec-faaf-4dd4-bcbc-c3a94ca4c328
+- pl: tył
+  en: back (rear)
+  word_type: noun
+  gender: masculine
+  plural_form: tyły
+  key: 89d6bcfe-92a2-4fcf-9b7f-123248f71d0f
+- pl: uchodźca
+  en: refugee
+  word_type: noun
+  gender: masculine
+  plural_form: uchodźcy
+  key: 9ff4b5f3-120c-40a0-9d9d-f3f4d72887ca
+- pl: wyjście
+  en: exit
+  word_type: noun
+  gender: neuter
+  plural_form: wyjścia
+  key: 6e430dde-e28f-4a81-bffb-880bc40de3c6
+- pl: wyrok
+  en: verdict
+  word_type: noun
+  gender: masculine
+  plural_form: wyroki
+  key: a20ae7f8-5505-42ea-ae07-ddaef27d3b88
+- pl: zabawa
+  en: fun
+  word_type: noun
+  gender: feminine
+  plural_form: zabawy
+  key: a68fbdeb-a368-4aa4-b5ac-ce0b6a99e3fc
