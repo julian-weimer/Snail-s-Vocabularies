@@ -1,0 +1,26 @@
+<!--
+  Template for the back side of the flashcard (answer)
+
+  Available placeholders:
+  - {{native_word}}: The word in the user's native language
+  - {{target_word}}: The word in the target language
+  - {{word_type}}: The type of word (noun, verb, adjective, etc.)
+  - {{sound}}: Audio
+  - {{image}}: Image
+  - {{image_source}}: Attribution for the image source
+  - {{gender}}: Gender of nouns
+  - {{plural_form}}: Plural form of nouns
+  - {{dl}}: Definition list for verb conjugations or adjective forms
+  - {{comment}}: Comment
+-->
+
+{{image_source}}
+{{image}}
+{{sound}}
+{{word_type}}
+{{target_word}}
+{{gender}}
+{{plural_form}}
+{{dl}}
+{{native_word}}
+{{comment}}

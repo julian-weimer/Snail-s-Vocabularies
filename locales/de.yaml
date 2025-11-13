@@ -1,0 +1,40 @@
+de:
+  word_types:
+    noun: Substantiv
+    adjective: Adjektiv
+    verb: Verb
+    adverb: Adverb
+    pronoun: Pronomen
+    conjunction: Konjunktion
+    preposition: Präposition
+    other: andere
+    all: alle
+  adjective_additions:
+    positive: Positiv
+    comparative: Komparativ
+    superlative: Superlativ
+  noun_additions:
+    gender:
+      masculine: m.
+      feminine: f.
+      neuter: n.
+    plural_form: Pl.
+  verb_additions:
+    first_person_singular: 1. Pers. Sg.
+    first_person_plural: 1. Pers. Pl.
+    second_person_singular: 2. Pers. Sg.
+    second_person_plural: 2. Pers. Pl.
+    third_person_singular: 3. Pers. Sg.
+    third_person_plural: 3. Pers. Pl.
+  deck_titles:
+    deck_title_nl: Niederländisch Deck
+    deck_title_en: Englisch Deck
+    deck_title_fr: Französisch Deck
+    deck_title_de: Deutsch Deck
+    deck_title_it: Italienisch Deck
+    deck_title_pl: Polnisch Deck
+    deck_title_pt: Portugiesisch Deck
+    deck_title_ro: Rumänisch Deck
+    deck_title_ru: Russisch Deck
+    deck_title_es: Spanisch Deck
+    deck_title_uk: Ukrainisch Deck

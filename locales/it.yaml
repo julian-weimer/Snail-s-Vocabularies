@@ -1,0 +1,39 @@
+it:
+  word_types:
+    noun: sostantivo
+    adjective: aggettivo
+    verb: verbo
+    adverb: avverbio
+    pronoun: pronome
+    conjunction: congiunzione
+    preposition: preposizione
+    other: altro
+    all: tutti
+  adjective_additions:
+    positive: positivo
+    comparative: comparativo
+    superlative: superlativo
+  gender:
+    masculine: m.
+    feminine: f.
+    neuter: n.
+  plural_form: pl.
+  verb_additions:
+    first_person_singular: 1ª pers. sg.
+    first_person_plural: 1ª pers. pl.
+    second_person_singular: 2ª pers. sg.
+    second_person_plural: 2ª pers. pl.
+    third_person_singular: 3ª pers. sg.
+    third_person_plural: 3ª pers. pl.
+  deck_titles:
+    deck_title_nl: Mazzo Olandese
+    deck_title_en: Mazzo Inglese
+    deck_title_fr: Mazzo Francese
+    deck_title_de: Mazzo Tedesco
+    deck_title_it: Mazzo Italiano
+    deck_title_pl: Mazzo Polacco
+    deck_title_pt: Mazzo Portoghese
+    deck_title_ro: Mazzo Rumeno
+    deck_title_ru: Mazzo Russo
+    deck_title_es: Mazzo Spagnolo
+    deck_title_uk: Mazzo Ucraino

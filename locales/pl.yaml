@@ -1,0 +1,39 @@
+pl:
+  word_types:
+    noun: rzeczownik
+    adjective: przymiotnik
+    verb: czasownik
+    adverb: przysłówek
+    pronoun: zaimek
+    conjunction: spójnik
+    preposition: przyimek
+    other: inne
+    all: wszystkie
+  adjective_additions:
+    positive: pozytyw
+    comparative: komparatyw
+    superlative: superlatyw
+  gender:
+    masculine: m.
+    feminine: f.
+    neuter: n.
+  plural_form: lm.
+  verb_additions:
+    first_person_singular: 1. os. lp.
+    first_person_plural: 1. os. lm.
+    second_person_singular: 2. os. lp.
+    second_person_plural: 2. os. lm.
+    third_person_singular: 3. os. lp.
+    third_person_plural: 3. os. lm.
+  deck_titles:
+    deck_title_nl: Talia Holenderska
+    deck_title_en: Talia Angielska
+    deck_title_fr: Talia Francuska
+    deck_title_de: Talia Niemiecka
+    deck_title_it: Talia Włoska
+    deck_title_pl: Talia Polska
+    deck_title_pt: Talia Portugalska
+    deck_title_ro: Talia Rumuńska
+    deck_title_ru: Talia Rosyjska
+    deck_title_es: Talia Hiszpańska
+    deck_title_uk: Talia Ukraińska

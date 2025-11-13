@@ -1,0 +1,39 @@
+pt-pt:
+  word_types:
+    noun: substantivo
+    adjective: adjetivo
+    verb: verbo
+    adverb: advérbio
+    pronoun: pronome
+    conjunction: conjunção
+    preposition: preposição
+    other: outro
+    all: todos
+  adjective_additions:
+    positive: positivo
+    comparative: comparativo
+    superlative: superlativo
+  gender:
+    masculine: m.
+    feminine: f.
+    neuter: n.
+  plural_form: pl.
+  verb_additions:
+    first_person_singular: 1.ª p. sg.
+    first_person_plural: 1.ª p. pl.
+    second_person_singular: 2.ª p. sg.
+    second_person_plural: 2.ª p. pl.
+    third_person_singular: 3.ª p. sg.
+    third_person_plural: 3.ª p. pl.
+  deck_titles:
+    deck_title_nl: Baralho de Holandês
+    deck_title_en: Baralho de Inglês
+    deck_title_fr: Baralho de Francês
+    deck_title_de: Baralho de Alemão
+    deck_title_it: Baralho de Italiano
+    deck_title_pl: Baralho de Polaco
+    deck_title_pt: Baralho de Português
+    deck_title_ro: Baralho de Romeno
+    deck_title_ru: Baralho de Russo
+    deck_title_es: Baralho de Espanhol
+    deck_title_uk: Baralho de Ucraniano

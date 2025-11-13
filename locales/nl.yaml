@@ -1,0 +1,40 @@
+nl:
+  word_types:
+    noun: zelfstandig naamwoord
+    adjective: bijvoeglijk naamwoord
+    verb: werkwoord
+    adverb: bijwoord
+    pronoun: voornaamwoord
+    conjunction: voegwoord
+    preposition: voorzetsel
+    other: andere
+    all: alle
+  adjective_additions:
+    positive: positief
+    comparative: comparatief
+    superlative: superlatief
+  noun_additions:
+    gender:
+      masculine: m.
+      feminine: v.
+      neuter: o.
+    plural_form: mv.
+  verb_additions:
+    first_person_singular: 1e pers. enkv.
+    first_person_plural: 1e pers. mv.
+    second_person_singular: 2e pers. enkv.
+    second_person_plural: 2e pers. mv.
+    third_person_singular: 3e pers. enkv.
+    third_person_plural: 3e pers. mv.
+  deck_titles:
+    deck_title_nl: Nederlands Deck
+    deck_title_en: Engels Deck
+    deck_title_fr: Frans Deck
+    deck_title_de: Duits Deck
+    deck_title_it: Italiaans Deck
+    deck_title_pl: Pools Deck
+    deck_title_pt: Portugees Deck
+    deck_title_ro: Roemeens Deck
+    deck_title_ru: Russisch Deck
+    deck_title_es: Spaans Deck
+    deck_title_uk: Oekraïens Deck

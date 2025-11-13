@@ -1,0 +1,39 @@
+uk:
+  word_types:
+    noun: іменник
+    adjective: прикметник
+    verb: дієслово
+    adverb: прислівник
+    pronoun: займенник
+    conjunction: сполучник
+    preposition: прийменник
+    other: інше
+    all: всі
+  adjective_additions:
+    positive: позитивний ступінь
+    comparative: вищий ступінь
+    superlative: найвищий ступінь
+  gender:
+    masculine: ч.
+    feminine: ж.
+    neuter: с.
+  plural_form: мн.
+  verb_additions:
+    first_person_singular: 1-а ос. одн.
+    first_person_plural: 1-а ос. мн.
+    second_person_singular: 2-а ос. одн.
+    second_person_plural: 2-а ос. мн.
+    third_person_singular: 3-я ос. одн.
+    third_person_plural: 3-я ос. мн.
+  deck_titles:
+    deck_title_nl: Голландська колода
+    deck_title_en: Англійська колода
+    deck_title_fr: Французька колода
+    deck_title_de: Німецька колода
+    deck_title_it: Італійська колода
+    deck_title_pl: Польська колода
+    deck_title_pt: Португальська колода
+    deck_title_ro: Румунська колода
+    deck_title_ru: Російська колода
+    deck_title_es: Іспанська колода
+    deck_title_uk: Українська колода

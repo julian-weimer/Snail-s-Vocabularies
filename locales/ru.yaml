@@ -1,0 +1,39 @@
+ru:
+  word_types:
+    noun: существительное
+    adjective: прилагательное
+    verb: глагол
+    adverb: наречие
+    pronoun: местоимение
+    conjunction: союз
+    preposition: предлог
+    other: другое
+    all: все
+  adjective_additions:
+    positive: положительная степень
+    comparative: сравнительная степень
+    superlative: превосходная степень
+  gender:
+    masculine: м.
+    feminine: ж.
+    neuter: ср.
+  plural_form: мн. ч.
+  verb_additions:
+    first_person_singular: 1-е л. ед. ч.
+    first_person_plural: 1-е л. мн. ч.
+    second_person_singular: 2-е л. ед. ч.
+    second_person_plural: 2-е л. мн. ч.
+    third_person_singular: 3-е л. ед. ч.
+    third_person_plural: 3-е л. мн. ч.
+  deck_titles:
+    deck_title_nl: Нидерландская колода
+    deck_title_en: Английская колода
+    deck_title_fr: Французская колода
+    deck_title_de: Немецкая колода
+    deck_title_it: Итальянская колода
+    deck_title_pl: Польская колода
+    deck_title_pt: Португальская колода
+    deck_title_ro: Румынская колода
+    deck_title_ru: Русская колода
+    deck_title_es: Испанская колода
+    deck_title_uk: Украинская колода
