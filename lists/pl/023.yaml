@@ -1,0 +1,309 @@
+- pl: opozycja
+  en: opposition
+  word_type: noun
+  gender: feminine
+  plural_form: opozycje
+  key: 2a4157ba-091d-4fa0-a36f-b156ab0da56e
+- pl: szef
+  en: boss
+  word_type: noun
+  gender: masculine
+  plural_form: szefowie
+  key: fb4a35f5-2e21-459c-a414-ed9fab59aa7d
+- pl: tymczasem
+  en: meanwhile
+  word_type: adverb
+  key: da2c46e0-31f5-46f7-a2c0-7176fbb1e8a0
+- pl: uniwersytet
+  en: university
+  word_type: noun
+  gender: masculine
+  plural_form: uniwersytety
+  key: 2494ecb2-e651-4c57-b83e-9e4a5d3eb72b
+- pl: witać
+  en: to greet
+  word_type: verb
+  perfective: powitać
+  first_person_singular: ja witam
+  second_person_singular: ty witasz
+  third_person_singular: on/ona/ono wita
+  first_person_plural: my witamy
+  second_person_plural: wy witacie
+  third_person_plural: oni/one witają
+  key: ed0c4ecb-8548-4c46-a203-e96d9219950a
+- pl: wychodzić
+  en: to go out
+  word_type: verb
+  perfective: wyjść
+  first_person_singular: ja wychodzę
+  second_person_singular: ty wychodzisz
+  third_person_singular: on/ona/ono wychodzi
+  first_person_plural: my wychodzimy
+  second_person_plural: wy wychodzicie
+  third_person_plural: oni/one wychodzą
+  key: 1cf3b020-2f44-47ab-a501-fb863ecbbff5
+- pl: środek
+  en: center
+  word_type: noun
+  gender: masculine
+  plural_form: środki
+  key: 83ca391e-a158-402f-9bb7-5ba7e63363da
+- pl: jedyny
+  en: only
+  word_type: adjective
+  positive: jedyny
+  key: bac04cb6-efee-4052-a8f3-7c2158feb563
+- pl: kontrola
+  en: control
+  word_type: noun
+  gender: feminine
+  plural_form: kontrole
+  key: 0ad2b347-9211-4d6d-93cb-72420f9d5abf
+- pl: podobny
+  en: similar
+  word_type: adjective
+  positive: podobny
+  comparative: bardziej podobny
+  superlative: najbardziej podobny
+  key: 458f1b35-8057-46f0-9ace-1c7ca8080eea
+- pl: Polak
+  en: Pole (Polish person)
+  word_type: noun
+  gender: masculine
+  plural_form: Polacy
+  key: 9ed403e5-a644-4bd8-8a0a-c077d10b9a82
+- pl: reszta
+  en: rest
+  word_type: noun
+  gender: feminine
+  plural_form: reszty
+  key: 57ea9bbe-e2a5-4b6c-bbe1-6bcb7bc9deca
+- pl: rzeczywiście
+  en: really
+  word_type: adverb
+  key: 0f22132a-d673-4629-9cea-51c1361fa7b0
+- pl: stawać
+  en: to stand
+  word_type: verb
+  perfective: stanąć
+  first_person_singular: ja staję
+  second_person_singular: ty stajesz
+  third_person_singular: on/ona/ono staje
+  first_person_plural: my stajemy
+  second_person_plural: wy stajecie
+  third_person_plural: oni/one stają
+  key: cdb16e12-4a93-4a43-9a0a-a26ff78808b0
+- pl: strasznie
+  en: terribly
+  word_type: adverb
+  key: 924c3697-9c0b-472c-9cd9-70f943fdb85f
+- pl: sukces
+  en: success
+  word_type: noun
+  gender: masculine
+  plural_form: sukcesy
+  key: ce234178-d34f-4ef4-850c-7eb27435854a
+- pl: trwać
+  en: to last
+  word_type: verb
+  perfective: przetrwać
+  first_person_singular: ja trwam
+  second_person_singular: ty trwasz
+  third_person_singular: on/ona/ono trwa
+  first_person_plural: my trwamy
+  second_person_plural: wy trwacie
+  third_person_plural: oni/one trwają
+  key: ea5ce089-8f62-44fe-8b36-4ddd67f0e145
+- pl: wieczorem
+  en: in the evening
+  word_type: adverb
+  key: 4caab84d-6d19-456e-8908-b7946bb89718
+- pl: wypowiedź
+  en: statement
+  word_type: noun
+  gender: feminine
+  plural_form: wypowiedzi
+  key: c8bb366f-fb8e-4695-b690-bdf8b1a4d5a9
+- pl: zadanie
+  en: task
+  word_type: noun
+  gender: neuter
+  plural_form: zadania
+  key: 8a819d24-d7db-429e-9f7c-57d403071a72
+- pl: armia
+  en: army
+  word_type: noun
+  gender: feminine
+  plural_form: armie
+  key: eab06379-ed48-45ca-8e05-86203d006e81
+- pl: dawny
+  en: former
+  word_type: adjective
+  positive: dawny
+  key: 9dde08d1-848f-4731-a5a2-a3192858dad5
+- pl: jeśli
+  en: if
+  word_type: conjunction
+  key: 8b19c4c0-cdef-4f7a-a343-739c32c074f3
+- pl: kończyć
+  en: to finish
+  word_type: verb
+  perfective: skończyć
+  first_person_singular: ja kończę
+  second_person_singular: ty kończysz
+  third_person_singular: on/ona/ono kończy
+  first_person_plural: my kończymy
+  second_person_plural: wy kończycie
+  third_person_plural: oni/one kończą
+  key: 74f971c3-a205-4abf-8048-80eb9dfc118d
+- pl: los
+  en: fate
+  word_type: noun
+  gender: masculine
+  plural_form: losy
+  key: 2f673653-ef1f-4e93-9e16-680217c9361d
+- pl: pozycja
+  en: position
+  word_type: noun
+  gender: feminine
+  plural_form: pozycje
+  key: af20d2c2-9462-4236-a33d-5b623bb3ff7b
+- pl: społeczny
+  en: social
+  word_type: adjective
+  positive: społeczny
+  comparative: bardziej społeczny
+  superlative: najbardziej społeczny
+  key: c0b08d46-6220-4dbd-84f6-c06969591fdd
+- pl: wówczas
+  en: then (at that time)
+  word_type: adverb
+  key: aee8cff8-b7d5-4867-a550-7cbe0a8fb3de
+- pl: komentarz
+  en: comment
+  word_type: noun
+  gender: masculine
+  plural_form: komentarze
+  key: 37671d46-ec58-4bc8-8d01-57501d5f3a97
+- pl: narodowy
+  en: national
+  word_type: adjective
+  positive: narodowy
+  key: 824612c8-0502-47c0-a2c4-07cb17ff5dc6
+- pl: niedługo
+  en: soon
+  word_type: adverb
+  key: e71fef0e-b2c8-469b-9609-e51fb6907629
+- pl: okazywać się
+  en: to turn out
+  word_type: verb
+  perfective: okazać się
+  first_person_singular: ja okazuję się
+  second_person_singular: ty okazujesz się
+  third_person_singular: on/ona/ono okazuje się
+  first_person_plural: my okazujemy się
+  second_person_plural: wy okazujecie się
+  third_person_plural: oni/one okazują się
+  key: e0a407a3-b73b-408d-951d-19ccaac5dd72
+- pl: osobiście
+  en: personally
+  word_type: adverb
+  key: 42f8dbcb-1207-4337-9e08-8a63f34d0f76
+- pl: powierzchnia
+  en: surface
+  word_type: noun
+  gender: feminine
+  plural_form: powierzchnie
+  key: 3d330903-e6fc-45d4-bde2-297948852de4
+- pl: powoli
+  en: slowly
+  word_type: adverb
+  key: 64bb6056-a11d-4096-a99d-c5c260cd6b38
+- pl: region
+  en: region
+  word_type: noun
+  gender: masculine
+  plural_form: regiony
+  key: a22760bb-fb40-41bf-99a8-c0ddc7134093
+- pl: wschodni
+  en: eastern
+  word_type: adjective
+  positive: wschodni
+  key: 29bc0b28-f433-421a-bf7d-d748b834ad89
+- pl: wynikać
+  en: to result
+  word_type: verb
+  perfective: wyniknąć
+  first_person_singular: ja wynikam
+  second_person_singular: ty wynikasz
+  third_person_singular: on/ona/ono wynika
+  first_person_plural: my wynikamy
+  second_person_plural: wy wynikacie
+  third_person_plural: oni/one wynikają
+  key: 993e167f-10af-4bb9-a194-7107ad81fedf
+- pl: wzrost
+  en: growth
+  word_type: noun
+  gender: masculine
+  plural_form: wzrosty
+  key: e37c3bc1-bf4c-4bd0-9081-b4a35b0b956c
+- pl: chętnie
+  en: willingly
+  word_type: adverb
+  key: a5f2144b-7670-4b87-bd53-7eff5c9a8a33
+- pl: atak
+  en: attack
+  word_type: noun
+  gender: masculine
+  plural_form: ataki
+  key: 405a3d39-816b-4f99-8a97-c86d02bc15ab
+- pl: bycie
+  en: being
+  word_type: noun
+  gender: neuter
+  plural_form: bycia
+  key: 8e24d827-6dcc-4890-b7bb-0fe9335563d9
+- pl: dyskusja
+  en: discussion
+  word_type: noun
+  gender: feminine
+  plural_form: dyskusje
+  key: 035ef14b-18f5-4924-9f89-5b5e7b26db7e
+- pl: dłużej
+  en: longer
+  word_type: adverb
+  key: 830bc5b1-84df-4c4f-aabe-f15a7b63c4b2
+- pl: facet
+  en: guy
+  word_type: noun
+  gender: masculine
+  plural_form: faceci
+  key: 7ba944a1-a060-479e-8a8d-6a8b79ebe30c
+- pl: kod
+  en: code
+  word_type: noun
+  gender: masculine
+  plural_form: kody
+  key: 4d5a56e3-d846-4ac9-8b68-118eb202c476
+- pl: kontakt
+  en: contact
+  word_type: noun
+  gender: masculine
+  plural_form: kontakty
+  key: 51afbcb1-d3a2-42ca-89bb-8f140a8849e5
+- pl: liceum
+  en: high school
+  word_type: noun
+  gender: neuter
+  plural_form: licea
+  key: f7330b42-02dd-4d83-8f38-af971065dfd1
+- pl: ludność
+  en: population
+  word_type: noun
+  gender: feminine
+  plural_form: ludności
+  key: 2fb979a7-0f5d-47ea-b033-fda7004a841b
+- pl: niedawno
+  en: recently
+  word_type: adverb
+  key: ce135399-9fea-47ce-aa87-1531865c7fc0

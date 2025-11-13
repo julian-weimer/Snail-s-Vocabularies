@@ -1,0 +1,322 @@
+- pl: ofiara
+  en: victim
+  word_type: noun
+  gender: feminine
+  plural_form: ofiary
+  key: 88140266-77f3-4a9f-b834-dffbff1221be
+- pl: operacja
+  en: operation
+  word_type: noun
+  gender: feminine
+  plural_form: operacje
+  key: 0da4c499-4589-474b-a5ef-68f211b70437
+- pl: powyżej
+  en: above
+  word_type: preposition
+  key: 4a8e833c-8738-4653-90d0-f43df7e3f419
+- pl: północny
+  en: northern
+  word_type: adjective
+  positive: północny
+  key: 835ceae3-221d-4b16-9665-de65c15d4b27
+- pl: rzadko
+  en: rarely
+  word_type: adverb
+  key: 5b0f5c70-022f-4d7a-9763-29c91d6d64df
+- pl: spotykać
+  en: to meet
+  word_type: verb
+  perfective: spotkać
+  first_person_singular: ja spotykam
+  second_person_singular: ty spotykasz
+  third_person_singular: on/ona/ono spotyka
+  first_person_plural: my spotykamy
+  second_person_plural: wy spotykacie
+  third_person_plural: oni/one spotykają
+  key: 5a659b65-0c59-4925-b1ea-ff37d4f42586
+- pl: słyszeć
+  en: to hear
+  word_type: verb
+  perfective: usłyszeć
+  first_person_singular: ja słyszę
+  second_person_singular: ty słyszysz
+  third_person_singular: on/ona/ono słyszy
+  first_person_plural: my słyszymy
+  second_person_plural: wy słyszycie
+  third_person_plural: oni/one słyszą
+  key: daead6c1-ab4a-4b86-8bba-a1c9ed63166c
+- pl: układ
+  en: system
+  word_type: noun
+  gender: masculine
+  plural_form: układy
+  key: 53a3205e-0a89-40c1-bd02-d99f335b6541
+- pl: umowa
+  en: agreement
+  word_type: noun
+  gender: feminine
+  plural_form: umowy
+  key: 91c71e45-f5b1-4f7a-8501-0faada374adf
+- pl: uwielbiać
+  en: to adore
+  word_type: verb
+  first_person_singular: ja uwielbiam
+  second_person_singular: ty uwielbiasz
+  third_person_singular: on/ona/ono uwielbia
+  first_person_plural: my uwielbiamy
+  second_person_plural: wy uwielbiacie
+  third_person_plural: oni/one uwielbiają
+  comment: This verb does not have a perfective form
+  key: 1ac9a7f3-3e17-4100-a634-2c055b5209cc
+- pl: wspólnie
+  en: together
+  word_type: adverb
+  key: 2694f0d7-acea-47d5-9935-4379a960b3fa
+- pl: zewnątrz
+  en: outside
+  word_type: adverb
+  key: 18bb5c77-91c2-4834-b732-9ea9f5e3ebf1
+- pl: znajomy
+  en: acquaintance
+  word_type: noun
+  gender: masculine
+  plural_form: znajomi
+  key: 22d8b178-14fa-4c00-95e0-bd07a22ef617
+- pl: dowód
+  en: proof
+  word_type: noun
+  gender: masculine
+  plural_form: dowody
+  key: a855b032-e19d-4a75-9bd5-807c3c01f37d
+- pl: serial
+  en: series (TV show)
+  word_type: noun
+  gender: masculine
+  plural_form: seriale
+  key: d37af2d6-0310-4cbe-b394-a931574ee71f
+- pl: usługa
+  en: service
+  word_type: noun
+  gender: feminine
+  plural_form: usługi
+  key: e1537487-935b-441c-9b66-3aa759407f67
+- pl: widok
+  en: view
+  word_type: noun
+  gender: masculine
+  plural_form: widoki
+  key: 5c6e95a7-7419-44cb-a961-8044e00856ee
+- pl: klub
+  en: club
+  word_type: noun
+  gender: masculine
+  plural_form: kluby
+  key: afa22374-8bf6-484f-879d-6965ca3ba18e
+- pl: mieszkanie
+  en: apartment
+  word_type: noun
+  gender: neuter
+  plural_form: mieszkania
+  key: a8866572-8f6a-426c-ae48-de06f348fcee
+- pl: niezależnie
+  en: independently
+  word_type: adverb
+  key: 44e516ac-a4e5-44d6-a97d-39b33fe228c8
+- pl: pięknie
+  en: beautifully
+  word_type: adverb
+  key: 3867870e-4bda-42e4-aa63-6d4047080e74
+- pl: świetny
+  en: great
+  word_type: adjective
+  positive: świetny
+  comparative: świetniejszy
+  superlative: najświetniejszy
+  key: 7dd49c78-c731-4066-976c-3feefa6ef34f
+- pl: dostępny
+  en: available
+  word_type: adjective
+  positive: dostępny
+  comparative: dostępniejszy
+  superlative: najdostępniejszy
+  key: 1e35fcee-bcf6-4376-ba31-d0d7fd310938
+- pl: internetowy
+  en: internet (online)
+  word_type: adjective
+  positive: internetowy
+  key: 0a80728a-3441-4c5f-be3d-a16ac0e01908
+- pl: zagraniczny
+  en: foreign
+  word_type: adjective
+  positive: zagraniczny
+  key: fe0f90db-f958-470e-84ff-2911203f7cc4
+- pl: dodawać
+  en: to add
+  word_type: verb
+  perfective: dodać
+  first_person_singular: ja dodaję
+  first_person_plural: my dodajemy
+  second_person_singular: ty dodajesz
+  second_person_plural: wy dodajecie
+  third_person_singular: on/ona/ono dodaje
+  third_person_plural: oni/one dodają
+  key: 94c4ea04-4b3e-4237-86bf-dd8072b32a2e
+- pl: dowiadywać się
+  en: to find out
+  word_type: verb
+  perfective: dowiedzieć się
+  first_person_singular: ja dowiaduję się
+  first_person_plural: my dowiadujemy się
+  second_person_singular: ty dowiadujesz się
+  second_person_plural: wy dowiadujecie się
+  third_person_singular: on/ona/ono dowiaduje się
+  third_person_plural: oni/one dowiadują się
+  key: 9e08f96f-0de0-4fee-848e-da57c09a95ba
+- pl: zastanawiać się
+  en: to wonder
+  word_type: verb
+  perfective: zastanowić się
+  first_person_singular: ja zastanawiam się
+  first_person_plural: my zastanawiamy się
+  second_person_singular: ty zastanawiasz się
+  second_person_plural: wy zastanawiacie się
+  third_person_singular: on/ona/ono zastanawia się
+  third_person_plural: oni/one zastanawiają się
+  key: 87b9541b-85e4-4749-a846-80a7b7fa4476
+- pl: materiał
+  en: material
+  word_type: noun
+  gender: masculine
+  plural_form: materiały
+  key: fa0070cb-a404-48a7-8a62-4e5bfd6765f8
+- pl: prowincja
+  en: province
+  word_type: noun
+  gender: feminine
+  plural_form: prowincje
+  key: c33da09a-9bb4-4a7b-9e7f-69bbd5a935ab
+- pl: ciąża
+  en: pregnancy
+  word_type: noun
+  gender: feminine
+  plural_form: ciąże
+  key: b008e4c7-c75d-444e-9685-464986eccef0
+- pl: następny
+  en: next
+  word_type: adjective
+  gender: masculine
+  positive: następny
+  key: f0c25443-090e-4222-98c3-2f417b87f832
+- pl: poczucie
+  en: sense (feeling)
+  word_type: noun
+  gender: neuter
+  plural_form: poczucia
+  key: e51b3fcd-c9ca-499b-9329-84687fa5f08a
+- pl: podróż
+  en: journey
+  word_type: noun
+  gender: feminine
+  plural_form: podróże
+  key: 078ba1c3-63b7-4f41-bd57-a0f4be6ebc27
+- pl: poparcie
+  en: support
+  word_type: noun
+  gender: neuter
+  plural_form: poparcia
+  key: 9aa427df-4a2b-47ff-b121-840986f4793e
+- pl: powodować
+  en: to cause
+  word_type: verb
+  perfective: spowodować
+  first_person_singular: ja powoduję
+  second_person_singular: ty powodujesz
+  third_person_singular: on/ona/ono powoduje
+  first_person_plural: my powodujemy
+  second_person_plural: wy powodujecie
+  third_person_plural: oni/one powodują
+  key: ea750913-cdd4-413f-a5bb-6df353bf495c
+- pl: wyraźnie
+  en: clearly
+  word_type: adverb
+  key: 1e0263a9-4b73-4a6b-bcd4-5eeb0e876671
+- pl: zachodni
+  en: western
+  word_type: adjective
+  gender: masculine
+  positive: zachodni
+  key: bdb48f5d-ba97-4010-8968-ad02672202b0
+- pl: żywo
+  en: vividly
+  word_type: adverb
+  key: 7265e855-99a2-407e-8d96-0e16e6e6fcc0
+- pl: aktualnie
+  en: currently
+  word_type: adverb
+  key: 7802fb9d-9868-4b9d-9a20-bacc8f41aaf7
+- pl: kochanie
+  en: darling
+  word_type: noun
+  gender: neuter
+  plural_form: kochania
+  key: 7248fab3-bbd6-4683-a065-379de3743335
+- pl: konferencja
+  en: conference
+  word_type: noun
+  gender: feminine
+  plural_form: konferencje
+  key: 13513fd3-f65d-4b8d-b526-66ccbd164673
+- pl: lecieć
+  en: to fly
+  word_type: verb
+  perfective: polecieć
+  first_person_singular: ja lecę
+  second_person_singular: ty lecisz
+  third_person_singular: on/ona/ono leci
+  first_person_plural: my lecimy
+  second_person_plural: wy lecicie
+  third_person_plural: oni/one lecą
+  key: 0c891ae1-14e7-418d-b8d3-da2078771608
+- pl: mowa
+  en: speech
+  word_type: noun
+  gender: feminine
+  plural_form: mowy
+  key: 7199fc35-9e64-4bf8-89ce-39ca791649e3
+- pl: nigdzie
+  en: nowhere
+  word_type: adverb
+  key: db03bb10-b1e9-45ba-b88c-8fc77a7346ac
+- pl: odcinek
+  en: episode
+  word_type: noun
+  gender: masculine
+  plural_form: odcinki
+  key: c55b6a3e-58da-4725-8fdd-df5bd8106e7d
+- pl: ode
+  en: from (variant of "od")
+  word_type: preposition
+  key: 3d585c55-b33a-4950-acf4-ecfe4d84eea2
+- pl: Polska
+  en: Poland
+  word_type: noun
+  gender: feminine
+  plural_form: Polski
+  key: b31b1e8d-b1a9-4714-b313-72e1c2949ae9
+- pl: pozdrawiać
+  en: to greet
+  word_type: verb
+  perfective: pozdrowić
+  first_person_singular: ja pozdrawiam
+  second_person_singular: ty pozdrawiasz
+  third_person_singular: on/ona/ono pozdrawia
+  first_person_plural: my pozdrawiamy
+  second_person_plural: wy pozdrawiacie
+  third_person_plural: oni/one pozdrawiają
+  key: 45634375-0cff-47a2-af04-a6a0a507ade1
+- pl: urząd
+  en: office (government)
+  word_type: noun
+  gender: masculine
+  plural_form: urzędy
+  key: ebfee4e2-35a0-452a-bee1-1f5aa9ddc999

@@ -1,0 +1,410 @@
+- en: to cut
+  pl: ciąć
+  perfective: pociąć
+  word_type: verb
+  first_person_singular: ja tnę
+  second_person_singular: ty tniesz
+  third_person_singular: on/ona/ono tnie
+  first_person_plural: my tniemy
+  second_person_plural: wy tniecie
+  third_person_plural: oni/one tną
+  key: e74336db-f9e3-46f4-a4ab-0a8aea093a75
+- en: to carry
+  pl: nosić
+  perfective: ponosić
+  word_type: verb
+  first_person_singular: ja noszę
+  second_person_singular: ty nosisz
+  third_person_singular: on/ona/ono nosi
+  first_person_plural: my nosimy
+  second_person_plural: wy nosicie
+  third_person_plural: oni/one noszą
+  key: 14f270cf-761d-4ba3-aed3-9f17f53b363e
+- en: to break
+  pl: łamać
+  perfective: złamać
+  word_type: verb
+  first_person_singular: ja łamię
+  second_person_singular: ty łamiesz
+  third_person_singular: on/ona/ono łamie
+  first_person_plural: my łamiemy
+  second_person_plural: wy łamiecie
+  third_person_plural: oni/one łamią
+  key: 9d550c08-9b12-4eaf-a2a5-fd980e71e41e
+- en: to fix
+  pl: naprawiać
+  perfective: naprawić
+  word_type: verb
+  first_person_singular: ja naprawiam
+  second_person_singular: ty naprawiasz
+  third_person_singular: on/ona/ono naprawia
+  first_person_plural: my naprawiamy
+  second_person_plural: wy naprawiacie
+  third_person_plural: oni/one naprawiają
+  key: 6ba8751b-1c77-4c37-b001-6d7f53b5bae1
+- en: to build
+  pl: budować
+  perfective: zbudować
+  word_type: verb
+  first_person_singular: ja buduję
+  second_person_singular: ty budujesz
+  third_person_singular: on/ona/ono buduje
+  first_person_plural: my budujemy
+  second_person_plural: wy budujecie
+  third_person_plural: oni/one budują
+  key: b6ac8593-2e98-4989-b797-72fef2f4dd6b
+- en: to stop
+  pl: zatrzymywać się
+  perfective: zatrzymać się
+  word_type: verb
+  first_person_singular: ja zatrzymuję się
+  second_person_singular: ty zatrzymujesz się
+  third_person_singular: on/ona/ono zatrzymuje się
+  first_person_plural: my zatrzymujemy się
+  second_person_plural: wy zatrzymujecie się
+  third_person_plural: oni/one zatrzymują się
+  key: bddcf5f6-7f73-4fab-812c-70e90f785cf6
+- en: to start
+  pl: zaczynać
+  perfective: zacząć
+  word_type: verb
+  first_person_singular: ja zaczynam
+  second_person_singular: ty zaczynasz
+  third_person_singular: on/ona/ono zaczyna
+  first_person_plural: my zaczynamy
+  second_person_plural: wy zaczynacie
+  third_person_plural: oni/one zaczynają
+  key: b0e0c3dd-30c4-46f7-b824-193df7fce6db
+- en: to work
+  pl: pracować
+  perfective: popracować
+  word_type: verb
+  first_person_singular: ja pracuję
+  second_person_singular: ty pracujesz
+  third_person_singular: on/ona/ono pracuje
+  first_person_plural: my pracujemy
+  second_person_plural: wy pracujecie
+  third_person_plural: oni/one pracują
+  key: 5ba860e2-9674-473a-a854-356c28e8db11
+- en: to play
+  pl: grać
+  perfective: zagrać
+  word_type: verb
+  first_person_singular: ja gram
+  second_person_singular: ty grasz
+  third_person_singular: on/ona/ono gra
+  first_person_plural: my gramy
+  second_person_plural: wy gracie
+  third_person_plural: oni/one grają
+  key: 3878ad25-a059-4e5e-a5e7-731c5ae82381
+- en: to change
+  pl: zmieniać
+  perfective: zmienić
+  word_type: verb
+  first_person_singular: ja zmieniam
+  second_person_singular: ty zmieniasz
+  third_person_singular: on/ona/ono zmienia
+  first_person_plural: my zmieniamy
+  second_person_plural: wy zmieniacie
+  third_person_plural: oni/one zmieniają
+  key: 5ee66ab8-d093-4075-a673-c1a22340de96
+- en: to keep
+  pl: zachowywać
+  perfective: zachować
+  word_type: verb
+  first_person_singular: ja zachowuję
+  second_person_singular: ty zachowujesz
+  third_person_singular: on/ona/ono zachowuje
+  first_person_plural: my zachowujemy
+  second_person_plural: wy zachowujecie
+  third_person_plural: oni/one zachowują
+  key: a218bd84-d4e1-4ee2-a66b-c8b586528b8a
+- en: to hold
+  pl: trzymać
+  perfective: potrzymać
+  word_type: verb
+  first_person_singular: ja trzymam
+  second_person_singular: ty trzymasz
+  third_person_singular: on/ona/ono trzyma
+  first_person_plural: my trzymamy
+  second_person_plural: wy trzymacie
+  third_person_plural: oni/one trzymają
+  key: 482f9aa5-fcb4-40d3-b4e4-f18be813c7df
+- en: to pull
+  pl: ciągnąć
+  perfective: pociągnąć
+  word_type: verb
+  first_person_singular: ja ciągnę
+  second_person_singular: ty ciągniesz
+  third_person_singular: on/ona/ono ciągnie
+  first_person_plural: my ciągniemy
+  second_person_plural: wy ciągniecie
+  third_person_plural: oni/one ciągną
+  key: d9f6f203-e72a-44ac-b9a1-3f5c50d7d196
+- en: to push
+  pl: pchać
+  perfective: popchnąć
+  word_type: verb
+  first_person_singular: ja pcham
+  second_person_singular: ty pchasz
+  third_person_singular: on/ona/ono pcha
+  first_person_plural: my pchamy
+  second_person_plural: wy pchacie
+  third_person_plural: oni/one pchają
+  key: d4956e6e-97a2-44d5-a490-607f247fc723
+- en: to fly
+  pl: latać
+  perfective: polecieć
+  word_type: verb
+  first_person_singular: ja latam
+  second_person_singular: ty latasz
+  third_person_singular: on/ona/ono lata
+  first_person_plural: my latamy
+  second_person_plural: wy latacie
+  third_person_plural: oni/one latają
+  key: 61a8e3fc-9183-4273-8fe0-027bffd4e487
+- en: to ride (bicycle/car)
+  pl: jeździć
+  perfective: pojechać
+  word_type: verb
+  first_person_singular: ja jeżdżę
+  second_person_singular: ty jeździsz
+  third_person_singular: on/ona/ono jeździ
+  first_person_plural: my jeździmy
+  second_person_plural: wy jeździcie
+  third_person_plural: oni/one jeżdżą
+  key: f004fed5-be57-4b39-937c-4b359775d17c
+- en: big
+  pl: duży
+  word_type: adjective
+  positive: duży
+  comparative: większy
+  superlative: największy
+  key: a9199037-5165-423c-993d-aedb710c0048
+- en: small
+  pl: mały
+  word_type: adjective
+  positive: mały
+  comparative: mniejszy
+  superlative: najmniejszy
+  key: 744809f8-1871-4577-9041-995390d69d10
+- en: long
+  pl: długi
+  word_type: adjective
+  positive: długi
+  comparative: dłuższy
+  superlative: najdłuższy
+  key: 60b300dd-c837-4d2e-9022-7c7c0298dfbe
+- en: short
+  pl: krótki
+  word_type: adjective
+  positive: krótki
+  comparative: krótszy
+  superlative: najkrótszy
+  key: 323587f2-3b6e-4f11-84bd-230846219f2a
+- en: high
+  pl: wysoki
+  word_type: adjective
+  positive: wysoki
+  comparative: wyższy
+  superlative: najwyższy
+  key: d91cdd56-326b-4ff0-8115-8ade688fb9ff
+- en: low
+  pl: niski
+  word_type: adjective
+  positive: niski
+  comparative: niższy
+  superlative: najniższy
+  key: 4dd3bfab-21ec-475a-88bd-0d339ed51e04
+- en: wide
+  pl: szeroki
+  word_type: adjective
+  positive: szeroki
+  comparative: szerszy
+  superlative: najszerszy
+  key: c4fe6655-5a94-4656-8ae0-8823c8febdaa
+- en: narrow
+  pl: wąski
+  word_type: adjective
+  positive: wąski
+  comparative: węższy
+  superlative: najwęższy
+  key: bc5406e9-0fef-4467-9673-405894f74557
+- en: thick
+  pl: gruby
+  word_type: adjective
+  positive: gruby
+  comparative: grubszy
+  superlative: najgrubszy
+  key: 3102f547-57dd-417b-b3c9-19c887e58690
+- en: thin
+  pl: cienki
+  word_type: adjective
+  positive: cienki
+  comparative: cieńszy
+  superlative: najcieńszy
+  key: 8f7d50d6-6af7-4d69-a3f5-4c4f8996d2e9
+- en: heavy
+  pl: ciężki
+  word_type: adjective
+  positive: ciężki
+  comparative: cięższy
+  superlative: najcięższy
+  key: cce4f16a-0522-4785-9e72-b92ad12dd2ee
+- en: good
+  pl: dobry
+  word_type: adjective
+  positive: dobry
+  comparative: lepszy
+  superlative: najlepszy
+  key: 96dff0c9-1933-4f1b-805c-7cdcbdebe329
+- en: new
+  pl: nowy
+  word_type: adjective
+  positive: nowy
+  comparative: nowszy
+  superlative: najnowszy
+  key: 7e6c2b4b-5fbe-4123-b9f2-1110f757ef5b
+- en: old
+  pl: stary
+  word_type: adjective
+  positive: stary
+  comparative: starszy
+  superlative: najstarszy
+  key: 5facaee7-15e6-4d0a-96b7-c7f3a18970eb
+- en: hot
+  pl: gorący
+  word_type: adjective
+  positive: gorący
+  comparative: gorętszy
+  superlative: najgorętszy
+  key: 7747e5e2-d30a-4c3b-9d22-2fdd5726b050
+- en: cold
+  pl: zimny
+  word_type: adjective
+  positive: zimny
+  comparative: zimniejszy
+  superlative: najzimniejszy
+  key: 29857d19-e94f-43af-b216-618059c3e67e
+- en: warm
+  pl: ciepły
+  word_type: adjective
+  positive: ciepły
+  comparative: cieplejszy
+  superlative: najcieplejszy
+  key: 8ae5240e-803f-46b8-819f-9e6886797002
+- en: wet
+  pl: mokry
+  word_type: adjective
+  positive: mokry
+  comparative: mokrzejszy
+  superlative: najmokrzejszy
+  key: f3076b84-1c09-4cf3-9b8d-58b59cca6ef5
+- en: dry
+  pl: suchy
+  word_type: adjective
+  positive: suchy
+  comparative: suchszy
+  superlative: najsuchszy
+  key: 2dfa22ee-bb25-4b4d-9695-e08f867319c2
+- en: clean
+  pl: czysty
+  word_type: adjective
+  positive: czysty
+  comparative: czystszy
+  superlative: najczystszy
+  key: 95795846-74b4-4a5f-a76d-8b0611ae1296
+- en: dirty
+  pl: brudny
+  word_type: adjective
+  positive: brudny
+  comparative: brudniejszy
+  superlative: najbrudniejszy
+  key: f260439f-3120-4b29-b745-860a44e250d7
+- en: hard
+  pl: twardy
+  word_type: adjective
+  positive: twardy
+  comparative: twardszy
+  superlative: najtwardszy
+  key: f2bb2a50-924a-42df-b963-be33cfc12574
+- en: soft
+  pl: miękki
+  word_type: adjective
+  positive: miękki
+  comparative: miększy
+  superlative: najmiększy
+  key: 1cb1d435-b054-4b57-9ce9-9b2df355758f
+- en: open
+  pl: otwarty
+  word_type: adjective
+  positive: otwarty
+  comparative: bardziej otwarty
+  superlative: najbardziej otwarty
+  key: c547a646-845a-4fae-8226-75e56cc794f0
+- en: full
+  pl: pełny
+  word_type: adjective
+  positive: pełny
+  comparative: pełniejszy
+  superlative: najpełniejszy
+  key: aa5733dd-a1cd-40d1-b942-d199fa7fc0b1
+- en: fast
+  pl: szybki
+  word_type: adjective
+  positive: szybki
+  comparative: szybszy
+  superlative: najszybszy
+  key: af96c9a2-4824-4565-968f-45d367924247
+- en: slow
+  pl: powolny
+  word_type: adjective
+  positive: powolny
+  comparative: wolniejszy
+  superlative: najwolniejszy
+  key: 4f6c355f-c2ce-4b39-9a2f-84c784a3f23e
+- en: easy
+  pl: łatwy
+  word_type: adjective
+  positive: łatwy
+  comparative: łatwiejszy
+  superlative: najłatwiejszy
+  key: 5663cd3f-00c7-4885-a69e-29bc4708c818
+- en: difficult
+  pl: trudny
+  word_type: adjective
+  positive: trudny
+  comparative: trudniejszy
+  superlative: najtrudniejszy
+  key: 0f3e3253-abb6-48fa-b218-2888fd9e668c
+- en: dead
+  pl: martwy
+  word_type: adjective
+  positive: martwy
+  key: 25124cca-3660-48a3-8238-2bf7af37c74b
+- en: alive
+  pl: żywy
+  word_type: adjective
+  positive: żywy
+  key: f03e8e98-e81c-4ec5-8731-6476136c7a14
+- en: young
+  pl: młody
+  word_type: adjective
+  positive: młody
+  comparative: młodszy
+  superlative: najmłodszy
+  key: c3b652b7-d0af-410d-8393-49d8dcab1327
+- en: dark
+  pl: ciemny
+  word_type: adjective
+  positive: ciemny
+  comparative: ciemniejszy
+  superlative: najciemniejszy
+  key: e76d7083-8cd1-4ee9-8921-ba7843838b40
+- en: bright
+  pl: jasny
+  word_type: adjective
+  positive: jasny
+  comparative: jaśniejszy
+  superlative: najjaśniejszy
+  key: 889bce96-586b-4f30-b355-746fe04da2cd

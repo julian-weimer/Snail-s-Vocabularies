@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "1.1.1"
+rich = "==14.2.0"
+spacy = "==3.8.7"
+typer = "==0.20.0"
+wordfreq = "==3.1.1"
+python-slugify = "*"
+diskcache2 = "==1.0.0"
+google-genai = "==1.47.0"
+dotenv = "==0.9.9"
+openai = "*"
+requests = "*"
+pillow = "*"
+ratelimit = "*"
+google-cloud-texttospeech = "*"
+jsonschema = "*"
+python-i18n = "*"
+genanki = "*"
+pyperclip = "*"
+
+[dev-packages]
+ruff = "==0.14.2"
+
+[requires]
+python_version = "3.12"

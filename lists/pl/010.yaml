@@ -1,0 +1,534 @@
+- en: where
+  pl: gdzie
+  word_type: adverb
+  key: a0231e39-eeeb-4c01-8ec4-8b0e17d943c7
+- en: whose
+  pl: czyj
+  word_type: pronoun
+  key: 8256bcb1-bf6a-413c-843c-f1a7eb5ed714
+- en: to have
+  pl: mieć
+  word_type: verb
+  first_person_singular: ja mam
+  first_person_plural: my mamy
+  second_person_singular: ty masz
+  second_person_plural: wy macie
+  third_person_singular: on/ona/ono ma
+  third_person_plural: oni/one mają
+  key: 086c53ca-37cc-4c1a-8de0-1fa132bad06c
+- en: to do
+  pl: robić
+  word_type: verb
+  perfective: zrobić
+  first_person_singular: ja robię
+  first_person_plural: my robimy
+  second_person_singular: ty robisz
+  second_person_plural: wy robicie
+  third_person_singular: on/ona/ono robi
+  third_person_plural: oni/one robią
+  key: 831f7771-3459-4cbf-8435-9d446815cac7
+- en: to be able to
+  pl: móc
+  word_type: verb
+  first_person_singular: ja mogę
+  first_person_plural: my możemy
+  second_person_singular: ty możesz
+  second_person_plural: wy możecie
+  third_person_singular: on/ona/ono może
+  third_person_plural: oni/one mogą
+  key: 2a0c7fce-b34c-4873-89e0-8142bf422533
+- en: to go
+  pl: iść
+  word_type: verb
+  perfective: pójść
+  first_person_singular: ja idę
+  first_person_plural: my idziemy
+  second_person_singular: ty idziesz
+  second_person_plural: wy idziecie
+  third_person_singular: on/ona/ono idzie
+  third_person_plural: oni/one idą
+  key: d35a0a05-5480-40bc-a142-a72c439235e2
+- en: to come
+  pl: przychodzić
+  word_type: verb
+  perfective: przyjść
+  first_person_singular: ja przychodzę
+  first_person_plural: my przychodzimy
+  second_person_singular: ty przychodzisz
+  second_person_plural: wy przychodzicie
+  third_person_singular: on/ona/ono przychodzi
+  third_person_plural: oni/one przychodzą
+  key: a31d3cc4-5552-40bd-bc75-d45a8cf2ddab
+- en: to get (receive)
+  pl: otrzymywać
+  word_type: verb
+  perfective: otrzymać
+  first_person_singular: ja otrzymuję
+  first_person_plural: my otrzymujemy
+  second_person_singular: ty otrzymujesz
+  second_person_plural: wy otrzymujecie
+  third_person_singular: on/ona/ono otrzymuje
+  third_person_plural: oni/one otrzymują
+  key: 09a827fa-1fc8-435e-873a-f0f8ec6b2dd4
+- en: to take
+  pl: brać
+  word_type: verb
+  perfective: wziąć
+  first_person_singular: ja biorę
+  first_person_plural: my bierzemy
+  second_person_singular: ty bierzesz
+  second_person_plural: wy bierzecie
+  third_person_singular: on/ona/ono bierze
+  third_person_plural: oni/one biorą
+  key: 9017ef70-47e0-4ab6-b3be-58e9914f0698
+- en: to see
+  pl: widzieć
+  word_type: verb
+  perfective: zobaczyć
+  first_person_singular: ja widzę
+  first_person_plural: my widzimy
+  second_person_singular: ty widzisz
+  second_person_plural: wy widzicie
+  third_person_singular: on/ona/ono widzi
+  third_person_plural: oni/one widzą
+  key: 55225e40-500a-47be-8549-6a239dee21ce
+- en: to give
+  pl: dawać
+  word_type: verb
+  perfective: dać
+  first_person_singular: ja daję
+  first_person_plural: my dajemy
+  second_person_singular: ty dajesz
+  second_person_plural: wy dajecie
+  third_person_singular: on/ona/ono daje
+  third_person_plural: oni/one dają
+  key: 17deb919-7ca2-49f7-aa86-64d59bce733e
+- en: to eat
+  pl: jeść
+  word_type: verb
+  perfective: zjeść
+  first_person_singular: ja jem
+  first_person_plural: my jemy
+  second_person_singular: ty jesz
+  second_person_plural: wy jecie
+  third_person_singular: on/ona/ono je
+  third_person_plural: oni/one jedzą
+  key: f53487e7-701f-464c-906b-214a1a8c43fd
+- en: to drink
+  pl: pić
+  word_type: verb
+  perfective: wypić
+  first_person_singular: ja piję
+  first_person_plural: my pijemy
+  second_person_singular: ty pijesz
+  second_person_plural: wy pijecie
+  third_person_singular: on/ona/ono pije
+  third_person_plural: oni/one piją
+  key: 0203cb7b-e851-48bd-a60b-f71613fe663a
+- en: to run
+  pl: biegać
+  word_type: verb
+  perfective: pobiec
+  first_person_singular: ja biegam
+  first_person_plural: my biegamy
+  second_person_singular: ty biegasz
+  second_person_plural: wy biegacie
+  third_person_singular: on/ona/ono biega
+  third_person_plural: oni/one biegają
+  key: 0fced09c-5d9f-412a-b8a6-53e8ede8357f
+- en: to walk
+  pl: chodzić
+  word_type: verb
+  perfective: pójść
+  first_person_singular: ja chodzę
+  first_person_plural: my chodzimy
+  second_person_singular: ty chodzisz
+  second_person_plural: wy chodzicie
+  third_person_singular: on/ona/ono chodzi
+  third_person_plural: oni/one chodzą
+  key: f740a789-4027-419d-a799-5f9ea3b77318
+- en: to sit
+  pl: siedzieć
+  word_type: verb
+  perfective: usiąść
+  first_person_singular: ja siedzę
+  first_person_plural: my siedzimy
+  second_person_singular: ty siedzisz
+  second_person_plural: wy siedzicie
+  third_person_singular: on/ona/ono siedzi
+  third_person_plural: oni/one siedzą
+  key: 31f11b39-ed32-4403-9842-dfb54d9282fa
+- en: to stand
+  pl: stać
+  word_type: verb
+  perfective: stanąć
+  first_person_singular: ja stoję
+  first_person_plural: my stoimy
+  second_person_singular: ty stoisz
+  second_person_plural: wy stoicie
+  third_person_singular: on/ona/ono stoi
+  third_person_plural: oni/one stoją
+  key: 599273b7-6275-49d9-b175-1a985e1563b9
+- en: to sleep
+  pl: spać
+  word_type: verb
+  perfective: zasnąć
+  first_person_singular: ja śpię
+  first_person_plural: my śpimy
+  second_person_singular: ty śpisz
+  second_person_plural: wy śpicie
+  third_person_singular: on/ona/ono śpi
+  third_person_plural: oni/one śpią
+  key: 6c175293-9dc1-41c7-81ab-e5164834d9e9
+- en: to wake up
+  pl: budzić się
+  word_type: verb
+  perfective: obudzić się
+  first_person_singular: ja budzę się
+  first_person_plural: my budzimy się
+  second_person_singular: ty budzisz się
+  second_person_plural: wy budzicie się
+  third_person_singular: on/ona/ono budzi się
+  third_person_plural: oni/one budzą się
+  key: a54286d4-f77a-4fa9-96ba-d97bc3e50e58
+- en: to look
+  pl: patrzeć
+  word_type: verb
+  perfective: popatrzeć
+  first_person_singular: ja patrzę
+  first_person_plural: my patrzymy
+  second_person_singular: ty patrzysz
+  second_person_plural: wy patrzycie
+  third_person_singular: on/ona/ono patrzy
+  third_person_plural: oni/one patrzą
+  key: 27c835ce-2986-49ba-898e-396a8da346bd
+- en: to find
+  pl: znajdować
+  word_type: verb
+  perfective: znaleźć
+  first_person_singular: ja znajduję
+  first_person_plural: my znajdujemy
+  second_person_singular: ty znajdujesz
+  second_person_plural: wy znajdujecie
+  third_person_singular: on/ona/ono znajduje
+  third_person_plural: oni/one znajdują
+  key: 77ea645f-1688-46b1-8af8-869f25ae8c5d
+- en: to put
+  pl: kłaść
+  word_type: verb
+  perfective: położyć
+  first_person_singular: ja kładę
+  first_person_plural: my kładziemy
+  second_person_singular: ty kładziesz
+  second_person_plural: wy kładziecie
+  third_person_singular: on/ona/ono kładzie
+  third_person_plural: oni/one kładą
+  key: 59461c52-2057-4e7b-bd60-ccd5a2514ec2
+- en: to want
+  pl: chcieć
+  word_type: verb
+  perfective: zechcieć
+  first_person_singular: ja chcę
+  first_person_plural: my chcemy
+  second_person_singular: ty chcesz
+  second_person_plural: wy chcecie
+  third_person_singular: on/ona/ono chce
+  third_person_plural: oni/one chcą
+  key: 8a999328-7a04-4c9b-b896-ff010b146385
+- en: to need
+  pl: potrzebować
+  word_type: verb
+  perfective: zapotrzebować
+  first_person_singular: ja potrzebuję
+  first_person_plural: my potrzebujemy
+  second_person_singular: ty potrzebujesz
+  second_person_plural: wy potrzebujecie
+  third_person_singular: on/ona/ono potrzebuje
+  third_person_plural: oni/one potrzebują
+  key: b8ed6b79-bf65-4c93-a94a-76728f690ef3
+- en: to like
+  pl: lubić
+  word_type: verb
+  perfective: polubić
+  first_person_singular: ja lubię
+  first_person_plural: my lubimy
+  second_person_singular: ty lubisz
+  second_person_plural: wy lubicie
+  third_person_singular: on/ona/ono lubi
+  third_person_plural: oni/one lubią
+  key: 9914d7d0-c4a3-46f3-a7e7-35562fea1715
+- en: to know (facts)
+  pl: wiedzieć
+  word_type: verb
+  perfective: dowiedzieć się
+  first_person_singular: ja wiem
+  first_person_plural: my wiemy
+  second_person_singular: ty wiesz
+  second_person_plural: wy wiecie
+  third_person_singular: on/ona/ono wie
+  third_person_plural: oni/one wiedzą
+  key: 5c90732b-1cc2-411e-868f-09e7ac93c826
+- en: to think
+  pl: myśleć
+  word_type: verb
+  perfective: pomyśleć
+  first_person_singular: ja myślę
+  first_person_plural: my myślimy
+  second_person_singular: ty myślisz
+  second_person_plural: wy myślicie
+  third_person_singular: on/ona/ono myśli
+  third_person_plural: oni/one myślą
+  key: eef101e2-15c4-470e-878b-7d85b560f705
+- en: to help
+  pl: pomagać
+  word_type: verb
+  perfective: pomóc
+  first_person_singular: ja pomagam
+  first_person_plural: my pomagamy
+  second_person_singular: ty pomagasz
+  second_person_plural: wy pomagacie
+  third_person_singular: on/ona/ono pomaga
+  third_person_plural: oni/one pomagają
+  key: 075479e4-f011-4979-a849-59234a7a4505
+- en: to wait
+  pl: czekać
+  word_type: verb
+  perfective: poczekać
+  first_person_singular: ja czekam
+  first_person_plural: my czekamy
+  second_person_singular: ty czekasz
+  second_person_plural: wy czekacie
+  third_person_singular: on/ona/ono czeka
+  third_person_plural: oni/one czekają
+  key: 6175e7d5-40ea-44c6-a6cc-c865609cdcf4
+- en: to open
+  pl: otwierać
+  word_type: verb
+  perfective: otworzyć
+  first_person_singular: ja otwieram
+  first_person_plural: my otwieramy
+  second_person_singular: ty otwierasz
+  second_person_plural: wy otwieracie
+  third_person_singular: on/ona/ono otwiera
+  third_person_plural: oni/one otwierają
+  key: ac52b220-edc0-4b3a-85a0-d5ec9be31258
+- en: to close
+  pl: zamykać
+  word_type: verb
+  perfective: zamknąć
+  first_person_singular: ja zamykam
+  first_person_plural: my zamykamy
+  second_person_singular: ty zamykasz
+  second_person_plural: wy zamykacie
+  third_person_singular: on/ona/ono zamyka
+  third_person_plural: oni/one zamykają
+  key: 93e88ee7-2f0f-4aed-8bf1-a793162b2395
+- en: to use
+  pl: używać
+  word_type: verb
+  perfective: użyć
+  first_person_singular: ja używam
+  first_person_plural: my używamy
+  second_person_singular: ty używasz
+  second_person_plural: wy używacie
+  third_person_singular: on/ona/ono używa
+  third_person_plural: oni/one używają
+  key: c49be053-e37e-43c8-ba2c-69ff26d93ec6
+- en: to live
+  pl: żyć
+  word_type: verb
+  perfective: pożyć
+  first_person_singular: ja żyję
+  first_person_plural: my żyjemy
+  second_person_singular: ty żyjesz
+  second_person_plural: wy żyjecie
+  third_person_singular: on/ona/ono żyje
+  third_person_plural: oni/one żyją
+  key: 5dced6e8-b809-4a9a-874a-4c3a04ab96e0
+- en: to stay
+  pl: zostawać
+  word_type: verb
+  perfective: zostać
+  first_person_singular: ja zostaję
+  first_person_plural: my zostajemy
+  second_person_singular: ty zostajesz
+  second_person_plural: wy zostajecie
+  third_person_singular: on/ona/ono zostaje
+  third_person_plural: oni/one zostają
+  key: c5e6785b-6871-4310-949a-6bab2d6632a9
+- en: to leave
+  pl: opuszczać
+  word_type: verb
+  perfective: opuścić
+  first_person_singular: ja opuszczam
+  first_person_plural: my opuszczamy
+  second_person_singular: ty opuszczasz
+  second_person_plural: wy opuszczacie
+  third_person_singular: on/ona/ono opuszcza
+  third_person_plural: oni/one opuszczają
+  key: e22e4caf-db8a-407a-b15c-3bba1cffc03d
+- en: to arrive
+  pl: przybywać
+  word_type: verb
+  perfective: przybyć
+  first_person_singular: ja przybywam
+  first_person_plural: my przybywamy
+  second_person_singular: ty przybywasz
+  second_person_plural: wy przybywacie
+  third_person_singular: on/ona/ono przybywa
+  third_person_plural: oni/one przybywają
+  key: 21c8b140-ebb1-4343-bc13-68a7b16cf1ff
+- en: to try
+  pl: próbować
+  word_type: verb
+  perfective: spróbować
+  first_person_singular: ja próbuję
+  first_person_plural: my próbujemy
+  second_person_singular: ty próbujesz
+  second_person_plural: wy próbujecie
+  third_person_singular: on/ona/ono próbuje
+  third_person_plural: oni/one próbują
+  key: 55d7357e-ce4a-46c5-8cd8-fcbdad69e38d
+- en: to happen
+  pl: zdarzać się
+  word_type: verb
+  perfective: zdarzyć się
+  first_person_singular: ja zdarzam się
+  first_person_plural: my zdarzamy się
+  second_person_singular: ty zdarzasz się
+  second_person_plural: wy zdarzacie się
+  third_person_singular: on/ona/ono zdarza się
+  third_person_plural: oni/one zdarzają się
+  key: d4db6215-c9cb-4d3b-b1d4-44bf46687284
+- en: to show
+  pl: pokazywać
+  word_type: verb
+  perfective: pokazać
+  first_person_singular: ja pokazuję
+  first_person_plural: my pokazujemy
+  second_person_singular: ty pokazujesz
+  second_person_plural: wy pokazujecie
+  third_person_singular: on/ona/ono pokazuje
+  third_person_plural: oni/one pokazują
+  key: cd5978d1-228c-4946-a689-1e9d44b47c00
+- en: to turn
+  pl: obracać
+  word_type: verb
+  perfective: obrócić
+  first_person_singular: ja obracam
+  first_person_plural: my obracamy
+  second_person_singular: ty obracasz
+  second_person_plural: wy obracacie
+  third_person_singular: on/ona/ono obraca
+  third_person_plural: oni/one obracają
+  key: 26085b0a-3eca-472d-b108-8fced42d1a78
+- en: to move
+  pl: ruszać
+  word_type: verb
+  perfective: ruszyć
+  first_person_singular: ja ruszam
+  first_person_plural: my ruszamy
+  second_person_singular: ty ruszasz
+  second_person_plural: wy ruszacie
+  third_person_singular: on/ona/ono rusza
+  third_person_plural: oni/one ruszają
+  key: 18b15da9-25fb-4c25-821c-aa1e97867d4c
+- en: to bring
+  pl: przynosić
+  word_type: verb
+  perfective: przynieść
+  first_person_singular: ja przynoszę
+  first_person_plural: my przynosimy
+  second_person_singular: ty przynosisz
+  second_person_plural: wy przynosicie
+  third_person_singular: on/ona/ono przynosi
+  third_person_plural: oni/one przynoszą
+  key: b5ba1129-8c7b-4392-8b8d-b0694342dbc4
+- en: to feel
+  pl: czuć
+  word_type: verb
+  perfective: poczuć
+  first_person_singular: ja czuję
+  second_person_singular: ty czujesz
+  third_person_singular: on/ona/ono czuje
+  first_person_plural: my czujemy
+  second_person_plural: wy czujecie
+  third_person_plural: oni/one czują
+  key: 3d0e78e1-3118-4ae2-bfed-93511cfd5bb4
+- en: to touch
+  pl: dotykać
+  word_type: verb
+  perfective: dotknąć
+  first_person_singular: ja dotykam
+  second_person_singular: ty dotykasz
+  third_person_singular: on/ona/ono dotyka
+  first_person_plural: my dotykamy
+  second_person_plural: wy dotykacie
+  third_person_plural: oni/one dotykają
+  key: f6c9ff75-7e90-4201-a9de-1aa4327238ed
+- en: to listen
+  pl: słuchać
+  word_type: verb
+  perfective: posłuchać
+  first_person_singular: ja słucham
+  second_person_singular: ty słuchasz
+  third_person_singular: on/ona/ono słucha
+  first_person_plural: my słuchamy
+  second_person_plural: wy słuchacie
+  third_person_plural: oni/one słuchają
+  key: 8fc85f82-7071-4b59-a3f7-a83cc2e5750a
+- en: to watch
+  pl: oglądać
+  word_type: verb
+  perfective: obejrzeć
+  first_person_singular: ja oglądam
+  second_person_singular: ty oglądasz
+  third_person_singular: on/ona/ono ogląda
+  first_person_plural: my oglądamy
+  second_person_plural: wy oglądacie
+  third_person_plural: oni/one oglądają
+  key: 5dff4156-1e5d-4ab2-b1f1-bf86753d0c1d
+- en: to read
+  pl: czytać
+  word_type: verb
+  perfective: przeczytać
+  first_person_singular: ja czytam
+  second_person_singular: ty czytasz
+  third_person_singular: on/ona/ono czyta
+  first_person_plural: my czytamy
+  second_person_plural: wy czytacie
+  third_person_plural: oni/one czytają
+  key: 0e703279-7f89-4dac-9a65-772c82ac6bb4
+- en: to write
+  pl: pisać
+  word_type: verb
+  perfective: napisać
+  first_person_singular: ja piszę
+  second_person_singular: ty piszesz
+  third_person_singular: on/ona/ono pisze
+  first_person_plural: my piszemy
+  second_person_plural: wy piszecie
+  third_person_plural: oni/one piszą
+  key: 10f7ced4-21cb-4e49-adf2-9693a2f21e01
+- en: to wash
+  pl: myć
+  word_type: verb
+  perfective: umyć
+  first_person_singular: ja myję
+  second_person_singular: ty myjesz
+  third_person_singular: on/ona/ono myje
+  first_person_plural: my myjemy
+  second_person_plural: wy myjecie
+  third_person_plural: oni/one myją
+  key: 8d31bcc0-af22-4059-82a8-0bc0bc8f5376
+- en: to cook
+  pl: gotować
+  perfective: ugotować
+  word_type: verb
+  first_person_singular: ja gotuję
+  second_person_singular: ty gotujesz
+  third_person_singular: on/ona/ono gotuje
+  first_person_plural: my gotujemy
+  second_person_plural: wy gotujecie
+  third_person_plural: oni/one gotują
+  key: 85a193f4-470c-4ce3-bd2d-87e399250644

@@ -1,0 +1,311 @@
+- pl: blisko
+  en: close
+  word_type: adverb
+  key: 32f47f41-d5f5-4164-93f2-8d75e01c8e0a
+- pl: Cóż...
+  en: Well...
+  word_type: other
+  key: 269941fd-ae37-43b5-abd8-573b1c55ee75
+- pl: polityka
+  en: politics
+  word_type: noun
+  gender: feminine
+  plural_form: polityki
+  key: 25bbd4ea-4cd1-4ed0-b4e5-ef6e7010b6d5
+- pl: ponadto
+  en: moreover
+  word_type: adverb
+  key: a555220f-66f2-4ce9-8cb2-194089e24393
+- pl: posiadać
+  en: to possess
+  word_type: verb
+  perfective: posiąść
+  first_person_singular: ja posiadam
+  second_person_singular: ty posiadasz
+  third_person_singular: on/ona/ono posiada
+  first_person_plural: my posiadamy
+  second_person_plural: wy posiadacie
+  third_person_plural: oni/one posiadają
+  key: 9c8ad69c-9369-43ce-bc97-4a372143648f
+- pl: produkcja
+  en: production
+  word_type: noun
+  gender: feminine
+  plural_form: produkcje
+  key: 70b64d97-fa87-4117-a3c6-c9281cccadfd
+- pl: spotkanie
+  en: meeting
+  word_type: noun
+  gender: neuter
+  plural_form: spotkania
+  key: a9353600-b21b-46ee-a4ea-f3ae81e5a05e
+- pl: wpływ
+  en: influence
+  word_type: noun
+  gender: masculine
+  plural_form: wpływy
+  key: c6afa6c5-9945-41bd-aebb-e077a686dd5e
+- pl: zasada
+  en: principle
+  word_type: noun
+  gender: feminine
+  plural_form: zasady
+  key: 46646aff-ec31-45af-927a-2b2bae8abace
+- pl: zatem
+  en: therefore
+  word_type: adverb
+  key: 7576ccc6-7674-47fe-a766-6b35f70b7266
+- pl: źródło
+  en: source
+  word_type: noun
+  gender: neuter
+  plural_form: źródła
+  key: 6aa2265c-7f6d-4a76-b76c-d1671e9e265a
+- pl: brakować
+  en: to lack
+  word_type: verb
+  perfective: zabrakować
+  first_person_singular: mi brakuje
+  second_person_singular: ci brakuje
+  third_person_singular: mu/jej brakuje
+  first_person_plural: nam brakuje
+  second_person_plural: wam brakuje
+  third_person_plural: im brakuje
+  key: bd8bc14b-2cb9-45a7-9523-26a1e44bc3a1
+- pl: członek
+  en: member
+  word_type: noun
+  gender: masculine
+  plural_form: członkowie
+  key: af1ce116-f54b-47a7-965b-d092d3a6db3b
+- pl: komisja
+  en: commission
+  word_type: noun
+  gender: feminine
+  plural_form: komisje
+  key: db12ef47-1367-4ca0-8cdf-f717d616f02c
+- pl: pewien
+  en: certain
+  word_type: adjective
+  positive: pewien
+  comparative: pewniejszy
+  superlative: najpewniejszy
+  key: 70d8cf0f-e81a-489a-af48-af58b63bc971
+- pl: seria
+  en: series
+  word_type: noun
+  gender: feminine
+  plural_form: serie
+  key: 9d17b7fb-a256-4ed0-8022-2b754d6114f5
+- pl: wolność
+  en: freedom
+  word_type: noun
+  gender: feminine
+  plural_form: wolności
+  key: 96b9fd8b-5724-4477-9701-c50f1e8ce286
+- pl: wszędzie
+  en: everywhere
+  word_type: adverb
+  key: 14e17f40-12cf-4709-b299-61f59ae5a5c7
+- pl: środowisko
+  en: environment
+  word_type: noun
+  gender: neuter
+  plural_form: środowiska
+  key: e088f7bf-b665-4e20-b99a-75b6659be901
+- pl: działalność
+  en: activity
+  word_type: noun
+  gender: feminine
+  plural_form: działalności
+  key: d3d43fc4-3909-48a7-b509-f11e61782c6c
+- pl: pojęcie
+  en: concept
+  word_type: noun
+  gender: neuter
+  plural_form: pojęcia
+  key: bed69862-2993-40c8-9a5f-8d946eb070ba
+- pl: sporo
+  en: quite a lot
+  word_type: adverb
+  key: 4cbe0dbb-c191-441e-91a5-46c311ebc3e9
+- pl: udawać się
+  en: to succeed
+  word_type: verb
+  perfective: udać się
+  first_person_singular: udaje mi się
+  second_person_singular: udaje ci się
+  third_person_singular: udaje mu/jej się
+  first_person_plural: udaje nam się
+  second_person_plural: udaje wam się
+  third_person_plural: udaje im się
+  key: 37780316-02be-4faf-853d-0c1b1d3b99af
+- pl: wersja
+  en: version
+  word_type: noun
+  gender: feminine
+  plural_form: wersje
+  key: 01b51b74-d3e5-443c-aa72-5de5371517b1
+- pl: wypadek
+  en: accident
+  word_type: noun
+  gender: masculine
+  plural_form: wypadki
+  key: 89816794-0f98-4a93-940f-5d14bf4d42e1
+- pl: fajnie
+  en: cool (nice)
+  word_type: adverb
+  key: 4abff320-1633-4912-942e-cbb3c58c8055
+- pl: kategoria
+  en: category
+  word_type: noun
+  gender: feminine
+  plural_form: kategorie
+  key: 1c538929-5b55-42d1-856e-40e25a08cdb7
+- pl: minister
+  en: minister
+  word_type: noun
+  gender: masculine
+  plural_form: ministrowie
+  key: c71f316d-a861-4dab-b012-94e505640f43
+- pl: przeciw
+  en: against
+  word_type: preposition
+  key: 0456aee7-951e-4f87-97cd-dab6d2d0ba8d
+- pl: społeczeństwo
+  en: society
+  word_type: noun
+  gender: neuter
+  plural_form: społeczeństwa
+  key: 9de8dc19-9446-4806-84c4-e60740945ed6
+- pl: studia
+  en: studies
+  word_type: noun
+  gender: neuter
+  plural_form: studia
+  key: 26929c9a-dcbf-4adb-b5f0-ad7b15bd6173
+- pl: treść
+  en: content
+  word_type: noun
+  gender: feminine
+  plural_form: treści
+  key: 25ccb2b4-b476-45a5-ace7-017fb0dd166b
+- pl: współpraca
+  en: cooperation
+  word_type: noun
+  gender: feminine
+  plural_form: współprace
+  key: 78e79420-c325-4061-8fbf-00c96dcd38ab
+- pl: wysokość
+  en: height
+  word_type: noun
+  gender: feminine
+  plural_form: wysokości
+  key: cab2930f-786f-409e-99dd-f693b21cea85
+- pl: własny
+  en: own
+  word_type: adjective
+  positive: własny
+  key: 5348e2a1-19b5-492a-bdf7-1de2752d30d0
+- pl: moc
+  en: power
+  word_type: noun
+  gender: feminine
+  plural_form: moce
+  key: 4af32e80-ac35-4ae9-a475-901c6c50e3ec
+- pl: nazywać
+  en: to call (name)
+  word_type: verb
+  perfective: nazwać
+  first_person_singular: ja nazywam
+  second_person_singular: ty nazywasz
+  third_person_singular: on/ona/ono nazywa
+  first_person_plural: my nazywamy
+  second_person_plural: wy nazywacie
+  third_person_plural: oni/one nazywają
+  key: d4df4033-386f-4c2a-9243-57d7066113a0
+- pl: obraz
+  en: image
+  word_type: noun
+  gender: masculine
+  plural_form: obrazy
+  key: 0a13d6dd-9383-42ca-b782-85f3b99a0ab4
+- pl: pochodzić
+  en: to come from
+  word_type: verb
+  aspect: imperfective
+  perfective: pochodzić
+  first_person_singular: ja pochodzę
+  second_person_singular: ty pochodzisz
+  third_person_singular: on/ona/ono pochodzi
+  first_person_plural: my pochodzimy
+  second_person_plural: wy pochodzicie
+  third_person_plural: oni/one pochodzą
+  comment: Note - pochodzić is typically used in imperfective aspect; perfective aspect
+    is rare
+  key: 2f7c6581-6969-42d5-ad38-82d4a026c03c
+- pl: porządek
+  en: order
+  word_type: noun
+  gender: masculine
+  plural_form: porządki
+  key: f5ce85d3-768f-48af-81b7-94701ce7881f
+- pl: proces
+  en: process
+  word_type: noun
+  gender: masculine
+  plural_form: procesy
+  key: d3788a23-4849-4c48-81f0-d78474d72810
+- pl: racja
+  en: right (correctness)
+  word_type: noun
+  gender: feminine
+  plural_form: racje
+  key: 52c439c5-0081-45eb-b842-4e25fba8a42f
+- pl: rola
+  en: role
+  word_type: noun
+  gender: feminine
+  plural_form: role
+  key: 358e1b63-25e4-4408-afee-93919fdd4637
+- pl: stąd
+  en: from here
+  word_type: adverb
+  key: 3ca9ab75-4b3c-415e-b6e6-dbe4df363cdf
+- pl: wierzyć
+  en: to believe
+  word_type: verb
+  aspect: imperfective
+  perfective: uwierzyć
+  first_person_singular: ja wierzę
+  second_person_singular: ty wierzysz
+  third_person_singular: on/ona/ono wierzy
+  first_person_plural: my wierzymy
+  second_person_plural: wy wierzycie
+  third_person_plural: oni/one wierzą
+  key: 64177c7e-dcfc-48d1-a47a-0a4b527a69c0
+- pl: wina
+  en: fault
+  word_type: noun
+  gender: feminine
+  plural_form: winy
+  key: 0a128624-fdc5-4f0f-9259-0356156f5ec9
+- pl: wreszcie
+  en: finally
+  word_type: adverb
+  key: 86a01965-b21c-41f5-87e3-4994cbdd7af5
+- pl: wspólny
+  en: common
+  word_type: adjective
+  positive: wspólny
+  comparative: wspólniejszy
+  superlative: najwspólniejszy
+  key: 5a1bfcef-c98a-4e91-9a0e-9b05b18c19ff
+- pl: daleko
+  en: far
+  word_type: adverb
+  key: 5d70108e-dcb2-459c-a6ae-2dd1f3618741
+- pl: dodatkowo
+  en: additionally
+  word_type: adverb
+  key: 2a07565d-b032-4b7a-a452-75af097cb4ba

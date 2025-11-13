@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+eggs/
+.eggs/
+lib/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+htmlcov/
+.tox/
+.coverage
+.cache
+.pytest_cache/
+.env
+.venv
+env/
+venv/
+.ipynb_checkpoints
+.mypy_cache/
+.ruff_cache/
+
+# OS Generated
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# claude
+.claude
+
+# media
+media
+*.jpg
+*.mp3
+
+# decks
+decks/
+*.apkg
+
+# personal tmuxp config
+project.yml
+
+# card templates
+templates/card-question.html
+templates/card-answer.html
+templates/common.css
+
+# used for list creating workflow
+new
