@@ -32,7 +32,8 @@ pl:
     deck_title_de: Talia Niemiecka
     deck_title_it: Talia Włoska
     deck_title_pl: Talia Polska
-    deck_title_pt: Talia Portugalska
+    deck_title_pt-pt: Talia Portugalska (UE)
+    deck_title_pt-br: Talia Portugalska (BR)
     deck_title_ro: Talia Rumuńska
     deck_title_ru: Talia Rosyjska
     deck_title_es: Talia Hiszpańska

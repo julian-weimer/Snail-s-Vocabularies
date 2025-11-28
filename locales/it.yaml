@@ -32,7 +32,8 @@ it:
     deck_title_de: Mazzo Tedesco
     deck_title_it: Mazzo Italiano
     deck_title_pl: Mazzo Polacco
-    deck_title_pt: Mazzo Portoghese
+    deck_title_pt-pt: Mazzo di Portoghese Europeo
+    deck_title_pt-br: Mazzo di Portoghese Brasiliano
     deck_title_ro: Mazzo Rumeno
     deck_title_ru: Mazzo Russo
     deck_title_es: Mazzo Spagnolo
