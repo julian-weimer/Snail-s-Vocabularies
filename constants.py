@@ -172,7 +172,7 @@ AI_VOICE_MAP = {
     Language.NORWEGIAN: False,
     Language.PERSIAN: False,
     Language.POLISH: False,
-    Language.PORTUGUESE_EU: "pt-PT-Standard-E",
+    Language.PORTUGUESE_EU: "pt-PT-Wavenet-F",
     Language.PORTUGUESE_BR: False,
     Language.ROMANIAN: False,
     Language.RUSSIAN: False,
