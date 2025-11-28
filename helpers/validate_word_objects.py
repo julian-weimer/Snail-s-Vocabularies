@@ -1,4 +1,5 @@
 from jsonschema import ValidationError, validate
+from rich.progress import track
 
 from constants import get_word_object_schema
 from log import logger
@@ -9,7 +10,9 @@ def validate_word_objects(
 ) -> bool:
     schema = get_word_object_schema(key_is_required=key_is_required)
 
-    for i, word_obj in enumerate(word_objects):
+    for word_obj in track(
+        word_objects, description="Validating word objects", transient=True
+    ):
         try:
             validate(instance=word_obj, schema=schema)
         except ValidationError as e:
