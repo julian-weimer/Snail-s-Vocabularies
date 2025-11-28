@@ -4,7 +4,7 @@ Let's refine a word list in a JSON file.
 
 First of all, let's clean the JSON:
 - Remove all word objects that include words which appear wrong, such as non-written numbers (Example: Remove 1,2,3.. and keep one, two, three...) or single-letter words that don't exist in $language_name. Make sure to reference the $language_code key for this action. If a word does not seem to be part of $language_name, remove the corresponding word object as well.
-- Remove word objects which reference a human name, currencies, company or service names and cities.
+- Remove word objects which reference a human name, currencies, company or service names, and cities.
 
 Let's add translations next:
 - All word objects should include the following keys: $supported_languages with the corresponding translation.
@@ -14,12 +14,13 @@ Let's add translations next:
 - Capitalize nouns if $language_name requires it.
 - Add a key called `word_type`, its value should be one of `noun`, `adjective`, `verb`, `adverb`, `pronoun`, `conjunction`, `preposition` or `other`.
 - All English verbs should include 'to'. Example: to run
+- All nouns should be in singular form
 
 Your next task will be to expand each word object with new keys depending on `word_type`.
 
 ## word_type: noun
 
-Add articles to the nouns in the $language_code key if $language_name is one of these languages (for example "Katze" would become "die Katze" in German). Capitalize the noun if it is necessary for $language_name:
+Add articles to the nouns in the $language_code key if $language_name is one of these languages (for example, "Katze" would become "die Katze" in German). Capitalize the noun if it is necessary for $language_name. Don't add "the" for English:
 - catalan
 - danish
 - dutch
@@ -48,7 +49,7 @@ Add the `plural_form` key with the plural form of the noun if $language_name is 
 - spanish
 - swedish
 
-Keep in mind that some nouns don't need a plural form when they reference a unique entity (for example a country or region).
+Keep in mind that some nouns don't need a plural form when they reference a unique entity (for example, a country or region).
 
 Add a short explanation of plural usage to a `comment` key if $language_name is one of the following languages (format: Use [plural form] for n items. Use [another plural form] for n items... etc., written in $language_name). The languages below don't need a `plural_form` key:
 - russian
