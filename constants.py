@@ -9,7 +9,7 @@ DEFAULT_IMAGES_DIR = "images"
 DEFAULT_AUDIO_DIR = "audio"
 DEFAULT_TEMPLATE_PATH = "./templates/refinement_prompt.md"
 DEFAULT_CHUNK_SIZE = 50
-DEFAULT_TRIM_LENGTH = 1500
+DEFAULT_TRIM_LENGTH = 0
 DEFAULT_CHECK_RESULT_PATH = "./check_result.csv"
 
 IMAGES_DIR_NAME = "images"

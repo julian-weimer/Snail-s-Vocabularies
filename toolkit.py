@@ -136,16 +136,19 @@ def get_refinement_prompt(
 
 
 @app.command()
-def create_media(language: Language, media_dir: str = DEFAULT_MEDIA_DIR) -> None:
+def create_media(
+    language: Language, media_dir: str = DEFAULT_MEDIA_DIR, images: bool = False
+) -> None:
     word_objects = load_word_list(language=language)
 
     if not word_objects:
         return
 
-    get_images_from_unsplash(
-        word_objects=word_objects,
-        output_dir=os.path.join(media_dir, DEFAULT_IMAGES_DIR),
-    )
+    if images:
+        get_images_from_unsplash(
+            word_objects=word_objects,
+            output_dir=os.path.join(media_dir, DEFAULT_IMAGES_DIR),
+        )
 
     get_audio_from_google_cloud_tts(
         word_objects=word_objects,
