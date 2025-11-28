@@ -10,7 +10,7 @@ I personally find that learning vocabulary is a good entry point to any new lang
 
 For some, manually creating personal decks can be part of their learning journey, but I always preferred having a ready-made deck so I could just start learning right away.
 
-Wouldn't it be great to have high-quality vocabulary decks that are not behind any subscriptions and freely accessible to anyone?
+Wouldn't it be great to have high-quality vocabulary decks that are not behind any subscriptions and freely accessible to everyone?
 
 ## Features
 
