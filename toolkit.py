@@ -26,7 +26,6 @@ from constants import (
     DEFAULT_TEMPLATE_PATH,
     DEFAULT_TRIM_LENGTH,
     SUPPORTED_LANGUAGES,
-    WORD_OBJECT_SCHEMA,
     WORDFREQ_LANG_MAP,
     Language,
     WordType,
@@ -183,7 +182,7 @@ def finalize_list(
     lists_dir: str = DEFAULT_LISTS_DIR,
     trim: int = DEFAULT_TRIM_LENGTH,
 ) -> None:
-    word_objects = load_word_list(language=language)
+    word_objects = load_word_list(language=language, key_is_required=False)
 
     if not word_objects:
         return

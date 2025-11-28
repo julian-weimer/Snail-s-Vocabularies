@@ -3,13 +3,15 @@ import os
 
 from jsonschema import ValidationError, validate
 
-from constants import DEFAULT_LISTS_DIR, WORD_OBJECT_SCHEMA, Language
+from constants import DEFAULT_LISTS_DIR, Language
 from helpers.validate_word_objects import validate_word_objects
 from log import logger
 
 
 def load_word_list(
-    language: Language, lists_dir: str = DEFAULT_LISTS_DIR
+    language: Language,
+    lists_dir: str = DEFAULT_LISTS_DIR,
+    key_is_required: bool = True,
 ) -> list[dict] | bool:
     lang_dir = os.path.join(lists_dir, language.value)
 
@@ -49,7 +51,9 @@ def load_word_list(
         f"Loaded {len(word_objects)} words for language '{language.value}' from {len(json_files)} file(s)"
     )
 
-    word_objects_is_valid = validate_word_objects(word_objects=word_objects)
+    word_objects_is_valid = validate_word_objects(
+        word_objects=word_objects, key_is_required=key_is_required
+    )
 
     if word_objects_is_valid:
         return word_objects

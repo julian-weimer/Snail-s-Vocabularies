@@ -209,63 +209,65 @@ WORDFREQ_LANG_MAP = {
     Language.PORTUGUESE_BR: "pt",
 }
 
-WORD_OBJECT_SCHEMA = {
-    "type": "object",
-    "properties": {
-        "key": {"type": "string"},
-        "word_type": {
-            "enum": [
-                "noun",
-                "adjective",
-                "verb",
-                "adverb",
-                "pronoun",
-                "conjunction",
-                "preposition",
-                "other",
-            ]
-        },
-        "plural_form": {"type": "string"},
-        "gender": {"enum": ["masculine", "feminine", "neuter"]},
-        "first_person_singular": {"type": "string"},
-        "first_person_plural": {"type": "string"},
-        "second_person_singular": {"type": "string"},
-        "second_person_plural": {"type": "string"},
-        "third_person_singular": {"type": "string"},
-        "third_person_plural": {"type": "string"},
-        "comment": {
-            "type": "object",
-            "properties": {
-                **{lang.value: {"type": "string"} for lang in Language},
-            },
-        },
-        **{lang.value: {"type": "string"} for lang in Language},
-    },
-    "required": [
-        "key",
-    ]
-    + [lang.value for lang in SUPPORTED_LANGUAGES],
-    "allOf": [
-        {
-            "if": {"properties": {"word_type": {"const": "noun"}}},
-            "then": {"required": ["plural_form"]},
-        },
-        {
-            "if": {"properties": {"word_type": {"const": "verb"}}},
-            "then": {
-                "required": [
-                    "first_person_singular",
-                    "first_person_plural",
-                    "second_person_singular",
-                    "second_person_plural",
-                    "third_person_singular",
-                    "third_person_plural",
+
+def get_word_object_schema(key_is_required: bool = True) -> dict:
+    base_required = [lang.value for lang in SUPPORTED_LANGUAGES]
+    if key_is_required:
+        base_required.append("key")
+
+    return {
+        "type": "object",
+        "properties": {
+            "key": {"type": "string"},
+            "word_type": {
+                "enum": [
+                    "noun",
+                    "adjective",
+                    "verb",
+                    "adverb",
+                    "pronoun",
+                    "conjunction",
+                    "preposition",
+                    "other",
                 ]
             },
+            "plural_form": {"type": "string"},
+            "gender": {"enum": ["masculine", "feminine", "neuter"]},
+            "first_person_singular": {"type": "string"},
+            "first_person_plural": {"type": "string"},
+            "second_person_singular": {"type": "string"},
+            "second_person_plural": {"type": "string"},
+            "third_person_singular": {"type": "string"},
+            "third_person_plural": {"type": "string"},
+            "comment": {
+                "type": "object",
+                "properties": {
+                    **{lang.value: {"type": "string"} for lang in Language},
+                },
+            },
+            **{lang.value: {"type": "string"} for lang in Language},
         },
-        {
-            "if": {"properties": {"word_type": {"const": "adjective"}}},
-            "then": {"required": ["positive", "comparative", "superlative"]},
-        },
-    ],
-}
+        "required": base_required,
+        "allOf": [
+            {
+                "if": {"properties": {"word_type": {"const": "verb"}}},
+                "then": {
+                    "required": [
+                        "first_person_singular",
+                        "first_person_plural",
+                        "second_person_singular",
+                        "second_person_plural",
+                        "third_person_singular",
+                        "third_person_plural",
+                    ]
+                },
+            },
+            {
+                "if": {"properties": {"word_type": {"const": "adjective"}}},
+                "then": {"required": ["positive", "comparative", "superlative"]},
+            },
+        ],
+    }
+
+
+WORD_OBJECT_SCHEMA = get_word_object_schema(key_is_required=True)
