@@ -1,5 +1,8 @@
 # Snail's Vocabularies 🐌
 
+> [!NOTE]  
+> The word lists are still incomplete or may contain errors.
+
 [Anki](https://apps.ankiweb.net/) vocabulary decks for a growing number of language pairs.
 
 This repository includes a toolkit to create and manage vocabulary lists, as well as the lists themselves. The official decks are available [here](https://snailsvocabularies.cool).
@@ -60,7 +63,7 @@ This will merge a foundational list (see `basics.json`) with a frequency list an
 
 Next, you will use an LLM (Claude Sonnet 4.5 or similar quality) to refine the raw JSON files. Get a prompt for your target language using `get-refinement-prompt` (example: `python toolkit.py get-refinement-prompt fr`).
 
-Finally, use `finalize-list` (example: `python toolkit.py finalize-list fr`) to finalize your list. It will check the list for structural errors, deduplicate it, and trim it to the desired size of 1,500 words by default.
+Finally, use `finalize-list` (example: `python toolkit.py finalize-list fr`) to finalize your list. It will check the list for structural errors and deduplicate it. You can trim a list with the `--trim` argument (example: `python toolkit.py finalize-list fr --trim 1500`).
 
 ### 2. Create media
 
