@@ -91,8 +91,8 @@ It is fine to replace words, the goal is to create lists of words which are most
 After any edit, run `finalize-list` (example: `python toolkit.py finalize-list fr`).
 
 To manage translations more effectively, the toolkit provides the following commands:
-- Use `dump-translations` (example: `python toolkit.py dump-translations de fr all fr.csv`). Use the `new` column for your corrections.
-- Use `replace-translations` (example: `python toolkit.py replace-translations de fr fr.csv`) to apply your changes across all chunks.
+- Use `dump-translations` (example: `python toolkit.py dump-translations fr all fr.csv`). Use the `new` column for your corrections.
+- Use `replace-translations` (example: `python toolkit.py replace-translations fr fr.csv`) to apply your changes across all chunks.
 
 ### Media files
 
