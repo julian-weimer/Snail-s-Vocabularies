@@ -51,8 +51,8 @@ def get_images_from_unsplash(
     images_path = Path(output_dir)
     images_path.mkdir(parents=True, exist_ok=True)
 
-    # Filter word_objects to only word_type of NOUN, VERB and ADJECTIVE
-    allowed_types = {WordType.NOUN.value, WordType.VERB.value, WordType.ADJECTIVE.value}
+    # Filter word_objects to only word_type of NOUN
+    allowed_types = {WordType.NOUN.value}
     word_objects = [
         word_obj
         for word_obj in word_objects

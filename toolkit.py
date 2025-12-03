@@ -70,6 +70,15 @@ def get_list(
     frequency_list = top_n_list(wordfreq_lang, frequency_list_length)
 
     # convert frequency list to word objects
+    basics_word_objects = []
+    for word in basics_list:
+        word_object = {
+            Language.ENGLISH.value: word.get(Language.ENGLISH.value, None),
+            language.value: word.get(language.value, None),
+        }
+        basics_word_objects.append(word_object)
+
+    # convert frequency list to word objects
     frequency_word_objects = []
     for word in frequency_list:
         word_object = {
@@ -78,7 +87,7 @@ def get_list(
         frequency_word_objects.append(word_object)
 
     # combine basics and frequency lists
-    word_objects = basics_list + frequency_word_objects
+    word_objects = basics_word_objects + frequency_word_objects
 
     # deduplicate word_objects based on key
     word_objects = deduplicate_list(word_objects, key=language.value)
@@ -233,7 +242,7 @@ def check_translations_against_dict_cc(
 
 @app.command()
 def dump_translations(
-    language: Language, translation: Language, word_type: WordType, output_file: str
+    language: Language, word_type: WordType, output_file: str
 ) -> None:
     word_objects = load_word_list(language=language)
 
@@ -247,9 +256,10 @@ def dump_translations(
         count = 0
         for word_obj in word_objects:
             english_word = word_obj.get("en")
-            translation_value = word_obj.get(translation.value)
+            translation_value = word_obj.get(language.value)
             word_type_in_list = word_obj.get("word_type")
 
+            # For word_type "all" dump all words, otherwhise filter list by word_type.
             if (translation_value and word_type.value == WordType.ALL.value) or (
                 translation_value and word_type_in_list == word_type.value
             ):
@@ -262,7 +272,6 @@ def dump_translations(
 @app.command()
 def replace_translations(
     language: Language,
-    translation: Language,
     input_file: str,
     lists_dir: str = DEFAULT_LISTS_DIR,
 ) -> None:
@@ -280,10 +289,10 @@ def replace_translations(
             replacements[current_translation] = new_translation
 
     for word_obj in word_objects:
-        current_translation = word_obj.get(translation.value)
+        current_translation = word_obj.get(language.value)
 
         if current_translation in replacements:
-            word_obj[translation.value] = replacements[current_translation]
+            word_obj[language.value] = replacements[current_translation]
 
     updated_files = save_word_objects_in_chunks(
         word_objects=word_objects,
@@ -296,35 +305,8 @@ def replace_translations(
     )
 
 
-@app.command()
-def add_translation(
-    language: Language,
-    translation: Language,
-    lists_dir: str = DEFAULT_LISTS_DIR,
-) -> None:
-    word_objects = load_word_list(language=language)
-
-    if not word_objects:
-        return
-
-    for word_obj in word_objects:
-        if translation.value not in word_obj:
-            word_obj[translation.value] = ""
-
-    updated_files = save_word_objects_in_chunks(
-        word_objects=word_objects,
-        language=language,
-        lists_dir=lists_dir,
-    )
-
-    logger.info(
-        f"Updated {len(word_objects)} words across {len(updated_files)} file(s)"
-    )
-
-
 @app.command(name="create-deck")
 def create_deck_command(
-    native_language: Language,
     target_language: Language,
     decks_dir: str = DEFAULT_DECKS_DIR,
     media_dir: str = DEFAULT_MEDIA_DIR,
@@ -336,7 +318,7 @@ def create_deck_command(
 
     create_deck(
         word_objects=word_objects,
-        native_language=native_language,
+        native_language=Language.ENGLISH,
         target_language=target_language,
         media_dir=media_dir,
         output_dir=os.path.join(decks_dir, target_language.value),
