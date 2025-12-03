@@ -190,18 +190,7 @@ AI_VOICE_MAP = {
 }
 
 SUPPORTED_LANGUAGES = [
-    Language.DUTCH,
     Language.ENGLISH,
-    Language.FRENCH,
-    Language.GERMAN,
-    Language.ITALIAN,
-    Language.POLISH,
-    Language.PORTUGUESE_BR,
-    Language.PORTUGUESE_EU,
-    Language.ROMANIAN,
-    Language.RUSSIAN,
-    Language.SPANISH,
-    Language.UKRAINIAN,
 ]
 
 WORDFREQ_LANG_MAP = {

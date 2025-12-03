@@ -3,7 +3,7 @@
 > [!NOTE]  
 > The word lists are still incomplete or may contain errors.
 
-[Anki](https://apps.ankiweb.net/) vocabulary decks for a growing number of language pairs.
+Free [Anki](https://apps.ankiweb.net/) vocabulary decks or a variety of languages.
 
 This repository includes a toolkit to create and manage vocabulary lists, as well as the lists themselves. The official decks are available [here](https://snailsvocabularies.cool).
 
@@ -18,15 +18,13 @@ Wouldn't it be great to have high-quality vocabulary decks that are not behind a
 ## Features
 
 - Each deck includes 1,500 words consisting of a universal foundational list and a selection of dictionary words derived from a [frequency list](https://github.com/rspeer/wordfreq/) unique to each language
-- Support and localization for 11 languages (see [Project Status](#project-status) for details)
+- Support 11 languages (see [Project Status](#project-status) for details)
 - A CLI-based toolkit to create and manage vocabulary decks
 - AI-generated sounds for each word*
-- Images sourced from [Unsplash](https://unsplash.com) for nouns, verbs, and adjectives*
+- Images sourced from [Unsplash](https://unsplash.com) for nouns*
 - Fancy card design featuring a snail*
 
 \*Not included in this repository
-
-I believe that this project could become a foundation for even more language pairs, but for now the focus will be on the ten most widely spoken languages in Europe based on [this](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_speakers_in_Europe) list, plus Portuguese.
 
 The foundational list is based on the following sources:
 - [Basic English List](https://en.wikipedia.org/wiki/Basic_English)
@@ -35,23 +33,20 @@ The foundational list is based on the following sources:
 
 ## Project Status
 
-- Rows represent vocabulary decks.
-- Columns represent localizations for a vocabulary deck.
-
-|       | nl | en | fr | de | it | pl | pt-br | pt-pt | ro | ru | es | uk |
-| ----- | -- | -- | -- | -- | -- | -- | ----- | ----- | -- | -- | -- | -- |
-| nl    | -  |    |    |    |    |    |       |       |    |    |    |    |
-| en    |    | -  |    |    |    |    |       |       |    |    |    |    |
-| fr    |    |    | -  |    |    |    |       |       |    |    |    |    |
-| de    |    |    |    | -  |    |    |       |       |    |    |    |    |
-| it    |    |    |    |    | -  |    |       |       |    |    |    |    |
-| pl    |    |    |    |    |    | -  |       |       |    |    |    |    |
-| pt-br |    |    |    |    |    |    | -     |       |    |    |    |    |
-| pt-pt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅    |  -    | ✅ | ✅ | ✅ | ✅ |
-| ro    |    |    |    |    |    |    |       |       | -  |    |    |    |
-| ru    |    |    |    |    |    |    |       |       |    | -  |    |    |
-| es    |    |    |    |    |    |    |       |       |    |    | -  |    |
-| uk    |    |    |    |    |    |    |       |       |    |    |    | -  |
+|       | Status   |
+| ----- | -------- |
+| nl    | -        |
+| en    | -        |
+| fr    | -        |
+| de    | -        |
+| it    | -        |
+| pl    | -        |
+| pt-br | -        |
+| pt-pt | ✅       |
+| ro    | -        |
+| ru    | -        |
+| es    | -        |
+| uk    | -        |
 
 ## How to create a new deck using the toolkit
 

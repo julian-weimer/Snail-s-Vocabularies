@@ -1,6 +1,5 @@
 [
   {
-    "key": "hello",
     "nl": "Hallo!",
     "en": "Hello!",
     "fr": "Bonjour!",
@@ -12,11 +11,9 @@
     "ru": "Здравствуйте!",
     "es": "¡Hola!",
     "uk": "Привіт!",
-    "word_type": "other",
     "pt-br": "Olá!"
   },
   {
-    "key": "goodbye",
     "nl": "Tot ziens!",
     "en": "Goodbye!",
     "fr": "Au revoir!",
@@ -28,11 +25,9 @@
     "ru": "До свидания!",
     "es": "¡Adiós!",
     "uk": "До побачення!",
-    "word_type": "other",
     "pt-br": "Adeus!"
   },
   {
-    "key": "welcome",
     "nl": "Welkom!",
     "en": "Welcome!",
     "fr": "Bienvenue!",
@@ -44,11 +39,9 @@
     "ru": "Добро пожаловать!",
     "es": "¡Bienvenido!",
     "uk": "Ласкаво просимо!",
-    "word_type": "other",
     "pt-br": "Bem-vindo!"
   },
   {
-    "key": "please",
     "nl": "alsjeblieft",
     "en": "please",
     "fr": "s'il vous plaît",
@@ -60,11 +53,9 @@
     "ru": "пожалуйста",
     "es": "por favor",
     "uk": "будь ласка",
-    "word_type": "adverb",
     "pt-br": "por favor"
   },
   {
-    "key": "sorry",
     "nl": "Sorry",
     "en": "Sorry",
     "fr": "Désolé",
@@ -76,11 +67,9 @@
     "ru": "Простите",
     "es": "Lo siento",
     "uk": "Вибачте",
-    "word_type": "other",
     "pt-br": "Desculpe"
   },
   {
-    "key": "yes",
     "nl": "ja",
     "en": "yes",
     "fr": "oui",
@@ -92,11 +81,9 @@
     "ru": "да",
     "es": "sí",
     "uk": "так",
-    "word_type": "adverb",
     "pt-br": "sim"
   },
   {
-    "key": "no",
     "nl": "nee",
     "en": "no",
     "fr": "non",
@@ -108,11 +95,9 @@
     "ru": "нет",
     "es": "no",
     "uk": "ні",
-    "word_type": "adverb",
     "pt-br": "não"
   },
   {
-    "key": "to-say",
     "nl": "zeggen",
     "en": "to say",
     "fr": "dire",
@@ -124,11 +109,9 @@
     "ru": "сказать",
     "es": "decir",
     "uk": "сказати",
-    "word_type": "verb",
     "pt-br": "dizer"
   },
   {
-    "key": "to-tell",
     "nl": "vertellen",
     "en": "to tell",
     "fr": "raconter",
@@ -140,11 +123,9 @@
     "ru": "рассказать",
     "es": "contar",
     "uk": "розповідати",
-    "word_type": "verb",
     "pt-br": "contar"
   },
   {
-    "key": "to-ask",
     "nl": "vragen",
     "en": "to ask",
     "fr": "demander",
@@ -156,11 +137,9 @@
     "ru": "спросить",
     "es": "preguntar",
     "uk": "запитувати",
-    "word_type": "verb",
     "pt-br": "perguntar"
   },
   {
-    "key": "to-introduce",
     "nl": "voorstellen",
     "en": "to introduce",
     "fr": "présenter",
@@ -172,11 +151,9 @@
     "ru": "представить",
     "es": "presentar",
     "uk": "представити",
-    "word_type": "verb",
     "pt-br": "apresentar"
   },
   {
-    "key": "conversation",
     "nl": "het gesprek",
     "en": "conversation",
     "fr": "la conversation",
@@ -188,11 +165,9 @@
     "ru": "разговор",
     "es": "la conversación",
     "uk": "розмова",
-    "word_type": "noun",
     "pt-br": "a conversa"
   },
   {
-    "key": "question",
     "nl": "de vraag",
     "en": "question",
     "fr": "la question",
@@ -204,11 +179,9 @@
     "ru": "вопрос",
     "es": "la pregunta",
     "uk": "питання",
-    "word_type": "noun",
     "pt-br": "a questão"
   },
   {
-    "key": "answer",
     "nl": "het antwoord",
     "en": "answer",
     "fr": "la réponse",
@@ -220,11 +193,9 @@
     "ru": "ответ",
     "es": "la respuesta",
     "uk": "відповідь",
-    "word_type": "noun",
     "pt-br": "a resposta"
   },
   {
-    "key": "he",
     "nl": "hij",
     "en": "he",
     "fr": "il",
@@ -236,11 +207,9 @@
     "ru": "он",
     "es": "él",
     "uk": "він",
-    "word_type": "pronoun",
     "pt-br": "ele"
   },
   {
-    "key": "him",
     "nl": "hem",
     "en": "him",
     "fr": "lui",
@@ -252,11 +221,9 @@
     "ru": "его",
     "es": "lo",
     "uk": "його",
-    "word_type": "pronoun",
     "pt-br": "ele"
   },
   {
-    "key": "his",
     "nl": "zijn",
     "en": "his",
     "fr": "son",
@@ -268,11 +235,9 @@
     "ru": "его",
     "es": "su",
     "uk": "його",
-    "word_type": "pronoun",
     "pt-br": "seu"
   },
   {
-    "key": "i",
     "nl": "ik",
     "en": "I",
     "fr": "je",
@@ -284,11 +249,9 @@
     "ru": "я",
     "es": "yo",
     "uk": "я",
-    "word_type": "pronoun",
     "pt-br": "eu"
   },
   {
-    "key": "it",
     "nl": "het",
     "en": "it",
     "fr": "il",
@@ -300,11 +263,9 @@
     "ru": "оно",
     "es": "ello",
     "uk": "воно",
-    "word_type": "pronoun",
     "pt-br": "ele"
   },
   {
-    "key": "me",
     "nl": "mij",
     "en": "me",
     "fr": "moi",
@@ -316,11 +277,9 @@
     "ru": "меня",
     "es": "me",
     "uk": "мене",
-    "word_type": "pronoun",
     "pt-br": "me"
   },
   {
-    "key": "mine",
     "nl": "van mij",
     "en": "mine",
     "fr": "le mien",
@@ -332,11 +291,9 @@
     "ru": "мой",
     "es": "mío",
     "uk": "мій",
-    "word_type": "pronoun",
     "pt-br": "meu"
   },
   {
-    "key": "my",
     "nl": "mijn",
     "en": "my",
     "fr": "mon",
@@ -348,11 +305,9 @@
     "ru": "мой",
     "es": "mi",
     "uk": "мій",
-    "word_type": "pronoun",
     "pt-br": "meu"
   },
   {
-    "key": "myself",
     "nl": "mezelf",
     "en": "myself",
     "fr": "moi-même",
@@ -364,11 +319,9 @@
     "ru": "само",
     "es": "yo mismo",
     "uk": "само",
-    "word_type": "pronoun",
     "pt-br": "eu mesmo"
   },
   {
-    "key": "our",
     "nl": "ons",
     "en": "our",
     "fr": "notre",
@@ -380,11 +333,9 @@
     "ru": "наш",
     "es": "nuestro",
     "uk": "наш",
-    "word_type": "pronoun",
     "pt-br": "nosso"
   },
   {
-    "key": "she",
     "nl": "zij",
     "en": "she",
     "fr": "elle",
@@ -396,11 +347,9 @@
     "ru": "она",
     "es": "ella",
     "uk": "вона",
-    "word_type": "pronoun",
     "pt-br": "ela"
   },
   {
-    "key": "her",
     "nl": "haar",
     "en": "her",
     "fr": "elle",
@@ -412,11 +361,9 @@
     "ru": "её",
     "es": "ella",
     "uk": "її",
-    "word_type": "pronoun",
     "pt-br": "ela"
   },
   {
-    "key": "us",
     "nl": "ons",
     "en": "us",
     "fr": "nous",
@@ -428,11 +375,9 @@
     "ru": "нас",
     "es": "nos",
     "uk": "нас",
-    "word_type": "pronoun",
     "pt-br": "nós"
   },
   {
-    "key": "we",
     "nl": "wij",
     "en": "we",
     "fr": "nous",
@@ -444,11 +389,9 @@
     "ru": "мы",
     "es": "nosotros",
     "uk": "ми",
-    "word_type": "pronoun",
     "pt-br": "nós"
   },
   {
-    "key": "you",
     "nl": "jij/u",
     "en": "you",
     "fr": "vous",
@@ -460,11 +403,9 @@
     "ru": "вы",
     "es": "tú",
     "uk": "ти",
-    "word_type": "pronoun",
     "pt-br": "tu"
   },
   {
-    "key": "your",
     "nl": "jouw/uw",
     "en": "your",
     "fr": "votre",
@@ -476,11 +417,9 @@
     "ru": "ваш",
     "es": "tu",
     "uk": "твій",
-    "word_type": "pronoun",
     "pt-br": "teu"
   },
   {
-    "key": "yourself",
     "nl": "jezelf",
     "en": "yourself",
     "fr": "toi-même",
@@ -492,11 +431,9 @@
     "ru": "себя",
     "es": "tú mismo",
     "uk": "себе",
-    "word_type": "pronoun",
     "pt-br": "tu mesmo"
   },
   {
-    "key": "one",
     "nl": "een",
     "en": "one",
     "fr": "un",
@@ -508,11 +445,9 @@
     "ru": "один",
     "es": "uno",
     "uk": "один",
-    "word_type": "other",
     "pt-br": "um"
   },
   {
-    "key": "two",
     "nl": "twee",
     "en": "two",
     "fr": "deux",
@@ -524,11 +459,9 @@
     "ru": "два",
     "es": "dos",
     "uk": "два",
-    "word_type": "other",
     "pt-br": "dois"
   },
   {
-    "key": "three",
     "nl": "drie",
     "en": "three",
     "fr": "trois",
@@ -540,11 +473,9 @@
     "ru": "три",
     "es": "tres",
     "uk": "три",
-    "word_type": "other",
     "pt-br": "três"
   },
   {
-    "key": "four",
     "nl": "vier",
     "en": "four",
     "fr": "quatre",
@@ -556,11 +487,9 @@
     "ru": "четыре",
     "es": "cuatro",
     "uk": "чотири",
-    "word_type": "other",
     "pt-br": "quatro"
   },
   {
-    "key": "five",
     "nl": "vijf",
     "en": "five",
     "fr": "cinq",
@@ -572,11 +501,9 @@
     "ru": "пять",
     "es": "cinco",
     "uk": "п'ять",
-    "word_type": "other",
     "pt-br": "cinco"
   },
   {
-    "key": "six",
     "nl": "zes",
     "en": "six",
     "fr": "six",
@@ -588,11 +515,9 @@
     "ru": "шесть",
     "es": "seis",
     "uk": "шість",
-    "word_type": "other",
     "pt-br": "seis"
   },
   {
-    "key": "seven",
     "nl": "zeven",
     "en": "seven",
     "fr": "sept",
@@ -604,11 +529,9 @@
     "ru": "семь",
     "es": "siete",
     "uk": "сім",
-    "word_type": "other",
     "pt-br": "sete"
   },
   {
-    "key": "eight",
     "nl": "acht",
     "en": "eight",
     "fr": "huit",
@@ -620,11 +543,9 @@
     "ru": "восемь",
     "es": "ocho",
     "uk": "вісім",
-    "word_type": "other",
     "pt-br": "oito"
   },
   {
-    "key": "nine",
     "nl": "negen",
     "en": "nine",
     "fr": "neuf",
@@ -636,11 +557,9 @@
     "ru": "девять",
     "es": "nueve",
     "uk": "дев'ять",
-    "word_type": "other",
     "pt-br": "nove"
   },
   {
-    "key": "ten",
     "nl": "tien",
     "en": "ten",
     "fr": "dix",
@@ -652,11 +571,9 @@
     "ru": "десять",
     "es": "diez",
     "uk": "десять",
-    "word_type": "other",
     "pt-br": "dez"
   },
   {
-    "key": "eleven",
     "nl": "elf",
     "en": "eleven",
     "fr": "onze",
@@ -668,11 +585,9 @@
     "ru": "одиннадцать",
     "es": "once",
     "uk": "одинадцять",
-    "word_type": "other",
     "pt-br": "onze"
   },
   {
-    "key": "twelve",
     "nl": "twaalf",
     "en": "twelve",
     "fr": "douze",
@@ -684,11 +599,9 @@
     "ru": "двенадцать",
     "es": "doce",
     "uk": "дванадцять",
-    "word_type": "other",
     "pt-br": "doze"
   },
   {
-    "key": "thirteen",
     "nl": "dertien",
     "en": "thirteen",
     "fr": "treize",
@@ -700,11 +613,9 @@
     "ru": "тринадцать",
     "es": "trece",
     "uk": "тринадцять",
-    "word_type": "other",
     "pt-br": "treze"
   },
   {
-    "key": "fourteen",
     "nl": "veertien",
     "en": "fourteen",
     "fr": "quatorze",
@@ -716,11 +627,9 @@
     "ru": "четырнадцать",
     "es": "catorce",
     "uk": "чотирнадцять",
-    "word_type": "other",
     "pt-br": "catorze"
   },
   {
-    "key": "fifteen",
     "nl": "vijftien",
     "en": "fifteen",
     "fr": "quinze",
@@ -732,11 +641,9 @@
     "ru": "пятнадцать",
     "es": "quince",
     "uk": "п'ятнадцять",
-    "word_type": "other",
     "pt-br": "quinze"
   },
   {
-    "key": "sixteen",
     "nl": "zestien",
     "en": "sixteen",
     "fr": "seize",
@@ -748,11 +655,9 @@
     "ru": "шестнадцать",
     "es": "dieciséis",
     "uk": "шістнадцять",
-    "word_type": "other",
     "pt-br": "dezasseis"
   },
   {
-    "key": "seventeen",
     "nl": "zeventien",
     "en": "seventeen",
     "fr": "dix-sept",
@@ -764,11 +669,9 @@
     "ru": "семнадцать",
     "es": "diecisiete",
     "uk": "сімнадцять",
-    "word_type": "other",
     "pt-br": "dezassete"
   },
   {
-    "key": "eighteen",
     "nl": "achttien",
     "en": "eighteen",
     "fr": "dix-huit",
@@ -780,11 +683,9 @@
     "ru": "восемнадцать",
     "es": "dieciocho",
     "uk": "вісімнадцять",
-    "word_type": "other",
     "pt-br": "dezoito"
   },
   {
-    "key": "nineteen",
     "nl": "negentien",
     "en": "nineteen",
     "fr": "dix-neuf",
@@ -796,11 +697,9 @@
     "ru": "девятнадцать",
     "es": "diecinueve",
     "uk": "дев'ятнадцять",
-    "word_type": "other",
     "pt-br": "dezanove"
   },
   {
-    "key": "twenty",
     "nl": "twintig",
     "en": "twenty",
     "fr": "vingt",
@@ -812,11 +711,9 @@
     "ru": "двадцать",
     "es": "veinte",
     "uk": "двадцять",
-    "word_type": "other",
     "pt-br": "vinte"
   },
   {
-    "key": "thirty",
     "nl": "dertig",
     "en": "thirty",
     "fr": "trente",
@@ -828,11 +725,9 @@
     "ru": "тридцать",
     "es": "treinta",
     "uk": "тридцять",
-    "word_type": "other",
     "pt-br": "trinta"
   },
   {
-    "key": "forty",
     "nl": "veertig",
     "en": "forty",
     "fr": "quarante",
@@ -844,11 +739,9 @@
     "ru": "сорок",
     "es": "cuarenta",
     "uk": "сорок",
-    "word_type": "other",
     "pt-br": "quarenta"
   },
   {
-    "key": "fifty",
     "nl": "vijftig",
     "en": "fifty",
     "fr": "cinquante",
@@ -860,11 +753,9 @@
     "ru": "пятьдесят",
     "es": "cincuenta",
     "uk": "п'ятдесят",
-    "word_type": "other",
     "pt-br": "cinquenta"
   },
   {
-    "key": "sixty",
     "nl": "zestig",
     "en": "sixty",
     "fr": "soixante",
@@ -876,11 +767,9 @@
     "ru": "шестьдесят",
     "es": "sesenta",
     "uk": "шістдесят",
-    "word_type": "other",
     "pt-br": "sessenta"
   },
   {
-    "key": "seventy",
     "nl": "zeventig",
     "en": "seventy",
     "fr": "soixante-dix",
@@ -892,11 +781,9 @@
     "ru": "семьдесят",
     "es": "setenta",
     "uk": "сімдесят",
-    "word_type": "other",
     "pt-br": "setenta"
   },
   {
-    "key": "eighty",
     "nl": "tachtig",
     "en": "eighty",
     "fr": "quatre-vingts",
@@ -908,11 +795,9 @@
     "ru": "восемьдесят",
     "es": "ochenta",
     "uk": "вісімдесят",
-    "word_type": "other",
     "pt-br": "oitenta"
   },
   {
-    "key": "ninety",
     "nl": "negentig",
     "en": "ninety",
     "fr": "quatre-vingt-dix",
@@ -924,11 +809,9 @@
     "ru": "девяносто",
     "es": "noventa",
     "uk": "дев'яносто",
-    "word_type": "other",
     "pt-br": "noventa"
   },
   {
-    "key": "hundred",
     "nl": "honderd",
     "en": "hundred",
     "fr": "cent",
@@ -940,11 +823,9 @@
     "ru": "сто",
     "es": "cien",
     "uk": "сто",
-    "word_type": "other",
     "pt-br": "cem"
   },
   {
-    "key": "thousand",
     "nl": "duizend",
     "en": "thousand",
     "fr": "mille",
@@ -956,11 +837,9 @@
     "ru": "тысяча",
     "es": "mil",
     "uk": "тисяча",
-    "word_type": "other",
     "pt-br": "mil"
   },
   {
-    "key": "million",
     "nl": "het miljoen",
     "en": "million",
     "fr": "le million",
@@ -972,11 +851,9 @@
     "ru": "миллион",
     "es": "el millón",
     "uk": "мільйон",
-    "word_type": "noun",
     "pt-br": "o milhão"
   },
   {
-    "key": "billion",
     "nl": "het miljard",
     "en": "billion",
     "fr": "le milliard",
@@ -988,11 +865,9 @@
     "ru": "миллиард",
     "es": "los mil millones",
     "uk": "мільярд",
-    "word_type": "noun",
     "pt-br": "os mil milhões"
   },
   {
-    "key": "first",
     "nl": "eerste",
     "en": "first",
     "fr": "premier",
@@ -1004,11 +879,9 @@
     "ru": "первый",
     "es": "primero",
     "uk": "перший",
-    "word_type": "adjective",
     "pt-br": "primeiro"
   },
   {
-    "key": "second",
     "nl": "tweede",
     "en": "second",
     "fr": "deuxième",
@@ -1020,11 +893,9 @@
     "ru": "второй",
     "es": "segundo",
     "uk": "другий",
-    "word_type": "adjective",
     "pt-br": "segundo"
   },
   {
-    "key": "third",
     "nl": "derde",
     "en": "third",
     "fr": "troisième",
@@ -1036,11 +907,9 @@
     "ru": "третий",
     "es": "tercero",
     "uk": "третій",
-    "word_type": "adjective",
     "pt-br": "terceiro"
   },
   {
-    "key": "fourth",
     "nl": "vierde",
     "en": "fourth",
     "fr": "quatrième",
@@ -1052,11 +921,9 @@
     "ru": "четвёртый",
     "es": "cuarto",
     "uk": "четвертий",
-    "word_type": "adjective",
     "pt-br": "quarto"
   },
   {
-    "key": "fifth",
     "nl": "vijfde",
     "en": "fifth",
     "fr": "cinquième",
@@ -1068,11 +935,9 @@
     "ru": "пятый",
     "es": "quinto",
     "uk": "п'ятий",
-    "word_type": "adjective",
     "pt-br": "quinto"
   },
   {
-    "key": "half",
     "nl": "de helft",
     "en": "half",
     "fr": "la moitié",
@@ -1084,11 +949,9 @@
     "ru": "половина",
     "es": "la mitad",
     "uk": "половина",
-    "word_type": "noun",
     "pt-br": "a metade"
   },
   {
-    "key": "quarter-fraction",
     "nl": "het kwart",
     "en": "quarter (fraction)",
     "fr": "le quart (fraction)",
@@ -1100,11 +963,9 @@
     "ru": "четверть (дробь)",
     "es": "el cuarto (fracción)",
     "uk": "чверть (дріб)",
-    "word_type": "noun",
     "pt-br": "o quarto"
   },
   {
-    "key": "number",
     "nl": "het nummer",
     "en": "number",
     "fr": "le numéro",
@@ -1116,11 +977,9 @@
     "ru": "номер",
     "es": "el número",
     "uk": "номер",
-    "word_type": "noun",
     "pt-br": "o número"
   },
   {
-    "key": "amount",
     "nl": "het bedrag",
     "en": "amount",
     "fr": "le montant",
@@ -1132,11 +991,9 @@
     "ru": "сумма",
     "es": "la cantidad",
     "uk": "сума",
-    "word_type": "noun",
     "pt-br": "o montante"
   },
   {
-    "key": "addition-math",
     "nl": "de optelling",
     "en": "addition (math)",
     "fr": "l'addition (mathématiques)",
@@ -1148,11 +1005,9 @@
     "ru": "сложение (математика)",
     "es": "la suma (matemáticas)",
     "uk": "додавання (математика)",
-    "word_type": "noun",
     "pt-br": "a adição"
   },
   {
-    "key": "division-math",
     "nl": "de deling",
     "en": "division (math)",
     "fr": "la division (mathématiques)",
@@ -1164,11 +1019,9 @@
     "ru": "деление (математика)",
     "es": "la división (matemáticas)",
     "uk": "ділення (математика)",
-    "word_type": "noun",
     "pt-br": "a divisão"
   },
   {
-    "key": "angle",
     "nl": "de hoek",
     "en": "angle",
     "fr": "l'angle",
@@ -1180,11 +1033,9 @@
     "ru": "угол",
     "es": "el ángulo",
     "uk": "кут",
-    "word_type": "noun",
     "pt-br": "o ângulo"
   },
   {
-    "key": "circle",
     "nl": "de cirkel",
     "en": "circle",
     "fr": "le cercle",
@@ -1196,11 +1047,9 @@
     "ru": "круг",
     "es": "el círculo",
     "uk": "коло",
-    "word_type": "noun",
     "pt-br": "o círculo"
   },
   {
-    "key": "curve",
     "nl": "de kromme",
     "en": "curve",
     "fr": "la courbe",
@@ -1212,11 +1061,9 @@
     "ru": "кривая",
     "es": "la curva",
     "uk": "крива",
-    "word_type": "noun",
     "pt-br": "a curva"
   },
   {
-    "key": "square-shape",
     "nl": "het vierkant",
     "en": "square (shape)",
     "fr": "le carré (forme)",
@@ -1228,11 +1075,9 @@
     "ru": "квадрат (форма)",
     "es": "el cuadrado (forma)",
     "uk": "квадрат (форма)",
-    "word_type": "noun",
     "pt-br": "o quadrado"
   },
   {
-    "key": "monday",
     "nl": "de maandag",
     "en": "Monday",
     "fr": "le lundi",
@@ -1244,11 +1089,9 @@
     "ru": "понедельник",
     "es": "el lunes",
     "uk": "понеділок",
-    "word_type": "noun",
     "pt-br": "a segunda-feira"
   },
   {
-    "key": "tuesday",
     "nl": "de dinsdag",
     "en": "Tuesday",
     "fr": "le mardi",
@@ -1260,11 +1103,9 @@
     "ru": "вторник",
     "es": "el martes",
     "uk": "вівторок",
-    "word_type": "noun",
     "pt-br": "a terça-feira"
   },
   {
-    "key": "wednesday",
     "nl": "de woensdag",
     "en": "Wednesday",
     "fr": "le mercredi",
@@ -1276,11 +1117,9 @@
     "ru": "среда",
     "es": "el miércoles",
     "uk": "середа",
-    "word_type": "noun",
     "pt-br": "a quarta-feira"
   },
   {
-    "key": "thursday",
     "nl": "de donderdag",
     "en": "Thursday",
     "fr": "le jeudi",
@@ -1292,11 +1131,9 @@
     "ru": "четверг",
     "es": "el jueves",
     "uk": "четвер",
-    "word_type": "noun",
     "pt-br": "a quinta-feira"
   },
   {
-    "key": "friday",
     "nl": "de vrijdag",
     "en": "Friday",
     "fr": "le vendredi",
@@ -1308,11 +1145,9 @@
     "ru": "пятница",
     "es": "el viernes",
     "uk": "п'ятниця",
-    "word_type": "noun",
     "pt-br": "a sexta-feira"
   },
   {
-    "key": "saturday",
     "nl": "de zaterdag",
     "en": "Saturday",
     "fr": "le samedi",
@@ -1324,11 +1159,9 @@
     "ru": "суббота",
     "es": "el sábado",
     "uk": "субота",
-    "word_type": "noun",
     "pt-br": "o sábado"
   },
   {
-    "key": "sunday",
     "nl": "de zondag",
     "en": "Sunday",
     "fr": "le dimanche",
@@ -1340,11 +1173,9 @@
     "ru": "воскресенье",
     "es": "el domingo",
     "uk": "неділя",
-    "word_type": "noun",
     "pt-br": "o domingo"
   },
   {
-    "key": "january",
     "nl": "januari",
     "en": "January",
     "fr": "janvier",
@@ -1356,11 +1187,9 @@
     "ru": "январь",
     "es": "el enero",
     "uk": "січень",
-    "word_type": "noun",
     "pt-br": "janeiro"
   },
   {
-    "key": "february",
     "nl": "februari",
     "en": "February",
     "fr": "février",
@@ -1372,11 +1201,9 @@
     "ru": "февраль",
     "es": "el febrero",
     "uk": "лютий",
-    "word_type": "noun",
     "pt-br": "fevereiro"
   },
   {
-    "key": "march",
     "nl": "maart",
     "en": "March",
     "fr": "mars",
@@ -1388,11 +1215,9 @@
     "ru": "март",
     "es": "el marzo",
     "uk": "березень",
-    "word_type": "noun",
     "pt-br": "março"
   },
   {
-    "key": "april",
     "nl": "april",
     "en": "April",
     "fr": "avril",
@@ -1404,11 +1229,9 @@
     "ru": "апрель",
     "es": "el abril",
     "uk": "квітень",
-    "word_type": "noun",
     "pt-br": "abril"
   },
   {
-    "key": "may",
     "nl": "mei",
     "en": "May",
     "fr": "mai",
@@ -1420,11 +1243,9 @@
     "ru": "май",
     "es": "el mayo",
     "uk": "травень",
-    "word_type": "noun",
     "pt-br": "maio"
   },
   {
-    "key": "june",
     "nl": "juni",
     "en": "June",
     "fr": "juin",
@@ -1436,11 +1257,9 @@
     "ru": "июнь",
     "es": "el junio",
     "uk": "червень",
-    "word_type": "noun",
     "pt-br": "junho"
   },
   {
-    "key": "july",
     "nl": "juli",
     "en": "July",
     "fr": "juillet",
@@ -1452,11 +1271,9 @@
     "ru": "июль",
     "es": "el julio",
     "uk": "липень",
-    "word_type": "noun",
     "pt-br": "julho"
   },
   {
-    "key": "august",
     "nl": "augustus",
     "en": "August",
     "fr": "août",
@@ -1468,11 +1285,9 @@
     "ru": "август",
     "es": "el agosto",
     "uk": "серпень",
-    "word_type": "noun",
     "pt-br": "agosto"
   },
   {
-    "key": "september",
     "nl": "september",
     "en": "September",
     "fr": "septembre",
@@ -1484,11 +1299,9 @@
     "ru": "сентябрь",
     "es": "el septiembre",
     "uk": "вересень",
-    "word_type": "noun",
     "pt-br": "setembro"
   },
   {
-    "key": "october",
     "nl": "oktober",
     "en": "October",
     "fr": "octobre",
@@ -1500,11 +1313,9 @@
     "ru": "октябрь",
     "es": "el octubre",
     "uk": "жовтень",
-    "word_type": "noun",
     "pt-br": "outubro"
   },
   {
-    "key": "november",
     "nl": "november",
     "en": "November",
     "fr": "novembre",
@@ -1516,11 +1327,9 @@
     "ru": "ноябрь",
     "es": "el noviembre",
     "uk": "листопад",
-    "word_type": "noun",
     "pt-br": "novembro"
   },
   {
-    "key": "december",
     "nl": "december",
     "en": "December",
     "fr": "décembre",
@@ -1532,11 +1341,9 @@
     "ru": "декабрь",
     "es": "el diciembre",
     "uk": "грудень",
-    "word_type": "noun",
     "pt-br": "dezembro"
   },
   {
-    "key": "spring-season",
     "nl": "de lente",
     "en": "spring (season)",
     "fr": "le printemps",
@@ -1548,11 +1355,9 @@
     "ru": "весна",
     "es": "la primavera",
     "uk": "весна",
-    "word_type": "noun",
     "pt-br": "a primavera"
   },
   {
-    "key": "summer",
     "nl": "de zomer",
     "en": "summer",
     "fr": "l'été",
@@ -1564,11 +1369,9 @@
     "ru": "лето",
     "es": "el verano",
     "uk": "літо",
-    "word_type": "noun",
     "pt-br": "o verão"
   },
   {
-    "key": "autumn",
     "nl": "de herfst",
     "en": "autumn",
     "fr": "l'automne",
@@ -1580,11 +1383,9 @@
     "ru": "осень",
     "es": "el otoño",
     "uk": "осінь",
-    "word_type": "noun",
     "pt-br": "o outono"
   },
   {
-    "key": "winter",
     "nl": "de winter",
     "en": "winter",
     "fr": "l'hiver",
@@ -1596,11 +1397,9 @@
     "ru": "зима",
     "es": "el invierno",
     "uk": "зима",
-    "word_type": "noun",
     "pt-br": "o inverno"
   },
   {
-    "key": "week",
     "nl": "de week",
     "en": "week",
     "fr": "la semaine",
@@ -1612,11 +1411,9 @@
     "ru": "неделя",
     "es": "la semana",
     "uk": "тиждень",
-    "word_type": "noun",
     "pt-br": "a semana"
   },
   {
-    "key": "weekend",
     "nl": "het weekend",
     "en": "weekend",
     "fr": "le week-end",
@@ -1628,11 +1425,9 @@
     "ru": "выходные",
     "es": "el fin de semana",
     "uk": "вихідні",
-    "word_type": "noun",
     "pt-br": "o fim de semana"
   },
   {
-    "key": "month",
     "nl": "de maand",
     "en": "month",
     "fr": "le mois",
@@ -1644,11 +1439,9 @@
     "ru": "месяц",
     "es": "el mes",
     "uk": "місяць",
-    "word_type": "noun",
     "pt-br": "o mês"
   },
   {
-    "key": "year",
     "nl": "het jaar",
     "en": "year",
     "fr": "l'année",
@@ -1660,11 +1453,9 @@
     "ru": "год",
     "es": "el año",
     "uk": "рік",
-    "word_type": "noun",
     "pt-br": "o ano"
   },
   {
-    "key": "date-calendar",
     "nl": "de datum",
     "en": "date (calendar)",
     "fr": "la date (calendrier)",
@@ -1676,11 +1467,9 @@
     "ru": "дата (календарная)",
     "es": "la fecha (calendario)",
     "uk": "дата (календарна)",
-    "word_type": "noun",
     "pt-br": "a data"
   },
   {
-    "key": "birthday",
     "nl": "de verjaardag",
     "en": "birthday",
     "fr": "l'anniversaire",
@@ -1692,11 +1481,9 @@
     "ru": "день рождения",
     "es": "el cumpleaños",
     "uk": "день народження",
-    "word_type": "noun",
     "pt-br": "o aniversário"
   },
   {
-    "key": "holiday",
     "nl": "de feestdag",
     "en": "holiday",
     "fr": "le jour férié",
@@ -1708,11 +1495,9 @@
     "ru": "праздник",
     "es": "el día festivo",
     "uk": "свято",
-    "word_type": "noun",
     "pt-br": "o feriado"
   },
   {
-    "key": "vacation",
     "nl": "de vakantie",
     "en": "vacation",
     "fr": "les vacances",
@@ -1724,11 +1509,9 @@
     "ru": "отпуск",
     "es": "las vacaciones",
     "uk": "відпустка",
-    "word_type": "noun",
     "pt-br": "as férias"
   },
   {
-    "key": "season",
     "nl": "het seizoen",
     "en": "season",
     "fr": "la saison",
@@ -1740,11 +1523,9 @@
     "ru": "сезон",
     "es": "la estación",
     "uk": "сезон",
-    "word_type": "noun",
     "pt-br": "a estação"
   },
   {
-    "key": "to-smell",
     "nl": "ruiken",
     "en": "to smell",
     "fr": "sentir",
@@ -1756,11 +1537,9 @@
     "ru": "нюхать",
     "es": "oler",
     "uk": "нюхати",
-    "word_type": "verb",
     "pt-br": "cheirar"
   },
   {
-    "key": "to-taste",
     "nl": "proeven",
     "en": "to taste",
     "fr": "goûter",
@@ -1772,11 +1551,9 @@
     "ru": "пробовать",
     "es": "probar",
     "uk": "куштувати",
-    "word_type": "verb",
     "pt-br": "provar"
   },
   {
-    "key": "smell",
     "nl": "de geur",
     "en": "smell",
     "fr": "l'odeur",
@@ -1788,11 +1565,9 @@
     "ru": "запах",
     "es": "el olor",
     "uk": "запах",
-    "word_type": "noun",
     "pt-br": "o cheiro"
   },
   {
-    "key": "scent",
     "nl": "het parfum",
     "en": "scent",
     "fr": "le parfum",
@@ -1804,11 +1579,9 @@
     "ru": "аромат",
     "es": "el aroma",
     "uk": "аромат",
-    "word_type": "noun",
     "pt-br": "o perfume"
   },
   {
-    "key": "taste-sense-ability",
     "nl": "de smaak (zintuig)",
     "en": "taste (sense/ability)",
     "fr": "le goût (sens)",
@@ -1820,11 +1593,9 @@
     "ru": "вкус (чувство)",
     "es": "el sabor (sentido)",
     "uk": "смак (відчуття)",
-    "word_type": "noun",
     "pt-br": "o sabor"
   },
   {
-    "key": "flavor-specific-taste-quality",
     "nl": "de smaak (aroma)",
     "en": "flavor (specific taste quality)",
     "fr": "la saveur (qualité gustative)",
@@ -1836,11 +1607,9 @@
     "ru": "вкус",
     "es": "el sabor (cualidad)",
     "uk": "смак",
-    "word_type": "noun",
     "pt-br": "o sabor"
   },
   {
-    "key": "sweet",
     "nl": "zoet",
     "en": "sweet",
     "fr": "sucré",
@@ -1852,11 +1621,9 @@
     "ru": "сладкий",
     "es": "dulce",
     "uk": "солодкий",
-    "word_type": "adjective",
     "pt-br": "doce"
   },
   {
-    "key": "sour",
     "nl": "zuur",
     "en": "sour",
     "fr": "aigre",
@@ -1868,11 +1635,9 @@
     "ru": "кислый",
     "es": "agrio",
     "uk": "кислий",
-    "word_type": "adjective",
     "pt-br": "azedo"
   },
   {
-    "key": "bitter",
     "nl": "bitter",
     "en": "bitter",
     "fr": "amer",
@@ -1884,11 +1649,9 @@
     "ru": "горький",
     "es": "amargo",
     "uk": "гіркий",
-    "word_type": "adjective",
     "pt-br": "amargo"
   },
   {
-    "key": "salty",
     "nl": "zout",
     "en": "salty",
     "fr": "salé",
@@ -1900,11 +1663,9 @@
     "ru": "солёный",
     "es": "salado",
     "uk": "солоний",
-    "word_type": "adjective",
     "pt-br": "salgado"
   },
   {
-    "key": "spicy",
     "nl": "pittig",
     "en": "spicy",
     "fr": "épicé",
@@ -1916,11 +1677,9 @@
     "ru": "острый",
     "es": "picante",
     "uk": "гострий",
-    "word_type": "adjective",
     "pt-br": "picante"
   },
   {
-    "key": "delicious",
     "nl": "heerlijk",
     "en": "delicious",
     "fr": "délicieux",
@@ -1932,11 +1691,9 @@
     "ru": "вкусный",
     "es": "delicioso",
     "uk": "смачний",
-    "word_type": "adjective",
     "pt-br": "delicioso"
   },
   {
-    "key": "smooth",
     "nl": "glad",
     "en": "smooth",
     "fr": "lisse",
@@ -1948,11 +1705,9 @@
     "ru": "гладкий",
     "es": "suave",
     "uk": "гладкий",
-    "word_type": "adjective",
     "pt-br": "suave"
   },
   {
-    "key": "rough",
     "nl": "ruw",
     "en": "rough",
     "fr": "rugueux",
@@ -1964,11 +1719,9 @@
     "ru": "грубый",
     "es": "áspero",
     "uk": "грубий",
-    "word_type": "adjective",
     "pt-br": "áspero"
   },
   {
-    "key": "sharp",
     "nl": "scherp",
     "en": "sharp",
     "fr": "tranchant",
@@ -1980,11 +1733,9 @@
     "ru": "острый",
     "es": "afilado",
     "uk": "гострий",
-    "word_type": "adjective",
     "pt-br": "afiado"
   },
   {
-    "key": "dull",
     "nl": "bot",
     "en": "dull",
     "fr": "ennuyeux",
@@ -1996,11 +1747,9 @@
     "ru": "тупой",
     "es": "desafilado",
     "uk": "тупий",
-    "word_type": "adjective",
     "pt-br": "embotado"
   },
   {
-    "key": "sticky",
     "nl": "kleverig",
     "en": "sticky",
     "fr": "collant",
@@ -2012,11 +1761,9 @@
     "ru": "липкий",
     "es": "pegajoso",
     "uk": "липкий",
-    "word_type": "adjective",
     "pt-br": "pegajoso"
   },
   {
-    "key": "slippery",
     "nl": "glad",
     "en": "slippery",
     "fr": "glissant",
@@ -2028,11 +1775,9 @@
     "ru": "скользкий",
     "es": "resbaladizo",
     "uk": "слизький",
-    "word_type": "adjective",
     "pt-br": "escorregadio"
   },
   {
-    "key": "angry",
     "nl": "boos",
     "en": "angry",
     "fr": "en colère",
@@ -2044,11 +1789,9 @@
     "ru": "злой",
     "es": "enfadado",
     "uk": "злий",
-    "word_type": "adjective",
     "pt-br": "zangado"
   },
   {
-    "key": "attention",
     "nl": "de aandacht",
     "en": "attention",
     "fr": "l'attention",
@@ -2060,11 +1803,9 @@
     "ru": "внимание",
     "es": "la atención",
     "uk": "увага",
-    "word_type": "noun",
     "pt-br": "a atenção"
   },
   {
-    "key": "behavior",
     "nl": "het gedrag",
     "en": "behavior",
     "fr": "le comportement",
@@ -2076,11 +1817,9 @@
     "ru": "поведение",
     "es": "el comportamiento",
     "uk": "поведінка",
-    "word_type": "noun",
     "pt-br": "o comportamento"
   },
   {
-    "key": "bored",
     "nl": "verveeld",
     "en": "bored",
     "fr": "ennuyé",
@@ -2092,11 +1831,9 @@
     "ru": "скучающий",
     "es": "aburrido",
     "uk": "знуджений",
-    "word_type": "adjective",
     "pt-br": "aborrecido"
   },
   {
-    "key": "comfort",
     "nl": "het comfort",
     "en": "comfort",
     "fr": "le confort",
@@ -2108,11 +1845,9 @@
     "ru": "комфорт",
     "es": "la comodidad",
     "uk": "комфорт",
-    "word_type": "noun",
     "pt-br": "o conforto"
   },
   {
-    "key": "to-decide",
     "nl": "beslissen",
     "en": "to decide",
     "fr": "décider",
@@ -2124,11 +1859,9 @@
     "ru": "решать",
     "es": "decidir",
     "uk": "вирішувати",
-    "word_type": "verb",
     "pt-br": "decidir"
   },
   {
-    "key": "decision",
     "nl": "de beslissing",
     "en": "decision",
     "fr": "la décision",
@@ -2140,11 +1873,9 @@
     "ru": "решение",
     "es": "la decisión",
     "uk": "рішення",
-    "word_type": "noun",
     "pt-br": "a decisão"
   },
   {
-    "key": "desire",
     "nl": "het verlangen",
     "en": "desire",
     "fr": "le désir",
@@ -2156,11 +1887,9 @@
     "ru": "желание",
     "es": "el deseo",
     "uk": "бажання",
-    "word_type": "noun",
     "pt-br": "o desejo"
   },
   {
-    "key": "dream",
     "nl": "de droom",
     "en": "dream",
     "fr": "le rêve",
@@ -2172,11 +1901,9 @@
     "ru": "мечта",
     "es": "el sueño",
     "uk": "мрія",
-    "word_type": "noun",
     "pt-br": "o sonho"
   },
   {
-    "key": "to-enjoy",
     "nl": "genieten",
     "en": "to enjoy",
     "fr": "profiter",
@@ -2188,11 +1915,9 @@
     "ru": "наслаждаться",
     "es": "disfrutar",
     "uk": "насолоджуватися",
-    "word_type": "verb",
     "pt-br": "desfrutar"
   },
   {
-    "key": "excited",
     "nl": "opgewonden",
     "en": "excited",
     "fr": "excité",
@@ -2204,11 +1929,9 @@
     "ru": "взволнованный",
     "es": "emocionado",
     "uk": "схвильований",
-    "word_type": "adjective",
     "pt-br": "entusiasmado"
   },
   {
-    "key": "experience",
     "nl": "de ervaring",
     "en": "experience",
     "fr": "l'expérience",
@@ -2220,11 +1943,9 @@
     "ru": "опыт",
     "es": "la experiencia",
     "uk": "досвід",
-    "word_type": "noun",
     "pt-br": "a experiência"
   },
   {
-    "key": "fear",
     "nl": "de angst",
     "en": "fear",
     "fr": "la peur",
@@ -2236,11 +1957,9 @@
     "ru": "страх",
     "es": "el miedo",
     "uk": "страх",
-    "word_type": "noun",
     "pt-br": "o medo"
   },
   {
-    "key": "feeling",
     "nl": "het gevoel",
     "en": "feeling",
     "fr": "le sentiment",
@@ -2252,11 +1971,9 @@
     "ru": "чувство",
     "es": "el sentimiento",
     "uk": "почуття",
-    "word_type": "noun",
     "pt-br": "o sentimento"
   },
   {
-    "key": "happy",
     "nl": "gelukkig",
     "en": "happy",
     "fr": "heureux",
@@ -2268,11 +1985,9 @@
     "ru": "счастливый",
     "es": "feliz",
     "uk": "щасливий",
-    "word_type": "adjective",
     "pt-br": "feliz"
   },
   {
-    "key": "to-hate",
     "nl": "haten",
     "en": "to hate",
     "fr": "haïr",
@@ -2284,11 +1999,9 @@
     "ru": "ненавидеть",
     "es": "odiar",
     "uk": "ненавидіти",
-    "word_type": "verb",
     "pt-br": "odiar"
   },
   {
-    "key": "hope",
     "nl": "de hoop",
     "en": "hope",
     "fr": "l'espoir",
@@ -2300,11 +2013,9 @@
     "ru": "надежда",
     "es": "la esperanza",
     "uk": "надія",
-    "word_type": "noun",
     "pt-br": "a esperança"
   },
   {
-    "key": "idea",
     "nl": "het idee",
     "en": "idea",
     "fr": "l'idée",
@@ -2316,11 +2027,9 @@
     "ru": "идея",
     "es": "la idea",
     "uk": "ідея",
-    "word_type": "noun",
     "pt-br": "a ideia"
   },
   {
-    "key": "to-imagine",
     "nl": "zich voorstellen",
     "en": "to imagine",
     "fr": "imaginer",
@@ -2332,11 +2041,9 @@
     "ru": "представлять",
     "es": "imaginar",
     "uk": "уявляти",
-    "word_type": "verb",
     "pt-br": "imaginar"
   },
   {
-    "key": "interest",
     "nl": "de interesse",
     "en": "interest",
     "fr": "l'intérêt",
@@ -2348,11 +2055,9 @@
     "ru": "интерес",
     "es": "el interés",
     "uk": "інтерес",
-    "word_type": "noun",
     "pt-br": "o interesse"
   },
   {
-    "key": "knowledge",
     "nl": "de kennis",
     "en": "knowledge",
     "fr": "la connaissance",
@@ -2364,11 +2069,9 @@
     "ru": "знание",
     "es": "el conocimiento",
     "uk": "знання",
-    "word_type": "noun",
     "pt-br": "o conhecimento"
   },
   {
-    "key": "love",
     "nl": "de liefde",
     "en": "love",
     "fr": "l'amour",
@@ -2380,11 +2083,9 @@
     "ru": "любовь",
     "es": "el amor",
     "uk": "кохання",
-    "word_type": "noun",
     "pt-br": "o amor"
   },
   {
-    "key": "memory",
     "nl": "de herinnering",
     "en": "memory",
     "fr": "la mémoire",
@@ -2396,11 +2097,9 @@
     "ru": "память",
     "es": "la memoria",
     "uk": "пам'ять",
-    "word_type": "noun",
     "pt-br": "a memória"
   },
   {
-    "key": "mind",
     "nl": "de geest",
     "en": "mind",
     "fr": "l'esprit",
@@ -2412,11 +2111,9 @@
     "ru": "разум",
     "es": "la mente",
     "uk": "розум",
-    "word_type": "noun",
     "pt-br": "a mente"
   },
   {
-    "key": "opinion",
     "nl": "de mening",
     "en": "opinion",
     "fr": "l'avis",
@@ -2428,11 +2125,9 @@
     "ru": "мнение",
     "es": "la opinión",
     "uk": "думка",
-    "word_type": "noun",
     "pt-br": "a opinião"
   },
   {
-    "key": "peace",
     "nl": "de vrede",
     "en": "peace",
     "fr": "la paix",
@@ -2444,11 +2139,9 @@
     "ru": "мир",
     "es": "la paz",
     "uk": "мир",
-    "word_type": "noun",
     "pt-br": "a paz"
   },
   {
-    "key": "to-remember",
     "nl": "zich herinneren",
     "en": "to remember",
     "fr": "se souvenir",
@@ -2460,11 +2153,9 @@
     "ru": "помнить",
     "es": "recordar",
     "uk": "пам'ятати",
-    "word_type": "verb",
     "pt-br": "lembrar"
   },
   {
-    "key": "respect",
     "nl": "het respect",
     "en": "respect",
     "fr": "le respect",
@@ -2476,11 +2167,9 @@
     "ru": "уважение",
     "es": "el respeto",
     "uk": "повага",
-    "word_type": "noun",
     "pt-br": "o respeito"
   },
   {
-    "key": "sad",
     "nl": "verdrietig",
     "en": "sad",
     "fr": "triste",
@@ -2492,11 +2181,9 @@
     "ru": "грустный",
     "es": "triste",
     "uk": "сумний",
-    "word_type": "adjective",
     "pt-br": "triste"
   },
   {
-    "key": "surprise",
     "nl": "de verrassing",
     "en": "surprise",
     "fr": "la surprise",
@@ -2508,11 +2195,9 @@
     "ru": "сюрприз",
     "es": "la sorpresa",
     "uk": "сюрприз",
-    "word_type": "noun",
     "pt-br": "a surpresa"
   },
   {
-    "key": "thought",
     "nl": "de gedachte",
     "en": "thought",
     "fr": "la pensée",
@@ -2524,11 +2209,9 @@
     "ru": "мысль",
     "es": "el pensamiento",
     "uk": "думка",
-    "word_type": "noun",
     "pt-br": "o pensamento"
   },
   {
-    "key": "to-understand",
     "nl": "begrijpen",
     "en": "to understand",
     "fr": "comprendre",
@@ -2540,11 +2223,9 @@
     "ru": "понимать",
     "es": "comprender",
     "uk": "розуміти",
-    "word_type": "verb",
     "pt-br": "compreender"
   },
   {
-    "key": "thing",
     "nl": "het ding",
     "en": "thing",
     "fr": "la chose",
@@ -2556,11 +2237,9 @@
     "ru": "вещь",
     "es": "la cosa",
     "uk": "річ",
-    "word_type": "noun",
     "pt-br": "a coisa"
   },
   {
-    "key": "way",
     "nl": "de weg",
     "en": "way",
     "fr": "le chemin",
@@ -2572,11 +2251,9 @@
     "ru": "путь",
     "es": "el camino",
     "uk": "шлях",
-    "word_type": "noun",
     "pt-br": "o caminho"
   },
   {
-    "key": "place",
     "nl": "de plaats",
     "en": "place",
     "fr": "le lieu",
@@ -2588,11 +2265,9 @@
     "ru": "место",
     "es": "el lugar",
     "uk": "місце",
-    "word_type": "noun",
     "pt-br": "o lugar"
   },
   {
-    "key": "part",
     "nl": "het deel",
     "en": "part",
     "fr": "la partie",
@@ -2604,11 +2279,9 @@
     "ru": "часть",
     "es": "la parte",
     "uk": "частина",
-    "word_type": "noun",
     "pt-br": "a parte"
   },
   {
-    "key": "world",
     "nl": "de wereld",
     "en": "world",
     "fr": "le monde",
@@ -2620,11 +2293,9 @@
     "ru": "мир",
     "es": "el mundo",
     "uk": "світ",
-    "word_type": "noun",
     "pt-br": "o mundo"
   },
   {
-    "key": "problem",
     "nl": "het probleem",
     "en": "problem",
     "fr": "le problème",
@@ -2636,11 +2307,9 @@
     "ru": "проблема",
     "es": "el problema",
     "uk": "проблема",
-    "word_type": "noun",
     "pt-br": "o problema"
   },
   {
-    "key": "example",
     "nl": "het voorbeeld",
     "en": "example",
     "fr": "l'exemple",
@@ -2652,11 +2321,9 @@
     "ru": "пример",
     "es": "el ejemplo",
     "uk": "приклад",
-    "word_type": "noun",
     "pt-br": "o exemplo"
   },
   {
-    "key": "group",
     "nl": "de groep",
     "en": "group",
     "fr": "le groupe",
@@ -2668,11 +2335,9 @@
     "ru": "группа",
     "es": "el grupo",
     "uk": "група",
-    "word_type": "noun",
     "pt-br": "o grupo"
   },
   {
-    "key": "fact",
     "nl": "het feit",
     "en": "fact",
     "fr": "le fait",
@@ -2684,11 +2349,9 @@
     "ru": "факт",
     "es": "el hecho",
     "uk": "факт",
-    "word_type": "noun",
     "pt-br": "o facto"
   },
   {
-    "key": "point",
     "nl": "het punt",
     "en": "point",
     "fr": "le point",
@@ -2700,11 +2363,9 @@
     "ru": "точка",
     "es": "el punto",
     "uk": "точка",
-    "word_type": "noun",
     "pt-br": "o ponto"
   },
   {
-    "key": "change",
     "nl": "de verandering",
     "en": "change",
     "fr": "le changement",
@@ -2716,11 +2377,9 @@
     "ru": "изменение",
     "es": "el cambio",
     "uk": "зміна",
-    "word_type": "noun",
     "pt-br": "a mudança"
   },
   {
-    "key": "difference",
     "nl": "het verschil",
     "en": "difference",
     "fr": "la différence",
@@ -2732,11 +2391,9 @@
     "ru": "разница",
     "es": "la diferencia",
     "uk": "різниця",
-    "word_type": "noun",
     "pt-br": "a diferença"
   },
   {
-    "key": "end",
     "nl": "het einde",
     "en": "end",
     "fr": "la fin",
@@ -2748,11 +2405,9 @@
     "ru": "конец",
     "es": "el fin",
     "uk": "кінець",
-    "word_type": "noun",
     "pt-br": "o fim"
   },
   {
-    "key": "plan",
     "nl": "het plan",
     "en": "plan",
     "fr": "le plan",
@@ -2764,11 +2419,9 @@
     "ru": "план",
     "es": "el plan",
     "uk": "план",
-    "word_type": "noun",
     "pt-br": "o plano"
   },
   {
-    "key": "chance",
     "nl": "de kans",
     "en": "chance",
     "fr": "la chance",
@@ -2780,11 +2433,9 @@
     "ru": "шанс",
     "es": "la oportunidad",
     "uk": "шанс",
-    "word_type": "noun",
     "pt-br": "a oportunidade"
   },
   {
-    "key": "choice",
     "nl": "de keuze",
     "en": "choice",
     "fr": "le choix",
@@ -2796,11 +2447,9 @@
     "ru": "выбор",
     "es": "la elección",
     "uk": "вибір",
-    "word_type": "noun",
     "pt-br": "a escolha"
   },
   {
-    "key": "red",
     "nl": "rood",
     "en": "red",
     "fr": "rouge",
@@ -2812,11 +2461,9 @@
     "ru": "красный",
     "es": "rojo",
     "uk": "червоний",
-    "word_type": "adjective",
     "pt-br": "vermelho"
   },
   {
-    "key": "blue",
     "nl": "blauw",
     "en": "blue",
     "fr": "bleu",
@@ -2828,11 +2475,9 @@
     "ru": "синий",
     "es": "azul",
     "uk": "синій",
-    "word_type": "adjective",
     "pt-br": "azul"
   },
   {
-    "key": "yellow",
     "nl": "geel",
     "en": "yellow",
     "fr": "jaune",
@@ -2844,11 +2489,9 @@
     "ru": "жёлтый",
     "es": "amarillo",
     "uk": "жовтий",
-    "word_type": "adjective",
     "pt-br": "amarelo"
   },
   {
-    "key": "green",
     "nl": "groen",
     "en": "green",
     "fr": "vert",
@@ -2860,11 +2503,9 @@
     "ru": "зелёный",
     "es": "verde",
     "uk": "зелений",
-    "word_type": "adjective",
     "pt-br": "verde"
   },
   {
-    "key": "orange-color",
     "nl": "oranje",
     "en": "orange (color)",
     "fr": "orange",
@@ -2876,11 +2517,9 @@
     "ru": "оранжевый",
     "es": "naranja",
     "uk": "помаранчевий",
-    "word_type": "adjective",
     "pt-br": "laranja"
   },
   {
-    "key": "purple",
     "nl": "paars",
     "en": "purple",
     "fr": "violet",
@@ -2892,11 +2531,9 @@
     "ru": "фиолетовый",
     "es": "morado",
     "uk": "фіолетовий",
-    "word_type": "adjective",
     "pt-br": "roxo"
   },
   {
-    "key": "pink",
     "nl": "roze",
     "en": "pink",
     "fr": "rose",
@@ -2908,11 +2545,9 @@
     "ru": "розовый",
     "es": "rosa",
     "uk": "рожевий",
-    "word_type": "adjective",
     "pt-br": "a cor-de-rosa"
   },
   {
-    "key": "black",
     "nl": "zwart",
     "en": "black",
     "fr": "noir",
@@ -2924,11 +2559,9 @@
     "ru": "чёрный",
     "es": "negro",
     "uk": "чорний",
-    "word_type": "adjective",
     "pt-br": "preto"
   },
   {
-    "key": "white",
     "nl": "wit",
     "en": "white",
     "fr": "blanc",
@@ -2940,11 +2573,9 @@
     "ru": "белый",
     "es": "blanco",
     "uk": "білий",
-    "word_type": "adjective",
     "pt-br": "branco"
   },
   {
-    "key": "gray",
     "nl": "grijs",
     "en": "gray",
     "fr": "gris",
@@ -2956,11 +2587,9 @@
     "ru": "серый",
     "es": "gris",
     "uk": "сірий",
-    "word_type": "adjective",
     "pt-br": "cinzento"
   },
   {
-    "key": "brown",
     "nl": "bruin",
     "en": "brown",
     "fr": "brun",
@@ -2972,11 +2601,9 @@
     "ru": "коричневый",
     "es": "el marrón",
     "uk": "коричневий",
-    "word_type": "adjective",
     "pt-br": "castanho"
   },
   {
-    "key": "here",
     "nl": "hier",
     "en": "here",
     "fr": "ici",
@@ -2988,11 +2615,9 @@
     "ru": "в этом",
     "es": "aquí",
     "uk": "тут",
-    "word_type": "adverb",
     "pt-br": "aqui"
   },
   {
-    "key": "there",
     "nl": "daar",
     "en": "there",
     "fr": "là",
@@ -3004,11 +2629,9 @@
     "ru": "там",
     "es": "allí",
     "uk": "там",
-    "word_type": "adverb",
     "pt-br": "lá"
   },
   {
-    "key": "area",
     "nl": "het gebied",
     "en": "area",
     "fr": "la zone",
@@ -3020,11 +2643,9 @@
     "ru": "область",
     "es": "el área",
     "uk": "область",
-    "word_type": "noun",
     "pt-br": "a área"
   },
   {
-    "key": "center",
     "nl": "het centrum",
     "en": "center",
     "fr": "le centre",
@@ -3036,11 +2657,9 @@
     "ru": "центр",
     "es": "el centro",
     "uk": "центр",
-    "word_type": "noun",
     "pt-br": "o centro"
   },
   {
-    "key": "corner",
     "nl": "de hoek",
     "en": "corner",
     "fr": "le coin",
@@ -3052,11 +2671,9 @@
     "ru": "угол",
     "es": "la esquina",
     "uk": "кут",
-    "word_type": "noun",
     "pt-br": "o canto"
   },
   {
-    "key": "direction",
     "nl": "de richting",
     "en": "direction",
     "fr": "la direction",
@@ -3068,11 +2685,9 @@
     "ru": "направление",
     "es": "la dirección",
     "uk": "напрямок",
-    "word_type": "noun",
     "pt-br": "a direção"
   },
   {
-    "key": "in",
     "nl": "in",
     "en": "in",
     "fr": "dans",
@@ -3084,11 +2699,9 @@
     "ru": "в",
     "es": "en",
     "uk": "на",
-    "word_type": "preposition",
     "pt-br": "em"
   },
   {
-    "key": "on",
     "nl": "op",
     "en": "on",
     "fr": "sur",
@@ -3100,11 +2713,9 @@
     "ru": "на",
     "es": "sobre",
     "uk": "на",
-    "word_type": "preposition",
     "pt-br": "sobre"
   },
   {
-    "key": "at",
     "nl": "bij",
     "en": "at",
     "fr": "à",
@@ -3116,11 +2727,9 @@
     "ru": "в",
     "es": "en",
     "uk": "на",
-    "word_type": "preposition",
     "pt-br": "em"
   },
   {
-    "key": "to",
     "nl": "naar",
     "en": "to",
     "fr": "à",
@@ -3132,11 +2741,9 @@
     "ru": "к",
     "es": "a",
     "uk": "до",
-    "word_type": "preposition",
     "pt-br": "para"
   },
   {
-    "key": "from",
     "nl": "van",
     "en": "from",
     "fr": "de",
@@ -3148,11 +2755,9 @@
     "ru": "от",
     "es": "de",
     "uk": "від",
-    "word_type": "preposition",
     "pt-br": "de"
   },
   {
-    "key": "with",
     "nl": "met",
     "en": "with",
     "fr": "avec",
@@ -3164,11 +2769,9 @@
     "ru": "с",
     "es": "con",
     "uk": "з",
-    "word_type": "preposition",
     "pt-br": "com"
   },
   {
-    "key": "for",
     "nl": "voor",
     "en": "for",
     "fr": "pour",
@@ -3180,11 +2783,9 @@
     "ru": "для",
     "es": "para",
     "uk": "для",
-    "word_type": "preposition",
     "pt-br": "para"
   },
   {
-    "key": "about",
     "nl": "over",
     "en": "about",
     "fr": "à propos de",
@@ -3196,11 +2797,9 @@
     "ru": "о",
     "es": "sobre",
     "uk": "про",
-    "word_type": "preposition",
     "pt-br": "sobre"
   },
   {
-    "key": "up",
     "nl": "omhoog",
     "en": "up",
     "fr": "en haut",
@@ -3212,11 +2811,9 @@
     "ru": "вверх",
     "es": "arriba",
     "uk": "вгору",
-    "word_type": "adverb",
     "pt-br": "para cima"
   },
   {
-    "key": "down",
     "nl": "omlaag",
     "en": "down",
     "fr": "en bas",
@@ -3228,11 +2825,9 @@
     "ru": "вниз",
     "es": "abajo",
     "uk": "вниз",
-    "word_type": "adverb",
     "pt-br": "para baixo"
   },
   {
-    "key": "top",
     "nl": "de bovenkant",
     "en": "top",
     "fr": "le sommet",
@@ -3244,11 +2839,9 @@
     "ru": "верх",
     "es": "la parte superior",
     "uk": "верх",
-    "word_type": "noun",
     "pt-br": "o topo"
   },
   {
-    "key": "bottom",
     "nl": "de bodem",
     "en": "bottom",
     "fr": "le fond",
@@ -3260,11 +2853,9 @@
     "ru": "дно",
     "es": "el fondo",
     "uk": "дно",
-    "word_type": "noun",
     "pt-br": "o fundo"
   },
   {
-    "key": "under",
     "nl": "onder",
     "en": "under",
     "fr": "sous",
@@ -3276,11 +2867,9 @@
     "ru": "под",
     "es": "bajo",
     "uk": "під",
-    "word_type": "preposition",
     "pt-br": "sob"
   },
   {
-    "key": "left-direction",
     "nl": "links",
     "en": "left (direction)",
     "fr": "à gauche",
@@ -3292,11 +2881,9 @@
     "ru": "налево",
     "es": "a la izquierda",
     "uk": "ліворуч",
-    "word_type": "adverb",
     "pt-br": "à esquerda"
   },
   {
-    "key": "right-direction",
     "nl": "rechts",
     "en": "right (direction)",
     "fr": "à droite",
@@ -3308,11 +2895,9 @@
     "ru": "направо",
     "es": "a la derecha",
     "uk": "праворуч",
-    "word_type": "adverb",
     "pt-br": "à direita"
   },
   {
-    "key": "front",
     "nl": "de voorkant",
     "en": "front",
     "fr": "l'avant",
@@ -3324,11 +2909,9 @@
     "ru": "перед",
     "es": "el frente",
     "uk": "перед",
-    "word_type": "noun",
     "pt-br": "a frente"
   },
   {
-    "key": "inside",
     "nl": "binnen",
     "en": "inside",
     "fr": "à l'intérieur",
@@ -3340,11 +2923,9 @@
     "ru": "внутри",
     "es": "dentro",
     "uk": "всередині",
-    "word_type": "adverb",
     "pt-br": "dentro"
   },
   {
-    "key": "outside",
     "nl": "buiten",
     "en": "outside",
     "fr": "à l'extérieur",
@@ -3356,11 +2937,9 @@
     "ru": "снаружи",
     "es": "afuera",
     "uk": "зовні",
-    "word_type": "adverb",
     "pt-br": "fora"
   },
   {
-    "key": "through",
     "nl": "door",
     "en": "through",
     "fr": "à travers",
@@ -3372,11 +2951,9 @@
     "ru": "через",
     "es": "a través de",
     "uk": "завдяки",
-    "word_type": "preposition",
     "pt-br": "através de"
   },
   {
-    "key": "across",
     "nl": "over",
     "en": "across",
     "fr": "en travers",
@@ -3388,11 +2965,9 @@
     "ru": "поперёк",
     "es": "al otro lado",
     "uk": "через",
-    "word_type": "adverb",
     "pt-br": "do outro lado"
   },
   {
-    "key": "between",
     "nl": "tussen",
     "en": "between",
     "fr": "entre",
@@ -3404,11 +2979,9 @@
     "ru": "между",
     "es": "entre",
     "uk": "між",
-    "word_type": "preposition",
     "pt-br": "entre"
   },
   {
-    "key": "around",
     "nl": "rondom",
     "en": "around",
     "fr": "autour de",
@@ -3420,11 +2993,9 @@
     "ru": "вокруг",
     "es": "alrededor de",
     "uk": "навколо",
-    "word_type": "preposition",
     "pt-br": "em torno de"
   },
   {
-    "key": "moment",
     "nl": "het moment",
     "en": "moment",
     "fr": "le moment",
@@ -3436,11 +3007,9 @@
     "ru": "момент",
     "es": "el momento",
     "uk": "момент",
-    "word_type": "noun",
     "pt-br": "o momento"
   },
   {
-    "key": "minute",
     "nl": "de minuut",
     "en": "minute",
     "fr": "la minute",
@@ -3452,11 +3021,9 @@
     "ru": "минута",
     "es": "el minuto",
     "uk": "хвилина",
-    "word_type": "noun",
     "pt-br": "o minuto"
   },
   {
-    "key": "day",
     "nl": "de dag",
     "en": "day",
     "fr": "le jour",
@@ -3468,11 +3035,9 @@
     "ru": "день",
     "es": "el día",
     "uk": "день",
-    "word_type": "noun",
     "pt-br": "o dia"
   },
   {
-    "key": "morning",
     "nl": "de ochtend",
     "en": "morning",
     "fr": "le matin",
@@ -3484,11 +3049,9 @@
     "ru": "утро",
     "es": "la mañana",
     "uk": "ранок",
-    "word_type": "noun",
     "pt-br": "a manhã"
   },
   {
-    "key": "afternoon",
     "nl": "de middag",
     "en": "afternoon",
     "fr": "l'après-midi",
@@ -3500,11 +3063,9 @@
     "ru": "день",
     "es": "la tarde",
     "uk": "день",
-    "word_type": "noun",
     "pt-br": "a tarde"
   },
   {
-    "key": "evening",
     "nl": "de avond",
     "en": "evening",
     "fr": "le soir",
@@ -3516,11 +3077,9 @@
     "ru": "вечер",
     "es": "la tarde",
     "uk": "вечір",
-    "word_type": "noun",
     "pt-br": "a noite"
   },
   {
-    "key": "night",
     "nl": "de nacht",
     "en": "night",
     "fr": "la nuit",
@@ -3532,11 +3091,9 @@
     "ru": "ночь",
     "es": "la noche",
     "uk": "ніч",
-    "word_type": "noun",
     "pt-br": "a noite"
   },
   {
-    "key": "midnight",
     "nl": "middernacht",
     "en": "midnight",
     "fr": "minuit",
@@ -3548,11 +3105,9 @@
     "ru": "полночь",
     "es": "la medianoche",
     "uk": "північ",
-    "word_type": "noun",
     "pt-br": "a meia-noite"
   },
   {
-    "key": "tonight",
     "nl": "vanavond",
     "en": "tonight",
     "fr": "ce soir",
@@ -3564,11 +3119,9 @@
     "ru": "сегодня вечером",
     "es": "esta noche",
     "uk": "сьогодні ввечері",
-    "word_type": "adverb",
     "pt-br": "esta noite"
   },
   {
-    "key": "period",
     "nl": "de periode",
     "en": "period",
     "fr": "la période",
@@ -3580,11 +3133,9 @@
     "ru": "период",
     "es": "el período",
     "uk": "період",
-    "word_type": "noun",
     "pt-br": "o período"
   },
   {
-    "key": "time",
     "nl": "de tijd",
     "en": "time",
     "fr": "le temps",
@@ -3596,11 +3147,9 @@
     "ru": "время",
     "es": "el tiempo",
     "uk": "час",
-    "word_type": "noun",
     "pt-br": "o tempo"
   },
   {
-    "key": "clock",
     "nl": "de klok",
     "en": "clock",
     "fr": "l'horloge",
@@ -3612,11 +3161,9 @@
     "ru": "часы",
     "es": "el reloj",
     "uk": "годинник",
-    "word_type": "noun",
     "pt-br": "o relógio"
   },
   {
-    "key": "hour",
     "nl": "het uur",
     "en": "hour",
     "fr": "l'heure",
@@ -3628,11 +3175,9 @@
     "ru": "час",
     "es": "la hora",
     "uk": "година",
-    "word_type": "noun",
     "pt-br": "a hora"
   },
   {
-    "key": "today",
     "nl": "vandaag",
     "en": "today",
     "fr": "aujourd'hui",
@@ -3644,11 +3189,9 @@
     "ru": "сегодня",
     "es": "hoy",
     "uk": "сьогодні",
-    "word_type": "adverb",
     "pt-br": "hoje"
   },
   {
-    "key": "tomorrow",
     "nl": "morgen",
     "en": "tomorrow",
     "fr": "demain",
@@ -3660,11 +3203,9 @@
     "ru": "завтра",
     "es": "la mañana",
     "uk": "завтра",
-    "word_type": "adverb",
     "pt-br": "amanhã"
   },
   {
-    "key": "yesterday",
     "nl": "gisteren",
     "en": "yesterday",
     "fr": "hier",
@@ -3676,11 +3217,9 @@
     "ru": "вчера",
     "es": "ayer",
     "uk": "вчора",
-    "word_type": "adverb",
     "pt-br": "ontem"
   },
   {
-    "key": "now",
     "nl": "nu",
     "en": "now",
     "fr": "maintenant",
@@ -3692,11 +3231,9 @@
     "ru": "сейчас",
     "es": "ahora",
     "uk": "зараз",
-    "word_type": "adverb",
     "pt-br": "agora"
   },
   {
-    "key": "then",
     "nl": "dan",
     "en": "then",
     "fr": "puis",
@@ -3708,11 +3245,9 @@
     "ru": "затем",
     "es": "entonces",
     "uk": "тоді",
-    "word_type": "adverb",
     "pt-br": "depois"
   },
   {
-    "key": "past",
     "nl": "het verleden",
     "en": "past",
     "fr": "le passé",
@@ -3724,11 +3259,9 @@
     "ru": "прошлое",
     "es": "el pasado",
     "uk": "минуле",
-    "word_type": "noun",
     "pt-br": "o passado"
   },
   {
-    "key": "future",
     "nl": "de toekomst",
     "en": "future",
     "fr": "le futur",
@@ -3740,11 +3273,9 @@
     "ru": "будущее",
     "es": "el futuro",
     "uk": "майбутнє",
-    "word_type": "noun",
     "pt-br": "o futuro"
   },
   {
-    "key": "before",
     "nl": "voor",
     "en": "before",
     "fr": "avant",
@@ -3756,11 +3287,9 @@
     "ru": "до",
     "es": "antes de",
     "uk": "перед",
-    "word_type": "preposition",
     "pt-br": "antes de"
   },
   {
-    "key": "after",
     "nl": "na",
     "en": "after",
     "fr": "après",
@@ -3772,11 +3301,9 @@
     "ru": "после",
     "es": "después de",
     "uk": "після",
-    "word_type": "preposition",
     "pt-br": "após"
   },
   {
-    "key": "later",
     "nl": "later",
     "en": "later",
     "fr": "plus tard",
@@ -3788,11 +3315,9 @@
     "ru": "позже",
     "es": "más tarde",
     "uk": "пізніше",
-    "word_type": "adverb",
     "pt-br": "mais tarde"
   },
   {
-    "key": "soon",
     "nl": "binnenkort",
     "en": "soon",
     "fr": "bientôt",
@@ -3804,11 +3329,9 @@
     "ru": "скоро",
     "es": "pronto",
     "uk": "незабаром",
-    "word_type": "adverb",
     "pt-br": "em breve"
   },
   {
-    "key": "early",
     "nl": "vroeg",
     "en": "early",
     "fr": "tôt",
@@ -3820,11 +3343,9 @@
     "ru": "рано",
     "es": "temprano",
     "uk": "рано",
-    "word_type": "adverb",
     "pt-br": "cedo"
   },
   {
-    "key": "beginning",
     "nl": "het begin",
     "en": "beginning",
     "fr": "le début",
@@ -3836,11 +3357,9 @@
     "ru": "начало",
     "es": "el comienzo",
     "uk": "початок",
-    "word_type": "noun",
     "pt-br": "o começo"
   },
   {
-    "key": "during",
     "nl": "tijdens",
     "en": "during",
     "fr": "pendant",
@@ -3852,11 +3371,9 @@
     "ru": "во время",
     "es": "durante",
     "uk": "протягом",
-    "word_type": "preposition",
     "pt-br": "durante"
   },
   {
-    "key": "till",
     "nl": "tot",
     "en": "till",
     "fr": "jusqu'à",
@@ -3868,11 +3385,9 @@
     "ru": "до",
     "es": "hasta",
     "uk": "до",
-    "word_type": "conjunction",
     "pt-br": "até"
   },
   {
-    "key": "always",
     "nl": "altijd",
     "en": "always",
     "fr": "toujours",
@@ -3884,11 +3399,9 @@
     "ru": "всегда",
     "es": "siempre",
     "uk": "завжди",
-    "word_type": "adverb",
     "pt-br": "sempre"
   },
   {
-    "key": "never",
     "nl": "nooit",
     "en": "never",
     "fr": "jamais",
@@ -3900,11 +3413,9 @@
     "ru": "никогда",
     "es": "nunca",
     "uk": "ніколи",
-    "word_type": "adverb",
     "pt-br": "nunca"
   },
   {
-    "key": "often",
     "nl": "vaak",
     "en": "often",
     "fr": "souvent",
@@ -3916,11 +3427,9 @@
     "ru": "часто",
     "es": "a menudo",
     "uk": "часто",
-    "word_type": "adverb",
     "pt-br": "frequentemente"
   },
   {
-    "key": "sometimes",
     "nl": "soms",
     "en": "sometimes",
     "fr": "parfois",
@@ -3932,11 +3441,9 @@
     "ru": "иногда",
     "es": "a veces",
     "uk": "іноді",
-    "word_type": "adverb",
     "pt-br": "às vezes"
   },
   {
-    "key": "once",
     "nl": "eens",
     "en": "once",
     "fr": "une fois",
@@ -3948,11 +3455,9 @@
     "ru": "однажды",
     "es": "una vez",
     "uk": "одного разу",
-    "word_type": "adverb",
     "pt-br": "uma vez"
   },
   {
-    "key": "usually",
     "nl": "gewoonlijk",
     "en": "usually",
     "fr": "habituellement",
@@ -3964,11 +3469,9 @@
     "ru": "обычно",
     "es": "normalmente",
     "uk": "зазвичай",
-    "word_type": "adverb",
     "pt-br": "normalmente"
   },
   {
-    "key": "ever",
     "nl": "ooit",
     "en": "ever",
     "fr": "jamais",
@@ -3980,11 +3483,9 @@
     "ru": "когда-либо",
     "es": "alguna vez",
     "uk": "коли-небудь",
-    "word_type": "adverb",
     "pt-br": "alguma vez"
   },
   {
-    "key": "already",
     "nl": "al",
     "en": "already",
     "fr": "déjà",
@@ -3996,11 +3497,9 @@
     "ru": "уже",
     "es": "ya",
     "uk": "вже",
-    "word_type": "adverb",
     "pt-br": "já"
   },
   {
-    "key": "still",
     "nl": "nog steeds",
     "en": "still",
     "fr": "encore",
@@ -4012,11 +3511,9 @@
     "ru": "всё ещё",
     "es": "todavía",
     "uk": "все ще",
-    "word_type": "adverb",
     "pt-br": "ainda"
   },
   {
-    "key": "again",
     "nl": "opnieuw",
     "en": "again",
     "fr": "à nouveau",
@@ -4028,11 +3525,9 @@
     "ru": "снова",
     "es": "de nuevo",
     "uk": "знову",
-    "word_type": "adverb",
     "pt-br": "novamente"
   },
   {
-    "key": "when",
     "nl": "wanneer",
     "en": "when",
     "fr": "quand",
@@ -4044,11 +3539,9 @@
     "ru": "когда",
     "es": "cuando",
     "uk": "коли",
-    "word_type": "conjunction",
     "pt-br": "quando"
   },
   {
-    "key": "distance",
     "nl": "de afstand",
     "en": "distance",
     "fr": "la distance",
@@ -4060,11 +3553,9 @@
     "ru": "расстояние",
     "es": "la distancia",
     "uk": "відстань",
-    "word_type": "noun",
     "pt-br": "a distância"
   },
   {
-    "key": "centimeter",
     "nl": "de centimeter",
     "en": "centimeter",
     "fr": "le centimètre",
@@ -4076,11 +3567,9 @@
     "ru": "сантиметр",
     "es": "el centímetro",
     "uk": "сантиметр",
-    "word_type": "noun",
     "pt-br": "o centímetro"
   },
   {
-    "key": "inch",
     "nl": "de inch",
     "en": "inch",
     "fr": "le pouce",
@@ -4092,11 +3581,9 @@
     "ru": "дюйм",
     "es": "la pulgada",
     "uk": "дюйм",
-    "word_type": "noun",
     "pt-br": "a polegada"
   },
   {
-    "key": "meter",
     "nl": "de meter",
     "en": "meter",
     "fr": "le mètre",
@@ -4108,11 +3595,9 @@
     "ru": "метр",
     "es": "el metro",
     "uk": "метр",
-    "word_type": "noun",
     "pt-br": "o metro"
   },
   {
-    "key": "kilometer",
     "nl": "de kilometer",
     "en": "kilometer",
     "fr": "le kilomètre",
@@ -4124,11 +3609,9 @@
     "ru": "километр",
     "es": "el kilómetro",
     "uk": "кілометр",
-    "word_type": "noun",
     "pt-br": "o quilómetro"
   },
   {
-    "key": "mile",
     "nl": "de mijl",
     "en": "mile",
     "fr": "le mile",
@@ -4140,11 +3623,9 @@
     "ru": "миля",
     "es": "la milla",
     "uk": "миля",
-    "word_type": "noun",
     "pt-br": "a milha"
   },
   {
-    "key": "weight",
     "nl": "het gewicht",
     "en": "weight",
     "fr": "le poids",
@@ -4156,11 +3637,9 @@
     "ru": "вес",
     "es": "el peso",
     "uk": "вага",
-    "word_type": "noun",
     "pt-br": "o peso"
   },
   {
-    "key": "kilogram",
     "nl": "de kilogram",
     "en": "kilogram",
     "fr": "le kilogramme",
@@ -4172,11 +3651,9 @@
     "ru": "килограмм",
     "es": "el kilogramo",
     "uk": "кілограм",
-    "word_type": "noun",
     "pt-br": "o quilograma"
   },
   {
-    "key": "head",
     "nl": "het hoofd",
     "en": "head",
     "fr": "la tête",
@@ -4188,11 +3665,9 @@
     "ru": "голова",
     "es": "la cabeza",
     "uk": "голова",
-    "word_type": "noun",
     "pt-br": "a cabeça"
   },
   {
-    "key": "hair",
     "nl": "het haar",
     "en": "hair",
     "fr": "le cheveu",
@@ -4204,11 +3679,9 @@
     "ru": "волосы",
     "es": "el pelo",
     "uk": "волосся",
-    "word_type": "noun",
     "pt-br": "o cabelo"
   },
   {
-    "key": "face",
     "nl": "het gezicht",
     "en": "face",
     "fr": "le visage",
@@ -4220,11 +3693,9 @@
     "ru": "лицо",
     "es": "la cara",
     "uk": "обличчя",
-    "word_type": "noun",
     "pt-br": "o rosto"
   },
   {
-    "key": "brain",
     "nl": "het brein",
     "en": "brain",
     "fr": "le cerveau",
@@ -4236,11 +3707,9 @@
     "ru": "мозг",
     "es": "el cerebro",
     "uk": "мозок",
-    "word_type": "noun",
     "pt-br": "o cérebro"
   },
   {
-    "key": "eye",
     "nl": "het oog",
     "en": "eye",
     "fr": "l'œil",
@@ -4252,11 +3721,9 @@
     "ru": "глаз",
     "es": "el ojo",
     "uk": "око",
-    "word_type": "noun",
     "pt-br": "o olho"
   },
   {
-    "key": "ear",
     "nl": "het oor",
     "en": "ear",
     "fr": "l'oreille",
@@ -4268,11 +3735,9 @@
     "ru": "ухо",
     "es": "la oreja",
     "uk": "вухо",
-    "word_type": "noun",
     "pt-br": "a orelha"
   },
   {
-    "key": "nose",
     "nl": "de neus",
     "en": "nose",
     "fr": "le nez",
@@ -4284,11 +3749,9 @@
     "ru": "нос",
     "es": "la nariz",
     "uk": "ніс",
-    "word_type": "noun",
     "pt-br": "o nariz"
   },
   {
-    "key": "mouth",
     "nl": "de mond",
     "en": "mouth",
     "fr": "la bouche",
@@ -4300,11 +3763,9 @@
     "ru": "рот",
     "es": "la boca",
     "uk": "рот",
-    "word_type": "noun",
     "pt-br": "a boca"
   },
   {
-    "key": "lip",
     "nl": "de lip",
     "en": "lip",
     "fr": "la lèvre",
@@ -4316,11 +3777,9 @@
     "ru": "губа",
     "es": "el labio",
     "uk": "губа",
-    "word_type": "noun",
     "pt-br": "o lábio"
   },
   {
-    "key": "tongue",
     "nl": "de tong",
     "en": "tongue",
     "fr": "la langue",
@@ -4332,11 +3791,9 @@
     "ru": "язык",
     "es": "la lengua",
     "uk": "язик",
-    "word_type": "noun",
     "pt-br": "a língua"
   },
   {
-    "key": "tooth",
     "nl": "de tand",
     "en": "tooth",
     "fr": "la dent",
@@ -4348,11 +3805,9 @@
     "ru": "зуб",
     "es": "el diente",
     "uk": "зуб",
-    "word_type": "noun",
     "pt-br": "o dente"
   },
   {
-    "key": "throat",
     "nl": "de keel",
     "en": "throat",
     "fr": "la gorge",
@@ -4364,11 +3819,9 @@
     "ru": "горло",
     "es": "la garganta",
     "uk": "горло",
-    "word_type": "noun",
     "pt-br": "a garganta"
   },
   {
-    "key": "voice",
     "nl": "de stem",
     "en": "voice",
     "fr": "la voix",
@@ -4380,11 +3833,9 @@
     "ru": "голос",
     "es": "la voz",
     "uk": "голос",
-    "word_type": "noun",
     "pt-br": "a voz"
   },
   {
-    "key": "hearing",
     "nl": "het gehoor",
     "en": "hearing",
     "fr": "l'ouïe",
@@ -4396,11 +3847,9 @@
     "ru": "слух",
     "es": "el oído",
     "uk": "слух",
-    "word_type": "noun",
     "pt-br": "a audição"
   },
   {
-    "key": "neck",
     "nl": "de nek",
     "en": "neck",
     "fr": "le cou",
@@ -4412,11 +3861,9 @@
     "ru": "шея",
     "es": "el cuello",
     "uk": "шия",
-    "word_type": "noun",
     "pt-br": "o pescoço"
   },
   {
-    "key": "shoulder",
     "nl": "de schouder",
     "en": "shoulder",
     "fr": "l'épaule",
@@ -4428,11 +3875,9 @@
     "ru": "плечо",
     "es": "el hombro",
     "uk": "плече",
-    "word_type": "noun",
     "pt-br": "o ombro"
   },
   {
-    "key": "chest",
     "nl": "de borst",
     "en": "chest",
     "fr": "la poitrine",
@@ -4444,11 +3889,9 @@
     "ru": "грудь",
     "es": "el pecho",
     "uk": "груди",
-    "word_type": "noun",
     "pt-br": "o peito"
   },
   {
-    "key": "back-body-part",
     "nl": "de rug",
     "en": "back (body part)",
     "fr": "le dos",
@@ -4460,11 +3903,9 @@
     "ru": "спина",
     "es": "la espalda",
     "uk": "спина",
-    "word_type": "noun",
     "pt-br": "as costas"
   },
   {
-    "key": "arm",
     "nl": "de arm",
     "en": "arm",
     "fr": "le bras",
@@ -4476,11 +3917,9 @@
     "ru": "рука",
     "es": "el brazo",
     "uk": "рука",
-    "word_type": "noun",
     "pt-br": "o braço"
   },
   {
-    "key": "hand",
     "nl": "de hand",
     "en": "hand",
     "fr": "la main",
@@ -4492,11 +3931,9 @@
     "ru": "рука",
     "es": "la mano",
     "uk": "рука",
-    "word_type": "noun",
     "pt-br": "a mão"
   },
   {
-    "key": "finger",
     "nl": "de vinger",
     "en": "finger",
     "fr": "le doigt",
@@ -4508,11 +3945,9 @@
     "ru": "палец",
     "es": "el dedo",
     "uk": "палець",
-    "word_type": "noun",
     "pt-br": "o dedo"
   },
   {
-    "key": "thumb",
     "nl": "de duim",
     "en": "thumb",
     "fr": "le pouce",
@@ -4524,11 +3959,9 @@
     "ru": "большой палец",
     "es": "el pulgar",
     "uk": "великий палець",
-    "word_type": "noun",
     "pt-br": "o polegar"
   },
   {
-    "key": "nail-body-part",
     "nl": "de nagel",
     "en": "nail (body part)",
     "fr": "l'ongle",
@@ -4540,11 +3973,9 @@
     "ru": "ноготь",
     "es": "la uña",
     "uk": "ніготь",
-    "word_type": "noun",
     "pt-br": "a unha"
   },
   {
-    "key": "heart",
     "nl": "het hart",
     "en": "heart",
     "fr": "le cœur",
@@ -4556,11 +3987,9 @@
     "ru": "сердце",
     "es": "el corazón",
     "uk": "серце",
-    "word_type": "noun",
     "pt-br": "o coração"
   },
   {
-    "key": "breath",
     "nl": "de adem",
     "en": "breath",
     "fr": "le souffle",
@@ -4572,11 +4001,9 @@
     "ru": "дыхание",
     "es": "el aliento",
     "uk": "подих",
-    "word_type": "noun",
     "pt-br": "a respiração"
   },
   {
-    "key": "stomach",
     "nl": "de maag",
     "en": "stomach",
     "fr": "l'estomac",
@@ -4588,11 +4015,9 @@
     "ru": "желудок",
     "es": "el estómago",
     "uk": "шлунок",
-    "word_type": "noun",
     "pt-br": "o estômago"
   },
   {
-    "key": "leg",
     "nl": "het been",
     "en": "leg",
     "fr": "la jambe",
@@ -4604,11 +4029,9 @@
     "ru": "нога",
     "es": "la pierna",
     "uk": "нога",
-    "word_type": "noun",
     "pt-br": "a perna"
   },
   {
-    "key": "knee",
     "nl": "de knie",
     "en": "knee",
     "fr": "le genou",
@@ -4620,11 +4043,9 @@
     "ru": "колено",
     "es": "la rodilla",
     "uk": "коліно",
-    "word_type": "noun",
     "pt-br": "o joelho"
   },
   {
-    "key": "foot",
     "nl": "de voet",
     "en": "foot",
     "fr": "le pied",
@@ -4636,11 +4057,9 @@
     "ru": "стопа",
     "es": "el pie",
     "uk": "стопа",
-    "word_type": "noun",
     "pt-br": "o pé"
   },
   {
-    "key": "toe",
     "nl": "de teen",
     "en": "toe",
     "fr": "l'orteil",
@@ -4652,11 +4071,9 @@
     "ru": "палец ноги",
     "es": "el dedo del pie",
     "uk": "палець ноги",
-    "word_type": "noun",
     "pt-br": "o dedo do pé"
   },
   {
-    "key": "body",
     "nl": "het lichaam",
     "en": "body",
     "fr": "le corps",
@@ -4668,11 +4085,9 @@
     "ru": "тело",
     "es": "el cuerpo",
     "uk": "тіло",
-    "word_type": "noun",
     "pt-br": "o corpo"
   },
   {
-    "key": "skin",
     "nl": "de huid",
     "en": "skin",
     "fr": "la peau",
@@ -4684,11 +4099,9 @@
     "ru": "кожа",
     "es": "la piel",
     "uk": "шкіра",
-    "word_type": "noun",
     "pt-br": "a pele"
   },
   {
-    "key": "muscle",
     "nl": "de spier",
     "en": "muscle",
     "fr": "le muscle",
@@ -4700,11 +4113,9 @@
     "ru": "мышца",
     "es": "el músculo",
     "uk": "м'яз",
-    "word_type": "noun",
     "pt-br": "o músculo"
   },
   {
-    "key": "bone",
     "nl": "het bot",
     "en": "bone",
     "fr": "l'os",
@@ -4716,11 +4127,9 @@
     "ru": "кость",
     "es": "el hueso",
     "uk": "кістка",
-    "word_type": "noun",
     "pt-br": "o osso"
   },
   {
-    "key": "flesh",
     "nl": "het vlees",
     "en": "flesh",
     "fr": "la chair",
@@ -4732,11 +4141,9 @@
     "ru": "плоть",
     "es": "la carne",
     "uk": "плоть",
-    "word_type": "noun",
     "pt-br": "a carne"
   },
   {
-    "key": "blood",
     "nl": "het bloed",
     "en": "blood",
     "fr": "le sang",
@@ -4748,11 +4155,9 @@
     "ru": "кровь",
     "es": "la sangre",
     "uk": "кров",
-    "word_type": "noun",
     "pt-br": "o sangue"
   },
   {
-    "key": "sense",
     "nl": "het zintuig",
     "en": "sense",
     "fr": "le sens",
@@ -4764,11 +4169,9 @@
     "ru": "чувство",
     "es": "el sentido",
     "uk": "почуття",
-    "word_type": "noun",
     "pt-br": "o sentido"
   },
   {
-    "key": "sex",
     "nl": "het geslacht",
     "en": "sex",
     "fr": "le sexe",
@@ -4780,11 +4183,9 @@
     "ru": "пол",
     "es": "el sexo",
     "uk": "стать",
-    "word_type": "noun",
     "pt-br": "o sexo"
   },
   {
-    "key": "birth",
     "nl": "de geboorte",
     "en": "birth",
     "fr": "la naissance",
@@ -4796,11 +4197,9 @@
     "ru": "рождение",
     "es": "el nacimiento",
     "uk": "народження",
-    "word_type": "noun",
     "pt-br": "o nascimento"
   },
   {
-    "key": "death",
     "nl": "de dood",
     "en": "death",
     "fr": "la mort",
@@ -4812,11 +4211,9 @@
     "ru": "смерть",
     "es": "la muerte",
     "uk": "смерть",
-    "word_type": "noun",
     "pt-br": "a morte"
   },
   {
-    "key": "wound",
     "nl": "de wond",
     "en": "wound",
     "fr": "la blessure",
@@ -4828,11 +4225,9 @@
     "ru": "рана",
     "es": "la herida",
     "uk": "рана",
-    "word_type": "noun",
     "pt-br": "a ferida"
   },
   {
-    "key": "tail",
     "nl": "de staart",
     "en": "tail",
     "fr": "la queue",
@@ -4844,11 +4239,9 @@
     "ru": "хвост",
     "es": "la cola",
     "uk": "хвіст",
-    "word_type": "noun",
     "pt-br": "a cauda"
   },
   {
-    "key": "wing",
     "nl": "de vleugel",
     "en": "wing",
     "fr": "l'aile",
@@ -4860,11 +4253,9 @@
     "ru": "крыло",
     "es": "el ala",
     "uk": "крило",
-    "word_type": "noun",
     "pt-br": "a asa"
   },
   {
-    "key": "care",
     "nl": "de zorg",
     "en": "care",
     "fr": "le soin",
@@ -4876,11 +4267,9 @@
     "ru": "уход",
     "es": "el cuidado",
     "uk": "догляд",
-    "word_type": "noun",
     "pt-br": "o cuidado"
   },
   {
-    "key": "cough",
     "nl": "de hoest",
     "en": "cough",
     "fr": "la toux",
@@ -4892,11 +4281,9 @@
     "ru": "кашель",
     "es": "la tos",
     "uk": "кашель",
-    "word_type": "noun",
     "pt-br": "a tosse"
   },
   {
-    "key": "diet",
     "nl": "het dieet",
     "en": "diet",
     "fr": "le régime",
@@ -4908,11 +4295,9 @@
     "ru": "диета",
     "es": "la dieta",
     "uk": "дієта",
-    "word_type": "noun",
     "pt-br": "a dieta"
   },
   {
-    "key": "disease",
     "nl": "de ziekte",
     "en": "disease",
     "fr": "la maladie",
@@ -4924,11 +4309,9 @@
     "ru": "болезнь",
     "es": "la enfermedad",
     "uk": "хвороба",
-    "word_type": "noun",
     "pt-br": "a doença"
   },
   {
-    "key": "doctor",
     "nl": "de dokter",
     "en": "doctor",
     "fr": "le médecin",
@@ -4940,11 +4323,9 @@
     "ru": "врач",
     "es": "el doctor",
     "uk": "лікар",
-    "word_type": "noun",
     "pt-br": "médico"
   },
   {
-    "key": "drug-medicine",
     "nl": "het medicijn",
     "en": "drug (medicine)",
     "fr": "le médicament",
@@ -4956,11 +4337,9 @@
     "ru": "лекарство",
     "es": "el medicamento",
     "uk": "ліки",
-    "word_type": "noun",
     "pt-br": "o medicamento"
   },
   {
-    "key": "exercise",
     "nl": "de oefening",
     "en": "exercise",
     "fr": "l'exercice",
@@ -4972,11 +4351,9 @@
     "ru": "упражнение",
     "es": "el ejercicio",
     "uk": "вправа",
-    "word_type": "noun",
     "pt-br": "o exercício"
   },
   {
-    "key": "gym",
     "nl": "de sportschool",
     "en": "gym",
     "fr": "la salle de sport",
@@ -4988,11 +4365,9 @@
     "ru": "спортзал",
     "es": "el gimnasio",
     "uk": "спортзал",
-    "word_type": "noun",
     "pt-br": "o ginásio"
   },
   {
-    "key": "health",
     "nl": "de gezondheid",
     "en": "health",
     "fr": "la santé",
@@ -5004,11 +4379,9 @@
     "ru": "здоровье",
     "es": "la salud",
     "uk": "здоров'я",
-    "word_type": "noun",
     "pt-br": "a saúde"
   },
   {
-    "key": "injury",
     "nl": "de blessure",
     "en": "injury",
     "fr": "la blessure",
@@ -5020,11 +4393,9 @@
     "ru": "травма",
     "es": "la lesión",
     "uk": "травма",
-    "word_type": "noun",
     "pt-br": "a lesão"
   },
   {
-    "key": "medical",
     "nl": "medisch",
     "en": "medical",
     "fr": "médical",
@@ -5036,11 +4407,9 @@
     "ru": "медицинский",
     "es": "médico",
     "uk": "медичний",
-    "word_type": "adjective",
     "pt-br": "médico"
   },
   {
-    "key": "medicine",
     "nl": "de geneeskunde",
     "en": "medicine",
     "fr": "le médecine",
@@ -5052,11 +4421,9 @@
     "ru": "медицина",
     "es": "la medicina",
     "uk": "медицина",
-    "word_type": "noun",
     "pt-br": "a medicina"
   },
   {
-    "key": "nurse",
     "nl": "de verpleegster",
     "en": "nurse",
     "fr": "l'infirmière",
@@ -5068,11 +4435,9 @@
     "ru": "медсестра",
     "es": "la enfermera",
     "uk": "медсестра",
-    "word_type": "noun",
     "pt-br": "a enfermeira"
   },
   {
-    "key": "pain",
     "nl": "de pijn",
     "en": "pain",
     "fr": "la douleur",
@@ -5084,11 +4449,9 @@
     "ru": "боль",
     "es": "el dolor",
     "uk": "біль",
-    "word_type": "noun",
     "pt-br": "a dor"
   },
   {
-    "key": "patient",
     "nl": "de patiënt",
     "en": "patient",
     "fr": "le patient",
@@ -5100,11 +4463,9 @@
     "ru": "пациент",
     "es": "el paciente",
     "uk": "пацієнт",
-    "word_type": "noun",
     "pt-br": "o paciente"
   },
   {
-    "key": "poison",
     "nl": "het gif",
     "en": "poison",
     "fr": "le poison",
@@ -5116,11 +4477,9 @@
     "ru": "яд",
     "es": "el veneno",
     "uk": "отрута",
-    "word_type": "noun",
     "pt-br": "o veneno"
   },
   {
-    "key": "aunt",
     "nl": "de tante",
     "en": "aunt",
     "fr": "la tante",
@@ -5132,11 +4491,9 @@
     "ru": "тётя",
     "es": "la tía",
     "uk": "тітка",
-    "word_type": "noun",
     "pt-br": "a tia"
   },
   {
-    "key": "brother",
     "nl": "de broer",
     "en": "brother",
     "fr": "le frère",
@@ -5148,11 +4505,9 @@
     "ru": "брат",
     "es": "el hermano",
     "uk": "брат",
-    "word_type": "noun",
     "pt-br": "o irmão"
   },
   {
-    "key": "cousin",
     "nl": "de neef",
     "en": "cousin",
     "fr": "le cousin",
@@ -5164,11 +4519,9 @@
     "ru": "двоюродный брат",
     "es": "el primo",
     "uk": "двоюрідний брат",
-    "word_type": "noun",
     "pt-br": "o primo"
   },
   {
-    "key": "dad",
     "nl": "papa",
     "en": "dad",
     "fr": "papa",
@@ -5180,11 +4533,9 @@
     "ru": "папа",
     "es": "el papá",
     "uk": "тато",
-    "word_type": "noun",
     "pt-br": "o pai"
   },
   {
-    "key": "daughter",
     "nl": "de dochter",
     "en": "daughter",
     "fr": "la fille",
@@ -5196,11 +4547,9 @@
     "ru": "дочь",
     "es": "la hija",
     "uk": "дочка",
-    "word_type": "noun",
     "pt-br": "a filha"
   },
   {
-    "key": "father",
     "nl": "de vader",
     "en": "father",
     "fr": "le père",
@@ -5212,11 +4561,9 @@
     "ru": "отец",
     "es": "el padre",
     "uk": "батько",
-    "word_type": "noun",
     "pt-br": "o pai"
   },
   {
-    "key": "grandfather",
     "nl": "de grootvader",
     "en": "grandfather",
     "fr": "le grand-père",
@@ -5228,11 +4575,9 @@
     "ru": "дедушка",
     "es": "el abuelo",
     "uk": "дідусь",
-    "word_type": "noun",
     "pt-br": "o avô"
   },
   {
-    "key": "grandmother",
     "nl": "de grootmoeder",
     "en": "grandmother",
     "fr": "la grand-mère",
@@ -5244,11 +4589,9 @@
     "ru": "бабушка",
     "es": "la abuela",
     "uk": "бабуся",
-    "word_type": "noun",
     "pt-br": "a avó"
   },
   {
-    "key": "husband",
     "nl": "de echtgenoot",
     "en": "husband",
     "fr": "le mari",
@@ -5260,11 +4603,9 @@
     "ru": "муж",
     "es": "el marido",
     "uk": "чоловік",
-    "word_type": "noun",
     "pt-br": "o marido"
   },
   {
-    "key": "mother",
     "nl": "de moeder",
     "en": "mother",
     "fr": "la mère",
@@ -5276,11 +4617,9 @@
     "ru": "мать",
     "es": "la madre",
     "uk": "мати",
-    "word_type": "noun",
     "pt-br": "a mãe"
   },
   {
-    "key": "parent",
     "nl": "de ouder",
     "en": "parent",
     "fr": "le parent",
@@ -5292,11 +4631,9 @@
     "ru": "родитель",
     "es": "el padre",
     "uk": "батько",
-    "word_type": "noun",
     "pt-br": "o progenitor"
   },
   {
-    "key": "grandparent",
     "nl": "de grootouder",
     "en": "grandparent",
     "fr": "le grand-parent",
@@ -5308,11 +4645,9 @@
     "ru": "дедушка или бабушка",
     "es": "el abuelo",
     "uk": "дідусь або бабуся",
-    "word_type": "noun",
     "pt-br": "o avô"
   },
   {
-    "key": "sister",
     "nl": "de zus",
     "en": "sister",
     "fr": "la sœur",
@@ -5324,11 +4659,9 @@
     "ru": "сестра",
     "es": "la hermana",
     "uk": "сестра",
-    "word_type": "noun",
     "pt-br": "a irmã"
   },
   {
-    "key": "son",
     "nl": "de zoon",
     "en": "son",
     "fr": "le fils",
@@ -5340,11 +4673,9 @@
     "ru": "сын",
     "es": "el hijo",
     "uk": "син",
-    "word_type": "noun",
     "pt-br": "o filho"
   },
   {
-    "key": "uncle",
     "nl": "de oom",
     "en": "uncle",
     "fr": "l'oncle",
@@ -5356,11 +4687,9 @@
     "ru": "дядя",
     "es": "el tío",
     "uk": "дядько",
-    "word_type": "noun",
     "pt-br": "o tio"
   },
   {
-    "key": "wife",
     "nl": "de echtgenote",
     "en": "wife",
     "fr": "l'épouse",
@@ -5372,11 +4701,9 @@
     "ru": "жена",
     "es": "la esposa",
     "uk": "дружина",
-    "word_type": "noun",
     "pt-br": "a esposa"
   },
   {
-    "key": "adult",
     "nl": "de volwassene",
     "en": "adult",
     "fr": "l'adulte",
@@ -5388,11 +4715,9 @@
     "ru": "взрослый",
     "es": "el adulto",
     "uk": "дорослий",
-    "word_type": "noun",
     "pt-br": "o adulto"
   },
   {
-    "key": "baby",
     "nl": "de baby",
     "en": "baby",
     "fr": "le bébé",
@@ -5404,11 +4729,9 @@
     "ru": "младенец",
     "es": "el bebé",
     "uk": "немовля",
-    "word_type": "noun",
     "pt-br": "o bebé"
   },
   {
-    "key": "boy",
     "nl": "de jongen",
     "en": "boy",
     "fr": "le garçon",
@@ -5420,11 +4743,9 @@
     "ru": "мальчик",
     "es": "el chico",
     "uk": "хлопчик",
-    "word_type": "noun",
     "pt-br": "o rapaz"
   },
   {
-    "key": "child",
     "nl": "het kind",
     "en": "child",
     "fr": "l'enfant",
@@ -5436,11 +4757,9 @@
     "ru": "ребёнок",
     "es": "el niño",
     "uk": "дитина",
-    "word_type": "noun",
     "pt-br": "a criança"
   },
   {
-    "key": "girl",
     "nl": "het meisje",
     "en": "girl",
     "fr": "la fille",
@@ -5452,11 +4771,9 @@
     "ru": "девочка",
     "es": "la chica",
     "uk": "дівчинка",
-    "word_type": "noun",
     "pt-br": "a rapariga"
   },
   {
-    "key": "man",
     "nl": "de man",
     "en": "man",
     "fr": "l'homme",
@@ -5468,11 +4785,9 @@
     "ru": "мужчина",
     "es": "el hombre",
     "uk": "чоловік",
-    "word_type": "noun",
     "pt-br": "o homem"
   },
   {
-    "key": "people",
     "nl": "de mensen",
     "en": "people",
     "fr": "les gens",
@@ -5484,11 +4799,9 @@
     "ru": "люди",
     "es": "la gente",
     "uk": "люди",
-    "word_type": "noun",
     "pt-br": "as pessoas"
   },
   {
-    "key": "person",
     "nl": "de persoon",
     "en": "person",
     "fr": "la personne",
@@ -5500,11 +4813,9 @@
     "ru": "человек",
     "es": "la persona",
     "uk": "людина",
-    "word_type": "noun",
     "pt-br": "a pessoa"
   },
   {
-    "key": "woman",
     "nl": "de vrouw",
     "en": "woman",
     "fr": "la femme",
@@ -5516,11 +4827,9 @@
     "ru": "женщина",
     "es": "la mujer",
     "uk": "жінка",
-    "word_type": "noun",
     "pt-br": "a mulher"
   },
   {
-    "key": "boyfriend",
     "nl": "de vriend",
     "en": "boyfriend",
     "fr": "le petit ami",
@@ -5532,11 +4841,9 @@
     "ru": "парень",
     "es": "el novio",
     "uk": "хлопець",
-    "word_type": "noun",
     "pt-br": "o namorado"
   },
   {
-    "key": "girlfriend",
     "nl": "de vriendin",
     "en": "girlfriend",
     "fr": "la petite amie",
@@ -5548,11 +4855,9 @@
     "ru": "девушка",
     "es": "la novia",
     "uk": "дівчина",
-    "word_type": "noun",
     "pt-br": "a namorada"
   },
   {
-    "key": "marriage",
     "nl": "het huwelijk",
     "en": "marriage",
     "fr": "le mariage",
@@ -5564,11 +4869,9 @@
     "ru": "брак",
     "es": "el matrimonio",
     "uk": "шлюб",
-    "word_type": "noun",
     "pt-br": "o casamento"
   },
   {
-    "key": "neighbor",
     "nl": "de buur",
     "en": "neighbor",
     "fr": "le voisin",
@@ -5580,11 +4883,9 @@
     "ru": "сосед",
     "es": "el vecino",
     "uk": "сусід",
-    "word_type": "noun",
     "pt-br": "o vizinho"
   },
   {
-    "key": "partner",
     "nl": "de partner",
     "en": "partner",
     "fr": "le partenaire",
@@ -5596,11 +4897,9 @@
     "ru": "партнёр",
     "es": "el compañero",
     "uk": "партнер",
-    "word_type": "noun",
     "pt-br": "o parceiro"
   },
   {
-    "key": "relationship",
     "nl": "de relatie",
     "en": "relationship",
     "fr": "la relation",
@@ -5612,11 +4911,9 @@
     "ru": "отношения",
     "es": "la relación",
     "uk": "стосунки",
-    "word_type": "noun",
     "pt-br": "a relação"
   },
   {
-    "key": "wedding",
     "nl": "de bruiloft",
     "en": "wedding",
     "fr": "le mariage",
@@ -5628,11 +4925,9 @@
     "ru": "свадьба",
     "es": "la boda",
     "uk": "весілля",
-    "word_type": "noun",
     "pt-br": "o casamento"
   },
   {
-    "key": "cat",
     "nl": "de kat",
     "en": "cat",
     "fr": "le chat",
@@ -5644,11 +4939,9 @@
     "ru": "кошка",
     "es": "el gato",
     "uk": "кіт",
-    "word_type": "noun",
     "pt-br": "o gato"
   },
   {
-    "key": "cow",
     "nl": "de koe",
     "en": "cow",
     "fr": "la vache",
@@ -5660,11 +4953,9 @@
     "ru": "корова",
     "es": "la vaca",
     "uk": "корова",
-    "word_type": "noun",
     "pt-br": "a vaca"
   },
   {
-    "key": "dog",
     "nl": "de hond",
     "en": "dog",
     "fr": "le chien",
@@ -5676,11 +4967,9 @@
     "ru": "собака",
     "es": "el perro",
     "uk": "собака",
-    "word_type": "noun",
     "pt-br": "o cão"
   },
   {
-    "key": "horse",
     "nl": "het paard",
     "en": "horse",
     "fr": "le cheval",
@@ -5692,11 +4981,9 @@
     "ru": "лошадь",
     "es": "el caballo",
     "uk": "кінь",
-    "word_type": "noun",
     "pt-br": "o cavalo"
   },
   {
-    "key": "mouse",
     "nl": "de muis",
     "en": "mouse",
     "fr": "la souris",
@@ -5708,11 +4995,9 @@
     "ru": "мышь",
     "es": "el ratón",
     "uk": "миша",
-    "word_type": "noun",
     "pt-br": "o rato"
   },
   {
-    "key": "pig",
     "nl": "het varken",
     "en": "pig",
     "fr": "le cochon",
@@ -5724,11 +5009,9 @@
     "ru": "свинья",
     "es": "el cerdo",
     "uk": "свиня",
-    "word_type": "noun",
     "pt-br": "o porco"
   },
   {
-    "key": "sheep",
     "nl": "het schaap",
     "en": "sheep",
     "fr": "le mouton",
@@ -5740,11 +5023,9 @@
     "ru": "овца",
     "es": "la oveja",
     "uk": "вівця",
-    "word_type": "noun",
     "pt-br": "a ovelha"
   },
   {
-    "key": "bee",
     "nl": "de bij",
     "en": "bee",
     "fr": "l'abeille",
@@ -5756,11 +5037,9 @@
     "ru": "пчела",
     "es": "la abeja",
     "uk": "бджола",
-    "word_type": "noun",
     "pt-br": "a abelha"
   },
   {
-    "key": "bird",
     "nl": "de vogel",
     "en": "bird",
     "fr": "l'oiseau",
@@ -5772,11 +5051,9 @@
     "ru": "птица",
     "es": "el pájaro",
     "uk": "птах",
-    "word_type": "noun",
     "pt-br": "o pássaro"
   },
   {
-    "key": "fish",
     "nl": "de vis",
     "en": "fish",
     "fr": "le poisson",
@@ -5788,11 +5065,9 @@
     "ru": "рыба",
     "es": "el pez",
     "uk": "риба",
-    "word_type": "noun",
     "pt-br": "o peixe"
   },
   {
-    "key": "snake",
     "nl": "de slang",
     "en": "snake",
     "fr": "le serpent",
@@ -5804,11 +5079,9 @@
     "ru": "змея",
     "es": "la serpiente",
     "uk": "змія",
-    "word_type": "noun",
     "pt-br": "a serpente"
   },
   {
-    "key": "feather",
     "nl": "de veer",
     "en": "feather",
     "fr": "la plume",
@@ -5820,11 +5093,9 @@
     "ru": "перо",
     "es": "la pluma",
     "uk": "перо",
-    "word_type": "noun",
     "pt-br": "uma pena"
   },
   {
-    "key": "flower",
     "nl": "de bloem",
     "en": "flower",
     "fr": "la fleur",
@@ -5836,11 +5107,9 @@
     "ru": "цветок",
     "es": "la flor",
     "uk": "квітка",
-    "word_type": "noun",
     "pt-br": "a flor"
   },
   {
-    "key": "grass",
     "nl": "het gras",
     "en": "grass",
     "fr": "l'herbe",
@@ -5852,11 +5121,9 @@
     "ru": "трава",
     "es": "la hierba",
     "uk": "трава",
-    "word_type": "noun",
     "pt-br": "a relva"
   },
   {
-    "key": "leaf",
     "nl": "het blad",
     "en": "leaf",
     "fr": "la feuille",
@@ -5868,11 +5135,9 @@
     "ru": "лист",
     "es": "la hoja",
     "uk": "листок",
-    "word_type": "noun",
     "pt-br": "a folha"
   },
   {
-    "key": "plant",
     "nl": "de plant",
     "en": "plant",
     "fr": "le plante",
@@ -5884,11 +5149,9 @@
     "ru": "растение",
     "es": "la planta",
     "uk": "рослина",
-    "word_type": "noun",
     "pt-br": "a planta"
   },
   {
-    "key": "tree",
     "nl": "de boom",
     "en": "tree",
     "fr": "l'arbre",
@@ -5900,11 +5163,9 @@
     "ru": "дерево",
     "es": "el árbol",
     "uk": "дерево",
-    "word_type": "noun",
     "pt-br": "a árvore"
   },
   {
-    "key": "hill",
     "nl": "de heuvel",
     "en": "hill",
     "fr": "la colline",
@@ -5916,11 +5177,9 @@
     "ru": "холм",
     "es": "la colina",
     "uk": "пагорб",
-    "word_type": "noun",
     "pt-br": "a colina"
   },
   {
-    "key": "lake",
     "nl": "het meer",
     "en": "lake",
     "fr": "le lac",
@@ -5932,11 +5191,9 @@
     "ru": "озеро",
     "es": "el lago",
     "uk": "озеро",
-    "word_type": "noun",
     "pt-br": "o lago"
   },
   {
-    "key": "land",
     "nl": "het land",
     "en": "land",
     "fr": "la terre",
@@ -5948,11 +5205,9 @@
     "ru": "земля",
     "es": "la tierra",
     "uk": "земля",
-    "word_type": "noun",
     "pt-br": "a terra"
   },
   {
-    "key": "river",
     "nl": "de rivier",
     "en": "river",
     "fr": "la rivière",
@@ -5964,11 +5219,9 @@
     "ru": "река",
     "es": "el río",
     "uk": "річка",
-    "word_type": "noun",
     "pt-br": "o rio"
   },
   {
-    "key": "sea",
     "nl": "de zee",
     "en": "sea",
     "fr": "la mer",
@@ -5980,11 +5233,9 @@
     "ru": "море",
     "es": "el mar",
     "uk": "море",
-    "word_type": "noun",
     "pt-br": "o mar"
   },
   {
-    "key": "air",
     "nl": "de lucht",
     "en": "air",
     "fr": "l'air",
@@ -5996,11 +5247,9 @@
     "ru": "воздух",
     "es": "el aire",
     "uk": "повітря",
-    "word_type": "noun",
     "pt-br": "o ar"
   },
   {
-    "key": "cloud",
     "nl": "de wolk",
     "en": "cloud",
     "fr": "le nuage",
@@ -6012,11 +5261,9 @@
     "ru": "облако",
     "es": "la nube",
     "uk": "хмара",
-    "word_type": "noun",
     "pt-br": "a nuvem"
   },
   {
-    "key": "fire",
     "nl": "het vuur",
     "en": "fire",
     "fr": "le feu",
@@ -6028,11 +5275,9 @@
     "ru": "огонь",
     "es": "el fuego",
     "uk": "вогонь",
-    "word_type": "noun",
     "pt-br": "o fogo"
   },
   {
-    "key": "ice",
     "nl": "het ijs",
     "en": "ice",
     "fr": "la glace",
@@ -6044,11 +5289,9 @@
     "ru": "лёд",
     "es": "el hielo",
     "uk": "лід",
-    "word_type": "noun",
     "pt-br": "o gelo"
   },
   {
-    "key": "rain",
     "nl": "de regen",
     "en": "rain",
     "fr": "la pluie",
@@ -6060,11 +5303,9 @@
     "ru": "дождь",
     "es": "la lluvia",
     "uk": "дощ",
-    "word_type": "noun",
     "pt-br": "a chuva"
   },
   {
-    "key": "sky",
     "nl": "de lucht",
     "en": "sky",
     "fr": "le ciel",
@@ -6076,11 +5317,9 @@
     "ru": "небеса",
     "es": "el cielo",
     "uk": "небо",
-    "word_type": "noun",
     "pt-br": "o céu"
   },
   {
-    "key": "snow",
     "nl": "de sneeuw",
     "en": "snow",
     "fr": "la neige",
@@ -6092,11 +5331,9 @@
     "ru": "снег",
     "es": "la nieve",
     "uk": "сніг",
-    "word_type": "noun",
     "pt-br": "a neve"
   },
   {
-    "key": "weather",
     "nl": "het weer",
     "en": "weather",
     "fr": "le temps",
@@ -6108,11 +5345,9 @@
     "ru": "погода",
     "es": "el tiempo",
     "uk": "погода",
-    "word_type": "noun",
     "pt-br": "o tempo"
   },
   {
-    "key": "wind",
     "nl": "de wind",
     "en": "wind",
     "fr": "le vent",
@@ -6124,11 +5359,9 @@
     "ru": "ветер",
     "es": "el viento",
     "uk": "вітер",
-    "word_type": "noun",
     "pt-br": "o vento"
   },
   {
-    "key": "earth",
     "nl": "de Aarde",
     "en": "Earth",
     "fr": "la Terre",
@@ -6140,11 +5373,9 @@
     "ru": "Земля",
     "es": "la Tierra",
     "uk": "Земля",
-    "word_type": "noun",
     "pt-br": "a Terra"
   },
   {
-    "key": "space",
     "nl": "de ruimte",
     "en": "space",
     "fr": "l'espace",
@@ -6156,11 +5387,9 @@
     "ru": "космос",
     "es": "el espacio",
     "uk": "космос",
-    "word_type": "noun",
     "pt-br": "o espaço"
   },
   {
-    "key": "sun",
     "nl": "de zon",
     "en": "sun",
     "fr": "le soleil",
@@ -6172,11 +5401,9 @@
     "ru": "солнце",
     "es": "el sol",
     "uk": "сонце",
-    "word_type": "noun",
     "pt-br": "o sol"
   },
   {
-    "key": "bread",
     "nl": "het brood",
     "en": "bread",
     "fr": "le pain",
@@ -6188,11 +5415,9 @@
     "ru": "хлеб",
     "es": "el pan",
     "uk": "хліб",
-    "word_type": "noun",
     "pt-br": "o pão"
   },
   {
-    "key": "rice",
     "nl": "de rijst",
     "en": "rice",
     "fr": "le riz",
@@ -6204,11 +5429,9 @@
     "ru": "рис",
     "es": "el arroz",
     "uk": "рис",
-    "word_type": "noun",
     "pt-br": "o arroz"
   },
   {
-    "key": "fruit",
     "nl": "het fruit",
     "en": "fruit",
     "fr": "le fruit",
@@ -6220,11 +5443,9 @@
     "ru": "фрукт",
     "es": "la fruta",
     "uk": "фрукт",
-    "word_type": "noun",
     "pt-br": "a fruta"
   },
   {
-    "key": "apple",
     "nl": "de appel",
     "en": "apple",
     "fr": "la pomme",
@@ -6236,11 +5457,9 @@
     "ru": "яблоко",
     "es": "la manzana",
     "uk": "яблуко",
-    "word_type": "noun",
     "pt-br": "a maçã"
   },
   {
-    "key": "banana",
     "nl": "de banaan",
     "en": "banana",
     "fr": "la banane",
@@ -6252,11 +5471,9 @@
     "ru": "банан",
     "es": "el plátano",
     "uk": "банан",
-    "word_type": "noun",
     "pt-br": "a banana"
   },
   {
-    "key": "vegetable",
     "nl": "de groente",
     "en": "vegetable",
     "fr": "le légume",
@@ -6268,11 +5485,9 @@
     "ru": "овощ",
     "es": "la verdura",
     "uk": "овоч",
-    "word_type": "noun",
     "pt-br": "o legume"
   },
   {
-    "key": "potato",
     "nl": "de aardappel",
     "en": "potato",
     "fr": "la pomme de terre",
@@ -6284,11 +5499,9 @@
     "ru": "картофель",
     "es": "la patata",
     "uk": "картопля",
-    "word_type": "noun",
     "pt-br": "a batata"
   },
   {
-    "key": "tomato",
     "nl": "de tomaat",
     "en": "tomato",
     "fr": "la tomate",
@@ -6300,11 +5513,9 @@
     "ru": "помидор",
     "es": "el tomate",
     "uk": "помідор",
-    "word_type": "noun",
     "pt-br": "o tomate"
   },
   {
-    "key": "onion",
     "nl": "de ui",
     "en": "onion",
     "fr": "l'oignon",
@@ -6316,11 +5527,9 @@
     "ru": "лук",
     "es": "la cebolla",
     "uk": "цибуля",
-    "word_type": "noun",
     "pt-br": "a cebola"
   },
   {
-    "key": "chicken",
     "nl": "de kip",
     "en": "chicken",
     "fr": "le poulet",
@@ -6332,11 +5541,9 @@
     "ru": "курица",
     "es": "el pollo",
     "uk": "курка",
-    "word_type": "noun",
     "pt-br": "o frango"
   },
   {
-    "key": "egg",
     "nl": "het ei",
     "en": "egg",
     "fr": "l'œuf",
@@ -6348,11 +5555,9 @@
     "ru": "яйцо",
     "es": "el huevo",
     "uk": "яйце",
-    "word_type": "noun",
     "pt-br": "o ovo"
   },
   {
-    "key": "milk",
     "nl": "de melk",
     "en": "milk",
     "fr": "le lait",
@@ -6364,11 +5569,9 @@
     "ru": "молоко",
     "es": "la leche",
     "uk": "молоко",
-    "word_type": "noun",
     "pt-br": "o leite"
   },
   {
-    "key": "cheese",
     "nl": "de kaas",
     "en": "cheese",
     "fr": "le fromage",
@@ -6380,11 +5583,9 @@
     "ru": "сыр",
     "es": "el queso",
     "uk": "сир",
-    "word_type": "noun",
     "pt-br": "o queijo"
   },
   {
-    "key": "butter",
     "nl": "de boter",
     "en": "butter",
     "fr": "le beurre",
@@ -6396,11 +5597,9 @@
     "ru": "масло",
     "es": "la mantequilla",
     "uk": "масло",
-    "word_type": "noun",
     "pt-br": "a manteiga"
   },
   {
-    "key": "salt",
     "nl": "het zout",
     "en": "salt",
     "fr": "le sel",
@@ -6412,11 +5611,9 @@
     "ru": "соль",
     "es": "la sal",
     "uk": "сіль",
-    "word_type": "noun",
     "pt-br": "o sal"
   },
   {
-    "key": "sugar",
     "nl": "de suiker",
     "en": "sugar",
     "fr": "le sucre",
@@ -6428,11 +5625,9 @@
     "ru": "сахар",
     "es": "el azúcar",
     "uk": "цукор",
-    "word_type": "noun",
     "pt-br": "o açúcar"
   },
   {
-    "key": "water",
     "nl": "het water",
     "en": "water",
     "fr": "l'eau",
@@ -6444,11 +5639,9 @@
     "ru": "вода",
     "es": "el agua",
     "uk": "вода",
-    "word_type": "noun",
     "pt-br": "a água"
   },
   {
-    "key": "tea",
     "nl": "de thee",
     "en": "tea",
     "fr": "le thé",
@@ -6460,11 +5653,9 @@
     "ru": "чай",
     "es": "el té",
     "uk": "чай",
-    "word_type": "noun",
     "pt-br": "o chá"
   },
   {
-    "key": "coffee",
     "nl": "de koffie",
     "en": "coffee",
     "fr": "le café",
@@ -6476,11 +5667,9 @@
     "ru": "кофе",
     "es": "el café",
     "uk": "кава",
-    "word_type": "noun",
     "pt-br": "o café"
   },
   {
-    "key": "juice",
     "nl": "het sap",
     "en": "juice",
     "fr": "le jus",
@@ -6492,11 +5681,9 @@
     "ru": "сок",
     "es": "el zumo",
     "uk": "сік",
-    "word_type": "noun",
     "pt-br": "o sumo"
   },
   {
-    "key": "oil",
     "nl": "de olie",
     "en": "oil",
     "fr": "l'huile",
@@ -6508,11 +5695,9 @@
     "ru": "масло",
     "es": "el aceite",
     "uk": "олія",
-    "word_type": "noun",
     "pt-br": "o óleo"
   },
   {
-    "key": "food",
     "nl": "het eten",
     "en": "food",
     "fr": "la nourriture",
@@ -6524,11 +5709,9 @@
     "ru": "еда",
     "es": "la comida",
     "uk": "їжа",
-    "word_type": "noun",
     "pt-br": "a comida"
   },
   {
-    "key": "meal",
     "nl": "de maaltijd",
     "en": "meal",
     "fr": "le repas",
@@ -6540,11 +5723,9 @@
     "ru": "еда",
     "es": "la comida",
     "uk": "їжа",
-    "word_type": "noun",
     "pt-br": "a refeição"
   },
   {
-    "key": "breakfast",
     "nl": "het ontbijt",
     "en": "breakfast",
     "fr": "le petit déjeuner",
@@ -6556,11 +5737,9 @@
     "ru": "завтрак",
     "es": "el desayuno",
     "uk": "сніданок",
-    "word_type": "noun",
     "pt-br": "o pequeno-almoço"
   },
   {
-    "key": "lunch",
     "nl": "de lunch",
     "en": "lunch",
     "fr": "le déjeuner",
@@ -6572,11 +5751,9 @@
     "ru": "обед",
     "es": "el almuerzo",
     "uk": "обід",
-    "word_type": "noun",
     "pt-br": "o almoço"
   },
   {
-    "key": "dinner",
     "nl": "het avondeten",
     "en": "dinner",
     "fr": "le dîner",
@@ -6588,11 +5765,9 @@
     "ru": "ужин",
     "es": "la cena",
     "uk": "вечеря",
-    "word_type": "noun",
     "pt-br": "o jantar"
   },
   {
-    "key": "piece",
     "nl": "het stuk",
     "en": "piece",
     "fr": "le morceau",
@@ -6604,11 +5779,9 @@
     "ru": "кусок",
     "es": "la pieza",
     "uk": "шматок",
-    "word_type": "noun",
     "pt-br": "a peça"
   },
   {
-    "key": "side",
     "nl": "de kant",
     "en": "side",
     "fr": "le côté",
@@ -6620,11 +5793,9 @@
     "ru": "сторона",
     "es": "el lado",
     "uk": "сторона",
-    "word_type": "noun",
     "pt-br": "o lado"
   },
   {
-    "key": "size",
     "nl": "de grootte",
     "en": "size",
     "fr": "la taille",
@@ -6636,11 +5807,9 @@
     "ru": "размер",
     "es": "el tamaño",
     "uk": "розмір",
-    "word_type": "noun",
     "pt-br": "o tamanho"
   },
   {
-    "key": "shape",
     "nl": "de vorm",
     "en": "shape",
     "fr": "la forme",
@@ -6652,11 +5821,9 @@
     "ru": "форма",
     "es": "la forma",
     "uk": "форма",
-    "word_type": "noun",
     "pt-br": "a forma"
   },
   {
-    "key": "line",
     "nl": "de lijn",
     "en": "line",
     "fr": "la ligne",
@@ -6668,11 +5835,9 @@
     "ru": "линия",
     "es": "la línea",
     "uk": "лінія",
-    "word_type": "noun",
     "pt-br": "a linha"
   },
   {
-    "key": "age",
     "nl": "de leeftijd",
     "en": "age",
     "fr": "l'âge",
@@ -6684,11 +5849,9 @@
     "ru": "возраст",
     "es": "la edad",
     "uk": "вік",
-    "word_type": "noun",
     "pt-br": "a idade"
   },
   {
-    "key": "this",
     "nl": "dit",
     "en": "this",
     "fr": "ceci",
@@ -6700,11 +5863,9 @@
     "ru": "это",
     "es": "este",
     "uk": "це",
-    "word_type": "pronoun",
     "pt-br": "este"
   },
   {
-    "key": "that",
     "nl": "dat",
     "en": "that",
     "fr": "cela",
@@ -6716,11 +5877,9 @@
     "ru": "то",
     "es": "ese",
     "uk": "те",
-    "word_type": "pronoun",
     "pt-br": "esse"
   },
   {
-    "key": "these",
     "nl": "deze",
     "en": "these",
     "fr": "ces",
@@ -6732,11 +5891,9 @@
     "ru": "эти",
     "es": "estos",
     "uk": "ці",
-    "word_type": "pronoun",
     "pt-br": "estes"
   },
   {
-    "key": "those",
     "nl": "die",
     "en": "those",
     "fr": "ceux-là",
@@ -6748,11 +5905,9 @@
     "ru": "те",
     "es": "esos",
     "uk": "ті",
-    "word_type": "pronoun",
     "pt-br": "esses"
   },
   {
-    "key": "as",
     "nl": "als",
     "en": "as",
     "fr": "comme",
@@ -6764,11 +5919,9 @@
     "ru": "как",
     "es": "como",
     "uk": "як",
-    "word_type": "conjunction",
     "pt-br": "como"
   },
   {
-    "key": "not",
     "nl": "niet",
     "en": "not",
     "fr": "pas",
@@ -6780,11 +5933,9 @@
     "ru": "не",
     "es": "no",
     "uk": "не",
-    "word_type": "adverb",
     "pt-br": "não"
   },
   {
-    "key": "all",
     "nl": "allemaal",
     "en": "all",
     "fr": "tous",
@@ -6796,11 +5947,9 @@
     "ru": "всё",
     "es": "todos",
     "uk": "все",
-    "word_type": "pronoun",
     "pt-br": "todos"
   },
   {
-    "key": "any",
     "nl": "enige",
     "en": "any",
     "fr": "n'importe quel",
@@ -6812,11 +5961,9 @@
     "ru": "любой",
     "es": "cualquier",
     "uk": "будь-який",
-    "word_type": "pronoun",
     "pt-br": "qualquer"
   },
   {
-    "key": "some",
     "nl": "sommige",
     "en": "some",
     "fr": "quelques",
@@ -6828,11 +5975,9 @@
     "ru": "некоторые",
     "es": "algunos",
     "uk": "деякі",
-    "word_type": "pronoun",
     "pt-br": "alguns"
   },
   {
-    "key": "every",
     "nl": "elke",
     "en": "every",
     "fr": "chaque",
@@ -6844,11 +5989,9 @@
     "ru": "каждый",
     "es": "cada",
     "uk": "кожен",
-    "word_type": "pronoun",
     "pt-br": "cada"
   },
   {
-    "key": "many",
     "nl": "veel",
     "en": "many",
     "fr": "beaucoup",
@@ -6860,11 +6003,9 @@
     "ru": "много",
     "es": "muchos",
     "uk": "багато",
-    "word_type": "adjective",
     "pt-br": "muitos"
   },
   {
-    "key": "few",
     "nl": "weinig",
     "en": "few",
     "fr": "peu",
@@ -6876,11 +6017,9 @@
     "ru": "мало",
     "es": "pocos",
     "uk": "мало",
-    "word_type": "adjective",
     "pt-br": "poucos"
   },
   {
-    "key": "more",
     "nl": "meer",
     "en": "more",
     "fr": "plus",
@@ -6892,11 +6031,9 @@
     "ru": "больше",
     "es": "más",
     "uk": "більше",
-    "word_type": "adverb",
     "pt-br": "mais"
   },
   {
-    "key": "most",
     "nl": "meest",
     "en": "most",
     "fr": "le plus",
@@ -6908,11 +6045,9 @@
     "ru": "больше всего",
     "es": "más",
     "uk": "найбільше",
-    "word_type": "adverb",
     "pt-br": "mais"
   },
   {
-    "key": "much",
     "nl": "veel",
     "en": "much",
     "fr": "beaucoup",
@@ -6924,11 +6059,9 @@
     "ru": "много",
     "es": "mucho",
     "uk": "багато",
-    "word_type": "adjective",
     "pt-br": "muito"
   },
   {
-    "key": "both",
     "nl": "beide",
     "en": "both",
     "fr": "les deux",
@@ -6940,11 +6073,9 @@
     "ru": "оба",
     "es": "ambos",
     "uk": "обидва",
-    "word_type": "pronoun",
     "pt-br": "ambos"
   },
   {
-    "key": "other",
     "nl": "andere",
     "en": "other",
     "fr": "autre",
@@ -6956,11 +6087,9 @@
     "ru": "другой",
     "es": "otro",
     "uk": "інший",
-    "word_type": "adjective",
     "pt-br": "outro"
   },
   {
-    "key": "another",
     "nl": "een ander",
     "en": "another",
     "fr": "un autre",
@@ -6972,11 +6101,9 @@
     "ru": "другой",
     "es": "otro",
     "uk": "інший",
-    "word_type": "pronoun",
     "pt-br": "outro"
   },
   {
-    "key": "very",
     "nl": "zeer",
     "en": "very",
     "fr": "très",
@@ -6988,11 +6115,9 @@
     "ru": "очень",
     "es": "muy",
     "uk": "дуже",
-    "word_type": "adverb",
     "pt-br": "muito"
   },
   {
-    "key": "also",
     "nl": "ook",
     "en": "also",
     "fr": "aussi",
@@ -7004,11 +6129,9 @@
     "ru": "также",
     "es": "también",
     "uk": "також",
-    "word_type": "adverb",
     "pt-br": "também"
   },
   {
-    "key": "just",
     "nl": "gewoon",
     "en": "just",
     "fr": "juste",
@@ -7020,11 +6143,9 @@
     "ru": "просто",
     "es": "solo",
     "uk": "просто",
-    "word_type": "adverb",
     "pt-br": "apenas"
   },
   {
-    "key": "almost",
     "nl": "bijna",
     "en": "almost",
     "fr": "presque",
@@ -7036,11 +6157,9 @@
     "ru": "почти",
     "es": "casi",
     "uk": "майже",
-    "word_type": "adverb",
     "pt-br": "quase"
   },
   {
-    "key": "really",
     "nl": "echt",
     "en": "really",
     "fr": "vraiment",
@@ -7052,11 +6171,9 @@
     "ru": "действительно",
     "es": "realmente",
     "uk": "справді",
-    "word_type": "adverb",
     "pt-br": "realmente"
   },
   {
-    "key": "maybe",
     "nl": "misschien",
     "en": "maybe",
     "fr": "peut-être",
@@ -7068,11 +6185,9 @@
     "ru": "может быть",
     "es": "tal vez",
     "uk": "можливо",
-    "word_type": "adverb",
     "pt-br": "talvez"
   },
   {
-    "key": "probably",
     "nl": "waarschijnlijk",
     "en": "probably",
     "fr": "probablement",
@@ -7084,11 +6199,9 @@
     "ru": "вероятно",
     "es": "probablemente",
     "uk": "ймовірно",
-    "word_type": "adverb",
     "pt-br": "provavelmente"
   },
   {
-    "key": "especially",
     "nl": "vooral",
     "en": "especially",
     "fr": "surtout",
@@ -7100,11 +6213,9 @@
     "ru": "особенно",
     "es": "especialmente",
     "uk": "особливо",
-    "word_type": "adverb",
     "pt-br": "especialmente"
   },
   {
-    "key": "exactly",
     "nl": "precies",
     "en": "exactly",
     "fr": "exactement",
@@ -7116,11 +6227,9 @@
     "ru": "точно",
     "es": "exactamente",
     "uk": "точно",
-    "word_type": "adverb",
     "pt-br": "exatamente"
   },
   {
-    "key": "together",
     "nl": "samen",
     "en": "together",
     "fr": "ensemble",
@@ -7132,11 +6241,9 @@
     "ru": "вместе",
     "es": "juntos",
     "uk": "разом",
-    "word_type": "adverb",
     "pt-br": "juntos"
   },
   {
-    "key": "else",
     "nl": "anders",
     "en": "else",
     "fr": "sinon",
@@ -7148,11 +6255,9 @@
     "ru": "иначе",
     "es": "más",
     "uk": "інакше",
-    "word_type": "adverb",
     "pt-br": "mais"
   },
   {
-    "key": "enough",
     "nl": "genoeg",
     "en": "enough",
     "fr": "assez",
@@ -7164,11 +6269,9 @@
     "ru": "достаточно",
     "es": "suficiente",
     "uk": "досить",
-    "word_type": "adverb",
     "pt-br": "suficiente"
   },
   {
-    "key": "quite",
     "nl": "vrij",
     "en": "quite",
     "fr": "assez",
@@ -7180,11 +6283,9 @@
     "ru": "довольно",
     "es": "bastante",
     "uk": "досить",
-    "word_type": "adverb",
     "pt-br": "bastante"
   },
   {
-    "key": "gold",
     "nl": "het goud",
     "en": "gold",
     "fr": "l'or",
@@ -7196,11 +6297,9 @@
     "ru": "золото",
     "es": "el oro",
     "uk": "золото",
-    "word_type": "noun",
     "pt-br": "o ouro"
   },
   {
-    "key": "iron",
     "nl": "het ijzer",
     "en": "iron",
     "fr": "le fer",
@@ -7212,11 +6311,9 @@
     "ru": "железо",
     "es": "el hierro",
     "uk": "залізо",
-    "word_type": "noun",
     "pt-br": "o ferro"
   },
   {
-    "key": "silver",
     "nl": "het zilver",
     "en": "silver",
     "fr": "l'argent",
@@ -7228,11 +6325,9 @@
     "ru": "серебро",
     "es": "la plata",
     "uk": "срібло",
-    "word_type": "noun",
     "pt-br": "a prata"
   },
   {
-    "key": "plastic",
     "nl": "het plastic",
     "en": "plastic",
     "fr": "le plastique",
@@ -7244,11 +6339,9 @@
     "ru": "пластик",
     "es": "el plástico",
     "uk": "пластик",
-    "word_type": "noun",
     "pt-br": "o plástico"
   },
   {
-    "key": "wood",
     "nl": "het hout",
     "en": "wood",
     "fr": "le bois",
@@ -7260,11 +6353,9 @@
     "ru": "дерево",
     "es": "la madera",
     "uk": "деревина",
-    "word_type": "noun",
     "pt-br": "a madeira"
   },
   {
-    "key": "stone",
     "nl": "de steen",
     "en": "stone",
     "fr": "la pierre",
@@ -7276,11 +6367,9 @@
     "ru": "камень",
     "es": "la piedra",
     "uk": "камінь",
-    "word_type": "noun",
     "pt-br": "a pedra"
   },
   {
-    "key": "metal",
     "nl": "het metaal",
     "en": "metal",
     "fr": "le métal",
@@ -7292,11 +6381,9 @@
     "ru": "металл",
     "es": "el metal",
     "uk": "метал",
-    "word_type": "noun",
     "pt-br": "o metal"
   },
   {
-    "key": "cloth",
     "nl": "de doek",
     "en": "cloth",
     "fr": "le tissu",
@@ -7308,11 +6395,9 @@
     "ru": "ткань",
     "es": "la tela",
     "uk": "тканина",
-    "word_type": "noun",
     "pt-br": "o tecido"
   },
   {
-    "key": "leather",
     "nl": "het leer",
     "en": "leather",
     "fr": "le cuir",
@@ -7324,11 +6409,9 @@
     "ru": "кожа",
     "es": "el cuero",
     "uk": "шкіра",
-    "word_type": "noun",
     "pt-br": "o couro"
   },
   {
-    "key": "fabric",
     "nl": "de stof",
     "en": "fabric",
     "fr": "le tissu",
@@ -7340,11 +6423,9 @@
     "ru": "ткань",
     "es": "la tela",
     "uk": "тканина",
-    "word_type": "noun",
     "pt-br": "o tecido"
   },
   {
-    "key": "glass-material",
     "nl": "het glas",
     "en": "glass (material)",
     "fr": "le verre",
@@ -7356,11 +6437,9 @@
     "ru": "стекло",
     "es": "el vidrio",
     "uk": "скло",
-    "word_type": "noun",
     "pt-br": "o vidro"
   },
   {
-    "key": "to-compare",
     "nl": "vergelijken",
     "en": "to compare",
     "fr": "comparer",
@@ -7372,11 +6451,9 @@
     "ru": "сравнивать",
     "es": "comparar",
     "uk": "порівнювати",
-    "word_type": "verb",
     "pt-br": "comparar"
   },
   {
-    "key": "comparison",
     "nl": "de vergelijking",
     "en": "comparison",
     "fr": "la comparaison",
@@ -7388,11 +6465,9 @@
     "ru": "сравнение",
     "es": "la comparación",
     "uk": "порівняння",
-    "word_type": "noun",
     "pt-br": "a comparação"
   },
   {
-    "key": "reason",
     "nl": "de reden",
     "en": "reason",
     "fr": "la raison",
@@ -7404,11 +6479,9 @@
     "ru": "причина",
     "es": "la razón",
     "uk": "причина",
-    "word_type": "noun",
     "pt-br": "a razão"
   },
   {
-    "key": "what",
     "nl": "wat",
     "en": "what",
     "fr": "quoi",
@@ -7420,11 +6493,9 @@
     "ru": "что",
     "es": "qué",
     "uk": "що",
-    "word_type": "pronoun",
     "pt-br": "o que"
   },
   {
-    "key": "who",
     "nl": "wie",
     "en": "who",
     "fr": "qui",
@@ -7436,11 +6507,9 @@
     "ru": "кто",
     "es": "quién",
     "uk": "хто",
-    "word_type": "pronoun",
     "pt-br": "quem"
   },
   {
-    "key": "which",
     "nl": "welke",
     "en": "which",
     "fr": "lequel",
@@ -7452,11 +6521,9 @@
     "ru": "который",
     "es": "cuál",
     "uk": "який",
-    "word_type": "pronoun",
     "pt-br": "qual"
   },
   {
-    "key": "why",
     "nl": "waarom",
     "en": "why",
     "fr": "pourquoi",
@@ -7468,11 +6535,9 @@
     "ru": "почему",
     "es": "por qué",
     "uk": "чому",
-    "word_type": "adverb",
     "pt-br": "porquê"
   },
   {
-    "key": "how",
     "nl": "hoe",
     "en": "how",
     "fr": "comment",
@@ -7484,11 +6549,9 @@
     "ru": "как",
     "es": "cómo",
     "uk": "як",
-    "word_type": "adverb",
     "pt-br": "como"
   },
   {
-    "key": "where",
     "nl": "waar",
     "en": "where",
     "fr": "où",
@@ -7500,11 +6563,9 @@
     "ru": "где",
     "es": "dónde",
     "uk": "де",
-    "word_type": "adverb",
     "pt-br": "onde"
   },
   {
-    "key": "whose",
     "nl": "wiens",
     "en": "whose",
     "fr": "de qui",
@@ -7516,11 +6577,9 @@
     "ru": "чей",
     "es": "de quién",
     "uk": "чий",
-    "word_type": "pronoun",
     "pt-br": "de quem"
   },
   {
-    "key": "to-have",
     "nl": "hebben",
     "en": "to have",
     "fr": "avoir",
@@ -7532,11 +6591,9 @@
     "ru": "иметь",
     "es": "tener",
     "uk": "мати",
-    "word_type": "verb",
     "pt-br": "ter"
   },
   {
-    "key": "to-do",
     "nl": "doen",
     "en": "to do",
     "fr": "faire",
@@ -7548,11 +6605,9 @@
     "ru": "делать",
     "es": "hacer",
     "uk": "робити",
-    "word_type": "verb",
     "pt-br": "fazer"
   },
   {
-    "key": "to-can",
     "nl": "kunnen",
     "en": "to can",
     "fr": "pouvoir",
@@ -7564,11 +6619,9 @@
     "ru": "мочь",
     "es": "poder",
     "uk": "могти",
-    "word_type": "verb",
     "pt-br": "poder"
   },
   {
-    "key": "will",
     "nl": "zullen",
     "en": "will",
     "fr": "auxiliaire pour former le futur",
@@ -7580,11 +6633,9 @@
     "ru": "вспомогательный глагол для будущего времени",
     "es": "auxiliar para formar el futuro",
     "uk": "допоміжне дієслово для майбутнього часу",
-    "word_type": "verb",
     "pt-br": "auxiliar futuro"
   },
   {
-    "key": "would",
     "nl": "zou",
     "en": "would",
     "fr": "auxiliaire pour former le conditionnel",
@@ -7596,11 +6647,9 @@
     "ru": "частица для условного наклонения (бы)",
     "es": "auxiliar para formar el condicional",
     "uk": "частка для умовного способу (би)",
-    "word_type": "verb",
     "pt-br": "auxiliar condicional"
   },
   {
-    "key": "should",
     "nl": "zou moeten",
     "en": "should",
     "fr": "devoir (conditionnel)",
@@ -7612,11 +6661,9 @@
     "ru": "следовать",
     "es": "deber",
     "uk": "слідувати",
-    "word_type": "verb",
     "pt-br": "dever"
   },
   {
-    "key": "must",
     "nl": "moeten",
     "en": "must",
     "fr": "devoir",
@@ -7628,11 +6675,9 @@
     "ru": "должен",
     "es": "deber",
     "uk": "бути змушеним",
-    "word_type": "verb",
     "pt-br": "dever"
   },
   {
-    "key": "to-go",
     "nl": "gaan",
     "en": "to go",
     "fr": "aller",
@@ -7644,11 +6689,9 @@
     "ru": "идти",
     "es": "ir",
     "uk": "йти",
-    "word_type": "verb",
     "pt-br": "ir"
   },
   {
-    "key": "to-come",
     "nl": "komen",
     "en": "to come",
     "fr": "venir",
@@ -7660,11 +6703,9 @@
     "ru": "приходить",
     "es": "venir",
     "uk": "приходити",
-    "word_type": "verb",
     "pt-br": "vir"
   },
   {
-    "key": "to-get-something",
     "nl": "krijgen",
     "en": "to get (something)",
     "fr": "obtenir",
@@ -7676,11 +6717,9 @@
     "ru": "получать",
     "es": "obtener",
     "uk": "отримувати",
-    "word_type": "verb",
     "pt-br": "obter"
   },
   {
-    "key": "to-make",
     "nl": "maken",
     "en": "to make",
     "fr": "faire",
@@ -7692,11 +6731,9 @@
     "ru": "делать",
     "es": "hacer",
     "uk": "робити",
-    "word_type": "verb",
     "pt-br": "fazer"
   },
   {
-    "key": "to-take",
     "nl": "nemen",
     "en": "to take",
     "fr": "prendre",
@@ -7708,11 +6745,9 @@
     "ru": "брать",
     "es": "tomar",
     "uk": "брати",
-    "word_type": "verb",
     "pt-br": "tomar"
   },
   {
-    "key": "to-see",
     "nl": "zien",
     "en": "to see",
     "fr": "voir",
@@ -7724,11 +6759,9 @@
     "ru": "видеть",
     "es": "ver",
     "uk": "бачити",
-    "word_type": "verb",
     "pt-br": "ver"
   },
   {
-    "key": "to-give",
     "nl": "geven",
     "en": "to give",
     "fr": "donner",
@@ -7740,11 +6773,9 @@
     "ru": "давать",
     "es": "dar",
     "uk": "давати",
-    "word_type": "verb",
     "pt-br": "dar"
   },
   {
-    "key": "to-eat",
     "nl": "eten",
     "en": "to eat",
     "fr": "manger",
@@ -7756,11 +6787,9 @@
     "ru": "есть",
     "es": "comer",
     "uk": "їсти",
-    "word_type": "verb",
     "pt-br": "comer"
   },
   {
-    "key": "to-drink",
     "nl": "drinken",
     "en": "to drink",
     "fr": "boire",
@@ -7772,11 +6801,9 @@
     "ru": "пить",
     "es": "beber",
     "uk": "пити",
-    "word_type": "verb",
     "pt-br": "beber"
   },
   {
-    "key": "to-run",
     "nl": "rennen",
     "en": "to run",
     "fr": "courir",
@@ -7788,11 +6815,9 @@
     "ru": "бежать",
     "es": "correr",
     "uk": "бігти",
-    "word_type": "verb",
     "pt-br": "correr"
   },
   {
-    "key": "to-walk",
     "nl": "lopen",
     "en": "to walk",
     "fr": "marcher",
@@ -7804,11 +6829,9 @@
     "ru": "ходить",
     "es": "caminar",
     "uk": "ходити",
-    "word_type": "verb",
     "pt-br": "caminhar"
   },
   {
-    "key": "to-sit",
     "nl": "zitten",
     "en": "to sit",
     "fr": "s'asseoir",
@@ -7820,11 +6843,9 @@
     "ru": "сидеть",
     "es": "sentarse",
     "uk": "сидіти",
-    "word_type": "verb",
     "pt-br": "sentar-se"
   },
   {
-    "key": "to-stand",
     "nl": "staan",
     "en": "to stand",
     "fr": "être debout",
@@ -7836,11 +6857,9 @@
     "ru": "стоять",
     "es": "estar de pie",
     "uk": "стояти",
-    "word_type": "verb",
     "pt-br": "estar de pé"
   },
   {
-    "key": "to-sleep",
     "nl": "slapen",
     "en": "to sleep",
     "fr": "dormir",
@@ -7852,11 +6871,9 @@
     "ru": "спать",
     "es": "dormir",
     "uk": "спати",
-    "word_type": "verb",
     "pt-br": "dormir"
   },
   {
-    "key": "to-wake",
     "nl": "wakker worden",
     "en": "to wake",
     "fr": "se réveiller",
@@ -7868,11 +6885,9 @@
     "ru": "просыпаться",
     "es": "despertar",
     "uk": "прокидатися",
-    "word_type": "verb",
     "pt-br": "acordar"
   },
   {
-    "key": "to-look",
     "nl": "kijken",
     "en": "to look",
     "fr": "regarder",
@@ -7884,11 +6899,9 @@
     "ru": "смотреть",
     "es": "mirar",
     "uk": "дивитися",
-    "word_type": "verb",
     "pt-br": "olhar"
   },
   {
-    "key": "to-find",
     "nl": "vinden",
     "en": "to find",
     "fr": "trouver",
@@ -7900,11 +6913,9 @@
     "ru": "находить",
     "es": "encontrar",
     "uk": "знаходити",
-    "word_type": "verb",
     "pt-br": "encontrar"
   },
   {
-    "key": "to-put",
     "nl": "leggen",
     "en": "to put",
     "fr": "mettre",
@@ -7916,11 +6927,9 @@
     "ru": "класть",
     "es": "poner",
     "uk": "класти",
-    "word_type": "verb",
     "pt-br": "pôr"
   },
   {
-    "key": "to-want",
     "nl": "willen",
     "en": "to want",
     "fr": "vouloir",
@@ -7932,11 +6941,9 @@
     "ru": "хотеть",
     "es": "querer",
     "uk": "хотіти",
-    "word_type": "verb",
     "pt-br": "querer"
   },
   {
-    "key": "to-need",
     "nl": "nodig hebben",
     "en": "to need",
     "fr": "avoir besoin",
@@ -7948,11 +6955,9 @@
     "ru": "нуждаться",
     "es": "necesitar",
     "uk": "потребувати",
-    "word_type": "verb",
     "pt-br": "precisar"
   },
   {
-    "key": "to-like",
     "nl": "leuk vinden",
     "en": "to like",
     "fr": "aimer",
@@ -7964,11 +6969,9 @@
     "ru": "нравиться",
     "es": "gustar",
     "uk": "подобатися",
-    "word_type": "verb",
     "pt-br": "gostar"
   },
   {
-    "key": "to-know-facts",
     "nl": "weten",
     "en": "to know (facts)",
     "fr": "savoir",
@@ -7980,11 +6983,9 @@
     "ru": "знать",
     "es": "saber",
     "uk": "знати",
-    "word_type": "verb",
     "pt-br": "saber"
   },
   {
-    "key": "to-think",
     "nl": "denken",
     "en": "to think",
     "fr": "penser",
@@ -7996,14 +6997,11 @@
     "ru": "думать",
     "es": "pensar",
     "uk": "думати",
-    "word_type": "verb",
     "pt-br": "pensar"
   },
   {
-    "key": "to-help",
     "de": "helfen",
     "en": "to help",
-    "word_type": "verb",
     "fr": "aider",
     "ru": "помогать",
     "es": "ayudar",
@@ -8016,10 +7014,8 @@
     "pt-br": "ajudar"
   },
   {
-    "key": "to-wait",
     "de": "warten",
     "en": "to wait",
-    "word_type": "verb",
     "fr": "attendre",
     "ru": "ждать",
     "es": "esperar",
@@ -8032,10 +7028,8 @@
     "pt-br": "esperar"
   },
   {
-    "key": "to-open",
     "de": "öffnen",
     "en": "to open",
-    "word_type": "verb",
     "fr": "ouvrir",
     "ru": "открывать",
     "es": "abrir",
@@ -8048,10 +7042,8 @@
     "pt-br": "abrir"
   },
   {
-    "key": "to-close",
     "de": "schließen",
     "en": "to close",
-    "word_type": "verb",
     "fr": "fermer",
     "ru": "закрывать",
     "es": "cerrar",
@@ -8064,10 +7056,8 @@
     "pt-br": "fechar"
   },
   {
-    "key": "to-use",
     "de": "benutzen",
     "en": "to use",
-    "word_type": "verb",
     "fr": "utiliser",
     "ru": "использовать",
     "es": "usar",
@@ -8080,10 +7070,8 @@
     "pt-br": "usar"
   },
   {
-    "key": "to-live",
     "de": "leben",
     "en": "to live",
-    "word_type": "verb",
     "fr": "vivre",
     "ru": "жить",
     "es": "vivir",
@@ -8096,10 +7084,8 @@
     "pt-br": "viver"
   },
   {
-    "key": "to-stay",
     "de": "bleiben",
     "en": "to stay",
-    "word_type": "verb",
     "fr": "rester",
     "ru": "оставаться",
     "es": "quedarse",
@@ -8112,10 +7098,8 @@
     "pt-br": "ficar"
   },
   {
-    "key": "to-leave",
     "de": "verlassen",
     "en": "to leave",
-    "word_type": "verb",
     "fr": "partir",
     "ru": "уходить",
     "es": "salir",
@@ -8128,10 +7112,8 @@
     "pt-br": "partir"
   },
   {
-    "key": "to-arrive",
     "de": "ankommen",
     "en": "to arrive",
-    "word_type": "verb",
     "fr": "arriver",
     "ru": "прибывать",
     "es": "llegar",
@@ -8144,10 +7126,8 @@
     "pt-br": "chegar"
   },
   {
-    "key": "to-try",
     "de": "versuchen",
     "en": "to try",
-    "word_type": "verb",
     "fr": "essayer",
     "ru": "пытаться",
     "es": "intentar",
@@ -8160,10 +7140,8 @@
     "pt-br": "tentar"
   },
   {
-    "key": "to-happen",
     "de": "geschehen",
     "en": "to happen",
-    "word_type": "verb",
     "fr": "se produire",
     "ru": "происходить",
     "es": "suceder",
@@ -8176,10 +7154,8 @@
     "pt-br": "acontecer"
   },
   {
-    "key": "to-show",
     "de": "zeigen",
     "en": "to show",
-    "word_type": "verb",
     "fr": "montrer",
     "ru": "показывать",
     "es": "mostrar",
@@ -8192,10 +7168,8 @@
     "pt-br": "mostrar"
   },
   {
-    "key": "to-turn",
     "de": "drehen",
     "en": "to turn",
-    "word_type": "verb",
     "fr": "tourner",
     "ru": "поворачивать",
     "es": "girar",
@@ -8208,10 +7182,8 @@
     "pt-br": "virar"
   },
   {
-    "key": "to-move",
     "de": "bewegen",
     "en": "to move",
-    "word_type": "verb",
     "fr": "bouger",
     "ru": "двигать",
     "es": "mover",
@@ -8224,10 +7196,8 @@
     "pt-br": "mover"
   },
   {
-    "key": "to-bring",
     "de": "bringen",
     "en": "to bring",
-    "word_type": "verb",
     "fr": "apporter",
     "ru": "приносить",
     "es": "traer",
@@ -8240,10 +7210,8 @@
     "pt-br": "trazer"
   },
   {
-    "key": "to-feel",
     "de": "fühlen",
     "en": "to feel",
-    "word_type": "verb",
     "fr": "sentir",
     "ru": "чувствовать",
     "es": "sentir",
@@ -8256,10 +7224,8 @@
     "pt-br": "sentir"
   },
   {
-    "key": "to-touch",
     "de": "berühren",
     "en": "to touch",
-    "word_type": "verb",
     "fr": "toucher",
     "ru": "трогать",
     "es": "tocar",
@@ -8272,10 +7238,8 @@
     "pt-br": "tocar"
   },
   {
-    "key": "to-listen",
     "de": "zuhören",
     "en": "to listen",
-    "word_type": "verb",
     "fr": "écouter",
     "ru": "слушать",
     "es": "escuchar",
@@ -8288,10 +7252,8 @@
     "pt-br": "ouvir"
   },
   {
-    "key": "to-watch",
     "de": "zusehen",
     "en": "to watch",
-    "word_type": "verb",
     "fr": "regarder",
     "ru": "смотреть",
     "es": "ver",
@@ -8304,10 +7266,8 @@
     "pt-br": "ver"
   },
   {
-    "key": "to-read",
     "de": "lesen",
     "en": "to read",
-    "word_type": "verb",
     "fr": "lire",
     "ru": "читать",
     "es": "leer",
@@ -8320,10 +7280,8 @@
     "pt-br": "ler"
   },
   {
-    "key": "to-write",
     "de": "schreiben",
     "en": "to write",
-    "word_type": "verb",
     "fr": "écrire",
     "ru": "писать",
     "es": "escribir",
@@ -8336,10 +7294,8 @@
     "pt-br": "escrever"
   },
   {
-    "key": "to-wash",
     "de": "waschen",
     "en": "to wash",
-    "word_type": "verb",
     "fr": "laver",
     "ru": "мыть",
     "es": "lavar",
@@ -8352,10 +7308,8 @@
     "pt-br": "lavar"
   },
   {
-    "key": "to-cook",
     "de": "kochen",
     "en": "to cook",
-    "word_type": "verb",
     "fr": "cuisiner",
     "ru": "готовить",
     "es": "cocinar",
@@ -8368,10 +7322,8 @@
     "pt-br": "cozinhar"
   },
   {
-    "key": "to-cut",
     "de": "schneiden",
     "en": "to cut",
-    "word_type": "verb",
     "fr": "couper",
     "ru": "резать",
     "es": "cortar",
@@ -8384,10 +7336,8 @@
     "pt-br": "cortar"
   },
   {
-    "key": "to-carry",
     "de": "tragen (transportieren)",
     "en": "to carry",
-    "word_type": "verb",
     "fr": "porter",
     "ru": "носить",
     "es": "llevar",
@@ -8400,10 +7350,8 @@
     "pt-br": "carregar"
   },
   {
-    "key": "to-wear-clothing",
     "de": "tragen (Kleidung)",
     "en": "to wear (clothing)",
-    "word_type": "verb",
     "fr": "porter",
     "ru": "носить",
     "es": "llevar",
@@ -8416,10 +7364,8 @@
     "pt-br": "vestir"
   },
   {
-    "key": "to-break",
     "de": "brechen",
     "en": "to break",
-    "word_type": "verb",
     "fr": "casser",
     "ru": "ломать",
     "es": "romper",
@@ -8432,10 +7378,8 @@
     "pt-br": "quebrar"
   },
   {
-    "key": "to-fix",
     "de": "reparieren",
     "en": "to fix",
-    "word_type": "verb",
     "fr": "réparer",
     "ru": "чинить",
     "es": "arreglar",
@@ -8448,10 +7392,8 @@
     "pt-br": "consertar"
   },
   {
-    "key": "to-build",
     "de": "bauen",
     "en": "to build",
-    "word_type": "verb",
     "fr": "construire",
     "ru": "строить",
     "es": "construir",
@@ -8464,10 +7406,8 @@
     "pt-br": "construir"
   },
   {
-    "key": "to-stop",
     "de": "stoppen",
     "en": "to stop",
-    "word_type": "verb",
     "fr": "arrêter",
     "ru": "останавливать",
     "es": "parar",
@@ -8480,10 +7420,8 @@
     "pt-br": "parar"
   },
   {
-    "key": "to-start",
     "de": "starten",
     "en": "to start",
-    "word_type": "verb",
     "fr": "commencer",
     "ru": "начинать",
     "es": "empezar",
@@ -8496,10 +7434,8 @@
     "pt-br": "começar"
   },
   {
-    "key": "to-work",
     "de": "arbeiten",
     "en": "to work",
-    "word_type": "verb",
     "fr": "travailler",
     "ru": "работать",
     "es": "trabajar",
@@ -8512,10 +7448,8 @@
     "pt-br": "trabalhar"
   },
   {
-    "key": "to-play",
     "de": "spielen",
     "en": "to play",
-    "word_type": "verb",
     "fr": "jouer",
     "ru": "играть",
     "es": "jugar",
@@ -8528,10 +7462,8 @@
     "pt-br": "jogar"
   },
   {
-    "key": "to-change",
     "de": "ändern",
     "en": "to change",
-    "word_type": "verb",
     "fr": "changer",
     "ru": "менять",
     "es": "cambiar",
@@ -8544,10 +7476,8 @@
     "pt-br": "mudar"
   },
   {
-    "key": "to-keep",
     "de": "behalten",
     "en": "to keep",
-    "word_type": "verb",
     "fr": "garder",
     "ru": "хранить",
     "es": "mantener",
@@ -8560,10 +7490,8 @@
     "pt-br": "manter"
   },
   {
-    "key": "to-hold",
     "de": "halten",
     "en": "to hold",
-    "word_type": "verb",
     "fr": "tenir",
     "ru": "держать",
     "es": "sostener",
@@ -8576,10 +7504,8 @@
     "pt-br": "segurar"
   },
   {
-    "key": "to-pull",
     "de": "ziehen",
     "en": "to pull",
-    "word_type": "verb",
     "fr": "tirer",
     "ru": "тянуть",
     "es": "tirar",
@@ -8592,10 +7518,8 @@
     "pt-br": "puxar"
   },
   {
-    "key": "to-push",
     "de": "schieben",
     "en": "to push",
-    "word_type": "verb",
     "fr": "pousser",
     "ru": "толкать",
     "es": "empujar",
@@ -8608,10 +7532,8 @@
     "pt-br": "empurrar"
   },
   {
-    "key": "to-fly",
     "de": "fliegen",
     "en": "to fly",
-    "word_type": "verb",
     "fr": "voler",
     "ru": "летать",
     "es": "volar",
@@ -8624,10 +7546,8 @@
     "pt-br": "voar"
   },
   {
-    "key": "to-ride-bicycle-car",
     "de": "fahren",
     "en": "to ride (bicycle/car)",
-    "word_type": "verb",
     "fr": "rouler",
     "ru": "ездить верхом",
     "es": "montar",
@@ -8640,10 +7560,8 @@
     "pt-br": "andar"
   },
   {
-    "key": "big",
     "de": "groß",
     "en": "big",
-    "word_type": "adjective",
     "fr": "grand",
     "ru": "большой",
     "es": "grande",
@@ -8656,10 +7574,8 @@
     "pt-br": "grande"
   },
   {
-    "key": "small",
     "de": "klein",
     "en": "small",
-    "word_type": "adjective",
     "fr": "petit",
     "ru": "маленький",
     "es": "pequeño",
@@ -8672,10 +7588,8 @@
     "pt-br": "pequeno"
   },
   {
-    "key": "long",
     "de": "lang",
     "en": "long",
-    "word_type": "adjective",
     "fr": "long",
     "ru": "длинный",
     "es": "largo",
@@ -8688,10 +7602,8 @@
     "pt-br": "longo"
   },
   {
-    "key": "short",
     "de": "kurz",
     "en": "short",
-    "word_type": "adjective",
     "fr": "court",
     "ru": "короткий",
     "es": "corto",
@@ -8704,10 +7616,8 @@
     "pt-br": "curto"
   },
   {
-    "key": "high",
     "de": "hoch",
     "en": "high",
-    "word_type": "adjective",
     "fr": "haut",
     "ru": "высокий",
     "es": "alto",
@@ -8720,10 +7630,8 @@
     "pt-br": "alto"
   },
   {
-    "key": "low",
     "de": "niedrig",
     "en": "low",
-    "word_type": "adjective",
     "fr": "bas",
     "ru": "низкий",
     "es": "bajo",
@@ -8736,10 +7644,8 @@
     "pt-br": "baixo"
   },
   {
-    "key": "wide",
     "de": "breit",
     "en": "wide",
-    "word_type": "adjective",
     "fr": "large",
     "ru": "широкий",
     "es": "ancho",
@@ -8752,10 +7658,8 @@
     "pt-br": "largo"
   },
   {
-    "key": "narrow",
     "de": "schmal",
     "en": "narrow",
-    "word_type": "adjective",
     "fr": "étroit",
     "ru": "узкий",
     "es": "estrecho",
@@ -8768,10 +7672,8 @@
     "pt-br": "estreito"
   },
   {
-    "key": "thick",
     "de": "dick",
     "en": "thick",
-    "word_type": "adjective",
     "fr": "épais",
     "ru": "толстый",
     "es": "grueso",
@@ -8784,10 +7686,8 @@
     "pt-br": "grosso"
   },
   {
-    "key": "thin",
     "de": "dünn",
     "en": "thin",
-    "word_type": "adjective",
     "fr": "mince",
     "ru": "тонкий",
     "es": "fino",
@@ -8800,10 +7700,8 @@
     "pt-br": "fino"
   },
   {
-    "key": "heavy",
     "de": "schwer",
     "en": "heavy",
-    "word_type": "adjective",
     "fr": "lourd",
     "ru": "тяжёлый",
     "es": "pesado",
@@ -8816,10 +7714,8 @@
     "pt-br": "pesado"
   },
   {
-    "key": "good",
     "de": "gut",
     "en": "good",
-    "word_type": "adjective",
     "fr": "bon",
     "ru": "хороший",
     "es": "bueno",
@@ -8832,10 +7728,8 @@
     "pt-br": "bom"
   },
   {
-    "key": "bad",
     "de": "schlecht",
     "en": "bad",
-    "word_type": "adjective",
     "fr": "mauvais",
     "ru": "плохой",
     "es": "malo",
@@ -8848,10 +7742,8 @@
     "pt-br": "mau"
   },
   {
-    "key": "new",
     "de": "neu",
     "en": "new",
-    "word_type": "adjective",
     "fr": "nouveau",
     "ru": "новый",
     "es": "nuevo",
@@ -8864,10 +7756,8 @@
     "pt-br": "novo"
   },
   {
-    "key": "old",
     "de": "alt",
     "en": "old",
-    "word_type": "adjective",
     "fr": "vieux",
     "ru": "старый",
     "es": "viejo",
@@ -8880,10 +7770,8 @@
     "pt-br": "velho"
   },
   {
-    "key": "hot",
     "de": "heiß",
     "en": "hot",
-    "word_type": "adjective",
     "fr": "chaud",
     "ru": "горячий",
     "es": "caliente",
@@ -8896,10 +7784,8 @@
     "pt-br": "quente"
   },
   {
-    "key": "cold",
     "de": "kalt",
     "en": "cold",
-    "word_type": "adjective",
     "fr": "froid",
     "ru": "холодный",
     "es": "frío",
@@ -8912,10 +7798,8 @@
     "pt-br": "frio"
   },
   {
-    "key": "warm",
     "de": "warm",
     "en": "warm",
-    "word_type": "adjective",
     "fr": "chaud",
     "ru": "тёплый",
     "es": "cálido",
@@ -8928,10 +7812,8 @@
     "pt-br": "quente"
   },
   {
-    "key": "wet",
     "de": "nass",
     "en": "wet",
-    "word_type": "adjective",
     "fr": "mouillé",
     "ru": "мокрый",
     "es": "mojado",
@@ -8944,10 +7826,8 @@
     "pt-br": "molhado"
   },
   {
-    "key": "dry",
     "de": "trocken",
     "en": "dry",
-    "word_type": "adjective",
     "fr": "sec",
     "ru": "сухой",
     "es": "seco",
@@ -8960,10 +7840,8 @@
     "pt-br": "seco"
   },
   {
-    "key": "clean",
     "de": "sauber",
     "en": "clean",
-    "word_type": "adjective",
     "fr": "propre",
     "ru": "чистый",
     "es": "limpio",
@@ -8976,10 +7854,8 @@
     "pt-br": "limpo"
   },
   {
-    "key": "dirty",
     "de": "schmutzig",
     "en": "dirty",
-    "word_type": "adjective",
     "fr": "sale",
     "ru": "грязный",
     "es": "sucio",
@@ -8992,10 +7868,8 @@
     "pt-br": "sujo"
   },
   {
-    "key": "hard",
     "de": "hart",
     "en": "hard",
-    "word_type": "adjective",
     "fr": "dur",
     "ru": "твёрдый",
     "es": "duro",
@@ -9008,10 +7882,8 @@
     "pt-br": "duro"
   },
   {
-    "key": "soft",
     "de": "weich",
     "en": "soft",
-    "word_type": "adjective",
     "fr": "doux",
     "ru": "мягкий",
     "es": "suave",
@@ -9024,10 +7896,8 @@
     "pt-br": "macio"
   },
   {
-    "key": "open",
     "de": "offen",
     "en": "open",
-    "word_type": "adjective",
     "fr": "ouvert",
     "ru": "открытый",
     "es": "abierto",
@@ -9040,10 +7910,8 @@
     "pt-br": "aberto"
   },
   {
-    "key": "full",
     "de": "voll",
     "en": "full",
-    "word_type": "adjective",
     "fr": "plein",
     "ru": "полный",
     "es": "lleno",
@@ -9056,10 +7924,8 @@
     "pt-br": "cheio"
   },
   {
-    "key": "fast",
     "de": "schnell",
     "en": "fast",
-    "word_type": "adjective",
     "fr": "rapide",
     "ru": "быстрый",
     "es": "rápido",
@@ -9072,10 +7938,8 @@
     "pt-br": "rápido"
   },
   {
-    "key": "slow",
     "de": "langsam",
     "en": "slow",
-    "word_type": "adjective",
     "fr": "lent",
     "ru": "медленный",
     "es": "lento",
@@ -9088,10 +7952,8 @@
     "pt-br": "lento"
   },
   {
-    "key": "easy",
     "de": "einfach",
     "en": "easy",
-    "word_type": "adjective",
     "fr": "facile",
     "ru": "лёгкий",
     "es": "fácil",
@@ -9104,10 +7966,8 @@
     "pt-br": "fácil"
   },
   {
-    "key": "difficult",
     "de": "schwierig",
     "en": "difficult",
-    "word_type": "adjective",
     "fr": "difficile",
     "ru": "трудный",
     "es": "difícil",
@@ -9120,10 +7980,8 @@
     "pt-br": "difícil"
   },
   {
-    "key": "dead",
     "de": "tot",
     "en": "dead",
-    "word_type": "adjective",
     "fr": "mort",
     "ru": "мёртвый",
     "es": "muerto",
@@ -9136,10 +7994,8 @@
     "pt-br": "morto"
   },
   {
-    "key": "alive",
     "de": "lebendig",
     "en": "alive",
-    "word_type": "adjective",
     "fr": "vivant",
     "ru": "живой",
     "es": "vivo",
@@ -9152,10 +8008,8 @@
     "pt-br": "vivo"
   },
   {
-    "key": "young",
     "de": "jung",
     "en": "young",
-    "word_type": "adjective",
     "fr": "jeune",
     "ru": "молодой",
     "es": "joven",
@@ -9168,10 +8022,8 @@
     "pt-br": "jovem"
   },
   {
-    "key": "dark",
     "de": "dunkel",
     "en": "dark",
-    "word_type": "adjective",
     "fr": "sombre",
     "ru": "тёмный",
     "es": "oscuro",
@@ -9184,10 +8036,8 @@
     "pt-br": "escuro"
   },
   {
-    "key": "bright",
     "de": "hell",
     "en": "bright",
-    "word_type": "adjective",
     "fr": "lumineux",
     "ru": "яркий",
     "es": "brillante",
@@ -9200,10 +8050,8 @@
     "pt-br": "brilhante"
   },
   {
-    "key": "beautiful",
     "de": "schön",
     "en": "beautiful",
-    "word_type": "adjective",
     "fr": "beau",
     "ru": "красивый",
     "es": "hermoso",
@@ -9216,10 +8064,8 @@
     "pt-br": "bonito"
   },
   {
-    "key": "ugly",
     "de": "hässlich",
     "en": "ugly",
-    "word_type": "adjective",
     "fr": "laid",
     "ru": "уродливый",
     "es": "feo",
@@ -9232,10 +8078,8 @@
     "pt-br": "feio"
   },
   {
-    "key": "strong",
     "de": "stark",
     "en": "strong",
-    "word_type": "adjective",
     "fr": "fort",
     "ru": "сильный",
     "es": "fuerte",
@@ -9248,10 +8092,8 @@
     "pt-br": "forte"
   },
   {
-    "key": "weak",
     "de": "schwach",
     "en": "weak",
-    "word_type": "adjective",
     "fr": "faible",
     "ru": "слабый",
     "es": "débil",
@@ -9264,10 +8106,8 @@
     "pt-br": "fraco"
   },
   {
-    "key": "hungry",
     "de": "hungrig",
     "en": "hungry",
-    "word_type": "adjective",
     "fr": "affamé",
     "ru": "голодный",
     "es": "hambriento",
@@ -9280,10 +8120,8 @@
     "pt-br": "faminto"
   },
   {
-    "key": "thirsty",
     "de": "durstig",
     "en": "thirsty",
-    "word_type": "adjective",
     "fr": "assoiffé",
     "ru": "испытывающий жажду",
     "es": "sediento",
@@ -9296,10 +8134,8 @@
     "pt-br": "sedento"
   },
   {
-    "key": "tired",
     "de": "müde",
     "en": "tired",
-    "word_type": "adjective",
     "fr": "fatigué",
     "ru": "усталый",
     "es": "cansado",
@@ -9312,10 +8148,8 @@
     "pt-br": "cansado"
   },
   {
-    "key": "sick",
     "de": "krank",
     "en": "sick",
-    "word_type": "adjective",
     "fr": "malade",
     "ru": "больной",
     "es": "enfermo",
@@ -9328,10 +8162,8 @@
     "pt-br": "doente"
   },
   {
-    "key": "important",
     "de": "wichtig",
     "en": "important",
-    "word_type": "adjective",
     "fr": "important",
     "ru": "важный",
     "es": "importante",
@@ -9344,10 +8176,8 @@
     "pt-br": "importante"
   },
   {
-    "key": "different",
     "de": "verschieden",
     "en": "different",
-    "word_type": "adjective",
     "fr": "différent",
     "ru": "разный",
     "es": "diferente",
@@ -9360,10 +8190,8 @@
     "pt-br": "diferente"
   },
   {
-    "key": "same",
     "de": "gleich",
     "en": "same",
-    "word_type": "adjective",
     "fr": "même",
     "ru": "одинаковый",
     "es": "mismo",
@@ -9376,10 +8204,8 @@
     "pt-br": "mesmo"
   },
   {
-    "key": "true",
     "de": "wahr",
     "en": "true",
-    "word_type": "adjective",
     "fr": "vrai",
     "ru": "истинный",
     "es": "verdadero",
@@ -9392,10 +8218,8 @@
     "pt-br": "verdadeiro"
   },
   {
-    "key": "false",
     "de": "falsch",
     "en": "false",
-    "word_type": "adjective",
     "fr": "faux",
     "ru": "ложный",
     "es": "falso",
@@ -9408,10 +8232,8 @@
     "pt-br": "falso"
   },
   {
-    "key": "right-correct",
     "de": "richtig",
     "en": "right (correct)",
-    "word_type": "adjective",
     "fr": "correct",
     "ru": "правильный",
     "es": "correcto",
@@ -9424,10 +8246,8 @@
     "pt-br": "correto"
   },
   {
-    "key": "possible",
     "de": "möglich",
     "en": "possible",
-    "word_type": "adjective",
     "fr": "possible",
     "ru": "возможный",
     "es": "posible",
@@ -9440,10 +8260,8 @@
     "pt-br": "possível"
   },
   {
-    "key": "ready",
     "de": "bereit",
     "en": "ready",
-    "word_type": "adjective",
     "fr": "prêt",
     "ru": "готовый",
     "es": "listo",
@@ -9456,10 +8274,8 @@
     "pt-br": "pronto"
   },
   {
-    "key": "sure",
     "de": "sicher",
     "en": "sure",
-    "word_type": "adjective",
     "fr": "sûr",
     "ru": "уверенный",
     "es": "seguro",
@@ -9472,10 +8288,8 @@
     "pt-br": "certo"
   },
   {
-    "key": "normal",
     "de": "normal",
     "en": "normal",
-    "word_type": "adjective",
     "fr": "normal",
     "ru": "нормальный",
     "es": "normal",
@@ -9488,10 +8302,8 @@
     "pt-br": "normal"
   },
   {
-    "key": "real",
     "de": "echt",
     "en": "real",
-    "word_type": "adjective",
     "fr": "réel",
     "ru": "настоящий",
     "es": "real",
@@ -9504,10 +8316,8 @@
     "pt-br": "real"
   },
   {
-    "key": "main",
     "de": "hauptsächlich",
     "en": "main",
-    "word_type": "adjective",
     "fr": "principal",
     "ru": "главный",
     "es": "principal",
@@ -9520,10 +8330,8 @@
     "pt-br": "principal"
   },
   {
-    "key": "nice",
     "de": "nett",
     "en": "nice",
-    "word_type": "adjective",
     "fr": "gentil",
     "ru": "милый",
     "es": "agradable",
@@ -9536,10 +8344,8 @@
     "pt-br": "agradável"
   },
   {
-    "key": "poor",
     "de": "arm",
     "en": "poor",
-    "word_type": "adjective",
     "fr": "pauvre",
     "ru": "бедный",
     "es": "pobre",
@@ -9552,10 +8358,8 @@
     "pt-br": "pobre"
   },
   {
-    "key": "rich",
     "de": "reich",
     "en": "rich",
-    "word_type": "adjective",
     "fr": "riche",
     "ru": "богатый",
     "es": "rico",
@@ -9568,10 +8372,8 @@
     "pt-br": "rico"
   },
   {
-    "key": "famous",
     "de": "berühmt",
     "en": "famous",
-    "word_type": "adjective",
     "fr": "célèbre",
     "ru": "знаменитый",
     "es": "famoso",
@@ -9584,10 +8386,8 @@
     "pt-br": "famoso"
   },
   {
-    "key": "free",
     "de": "frei",
     "en": "free",
-    "word_type": "adjective",
     "fr": "libre",
     "ru": "свободный",
     "es": "libre",
@@ -9600,10 +8400,8 @@
     "pt-br": "livre"
   },
   {
-    "key": "dangerous",
     "de": "gefährlich",
     "en": "dangerous",
-    "word_type": "adjective",
     "fr": "dangereux",
     "ru": "опасный",
     "es": "peligroso",
@@ -9616,10 +8414,8 @@
     "pt-br": "perigoso"
   },
   {
-    "key": "quiet",
     "de": "leise",
     "en": "quiet",
-    "word_type": "adjective",
     "fr": "calme",
     "ru": "тихий",
     "es": "tranquilo",
@@ -9632,10 +8428,8 @@
     "pt-br": "calmo"
   },
   {
-    "key": "loud",
     "de": "laut",
     "en": "loud",
-    "word_type": "adjective",
     "fr": "bruyant",
     "ru": "громкий",
     "es": "ruidoso",
@@ -9648,10 +8442,8 @@
     "pt-br": "alto"
   },
   {
-    "key": "busy",
     "de": "beschäftigt",
     "en": "busy",
-    "word_type": "adjective",
     "fr": "occupé",
     "ru": "занятый",
     "es": "ocupado",
@@ -9664,10 +8456,8 @@
     "pt-br": "ocupado"
   },
   {
-    "key": "empty",
     "de": "leer",
     "en": "empty",
-    "word_type": "adjective",
     "fr": "vide",
     "ru": "пустой",
     "es": "vacío",
@@ -9680,10 +8470,8 @@
     "pt-br": "vazio"
   },
   {
-    "key": "and",
     "de": "und",
     "en": "and",
-    "word_type": "conjunction",
     "fr": "et",
     "ru": "и",
     "es": "y",
@@ -9696,10 +8484,8 @@
     "pt-br": "e"
   },
   {
-    "key": "or",
     "de": "oder",
     "en": "or",
-    "word_type": "conjunction",
     "fr": "ou",
     "ru": "или",
     "es": "o",
@@ -9712,10 +8498,8 @@
     "pt-br": "ou"
   },
   {
-    "key": "but",
     "de": "aber",
     "en": "but",
-    "word_type": "conjunction",
     "fr": "mais",
     "ru": "но",
     "es": "pero",
@@ -9728,10 +8512,8 @@
     "pt-br": "mas"
   },
   {
-    "key": "so",
     "de": "so",
     "en": "so",
-    "word_type": "adverb",
     "fr": "donc",
     "ru": "так",
     "es": "así",
@@ -9744,10 +8526,8 @@
     "pt-br": "assim"
   },
   {
-    "key": "because",
     "de": "weil",
     "en": "because",
-    "word_type": "conjunction",
     "fr": "parce que",
     "ru": "потому что",
     "es": "porque",
@@ -9760,10 +8540,8 @@
     "pt-br": "porque"
   },
   {
-    "key": "however",
     "de": "jedoch",
     "en": "however",
-    "word_type": "adverb",
     "fr": "cependant",
     "ru": "однако",
     "es": "sin embargo",
@@ -9776,10 +8554,8 @@
     "pt-br": "no entanto"
   },
   {
-    "key": "therefore",
     "de": "daher",
     "en": "therefore",
-    "word_type": "adverb",
     "fr": "par conséquent",
     "ru": "поэтому",
     "es": "por lo tanto",
@@ -9792,10 +8568,8 @@
     "pt-br": "portanto"
   },
   {
-    "key": "although",
     "de": "obwohl",
     "en": "although",
-    "word_type": "conjunction",
     "fr": "bien que",
     "ru": "хотя",
     "es": "aunque",
@@ -9808,10 +8582,8 @@
     "pt-br": "embora"
   },
   {
-    "key": "nothing",
     "de": "nichts",
     "en": "nothing",
-    "word_type": "pronoun",
     "fr": "rien",
     "ru": "ничего",
     "es": "nada",
@@ -9824,10 +8596,8 @@
     "pt-br": "nada"
   },
   {
-    "key": "nobody",
     "de": "niemand",
     "en": "nobody",
-    "word_type": "pronoun",
     "fr": "personne",
     "ru": "никто",
     "es": "nadie",
@@ -9840,10 +8610,8 @@
     "pt-br": "ninguém"
   },
   {
-    "key": "anybody",
     "de": "jemand",
     "en": "anybody",
-    "word_type": "pronoun",
     "fr": "quelqu'un",
     "ru": "кто-нибудь",
     "es": "cualquiera",
@@ -9856,10 +8624,8 @@
     "pt-br": "qualquer pessoa"
   },
   {
-    "key": "anything",
     "de": "irgendetwas",
     "en": "anything",
-    "word_type": "pronoun",
     "fr": "quelque chose",
     "ru": "что-нибудь",
     "es": "cualquier cosa",
@@ -9872,10 +8638,8 @@
     "pt-br": "qualquer coisa"
   },
   {
-    "key": "everything",
     "de": "alles",
     "en": "everything",
-    "word_type": "pronoun",
     "fr": "tout",
     "ru": "всё",
     "es": "todo",
@@ -9888,10 +8652,8 @@
     "pt-br": "tudo"
   },
   {
-    "key": "something",
     "de": "etwas",
     "en": "something",
-    "word_type": "pronoun",
     "fr": "quelque chose",
     "ru": "что-то",
     "es": "algo",
@@ -9904,10 +8666,8 @@
     "pt-br": "algo"
   },
   {
-    "key": "home",
     "de": "das Zuhause",
     "en": "home",
-    "word_type": "noun",
     "fr": "le domicile",
     "ru": "дом",
     "es": "la casa",
@@ -9920,10 +8680,8 @@
     "pt-br": "a casa"
   },
   {
-    "key": "house",
     "de": "das Haus",
     "en": "house",
-    "word_type": "noun",
     "fr": "la maison",
     "ru": "дом",
     "es": "la casa",
@@ -9936,10 +8694,8 @@
     "pt-br": "a casa"
   },
   {
-    "key": "room",
     "de": "das Zimmer",
     "en": "room",
-    "word_type": "noun",
     "fr": "la pièce",
     "ru": "комната",
     "es": "la habitación",
@@ -9952,10 +8708,8 @@
     "pt-br": "o quarto"
   },
   {
-    "key": "kitchen",
     "de": "die Küche",
     "en": "kitchen",
-    "word_type": "noun",
     "fr": "la cuisine",
     "ru": "кухня",
     "es": "la cocina",
@@ -9968,10 +8722,8 @@
     "pt-br": "a cozinha"
   },
   {
-    "key": "bathroom",
     "de": "das Badezimmer",
     "en": "bathroom",
-    "word_type": "noun",
     "fr": "la salle de bain",
     "ru": "ванная комната",
     "es": "el cuarto de baño",
@@ -9984,10 +8736,8 @@
     "pt-br": "a casa de banho"
   },
   {
-    "key": "bedroom",
     "de": "das Schlafzimmer",
     "en": "bedroom",
-    "word_type": "noun",
     "fr": "la chambre",
     "ru": "спальня",
     "es": "el dormitorio",
@@ -10000,10 +8750,8 @@
     "pt-br": "o quarto"
   },
   {
-    "key": "door",
     "de": "die Tür",
     "en": "door",
-    "word_type": "noun",
     "fr": "la porte",
     "ru": "дверь",
     "es": "la puerta",
@@ -10016,10 +8764,8 @@
     "pt-br": "a porta"
   },
   {
-    "key": "window",
     "de": "das Fenster",
     "en": "window",
-    "word_type": "noun",
     "fr": "la fenêtre",
     "ru": "окно",
     "es": "la ventana",
@@ -10032,10 +8778,8 @@
     "pt-br": "a janela"
   },
   {
-    "key": "wall",
     "de": "die Wand",
     "en": "wall",
-    "word_type": "noun",
     "fr": "le mur",
     "ru": "стена",
     "es": "la pared",
@@ -10048,10 +8792,8 @@
     "pt-br": "a parede"
   },
   {
-    "key": "ceiling",
     "de": "die Decke",
     "en": "ceiling",
-    "word_type": "noun",
     "fr": "le plafond",
     "ru": "потолок",
     "es": "el techo",
@@ -10064,10 +8806,8 @@
     "pt-br": "o teto"
   },
   {
-    "key": "roof",
     "de": "das Dach",
     "en": "roof",
-    "word_type": "noun",
     "fr": "le toit",
     "ru": "крыша",
     "es": "el tejado",
@@ -10080,10 +8820,8 @@
     "pt-br": "o telhado"
   },
   {
-    "key": "bed",
     "de": "das Bett",
     "en": "bed",
-    "word_type": "noun",
     "fr": "le lit",
     "ru": "кровать",
     "es": "la cama",
@@ -10096,10 +8834,8 @@
     "pt-br": "a cama"
   },
   {
-    "key": "table",
     "de": "der Tisch",
     "en": "table",
-    "word_type": "noun",
     "fr": "la table",
     "ru": "стол",
     "es": "la mesa",
@@ -10112,10 +8848,8 @@
     "pt-br": "a mesa"
   },
   {
-    "key": "chair",
     "de": "der Stuhl",
     "en": "chair",
-    "word_type": "noun",
     "fr": "la chaise",
     "ru": "стул",
     "es": "la silla",
@@ -10128,10 +8862,8 @@
     "pt-br": "a cadeira"
   },
   {
-    "key": "desk",
     "de": "der Schreibtisch",
     "en": "desk",
-    "word_type": "noun",
     "fr": "le bureau",
     "ru": "письменный стол",
     "es": "el escritorio",
@@ -10144,10 +8876,8 @@
     "pt-br": "a secretária"
   },
   {
-    "key": "cup",
     "de": "die Tasse",
     "en": "cup",
-    "word_type": "noun",
     "fr": "la tasse",
     "ru": "чашка",
     "es": "la taza",
@@ -10160,10 +8890,8 @@
     "pt-br": "a chávena"
   },
   {
-    "key": "plate",
     "de": "der Teller",
     "en": "plate",
-    "word_type": "noun",
     "fr": "l'assiette",
     "ru": "тарелка",
     "es": "el plato",
@@ -10176,10 +8904,8 @@
     "pt-br": "o prato"
   },
   {
-    "key": "bowl",
     "de": "die Schüssel",
     "en": "bowl",
-    "word_type": "noun",
     "fr": "le bol",
     "ru": "миска",
     "es": "el cuenco",
@@ -10192,10 +8918,8 @@
     "pt-br": "a tigela"
   },
   {
-    "key": "glass-cup",
     "de": "das Glas (Trinkgefäß)",
     "en": "glass (cup)",
-    "word_type": "noun",
     "fr": "le verre",
     "ru": "стакан",
     "es": "el vaso",
@@ -10208,10 +8932,8 @@
     "pt-br": "o copo"
   },
   {
-    "key": "spoon",
     "de": "der Löffel",
     "en": "spoon",
-    "word_type": "noun",
     "fr": "la cuillère",
     "ru": "ложка",
     "es": "la cuchara",
@@ -10224,10 +8946,8 @@
     "pt-br": "a colher"
   },
   {
-    "key": "fork",
     "de": "die Gabel",
     "en": "fork",
-    "word_type": "noun",
     "fr": "la fourchette",
     "ru": "вилка",
     "es": "el tenedor",
@@ -10240,10 +8960,8 @@
     "pt-br": "o garfo"
   },
   {
-    "key": "knife",
     "de": "das Messer",
     "en": "knife",
-    "word_type": "noun",
     "fr": "le couteau",
     "ru": "нож",
     "es": "el cuchillo",
@@ -10256,10 +8974,8 @@
     "pt-br": "a faca"
   },
   {
-    "key": "pot",
     "de": "der Topf",
     "en": "pot",
-    "word_type": "noun",
     "fr": "la casserole",
     "ru": "кастрюля",
     "es": "la olla",
@@ -10272,10 +8988,8 @@
     "pt-br": "a panela"
   },
   {
-    "key": "pen",
     "de": "der Stift",
     "en": "pen",
-    "word_type": "noun",
     "fr": "le stylo",
     "ru": "ручка",
     "es": "el bolígrafo",
@@ -10288,10 +9002,8 @@
     "pt-br": "a caneta"
   },
   {
-    "key": "pencil",
     "de": "der Bleistift",
     "en": "pencil",
-    "word_type": "noun",
     "fr": "le crayon",
     "ru": "карандаш",
     "es": "el lápiz",
@@ -10304,10 +9016,8 @@
     "pt-br": "o lápis"
   },
   {
-    "key": "paper",
     "de": "das Papier",
     "en": "paper",
-    "word_type": "noun",
     "fr": "le papier",
     "ru": "бумага",
     "es": "el papel",
@@ -10320,10 +9030,8 @@
     "pt-br": "o papel"
   },
   {
-    "key": "box",
     "de": "die Kiste",
     "en": "box",
-    "word_type": "noun",
     "fr": "la boîte",
     "ru": "коробка",
     "es": "la caja",
@@ -10336,10 +9044,8 @@
     "pt-br": "a caixa"
   },
   {
-    "key": "bottle",
     "de": "die Flasche",
     "en": "bottle",
-    "word_type": "noun",
     "fr": "la bouteille",
     "ru": "бутылка",
     "es": "la botella",
@@ -10352,10 +9058,8 @@
     "pt-br": "a garrafa"
   },
   {
-    "key": "key",
     "de": "der Schlüssel",
     "en": "key",
-    "word_type": "noun",
     "fr": "la clé",
     "ru": "ключ",
     "es": "la llave",
@@ -10368,10 +9072,8 @@
     "pt-br": "a chave"
   },
   {
-    "key": "soap",
     "de": "die Seife",
     "en": "soap",
-    "word_type": "noun",
     "fr": "le savon",
     "ru": "мыло",
     "es": "el jabón",
@@ -10384,10 +9086,8 @@
     "pt-br": "o sabão"
   },
   {
-    "key": "garden",
     "de": "der Garten",
     "en": "garden",
-    "word_type": "noun",
     "fr": "le jardin",
     "ru": "сад",
     "es": "el jardín",
@@ -10400,10 +9100,8 @@
     "pt-br": "o jardim"
   },
   {
-    "key": "yard",
     "de": "der Hof",
     "en": "yard",
-    "word_type": "noun",
     "fr": "la cour",
     "ru": "двор",
     "es": "el patio",
@@ -10416,10 +9114,8 @@
     "pt-br": "o quintal"
   },
   {
-    "key": "shoe",
     "de": "der Schuh",
     "en": "shoe",
-    "word_type": "noun",
     "fr": "la chaussure",
     "ru": "ботинок",
     "es": "el zapato",
@@ -10432,10 +9128,8 @@
     "pt-br": "o sapato"
   },
   {
-    "key": "shirt",
     "de": "das Hemd",
     "en": "shirt",
-    "word_type": "noun",
     "fr": "la chemise",
     "ru": "рубашка",
     "es": "la camisa",
@@ -10448,10 +9142,8 @@
     "pt-br": "a camisa"
   },
   {
-    "key": "pants",
     "de": "die Hose",
     "en": "pants",
-    "word_type": "noun",
     "fr": "le pantalon",
     "ru": "брюки",
     "es": "los pantalones",
@@ -10464,10 +9156,8 @@
     "pt-br": "as calças"
   },
   {
-    "key": "coat",
     "de": "der Mantel",
     "en": "coat",
-    "word_type": "noun",
     "fr": "le manteau",
     "ru": "пальто",
     "es": "el abrigo",
@@ -10480,10 +9170,8 @@
     "pt-br": "o casaco"
   },
   {
-    "key": "hat",
     "de": "der Hut",
     "en": "hat",
-    "word_type": "noun",
     "fr": "le chapeau",
     "ru": "шляпа",
     "es": "el sombrero",
@@ -10496,10 +9184,8 @@
     "pt-br": "o chapéu"
   },
   {
-    "key": "dress",
     "de": "das Kleid",
     "en": "dress",
-    "word_type": "noun",
     "fr": "la robe",
     "ru": "платье",
     "es": "el vestido",
@@ -10512,10 +9198,8 @@
     "pt-br": "o vestido"
   },
   {
-    "key": "sock",
     "de": "die Socke",
     "en": "sock",
-    "word_type": "noun",
     "fr": "la chaussette",
     "ru": "носок",
     "es": "el calcetín",
@@ -10528,10 +9212,8 @@
     "pt-br": "a meia"
   },
   {
-    "key": "jacket",
     "de": "die Jacke",
     "en": "jacket",
-    "word_type": "noun",
     "fr": "la veste",
     "ru": "куртка",
     "es": "la chaqueta",
@@ -10544,10 +9226,8 @@
     "pt-br": "o casaco"
   },
   {
-    "key": "sweater",
     "de": "der Pullover",
     "en": "sweater",
-    "word_type": "noun",
     "fr": "le pull",
     "ru": "свитер",
     "es": "el jersey",
@@ -10560,10 +9240,8 @@
     "pt-br": "a camisola"
   },
   {
-    "key": "skirt",
     "de": "der Rock",
     "en": "skirt",
-    "word_type": "noun",
     "fr": "la jupe",
     "ru": "юбка",
     "es": "la falda",
@@ -10576,10 +9254,8 @@
     "pt-br": "a saia"
   },
   {
-    "key": "bag",
     "de": "die Tasche",
     "en": "bag",
-    "word_type": "noun",
     "fr": "le sac",
     "ru": "сумка",
     "es": "la bolsa",
@@ -10592,10 +9268,8 @@
     "pt-br": "o saco"
   },
   {
-    "key": "job",
     "de": "der Job",
     "en": "job",
-    "word_type": "noun",
     "fr": "l'emploi",
     "ru": "работа",
     "es": "el empleo",
@@ -10608,10 +9282,8 @@
     "pt-br": "o trabalho"
   },
   {
-    "key": "worker",
     "de": "der Arbeiter",
     "en": "worker",
-    "word_type": "noun",
     "fr": "le travailleur",
     "ru": "рабочий",
     "es": "el trabajador",
@@ -10624,10 +9296,8 @@
     "pt-br": "o trabalhador"
   },
   {
-    "key": "farmer",
     "de": "der Landwirt",
     "en": "farmer",
-    "word_type": "noun",
     "fr": "l'agriculteur",
     "ru": "фермер",
     "es": "el agricultor",
@@ -10640,10 +9310,8 @@
     "pt-br": "o agricultor"
   },
   {
-    "key": "engineer",
     "de": "der Ingenieur",
     "en": "engineer",
-    "word_type": "noun",
     "fr": "l'ingénieur",
     "ru": "инженер",
     "es": "el ingeniero",
@@ -10656,10 +9324,8 @@
     "pt-br": "o engenheiro"
   },
   {
-    "key": "lawyer",
     "de": "der Rechtsanwalt",
     "en": "lawyer",
-    "word_type": "noun",
     "fr": "l'avocat",
     "ru": "адвокат",
     "es": "el abogado",
@@ -10672,10 +9338,8 @@
     "pt-br": "o advogado"
   },
   {
-    "key": "cook-person",
     "de": "der Koch",
     "en": "cook (person)",
-    "word_type": "noun",
     "fr": "le cuisinier",
     "ru": "повар",
     "es": "el cocinero",
@@ -10688,10 +9352,8 @@
     "pt-br": "o cozinheiro"
   },
   {
-    "key": "driver",
     "de": "der Fahrer",
     "en": "driver",
-    "word_type": "noun",
     "fr": "le conducteur",
     "ru": "водитель",
     "es": "el conductor",
@@ -10704,10 +9366,8 @@
     "pt-br": "o condutor"
   },
   {
-    "key": "manager",
     "de": "der Manager",
     "en": "manager",
-    "word_type": "noun",
     "fr": "le directeur",
     "ru": "менеджер",
     "es": "el director",
@@ -10720,10 +9380,8 @@
     "pt-br": "o gestor"
   },
   {
-    "key": "builder",
     "de": "der Bauarbeiter",
     "en": "builder",
-    "word_type": "noun",
     "fr": "le constructeur",
     "ru": "строитель",
     "es": "el constructor",
@@ -10736,10 +9394,8 @@
     "pt-br": "o construtor"
   },
   {
-    "key": "address",
     "de": "die Adresse",
     "en": "address",
-    "word_type": "noun",
     "fr": "l'adresse",
     "ru": "адрес",
     "es": "la dirección",
@@ -10752,10 +9408,8 @@
     "pt-br": "o endereço"
   },
   {
-    "key": "advice",
     "de": "der Rat",
     "en": "advice",
-    "word_type": "noun",
     "fr": "le conseil",
     "ru": "совет",
     "es": "el consejo",
@@ -10768,10 +9422,8 @@
     "pt-br": "o conselho"
   },
   {
-    "key": "to-call",
     "de": "anrufen",
     "en": "to call",
-    "word_type": "verb",
     "fr": "appeler",
     "ru": "звонить",
     "es": "llamar",
@@ -10784,10 +9436,8 @@
     "pt-br": "chamar"
   },
   {
-    "key": "card",
     "de": "die Karte",
     "en": "card",
-    "word_type": "noun",
     "fr": "la carte",
     "ru": "карта",
     "es": "la tarjeta",
@@ -10800,10 +9450,8 @@
     "pt-br": "o cartão"
   },
   {
-    "key": "to-describe",
     "de": "beschreiben",
     "en": "to describe",
-    "word_type": "verb",
     "fr": "décrire",
     "ru": "описывать",
     "es": "describir",
@@ -10816,10 +9464,8 @@
     "pt-br": "descrever"
   },
   {
-    "key": "description",
     "de": "die Beschreibung",
     "en": "description",
-    "word_type": "noun",
     "fr": "la description",
     "ru": "описание",
     "es": "la descripción",
@@ -10832,10 +9478,8 @@
     "pt-br": "a descrição"
   },
   {
-    "key": "to-explain",
     "de": "erklären",
     "en": "to explain",
-    "word_type": "verb",
     "fr": "expliquer",
     "ru": "объяснять",
     "es": "explicar",
@@ -10848,10 +9492,8 @@
     "pt-br": "explicar"
   },
   {
-    "key": "information",
     "de": "die Information",
     "en": "information",
-    "word_type": "noun",
     "fr": "l'information",
     "ru": "информация",
     "es": "la información",
@@ -10864,10 +9506,8 @@
     "pt-br": "a informação"
   },
   {
-    "key": "interview",
     "de": "das Interview",
     "en": "interview",
-    "word_type": "noun",
     "fr": "l'entretien",
     "ru": "интервью",
     "es": "la entrevista",
@@ -10880,10 +9520,8 @@
     "pt-br": "a entrevista"
   },
   {
-    "key": "language",
     "de": "die Sprache",
     "en": "language",
-    "word_type": "noun",
     "fr": "la langue",
     "ru": "язык",
     "es": "el idioma",
@@ -10896,10 +9534,8 @@
     "pt-br": "a língua"
   },
   {
-    "key": "letter-mail",
     "de": "der Brief",
     "en": "letter (mail)",
-    "word_type": "noun",
     "fr": "la lettre",
     "ru": "письмо",
     "es": "la carta",
@@ -10912,10 +9548,8 @@
     "pt-br": "a carta"
   },
   {
-    "key": "meaning",
     "de": "die Bedeutung",
     "en": "meaning",
-    "word_type": "noun",
     "fr": "le sens",
     "ru": "значение",
     "es": "el significado",
@@ -10928,10 +9562,8 @@
     "pt-br": "o significado"
   },
   {
-    "key": "message",
     "de": "die Nachricht",
     "en": "message",
-    "word_type": "noun",
     "fr": "le message",
     "ru": "сообщение",
     "es": "el mensaje",
@@ -10944,10 +9576,8 @@
     "pt-br": "a mensagem"
   },
   {
-    "key": "name",
     "de": "der Name",
     "en": "name",
-    "word_type": "noun",
     "fr": "le nom",
     "ru": "имя",
     "es": "el nombre",
@@ -10960,10 +9590,8 @@
     "pt-br": "o nome"
   },
   {
-    "key": "note",
     "de": "die Notiz",
     "en": "note",
-    "word_type": "noun",
     "fr": "la note",
     "ru": "примечание",
     "es": "la nota",
@@ -10976,10 +9604,8 @@
     "pt-br": "a nota"
   },
   {
-    "key": "post-publication",
     "de": "der Beitrag",
     "en": "post (publication)",
-    "word_type": "noun",
     "fr": "la publication",
     "ru": "пост",
     "es": "la publicación",
@@ -10992,10 +9618,8 @@
     "pt-br": "a publicação"
   },
   {
-    "key": "report",
     "de": "der Bericht",
     "en": "report",
-    "word_type": "noun",
     "fr": "le rapport",
     "ru": "отчёт",
     "es": "el informe",
@@ -11008,10 +9632,8 @@
     "pt-br": "o relatório"
   },
   {
-    "key": "request",
     "de": "die Anfrage",
     "en": "request",
-    "word_type": "noun",
     "fr": "la demande",
     "ru": "запрос",
     "es": "la solicitud",
@@ -11024,10 +9646,8 @@
     "pt-br": "o pedido"
   },
   {
-    "key": "to-send",
     "de": "senden",
     "en": "to send",
-    "word_type": "verb",
     "fr": "envoyer",
     "ru": "отправлять",
     "es": "enviar",
@@ -11040,10 +9660,8 @@
     "pt-br": "enviar"
   },
   {
-    "key": "sign-symbol",
     "de": "das Zeichen",
     "en": "sign (symbol)",
-    "word_type": "noun",
     "fr": "le signe",
     "ru": "знак",
     "es": "la señal",
@@ -11056,10 +9674,8 @@
     "pt-br": "o sinal"
   },
   {
-    "key": "spelling",
     "de": "die Rechtschreibung",
     "en": "spelling",
-    "word_type": "noun",
     "fr": "l'orthographe",
     "ru": "правописание",
     "es": "la ortografía",
@@ -11072,10 +9688,8 @@
     "pt-br": "a ortografia"
   },
   {
-    "key": "stamp-postage",
     "de": "die Briefmarke",
     "en": "stamp (postage)",
-    "word_type": "noun",
     "fr": "le timbre",
     "ru": "марка",
     "es": "el sello",
@@ -11088,10 +9702,8 @@
     "pt-br": "o selo"
   },
   {
-    "key": "statement",
     "de": "die Aussage",
     "en": "statement",
-    "word_type": "noun",
     "fr": "la déclaration",
     "ru": "заявление",
     "es": "la declaración",
@@ -11104,10 +9716,8 @@
     "pt-br": "a declaração"
   },
   {
-    "key": "text",
     "de": "der Text",
     "en": "text",
-    "word_type": "noun",
     "fr": "le texte",
     "ru": "текст",
     "es": "el texto",
@@ -11120,10 +9730,8 @@
     "pt-br": "o texto"
   },
   {
-    "key": "title",
     "de": "der Titel",
     "en": "title",
-    "word_type": "noun",
     "fr": "le titre",
     "ru": "название",
     "es": "el título",
@@ -11136,10 +9744,8 @@
     "pt-br": "o título"
   },
   {
-    "key": "topic",
     "de": "das Thema",
     "en": "topic",
-    "word_type": "noun",
     "fr": "le sujet",
     "ru": "тема",
     "es": "el tema",
@@ -11152,10 +9758,8 @@
     "pt-br": "o tema"
   },
   {
-    "key": "word",
     "de": "das Wort",
     "en": "word",
-    "word_type": "noun",
     "fr": "le mot",
     "ru": "слово",
     "es": "la palabra",
@@ -11168,10 +9772,8 @@
     "pt-br": "a palavra"
   },
   {
-    "key": "writing",
     "de": "das Schreiben",
     "en": "writing",
-    "word_type": "noun",
     "fr": "l'écriture",
     "ru": "письмо",
     "es": "la escritura",
@@ -11184,10 +9786,8 @@
     "pt-br": "a escrita"
   },
   {
-    "key": "teacher",
     "de": "der Lehrer",
     "en": "teacher",
-    "word_type": "noun",
     "fr": "l'enseignant",
     "ru": "учитель",
     "es": "el profesor",
@@ -11200,10 +9800,8 @@
     "pt-br": "o professor"
   },
   {
-    "key": "student",
     "de": "der Student",
     "en": "student",
-    "word_type": "noun",
     "fr": "l'étudiant",
     "ru": "студент",
     "es": "el estudiante",
@@ -11216,10 +9814,8 @@
     "pt-br": "o estudante"
   },
   {
-    "key": "to-learn",
     "de": "lernen",
     "en": "to learn",
-    "word_type": "verb",
     "fr": "apprendre",
     "ru": "учиться",
     "es": "aprender",
@@ -11232,10 +9828,8 @@
     "pt-br": "aprender"
   },
   {
-    "key": "to-study",
     "de": "studieren",
     "en": "to study",
-    "word_type": "verb",
     "fr": "étudier",
     "ru": "изучать",
     "es": "estudiar",
@@ -11248,10 +9842,8 @@
     "pt-br": "estudar"
   },
   {
-    "key": "class",
     "de": "die Klasse",
     "en": "class",
-    "word_type": "noun",
     "fr": "la classe",
     "ru": "класс",
     "es": "la clase",
@@ -11264,10 +9856,8 @@
     "pt-br": "a classe"
   },
   {
-    "key": "lesson",
     "de": "die Lektion",
     "en": "lesson",
-    "word_type": "noun",
     "fr": "la leçon",
     "ru": "урок",
     "es": "la lección",
@@ -11280,10 +9870,8 @@
     "pt-br": "a lição"
   },
   {
-    "key": "test",
     "de": "der Test",
     "en": "test",
-    "word_type": "noun",
     "fr": "le test",
     "ru": "тест",
     "es": "la prueba",
@@ -11296,10 +9884,8 @@
     "pt-br": "o teste"
   },
   {
-    "key": "book",
     "de": "das Buch",
     "en": "book",
-    "word_type": "noun",
     "fr": "le livre",
     "ru": "книга",
     "es": "el libro",
@@ -11312,10 +9898,8 @@
     "pt-br": "o livro"
   },
   {
-    "key": "music",
     "de": "die Musik",
     "en": "music",
-    "word_type": "noun",
     "fr": "la musique",
     "ru": "музыка",
     "es": "la música",
@@ -11328,10 +9912,8 @@
     "pt-br": "a música"
   },
   {
-    "key": "song",
     "de": "das Lied",
     "en": "song",
-    "word_type": "noun",
     "fr": "la chanson",
     "ru": "песня",
     "es": "la canción",
@@ -11344,10 +9926,8 @@
     "pt-br": "a canção"
   },
   {
-    "key": "dance",
     "de": "der Tanz",
     "en": "dance",
-    "word_type": "noun",
     "fr": "la danse",
     "ru": "танец",
     "es": "el baile",
@@ -11360,10 +9940,8 @@
     "pt-br": "a dança"
   },
   {
-    "key": "picture",
     "de": "das Bild",
     "en": "picture",
-    "word_type": "noun",
     "fr": "l'image",
     "ru": "картинка",
     "es": "la foto",
@@ -11376,10 +9954,8 @@
     "pt-br": "a imagem"
   },
   {
-    "key": "story",
     "de": "die Geschichte",
     "en": "story",
-    "word_type": "noun",
     "fr": "l'histoire",
     "ru": "история",
     "es": "la historia",
@@ -11392,10 +9968,8 @@
     "pt-br": "a história"
   },
   {
-    "key": "art",
     "de": "die Kunst",
     "en": "art",
-    "word_type": "noun",
     "fr": "l'art",
     "ru": "искусство",
     "es": "el arte",
@@ -11408,10 +9982,8 @@
     "pt-br": "a arte"
   },
   {
-    "key": "movie",
     "de": "der Film",
     "en": "movie",
-    "word_type": "noun",
     "fr": "le film",
     "ru": "фильм",
     "es": "la película",
@@ -11424,10 +9996,8 @@
     "pt-br": "o filme"
   },
   {
-    "key": "to-paint",
     "de": "malen",
     "en": "to paint",
-    "word_type": "verb",
     "fr": "peindre",
     "ru": "красить",
     "es": "pintar",
@@ -11440,10 +10010,8 @@
     "pt-br": "pintar"
   },
   {
-    "key": "to-draw",
     "de": "zeichnen",
     "en": "to draw",
-    "word_type": "verb",
     "fr": "dessiner",
     "ru": "рисовать",
     "es": "dibujar",
@@ -11456,10 +10024,8 @@
     "pt-br": "desenhar"
   },
   {
-    "key": "singer",
     "de": "der Sänger/die Sängerin",
     "en": "singer",
-    "word_type": "noun",
     "fr": "le chanteur",
     "ru": "певец",
     "es": "el cantante",
@@ -11472,10 +10038,8 @@
     "pt-br": "o cantor"
   },
   {
-    "key": "actor",
     "de": "der Schauspieler",
     "en": "actor",
-    "word_type": "noun",
     "fr": "l'acteur",
     "ru": "актёр",
     "es": "el actor",
@@ -11488,10 +10052,8 @@
     "pt-br": "o ator"
   },
   {
-    "key": "news",
     "de": "die Nachrichten",
     "en": "news",
-    "word_type": "noun",
     "fr": "les nouvelles",
     "ru": "новости",
     "es": "las noticias",
@@ -11504,10 +10066,8 @@
     "pt-br": "as notícias"
   },
   {
-    "key": "festival",
     "de": "das Festival",
     "en": "festival",
-    "word_type": "noun",
     "fr": "le festival",
     "ru": "фестиваль",
     "es": "el festival",
@@ -11520,10 +10080,8 @@
     "pt-br": "o festival"
   },
   {
-    "key": "flag",
     "de": "die Flagge",
     "en": "flag",
-    "word_type": "noun",
     "fr": "le drapeau",
     "ru": "флаг",
     "es": "la bandera",
@@ -11536,10 +10094,8 @@
     "pt-br": "a bandeira"
   },
   {
-    "key": "king",
     "de": "der König",
     "en": "king",
-    "word_type": "noun",
     "fr": "le roi",
     "ru": "король",
     "es": "el rey",
@@ -11552,10 +10108,8 @@
     "pt-br": "o rei"
   },
   {
-    "key": "nation",
     "de": "die Nation",
     "en": "nation",
-    "word_type": "noun",
     "fr": "la nation",
     "ru": "нация",
     "es": "la nación",
@@ -11568,10 +10122,8 @@
     "pt-br": "a nação"
   },
   {
-    "key": "queen",
     "de": "die Königin",
     "en": "queen",
-    "word_type": "noun",
     "fr": "la reine",
     "ru": "королева",
     "es": "la reina",
@@ -11584,10 +10136,8 @@
     "pt-br": "a rainha"
   },
   {
-    "key": "war",
     "de": "der Krieg",
     "en": "war",
-    "word_type": "noun",
     "fr": "la guerre",
     "ru": "война",
     "es": "la guerra",
@@ -11600,10 +10150,8 @@
     "pt-br": "a guerra"
   },
   {
-    "key": "money",
     "de": "das Geld",
     "en": "money",
-    "word_type": "noun",
     "fr": "l'argent",
     "ru": "деньги",
     "es": "el dinero",
@@ -11616,10 +10164,8 @@
     "pt-br": "o dinheiro"
   },
   {
-    "key": "to-buy",
     "de": "kaufen",
     "en": "to buy",
-    "word_type": "verb",
     "fr": "acheter",
     "ru": "покупать",
     "es": "comprar",
@@ -11632,10 +10178,8 @@
     "pt-br": "comprar"
   },
   {
-    "key": "to-sell",
     "de": "verkaufen",
     "en": "to sell",
-    "word_type": "verb",
     "fr": "vendre",
     "ru": "продавать",
     "es": "vender",
@@ -11648,10 +10192,8 @@
     "pt-br": "vender"
   },
   {
-    "key": "to-pay",
     "de": "zahlen",
     "en": "to pay",
-    "word_type": "verb",
     "fr": "payer",
     "ru": "платить",
     "es": "pagar",
@@ -11664,10 +10206,8 @@
     "pt-br": "pagar"
   },
   {
-    "key": "price",
     "de": "der Preis",
     "en": "price",
-    "word_type": "noun",
     "fr": "le prix",
     "ru": "цена",
     "es": "el precio",
@@ -11680,10 +10220,8 @@
     "pt-br": "o preço"
   },
   {
-    "key": "bank-financial",
     "de": "die Bank (finanziell)",
     "en": "bank (financial)",
-    "word_type": "noun",
     "fr": "la banque (financière)",
     "ru": "банк",
     "es": "el banco",
@@ -11696,10 +10234,8 @@
     "pt-br": "o banco"
   },
   {
-    "key": "euro",
     "de": "der Euro",
     "en": "euro",
-    "word_type": "noun",
     "fr": "l'euro",
     "ru": "евро",
     "es": "el euro",
@@ -11712,10 +10248,8 @@
     "pt-br": "o euro"
   },
   {
-    "key": "cash",
     "de": "das Bargeld",
     "en": "cash",
-    "word_type": "noun",
     "fr": "l'argent liquide",
     "ru": "наличные",
     "es": "el efectivo",
@@ -11728,10 +10262,8 @@
     "pt-br": "o dinheiro"
   },
   {
-    "key": "business",
     "de": "das Unternehmen",
     "en": "business",
-    "word_type": "noun",
     "fr": "l'entreprise",
     "ru": "бизнес",
     "es": "la empresa",
@@ -11744,10 +10276,8 @@
     "pt-br": "o negócio"
   },
   {
-    "key": "market",
     "de": "der Markt",
     "en": "market",
-    "word_type": "noun",
     "fr": "le marché",
     "ru": "рынок",
     "es": "el mercado",
@@ -11760,10 +10290,8 @@
     "pt-br": "o mercado"
   },
   {
-    "key": "product",
     "de": "das Produkt",
     "en": "product",
-    "word_type": "noun",
     "fr": "le produit",
     "ru": "продукт",
     "es": "el producto",
@@ -11776,10 +10304,8 @@
     "pt-br": "o produto"
   },
   {
-    "key": "beach",
     "de": "der Strand",
     "en": "beach",
-    "word_type": "noun",
     "fr": "la plage",
     "ru": "пляж",
     "es": "la playa",
@@ -11792,10 +10318,8 @@
     "pt-br": "a praia"
   },
   {
-    "key": "forest",
     "de": "der Wald",
     "en": "forest",
-    "word_type": "noun",
     "fr": "la forêt",
     "ru": "лес",
     "es": "el bosque",
@@ -11808,10 +10332,8 @@
     "pt-br": "a floresta"
   },
   {
-    "key": "mountain",
     "de": "der Berg",
     "en": "mountain",
-    "word_type": "noun",
     "fr": "la montagne",
     "ru": "гора",
     "es": "la montaña",
@@ -11824,10 +10346,8 @@
     "pt-br": "a montanha"
   },
   {
-    "key": "school",
     "de": "die Schule",
     "en": "school",
-    "word_type": "noun",
     "fr": "l'école",
     "ru": "школа",
     "es": "la escuela",
@@ -11840,10 +10360,8 @@
     "pt-br": "a escola"
   },
   {
-    "key": "library",
     "de": "die Bibliothek",
     "en": "library",
-    "word_type": "noun",
     "fr": "la bibliothèque",
     "ru": "библиотека",
     "es": "la biblioteca",
@@ -11856,10 +10374,8 @@
     "pt-br": "a biblioteca"
   },
   {
-    "key": "park",
     "de": "der Park",
     "en": "park",
-    "word_type": "noun",
     "fr": "le parc",
     "ru": "парк",
     "es": "el parque",
@@ -11872,10 +10388,8 @@
     "pt-br": "o parque"
   },
   {
-    "key": "hotel",
     "de": "das Hotel",
     "en": "hotel",
-    "word_type": "noun",
     "fr": "l'hôtel",
     "ru": "отель",
     "es": "el hotel",
@@ -11888,10 +10402,8 @@
     "pt-br": "o hotel"
   },
   {
-    "key": "restaurant",
     "de": "das Restaurant",
     "en": "restaurant",
-    "word_type": "noun",
     "fr": "le restaurant",
     "ru": "ресторан",
     "es": "el restaurante",
@@ -11904,10 +10416,8 @@
     "pt-br": "o restaurante"
   },
   {
-    "key": "airport",
     "de": "der Flughafen",
     "en": "airport",
-    "word_type": "noun",
     "fr": "l'aéroport",
     "ru": "аэропорт",
     "es": "el aeropuerto",
@@ -11920,10 +10430,8 @@
     "pt-br": "o aeroporto"
   },
   {
-    "key": "station",
     "de": "der Bahnhof",
     "en": "station",
-    "word_type": "noun",
     "fr": "la station",
     "ru": "станция",
     "es": "la estación",
@@ -11936,10 +10444,8 @@
     "pt-br": "a estação"
   },
   {
-    "key": "hospital",
     "de": "das Krankenhaus",
     "en": "hospital",
-    "word_type": "noun",
     "fr": "l'hôpital",
     "ru": "больница",
     "es": "el hospital",
@@ -11952,10 +10458,8 @@
     "pt-br": "o hospital"
   },
   {
-    "key": "church",
     "de": "die Kirche",
     "en": "church",
-    "word_type": "noun",
     "fr": "l'église",
     "ru": "церковь",
     "es": "la iglesia",
@@ -11968,10 +10472,8 @@
     "pt-br": "a igreja"
   },
   {
-    "key": "sport",
     "de": "der Sport",
     "en": "sport",
-    "word_type": "noun",
     "fr": "le sport",
     "ru": "спорт",
     "es": "el deporte",
@@ -11984,10 +10486,8 @@
     "pt-br": "o desporto"
   },
   {
-    "key": "ball",
     "de": "der Ball",
     "en": "ball",
-    "word_type": "noun",
     "fr": "la balle",
     "ru": "мяч",
     "es": "la bola",
@@ -12000,10 +10500,8 @@
     "pt-br": "a bola"
   },
   {
-    "key": "football",
     "de": "der Fußball",
     "en": "football",
-    "word_type": "noun",
     "fr": "le football",
     "ru": "футбол",
     "es": "el fútbol",
@@ -12016,10 +10514,8 @@
     "pt-br": "o futebol"
   },
   {
-    "key": "game",
     "de": "das Spiel",
     "en": "game",
-    "word_type": "noun",
     "fr": "le jeu",
     "ru": "игра",
     "es": "el juego",
@@ -12032,10 +10528,8 @@
     "pt-br": "o jogo"
   },
   {
-    "key": "player",
     "de": "der Spieler",
     "en": "player",
-    "word_type": "noun",
     "fr": "le joueur",
     "ru": "игрок",
     "es": "el jugador",
@@ -12048,10 +10542,8 @@
     "pt-br": "o jogador"
   },
   {
-    "key": "swimming",
     "de": "das Schwimmen",
     "en": "swimming",
-    "word_type": "noun",
     "fr": "la natation",
     "ru": "плавание",
     "es": "la natación",
@@ -12064,10 +10556,8 @@
     "pt-br": "a natação"
   },
   {
-    "key": "tennis",
     "de": "das Tennis",
     "en": "tennis",
-    "word_type": "noun",
     "fr": "le tennis",
     "ru": "теннис",
     "es": "el tenis",
@@ -12080,10 +10570,8 @@
     "pt-br": "o ténis"
   },
   {
-    "key": "phone",
     "de": "das Telefon",
     "en": "phone",
-    "word_type": "noun",
     "fr": "le téléphone",
     "ru": "телефон",
     "es": "el teléfono",
@@ -12096,10 +10584,8 @@
     "pt-br": "o telefone"
   },
   {
-    "key": "radio",
     "de": "das Radio",
     "en": "radio",
-    "word_type": "noun",
     "fr": "la radio",
     "ru": "радио",
     "es": "la radio",
@@ -12112,10 +10598,8 @@
     "pt-br": "a rádio"
   },
   {
-    "key": "television",
     "de": "das Fernsehen",
     "en": "television",
-    "word_type": "noun",
     "fr": "la télévision",
     "ru": "телевидение",
     "es": "la televisión",
@@ -12128,10 +10612,8 @@
     "pt-br": "a televisão"
   },
   {
-    "key": "computer",
     "de": "der Computer",
     "en": "computer",
-    "word_type": "noun",
     "fr": "l'ordinateur",
     "ru": "компьютер",
     "es": "el ordenador",
@@ -12144,10 +10626,8 @@
     "pt-br": "o computador"
   },
   {
-    "key": "internet",
     "de": "das Internet",
     "en": "internet",
-    "word_type": "noun",
     "fr": "Internet",
     "ru": "интернет",
     "es": "el internet",
@@ -12160,10 +10640,8 @@
     "pt-br": "a internet"
   },
   {
-    "key": "email",
     "de": "die E-Mail",
     "en": "email",
-    "word_type": "noun",
     "fr": "le courriel",
     "ru": "электронная почта",
     "es": "el correo electrónico",
@@ -12176,10 +10654,8 @@
     "pt-br": "o email"
   },
   {
-    "key": "camera",
     "de": "die Kamera",
     "en": "camera",
-    "word_type": "noun",
     "fr": "la caméra",
     "ru": "камера",
     "es": "la cámara",
@@ -12192,10 +10668,8 @@
     "pt-br": "a câmara"
   },
   {
-    "key": "screen",
     "de": "der Bildschirm",
     "en": "screen",
-    "word_type": "noun",
     "fr": "l'écran",
     "ru": "экран",
     "es": "la pantalla",
@@ -12208,10 +10682,8 @@
     "pt-br": "o ecrã"
   },
   {
-    "key": "street",
     "de": "die Straße",
     "en": "street",
-    "word_type": "noun",
     "fr": "la rue",
     "ru": "улица",
     "es": "la calle",
@@ -12224,10 +10696,8 @@
     "pt-br": "a rua"
   },
   {
-    "key": "city",
     "de": "die Stadt",
     "en": "city",
-    "word_type": "noun",
     "fr": "la ville",
     "ru": "город",
     "es": "la ciudad",
@@ -12240,10 +10710,8 @@
     "pt-br": "a cidade"
   },
   {
-    "key": "town",
     "de": "die Stadt (Kleinstadt)",
     "en": "town",
-    "word_type": "noun",
     "fr": "la ville",
     "ru": "город",
     "es": "la ciudad",
@@ -12256,10 +10724,8 @@
     "pt-br": "a cidade"
   },
   {
-    "key": "building",
     "de": "das Gebäude",
     "en": "building",
-    "word_type": "noun",
     "fr": "le bâtiment",
     "ru": "здание",
     "es": "el edificio",
@@ -12272,10 +10738,8 @@
     "pt-br": "o edifício"
   },
   {
-    "key": "office",
     "de": "das Büro",
     "en": "office",
-    "word_type": "noun",
     "fr": "le bureau",
     "ru": "офис",
     "es": "la oficina",
@@ -12288,10 +10752,8 @@
     "pt-br": "o escritório"
   },
   {
-    "key": "store",
     "de": "das Geschäft",
     "en": "store",
-    "word_type": "noun",
     "fr": "le magasin",
     "ru": "магазин",
     "es": "la tienda",
@@ -12304,10 +10766,8 @@
     "pt-br": "a loja"
   },
   {
-    "key": "car",
     "de": "das Auto",
     "en": "car",
-    "word_type": "noun",
     "fr": "la voiture",
     "ru": "автомобиль",
     "es": "el coche",
@@ -12320,10 +10780,8 @@
     "pt-br": "o carro"
   },
   {
-    "key": "bus",
     "de": "der Bus",
     "en": "bus",
-    "word_type": "noun",
     "fr": "le bus",
     "ru": "автобус",
     "es": "el autobús",
@@ -12336,10 +10794,8 @@
     "pt-br": "o autocarro"
   },
   {
-    "key": "train",
     "de": "der Zug",
     "en": "train",
-    "word_type": "noun",
     "fr": "le train",
     "ru": "поезд",
     "es": "el tren",
@@ -12352,10 +10808,8 @@
     "pt-br": "o comboio"
   },
   {
-    "key": "bike",
     "de": "das Fahrrad",
     "en": "bike",
-    "word_type": "noun",
     "fr": "le vélo",
     "ru": "велосипед",
     "es": "la bicicleta",
@@ -12368,10 +10822,8 @@
     "pt-br": "a bicicleta"
   },
   {
-    "key": "boat",
     "de": "das Boot",
     "en": "boat",
-    "word_type": "noun",
     "fr": "le bateau",
     "ru": "лодка",
     "es": "el barco",
@@ -12384,10 +10836,8 @@
     "pt-br": "o barco"
   },
   {
-    "key": "plane",
     "de": "das Flugzeug",
     "en": "plane",
-    "word_type": "noun",
     "fr": "l'avion",
     "ru": "самолёт",
     "es": "el avión",
@@ -12400,10 +10850,8 @@
     "pt-br": "o avião"
   },
   {
-    "key": "ticket",
     "de": "das Ticket",
     "en": "ticket",
-    "word_type": "noun",
     "fr": "le billet",
     "ru": "билет",
     "es": "el billete",
@@ -12416,10 +10864,8 @@
     "pt-br": "o bilhete"
   },
   {
-    "key": "law",
     "de": "das Gesetz",
     "en": "law",
-    "word_type": "noun",
     "fr": "la loi",
     "ru": "закон",
     "es": "la ley",
@@ -12432,10 +10878,8 @@
     "pt-br": "a lei"
   },
   {
-    "key": "police",
     "de": "die Polizei",
     "en": "police",
-    "word_type": "noun",
     "fr": "la police",
     "ru": "полиция",
     "es": "la policía",
@@ -12448,10 +10892,8 @@
     "pt-br": "a polícia"
   },
   {
-    "key": "prison",
     "de": "das Gefängnis",
     "en": "prison",
-    "word_type": "noun",
     "fr": "la prison",
     "ru": "тюрьма",
     "es": "la prisión",
@@ -12464,10 +10906,8 @@
     "pt-br": "a prisão"
   },
   {
-    "key": "crime",
     "de": "das Verbrechen",
     "en": "crime",
-    "word_type": "noun",
     "fr": "le crime",
     "ru": "преступление",
     "es": "el delito",
@@ -12480,10 +10920,8 @@
     "pt-br": "o crime"
   },
   {
-    "key": "punishment",
     "de": "die Bestrafung",
     "en": "punishment",
-    "word_type": "noun",
     "fr": "la punition",
     "ru": "наказание",
     "es": "el castigo",
@@ -12496,10 +10934,8 @@
     "pt-br": "a punição"
   },
   {
-    "key": "court-legal",
     "de": "das Gericht",
     "en": "court (legal)",
-    "word_type": "noun",
     "fr": "le tribunal",
     "ru": "суд",
     "es": "el tribunal",
@@ -12512,10 +10948,8 @@
     "pt-br": "o tribunal"
   },
   {
-    "key": "judge",
     "de": "der Richter",
     "en": "judge",
-    "word_type": "noun",
     "fr": "le juge",
     "ru": "судья",
     "es": "el juez",
@@ -12528,10 +10962,8 @@
     "pt-br": "o juiz"
   },
   {
-    "key": "god",
     "de": "Gott",
     "en": "god",
-    "word_type": "noun",
     "fr": "dieu",
     "ru": "бог",
     "es": "el dios",
@@ -12544,10 +10976,8 @@
     "pt-br": "o deus"
   },
   {
-    "key": "hell",
     "de": "die Hölle",
     "en": "hell",
-    "word_type": "noun",
     "fr": "l'enfer",
     "ru": "ад",
     "es": "el infierno",
@@ -12560,10 +10990,8 @@
     "pt-br": "o inferno"
   },
   {
-    "key": "to-pray",
     "de": "beten",
     "en": "to pray",
-    "word_type": "verb",
     "fr": "prier",
     "ru": "молиться",
     "es": "rezar",
@@ -12576,10 +11004,8 @@
     "pt-br": "rezar"
   },
   {
-    "key": "priest",
     "de": "der Priester",
     "en": "priest",
-    "word_type": "noun",
     "fr": "le prêtre",
     "ru": "священник",
     "es": "el sacerdote",
@@ -12592,10 +11018,8 @@
     "pt-br": "o padre"
   },
   {
-    "key": "religion",
     "de": "die Religion",
     "en": "religion",
-    "word_type": "noun",
     "fr": "la religion",
     "ru": "религия",
     "es": "la religión",
@@ -12608,10 +11032,8 @@
     "pt-br": "a religião"
   },
   {
-    "key": "government",
     "de": "die Regierung",
     "en": "government",
-    "word_type": "noun",
     "fr": "le gouvernement",
     "ru": "правительство",
     "es": "el gobierno",
@@ -12624,10 +11046,8 @@
     "pt-br": "o governo"
   },
   {
-    "key": "president",
     "de": "der Präsident",
     "en": "president",
-    "word_type": "noun",
     "fr": "le président",
     "ru": "президент",
     "es": "el presidente",
@@ -12640,10 +11060,8 @@
     "pt-br": "o presidente"
   },
   {
-    "key": "energy",
     "de": "die Energie",
     "en": "energy",
-    "word_type": "noun",
     "fr": "l'énergie",
     "ru": "энергия",
     "es": "la energía",
@@ -12656,10 +11074,8 @@
     "pt-br": "a energia"
   },
   {
-    "key": "heat",
     "de": "die Wärme",
     "en": "heat",
-    "word_type": "noun",
     "fr": "la chaleur",
     "ru": "тепло",
     "es": "el calor",
@@ -12672,10 +11088,8 @@
     "pt-br": "o calor"
   },
   {
-    "key": "light-illumination",
     "de": "das Licht",
     "en": "light (illumination)",
-    "word_type": "noun",
     "fr": "la lumière",
     "ru": "свет",
     "es": "la luz",
@@ -12688,10 +11102,8 @@
     "pt-br": "a luz"
   },
   {
-    "key": "sound",
     "de": "der Klang",
     "en": "sound",
-    "word_type": "noun",
     "fr": "le son",
     "ru": "звук",
     "es": "el sonido",
@@ -12704,10 +11116,8 @@
     "pt-br": "o som"
   },
   {
-    "key": "temperature",
     "de": "die Temperatur",
     "en": "temperature",
-    "word_type": "noun",
     "fr": "la température",
     "ru": "температура",
     "es": "la temperatura",
