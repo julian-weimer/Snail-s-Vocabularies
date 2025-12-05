@@ -5,7 +5,7 @@
     "word_type": "noun",
     "plural_form": "as iniciativas",
     "gender": "feminine",
-    "key": "initiative"
+    "key": "90c901c8-36d9-4a20-9a28-14f6ecc7fce3"
   },
   {
     "pt-pt": "o limite",
@@ -13,7 +13,7 @@
     "word_type": "noun",
     "plural_form": "os limites",
     "gender": "masculine",
-    "key": "limit"
+    "key": "258032a0-0fa7-4f43-8448-049c1b33adb9"
   },
   {
     "pt-pt": "maravilhoso",
@@ -22,7 +22,7 @@
     "positive": "maravilhoso",
     "comparative": "mais maravilhoso",
     "superlative": "o mais maravilhoso",
-    "key": "wonderful"
+    "key": "fb9f83f0-891e-42f9-826d-b6c2b9cfa628"
   },
   {
     "pt-pt": "o discurso",
@@ -30,7 +30,7 @@
     "word_type": "noun",
     "plural_form": "os discursos",
     "gender": "masculine",
-    "key": "speech"
+    "key": "110a9272-73db-440a-8a4c-cf52b0cfa9ce"
   },
   {
     "pt-pt": "a homenagem",
@@ -38,7 +38,7 @@
     "word_type": "noun",
     "plural_form": "as homenagens",
     "gender": "feminine",
-    "key": "tribute"
+    "key": "cb704fcf-c0d4-45d0-8ad3-4107ef047110"
   },
   {
     "pt-pt": "manter",
@@ -50,7 +50,7 @@
     "second_person_plural": "mantendes",
     "third_person_singular": "mantém",
     "third_person_plural": "mantêm",
-    "key": "to-maintain"
+    "key": "33a0d44f-5190-4d09-9452-3f71d6fb63bc"
   },
   {
     "pt-pt": "o mapa",
@@ -58,7 +58,7 @@
     "word_type": "noun",
     "plural_form": "os mapas",
     "gender": "masculine",
-    "key": "map"
+    "key": "f6eae3c1-e6e1-4bb9-9b21-b830db2cddf5"
   },
   {
     "pt-pt": "merecer",
@@ -70,7 +70,7 @@
     "second_person_plural": "mereceis",
     "third_person_singular": "merece",
     "third_person_plural": "merecem",
-    "key": "to-deserve"
+    "key": "f59c8ef4-4cdb-47b7-9974-5c9b427441d1"
   },
   {
     "pt-pt": "a ponte",
@@ -78,7 +78,7 @@
     "word_type": "noun",
     "plural_form": "as pontes",
     "gender": "feminine",
-    "key": "bridge"
+    "key": "396f7865-c51a-4f20-afb3-d995326c9086"
   },
   {
     "pt-pt": "promover",
@@ -90,7 +90,7 @@
     "second_person_plural": "promoveis",
     "third_person_singular": "promove",
     "third_person_plural": "promovem",
-    "key": "to-promote"
+    "key": "a6b21ade-7bf0-4472-a6a3-889353eff739"
   },
   {
     "pt-pt": "a reação",
@@ -98,7 +98,7 @@
     "word_type": "noun",
     "plural_form": "as reações",
     "gender": "feminine",
-    "key": "reaction"
+    "key": "e67140cb-eca8-4648-a6a9-aabd6a8dae35"
   },
   {
     "pt-pt": "salvar",
@@ -110,7 +110,7 @@
     "second_person_plural": "salvais",
     "third_person_singular": "salva",
     "third_person_plural": "salvam",
-    "key": "to-save"
+    "key": "b7aa466f-6683-4adc-a95a-554ffb63503c"
   },
   {
     "pt-pt": "a avenida",
@@ -118,7 +118,7 @@
     "word_type": "noun",
     "plural_form": "as avenidas",
     "gender": "feminine",
-    "key": "avenue"
+    "key": "2c1fcfee-133b-433c-aad0-0fa9c50cc59f"
   },
   {
     "pt-pt": "o concurso",
@@ -126,7 +126,7 @@
     "word_type": "noun",
     "plural_form": "os concursos",
     "gender": "masculine",
-    "key": "contest"
+    "key": "fbc11ae6-1733-45f6-be1b-f872dab3b6c3"
   },
   {
     "pt-pt": "conter",
@@ -138,7 +138,7 @@
     "second_person_plural": "contendes",
     "third_person_singular": "contém",
     "third_person_plural": "contêm",
-    "key": "to-contain"
+    "key": "e0cdd92f-efe1-48dc-8d01-5947b2faf203"
   },
   {
     "pt-pt": "o desenho",
@@ -146,7 +146,7 @@
     "word_type": "noun",
     "plural_form": "os desenhos",
     "gender": "masculine",
-    "key": "drawing"
+    "key": "35eca84e-4f47-4325-b5da-14ef6e4d8e8a"
   },
   {
     "pt-pt": "a divulgação",
@@ -154,7 +154,7 @@
     "word_type": "noun",
     "plural_form": "as divulgações",
     "gender": "feminine",
-    "key": "disclosure"
+    "key": "c2efc643-1139-4a97-b7cb-c3171febafd0"
   },
   {
     "pt-pt": "o perigo",
@@ -162,7 +162,7 @@
     "word_type": "noun",
     "plural_form": "os perigos",
     "gender": "masculine",
-    "key": "danger"
+    "key": "c297a455-0fea-414a-a32b-da47abbacf30"
   },
   {
     "pt-pt": "a pista",
@@ -170,7 +170,7 @@
     "word_type": "noun",
     "plural_form": "as pistas",
     "gender": "feminine",
-    "key": "track"
+    "key": "7d9ce0e3-cc16-4ea6-bc95-398f890f434b"
   },
   {
     "pt-pt": "o potencial",
@@ -178,7 +178,7 @@
     "word_type": "noun",
     "plural_form": "os potenciais",
     "gender": "masculine",
-    "key": "potential"
+    "key": "ad684ec4-9f16-4e8e-8690-e38b167159e1"
   },
   {
     "pt-pt": "o princípio",
@@ -186,14 +186,14 @@
     "word_type": "noun",
     "plural_form": "os princípios",
     "gender": "masculine",
-    "key": "principle"
+    "key": "50801db9-e5bd-4e4e-bc69-0314968e0ee6"
   },
   {
     "pt-pt": "a raiva",
     "en": "anger",
     "word_type": "noun",
     "gender": "feminine",
-    "key": "anger"
+    "key": "1d85ddf4-495b-46d9-8f49-8194ac70b496"
   },
   {
     "pt-pt": "o apartamento",
@@ -201,7 +201,7 @@
     "word_type": "noun",
     "plural_form": "os apartamentos",
     "gender": "masculine",
-    "key": "apartment"
+    "key": "afba0bbf-bac3-47b5-a215-8b7149e09cef"
   },
   {
     "pt-pt": "o cenário",
@@ -209,7 +209,7 @@
     "word_type": "noun",
     "plural_form": "os cenários",
     "gender": "masculine",
-    "key": "scenario"
+    "key": "b6bf2377-70c9-42fd-8ff1-72dc8c1f61a1"
   },
   {
     "pt-pt": "o cliente",
@@ -217,7 +217,7 @@
     "word_type": "noun",
     "plural_form": "os clientes",
     "gender": "masculine",
-    "key": "client"
+    "key": "2aeb8489-d821-41a2-9540-3074b5368cb3"
   },
   {
     "pt-pt": "complexo",
@@ -226,7 +226,7 @@
     "positive": "complexo",
     "comparative": "mais complexo",
     "superlative": "o mais complexo",
-    "key": "complex"
+    "key": "74b72d00-cdc6-45df-89e4-23259fb554f8"
   },
   {
     "pt-pt": "a conferência",
@@ -234,7 +234,7 @@
     "word_type": "noun",
     "plural_form": "as conferências",
     "gender": "feminine",
-    "key": "conference"
+    "key": "75b22dba-f11d-4fde-9b2f-470a685e588f"
   },
   {
     "pt-pt": "conferir",
@@ -246,7 +246,7 @@
     "second_person_plural": "vós conferis",
     "third_person_singular": "ele/ela confere",
     "third_person_plural": "eles/elas conferem",
-    "key": "to-check"
+    "key": "3e33cd44-4339-4938-82c8-0b24ec86a76c"
   },
   {
     "pt-pt": "discutir",
@@ -258,7 +258,7 @@
     "second_person_plural": "vós discutis",
     "third_person_singular": "ele/ela discute",
     "third_person_plural": "eles/elas discutem",
-    "key": "to-discuss"
+    "key": "4853d212-695e-4503-b84d-5c99bf45b214"
   },
   {
     "pt-pt": "o esforço",
@@ -266,7 +266,7 @@
     "word_type": "noun",
     "plural_form": "os esforços",
     "gender": "masculine",
-    "key": "effort"
+    "key": "c119f8aa-5f4b-4a4c-aa8e-1af2dfd6b331"
   },
   {
     "pt-pt": "europeu",
@@ -275,7 +275,7 @@
     "positive": "europeu",
     "comparative": "mais europeu",
     "superlative": "o mais europeu",
-    "key": "european"
+    "key": "4d9d5f4d-0d1a-4336-909b-a208ec338ff8"
   },
   {
     "pt-pt": "a figura",
@@ -283,7 +283,7 @@
     "word_type": "noun",
     "plural_form": "as figuras",
     "gender": "feminine",
-    "key": "figure"
+    "key": "3c16e201-82fc-4166-b14f-e8ae9ab7e607"
   },
   {
     "pt-pt": "o habitante",
@@ -291,14 +291,14 @@
     "word_type": "noun",
     "plural_form": "os habitantes",
     "gender": "masculine",
-    "key": "inhabitant"
+    "key": "fa5be51e-8a4c-443c-830c-aa98216f8545"
   },
   {
     "pt-pt": "a infância",
     "en": "childhood",
     "word_type": "noun",
     "gender": "feminine",
-    "key": "childhood"
+    "key": "f0352352-3c4d-4b53-b020-dca10508545e"
   },
   {
     "pt-pt": "seguro",
@@ -307,7 +307,7 @@
     "positive": "seguro",
     "comparative": "mais seguro",
     "superlative": "o mais seguro",
-    "key": "safe"
+    "key": "3608ae96-86cb-42a3-9530-8d883bcb43ad"
   },
   {
     "pt-pt": "tirar",
@@ -319,13 +319,13 @@
     "second_person_plural": "vós tirais",
     "third_person_singular": "ele/ela tira",
     "third_person_plural": "eles/elas tiram",
-    "key": "to-remove"
+    "key": "e6c9481a-ee70-459e-9e72-620d79413269"
   },
   {
     "pt-pt": "anti",
     "en": "anti",
     "word_type": "other",
-    "key": "anti"
+    "key": "8eefe1b1-7bf3-4070-b0db-1272f7b0381d"
   },
   {
     "pt-pt": "o arquivo",
@@ -333,7 +333,7 @@
     "word_type": "noun",
     "plural_form": "os arquivos",
     "gender": "masculine",
-    "key": "file"
+    "key": "b806138c-9a91-436e-bfd3-7a0af3d49440"
   },
   {
     "pt-pt": "a atitude",
@@ -341,7 +341,7 @@
     "word_type": "noun",
     "plural_form": "as atitudes",
     "gender": "feminine",
-    "key": "attitude"
+    "key": "d33950bb-36d8-4ada-995c-e30f1124a5e9"
   },
   {
     "pt-pt": "baseado",
@@ -350,7 +350,7 @@
     "positive": "baseado",
     "comparative": "mais baseado",
     "superlative": "o mais baseado",
-    "key": "based"
+    "key": "69900c8c-ccb1-49a8-8203-6abb68178fa6"
   },
   {
     "pt-pt": "a bateria",
@@ -358,7 +358,7 @@
     "word_type": "noun",
     "plural_form": "as baterias",
     "gender": "feminine",
-    "key": "battery"
+    "key": "6d768ac5-9e5b-45b4-a49f-dae533dcc266"
   },
   {
     "pt-pt": "casar",
@@ -370,7 +370,7 @@
     "second_person_plural": "vós casais",
     "third_person_singular": "ele/ela casa",
     "third_person_plural": "eles/elas casam",
-    "key": "to-marry"
+    "key": "c3943431-51d9-430f-9abb-bd07cfee0b10"
   },
   {
     "pt-pt": "a cobertura",
@@ -378,7 +378,7 @@
     "word_type": "noun",
     "plural_form": "as coberturas",
     "gender": "feminine",
-    "key": "coverage"
+    "key": "d2bd2d82-a40e-4696-b850-8219fcf75351"
   },
   {
     "pt-pt": "crescer",
@@ -390,7 +390,7 @@
     "second_person_plural": "vós cresceis",
     "third_person_singular": "ele/ela cresce",
     "third_person_plural": "eles/elas crescem",
-    "key": "to-grow"
+    "key": "e7f4da0e-39cf-4313-997e-9724d9cdb6f9"
   },
   {
     "pt-pt": "a declaração",
@@ -398,13 +398,13 @@
     "word_type": "noun",
     "plural_form": "as declarações",
     "gender": "feminine",
-    "key": "declaration"
+    "key": "865b8b7a-d113-402f-8918-c6cb960868f5"
   },
   {
     "pt-pt": "destas",
     "en": "of these",
     "word_type": "pronoun",
-    "key": "of-these"
+    "key": "fc9ec2bc-1abb-4cab-9207-2692452d79d5"
   },
   {
     "pt-pt": "a discussão",
@@ -412,7 +412,7 @@
     "word_type": "noun",
     "plural_form": "as discussões",
     "gender": "feminine",
-    "key": "discussion"
+    "key": "d3589265-5d7d-4874-9756-5f202d8aa9ea"
   },
   {
     "pt-pt": "o dono",
@@ -420,7 +420,7 @@
     "word_type": "noun",
     "plural_form": "os donos",
     "gender": "masculine",
-    "key": "owner"
+    "key": "7f8e1805-30db-4423-a83d-d195ba7f05c7"
   },
   {
     "pt-pt": "a emergência",
@@ -428,12 +428,12 @@
     "word_type": "noun",
     "plural_form": "as emergências",
     "gender": "feminine",
-    "key": "emergency"
+    "key": "36fdd3ad-0c28-488f-ab6e-1d5be72518f4"
   },
   {
     "pt-pt": "extremamente",
     "en": "extremely",
     "word_type": "adverb",
-    "key": "extremely"
+    "key": "8a3e276a-b0af-481a-8062-62e4bde4ac6b"
   }
 ]

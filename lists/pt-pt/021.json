@@ -6,7 +6,7 @@
     "positive": "mau",
     "comparative": "pior",
     "superlative": "o pior",
-    "key": "worse"
+    "key": "1ebf03b3-4e44-45cb-9a19-2f82f48c05c6"
   },
   {
     "pt-pt": "a campanha",
@@ -14,7 +14,7 @@
     "word_type": "noun",
     "plural_form": "as campanhas",
     "gender": "feminine",
-    "key": "campaign"
+    "key": "9f27d6d4-9c5c-4e00-ac80-b4b20a146ec2"
   },
   {
     "pt-pt": "o chefe",
@@ -22,7 +22,7 @@
     "word_type": "noun",
     "plural_form": "os chefes",
     "gender": "masculine",
-    "key": "boss"
+    "key": "ed53d296-1d6b-4b45-898c-6301544411e0"
   },
   {
     "pt-pt": "conhecido",
@@ -31,7 +31,7 @@
     "positive": "conhecido",
     "comparative": "mais conhecido",
     "superlative": "o mais conhecido",
-    "key": "known"
+    "key": "4b6a4940-eb1a-46ed-bf1c-c11e89ddd866"
   },
   {
     "pt-pt": "a câmara",
@@ -39,7 +39,7 @@
     "word_type": "noun",
     "plural_form": "as câmaras",
     "gender": "feminine",
-    "key": "chamber"
+    "key": "aa872fcf-e5a2-411e-a626-cc78c74aea94"
   },
   {
     "pt-pt": "o ministro",
@@ -47,7 +47,7 @@
     "word_type": "noun",
     "plural_form": "os ministros",
     "gender": "masculine",
-    "key": "minister"
+    "key": "f6759f41-463d-4745-be40-500db1911d74"
   },
   {
     "pt-pt": "tornar",
@@ -59,7 +59,7 @@
     "second_person_plural": "vós tornais",
     "third_person_singular": "ele/ela torna",
     "third_person_plural": "eles/elas tornam",
-    "key": "to-become"
+    "key": "45c4496a-062f-4ab6-bc30-fb4539092594"
   },
   {
     "pt-pt": "tratar",
@@ -71,7 +71,7 @@
     "second_person_plural": "vós tratais",
     "third_person_singular": "ele/ela trata",
     "third_person_plural": "eles/elas tratam",
-    "key": "to-treat"
+    "key": "e3954a5f-226f-4040-a829-c0dfb2617956"
   },
   {
     "pt-pt": "a busca",
@@ -79,7 +79,7 @@
     "word_type": "noun",
     "plural_form": "as buscas",
     "gender": "feminine",
-    "key": "search"
+    "key": "8bacf135-45b9-497e-a141-9a4a09d9de6a"
   },
   {
     "pt-pt": "conseguir",
@@ -91,7 +91,7 @@
     "second_person_plural": "vós conseguis",
     "third_person_singular": "ele/ela consegue",
     "third_person_plural": "eles/elas conseguem",
-    "key": "to-achieve"
+    "key": "f090a6dd-4c49-45f8-b163-6508fb86850c"
   },
   {
     "pt-pt": "a criação",
@@ -99,7 +99,7 @@
     "word_type": "noun",
     "plural_form": "as criações",
     "gender": "feminine",
-    "key": "creation"
+    "key": "c3683ae8-3d6c-4288-b182-54583451da95"
   },
   {
     "pt-pt": "a pesquisa",
@@ -107,7 +107,7 @@
     "word_type": "noun",
     "plural_form": "as pesquisas",
     "gender": "feminine",
-    "key": "research"
+    "key": "aff97ef8-8384-49b9-9643-3e0422cf8578"
   },
   {
     "pt-pt": "o recurso",
@@ -115,7 +115,7 @@
     "word_type": "noun",
     "plural_form": "os recursos",
     "gender": "masculine",
-    "key": "resource"
+    "key": "c5bdb151-3a0c-4de9-ad6f-4bb9b599fe2e"
   },
   {
     "pt-pt": "a república",
@@ -123,7 +123,7 @@
     "word_type": "noun",
     "plural_form": "as repúblicas",
     "gender": "feminine",
-    "key": "republic"
+    "key": "a2b165d5-5331-463b-bb65-78033181fa54"
   },
   {
     "pt-pt": "o espetáculo",
@@ -131,7 +131,7 @@
     "word_type": "noun",
     "plural_form": "os espetáculos",
     "gender": "masculine",
-    "key": "show"
+    "key": "c32c0f4b-3135-40cb-b8f9-58da0a5e7940"
   },
   {
     "pt-pt": "o ambiente",
@@ -139,7 +139,7 @@
     "word_type": "noun",
     "plural_form": "os ambientes",
     "gender": "masculine",
-    "key": "environment"
+    "key": "a2aeafb2-e0ba-4f52-b0ee-df655663f54e"
   },
   {
     "pt-pt": "a chamada",
@@ -147,7 +147,7 @@
     "word_type": "noun",
     "plural_form": "as chamadas",
     "gender": "feminine",
-    "key": "call"
+    "key": "30cc7de8-a3e0-4c0f-8f19-254d1167c463"
   },
   {
     "pt-pt": "diverso",
@@ -156,20 +156,20 @@
     "positive": "diverso",
     "comparative": "mais diverso",
     "superlative": "o mais diverso",
-    "key": "diverse"
+    "key": "f131d6f1-0a0d-4ec6-961a-07825d69d534"
   },
   {
     "pt-pt": "a Europa",
     "en": "Europe",
     "word_type": "noun",
     "gender": "feminine",
-    "key": "europe"
+    "key": "44927acc-17f5-4a69-97e6-6e929509c481"
   },
   {
     "pt-pt": "finalmente",
     "en": "finally",
     "word_type": "adverb",
-    "key": "finally"
+    "key": "3db165d4-a108-417f-8ca0-e9d402170916"
   },
   {
     "pt-pt": "ganhar",
@@ -181,7 +181,7 @@
     "second_person_plural": "ganhais",
     "third_person_singular": "ganha",
     "third_person_plural": "ganham",
-    "key": "to-win"
+    "key": "88d6d25d-fad9-4668-8464-5462ec59f17c"
   },
   {
     "pt-pt": "o passo",
@@ -189,7 +189,7 @@
     "word_type": "noun",
     "plural_form": "os passos",
     "gender": "masculine",
-    "key": "step"
+    "key": "0b050cc4-1194-4cd4-b47b-f7e41c27b0d0"
   },
   {
     "pt-pt": "político",
@@ -198,13 +198,13 @@
     "positive": "político",
     "comparative": "mais político",
     "superlative": "o mais político",
-    "key": "political"
+    "key": "2dd215b5-a37c-4e0b-9898-7a220922c1d1"
   },
   {
     "pt-pt": "simplesmente",
     "en": "simply",
     "word_type": "adverb",
-    "key": "simply"
+    "key": "10f3913e-eade-4c3e-b6c6-0027c291c75c"
   },
   {
     "pt-pt": "a associação",
@@ -212,7 +212,7 @@
     "word_type": "noun",
     "plural_form": "as associações",
     "gender": "feminine",
-    "key": "association"
+    "key": "3884e97a-6978-4180-80ae-3de6313fbf4a"
   },
   {
     "pt-pt": "o blogue",
@@ -220,7 +220,7 @@
     "word_type": "noun",
     "plural_form": "os blogues",
     "gender": "masculine",
-    "key": "blog"
+    "key": "63264651-16cb-49a8-80e7-ec9602836dd0"
   },
   {
     "pt-pt": "a data",
@@ -228,7 +228,7 @@
     "word_type": "noun",
     "plural_form": "as datas",
     "gender": "feminine",
-    "key": "date"
+    "key": "86b4c23a-f2b5-42b4-ac31-fe1f33657205"
   },
   {
     "pt-pt": "o exército",
@@ -236,7 +236,7 @@
     "word_type": "noun",
     "plural_form": "os exércitos",
     "gender": "masculine",
-    "key": "army"
+    "key": "1d596557-a044-4568-9b59-054c9c7377df"
   },
   {
     "pt-pt": "humano",
@@ -245,7 +245,7 @@
     "positive": "humano",
     "comparative": "mais humano",
     "superlative": "o mais humano",
-    "key": "human"
+    "key": "f407d3e3-7d67-45f6-b45d-d129453fe93c"
   },
   {
     "pt-pt": "a realidade",
@@ -253,7 +253,7 @@
     "word_type": "noun",
     "plural_form": "as realidades",
     "gender": "feminine",
-    "key": "reality"
+    "key": "507609e4-fc95-4c13-af96-f9a923d16c7b"
   },
   {
     "pt-pt": "o tribunal",
@@ -261,7 +261,7 @@
     "word_type": "noun",
     "plural_form": "os tribunais",
     "gender": "masculine",
-    "key": "court"
+    "key": "bef0f7aa-5f52-4f60-bb7d-ed45f84489d7"
   },
   {
     "pt-pt": "a união",
@@ -269,7 +269,7 @@
     "word_type": "noun",
     "plural_form": "as uniões",
     "gender": "feminine",
-    "key": "union"
+    "key": "c91e1c66-e41a-4a97-93d2-1ad1f0be9dd2"
   },
   {
     "pt-pt": "a viagem",
@@ -277,7 +277,7 @@
     "word_type": "noun",
     "plural_form": "as viagens",
     "gender": "feminine",
-    "key": "journey"
+    "key": "4fb6150e-fd95-4953-81b8-1e83b97f74eb"
   },
   {
     "pt-pt": "o banco",
@@ -285,7 +285,7 @@
     "word_type": "noun",
     "plural_form": "os bancos",
     "gender": "masculine",
-    "key": "bank"
+    "key": "03fea2cb-2f64-493f-b7b2-069c00046c44"
   },
   {
     "pt-pt": "a condição",
@@ -293,7 +293,7 @@
     "word_type": "noun",
     "plural_form": "as condições",
     "gender": "feminine",
-    "key": "condition"
+    "key": "51ecf57e-775c-4514-853a-6a259698408c"
   },
   {
     "pt-pt": "o conteúdo",
@@ -301,13 +301,13 @@
     "word_type": "noun",
     "plural_form": "os conteúdos",
     "gender": "masculine",
-    "key": "content"
+    "key": "6b4ff917-e572-43c0-94bb-4a88a230a6df"
   },
   {
     "pt-pt": "desses",
     "en": "of those",
     "word_type": "pronoun",
-    "key": "of-those"
+    "key": "aa17a9c9-91b1-4a1d-aea9-03891384e2f0"
   },
   {
     "pt-pt": "a espera",
@@ -315,7 +315,7 @@
     "word_type": "noun",
     "plural_form": "as esperas",
     "gender": "feminine",
-    "key": "wait"
+    "key": "3e07821a-dcb7-46a9-950c-b89f480d89a5"
   },
   {
     "pt-pt": "o jornal",
@@ -323,7 +323,7 @@
     "word_type": "noun",
     "plural_form": "os jornais",
     "gender": "masculine",
-    "key": "newspaper"
+    "key": "5dea80ca-8ccd-45a3-8c2f-4cf16c8decc9"
   },
   {
     "pt-pt": "popular",
@@ -332,7 +332,7 @@
     "positive": "popular",
     "comparative": "mais popular",
     "superlative": "o mais popular",
-    "key": "popular"
+    "key": "84421095-54db-4032-94eb-c889133688f6"
   },
   {
     "pt-pt": "responsável",
@@ -341,7 +341,7 @@
     "positive": "responsável",
     "comparative": "mais responsável",
     "superlative": "o mais responsável",
-    "key": "responsible"
+    "key": "858ba3e5-a3ff-4245-b354-03a0fe469b6e"
   },
   {
     "pt-pt": "a revista",
@@ -349,7 +349,7 @@
     "word_type": "noun",
     "plural_form": "as revistas",
     "gender": "feminine",
-    "key": "magazine"
+    "key": "44f5aa18-3d79-4b41-baf7-20948de11183"
   },
   {
     "pt-pt": "a senhora",
@@ -357,7 +357,7 @@
     "word_type": "noun",
     "plural_form": "as senhoras",
     "gender": "feminine",
-    "key": "lady"
+    "key": "44393070-61b0-4fbd-9494-73d851c7b53b"
   },
   {
     "pt-pt": "o tema",
@@ -365,7 +365,7 @@
     "word_type": "noun",
     "plural_form": "os temas",
     "gender": "masculine",
-    "key": "theme"
+    "key": "04057b95-4a28-42e9-8540-239f311a7d04"
   },
   {
     "pt-pt": "americano",
@@ -374,7 +374,7 @@
     "positive": "americano",
     "comparative": "mais americano",
     "superlative": "o mais americano",
-    "key": "american"
+    "key": "47258f88-343a-49fe-b928-4104d543f599"
   },
   {
     "pt-pt": "o ataque",
@@ -382,13 +382,13 @@
     "word_type": "noun",
     "plural_form": "os ataques",
     "gender": "masculine",
-    "key": "attack"
+    "key": "4443466e-8bee-42db-8c7b-1c2e4e2ec9d6"
   },
   {
     "pt-pt": "atualmente",
     "en": "currently",
     "word_type": "adverb",
-    "key": "currently"
+    "key": "e7b8fac7-1dbf-47d3-91bd-957e65d735c9"
   },
   {
     "pt-pt": "o autor",
@@ -396,7 +396,7 @@
     "word_type": "noun",
     "plural_form": "os autores",
     "gender": "masculine",
-    "key": "author"
+    "key": "832cbd8e-618c-40f8-8d71-9152278496dd"
   },
   {
     "pt-pt": "o clube",
@@ -404,7 +404,7 @@
     "word_type": "noun",
     "plural_form": "os clubes",
     "gender": "masculine",
-    "key": "club"
+    "key": "84cab14a-3547-4e5e-a74c-091366fd77da"
   },
   {
     "pt-pt": "o curso",
@@ -412,6 +412,6 @@
     "word_type": "noun",
     "plural_form": "os cursos",
     "gender": "masculine",
-    "key": "course"
+    "key": "5bb9b9a6-38a8-4e58-8e95-9a61e834b8bf"
   }
 ]

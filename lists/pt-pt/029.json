@@ -5,7 +5,7 @@
     "word_type": "noun",
     "plural_form": "as vergonhas",
     "gender": "feminine",
-    "key": "shame"
+    "key": "a0f82778-d01b-4886-9fed-f923315f9058"
   },
   {
     "pt-pt": "visitar",
@@ -17,7 +17,7 @@
     "second_person_plural": "visitais",
     "third_person_singular": "visita",
     "third_person_plural": "visitam",
-    "key": "to-visit"
+    "key": "38955fa4-ca12-45f4-bb37-be2ae377630a"
   },
   {
     "pt-pt": "aceitar",
@@ -29,7 +29,7 @@
     "second_person_plural": "aceitais",
     "third_person_singular": "aceita",
     "third_person_plural": "aceitam",
-    "key": "to-accept"
+    "key": "9599533e-fb5c-46f0-9837-bbbec609096b"
   },
   {
     "pt-pt": "a alegria",
@@ -37,7 +37,7 @@
     "word_type": "noun",
     "plural_form": "as alegrias",
     "gender": "feminine",
-    "key": "joy"
+    "key": "dd866557-55c1-4d88-89e5-6cfe61e2ce5f"
   },
   {
     "pt-pt": "a apresentação",
@@ -45,7 +45,7 @@
     "word_type": "noun",
     "plural_form": "as apresentações",
     "gender": "feminine",
-    "key": "presentation"
+    "key": "fd2190f6-7b6b-4fe8-a7d2-b4b8e2b78f2b"
   },
   {
     "pt-pt": "a autoridade",
@@ -53,7 +53,7 @@
     "word_type": "noun",
     "plural_form": "as autoridades",
     "gender": "feminine",
-    "key": "authority"
+    "key": "70b1a46c-0224-4113-976f-ac5ce211b1bb"
   },
   {
     "pt-pt": "a carne",
@@ -61,7 +61,7 @@
     "word_type": "noun",
     "plural_form": "as carnes",
     "gender": "feminine",
-    "key": "meat"
+    "key": "0b3898ca-775b-43b4-8ad8-4945a263bbe7"
   },
   {
     "pt-pt": "o clique",
@@ -69,7 +69,7 @@
     "word_type": "noun",
     "plural_form": "os cliques",
     "gender": "masculine",
-    "key": "click"
+    "key": "14626aa0-6e39-4238-ae6d-543341bf0816"
   },
   {
     "pt-pt": "a confiança",
@@ -77,7 +77,7 @@
     "word_type": "noun",
     "plural_form": "as confianças",
     "gender": "feminine",
-    "key": "trust"
+    "key": "c51351a1-8299-4ccc-9062-5fd304ffa049"
   },
   {
     "pt-pt": "a corrida",
@@ -85,7 +85,7 @@
     "word_type": "noun",
     "plural_form": "as corridas",
     "gender": "feminine",
-    "key": "race"
+    "key": "e14587f6-32f6-447e-9197-becffcf42d30"
   },
   {
     "pt-pt": "cuidar",
@@ -97,7 +97,7 @@
     "second_person_plural": "cuidais",
     "third_person_singular": "cuida",
     "third_person_plural": "cuidam",
-    "key": "to-care"
+    "key": "9f39ecc5-8764-4695-b9c5-63a37f8be0ba"
   },
   {
     "pt-pt": "a distribuição",
@@ -105,7 +105,7 @@
     "word_type": "noun",
     "plural_form": "as distribuições",
     "gender": "feminine",
-    "key": "distribution"
+    "key": "64cc8adf-8027-4d2e-992a-1e483e261e9d"
   },
   {
     "pt-pt": "dito",
@@ -114,7 +114,7 @@
     "positive": "dito",
     "comparative": "mais dito",
     "superlative": "o mais dito",
-    "key": "said"
+    "key": "2a5d7c35-8d02-419f-9dec-d014c9edfec5"
   },
   {
     "pt-pt": "ocorrer",
@@ -126,7 +126,7 @@
     "second_person_plural": "ocorreis",
     "third_person_singular": "ocorre",
     "third_person_plural": "ocorrem",
-    "key": "to-occur"
+    "key": "a254acd9-69e6-4917-aed1-e998e2718ece"
   },
   {
     "pt-pt": "o veículo",
@@ -134,7 +134,7 @@
     "word_type": "noun",
     "plural_form": "os veículos",
     "gender": "masculine",
-    "key": "vehicle"
+    "key": "deea8f7f-3562-49d1-9701-c21466225423"
   },
   {
     "pt-pt": "o feito",
@@ -142,7 +142,7 @@
     "word_type": "noun",
     "plural_form": "os feitos",
     "gender": "masculine",
-    "key": "feat"
+    "key": "75998500-fef4-40a6-8779-f911f0d7208a"
   },
   {
     "pt-pt": "o golo",
@@ -150,7 +150,7 @@
     "word_type": "noun",
     "plural_form": "os golos",
     "gender": "masculine",
-    "key": "goal"
+    "key": "e28263c2-adf9-4772-982d-69a877a87382"
   },
   {
     "pt-pt": "o golpe",
@@ -158,7 +158,7 @@
     "word_type": "noun",
     "plural_form": "os golpes",
     "gender": "masculine",
-    "key": "blow"
+    "key": "d6869ca6-f82d-4a33-8c75-614c087164e4"
   },
   {
     "pt-pt": "o gás",
@@ -166,7 +166,7 @@
     "word_type": "noun",
     "plural_form": "os gases",
     "gender": "masculine",
-    "key": "gas"
+    "key": "31bf8948-25e2-4872-8871-dbbb7d91c7d5"
   },
   {
     "pt-pt": "o impacto",
@@ -174,7 +174,7 @@
     "word_type": "noun",
     "plural_form": "os impactos",
     "gender": "masculine",
-    "key": "impact"
+    "key": "1ca8b5d2-0d17-41d8-a03d-121c85d114f9"
   },
   {
     "pt-pt": "o julgamento",
@@ -182,7 +182,7 @@
     "word_type": "noun",
     "plural_form": "os julgamentos",
     "gender": "masculine",
-    "key": "judgment"
+    "key": "1a23dbfc-cc3b-4ab7-a6e8-69e792426944"
   },
   {
     "pt-pt": "ligar",
@@ -194,7 +194,7 @@
     "second_person_plural": "ligais",
     "third_person_singular": "liga",
     "third_person_plural": "ligam",
-    "key": "to-connect"
+    "key": "d3936f72-52fc-45f9-a2d5-13fb49dd93a2"
   },
   {
     "pt-pt": "lutar",
@@ -206,7 +206,7 @@
     "second_person_plural": "lutais",
     "third_person_singular": "luta",
     "third_person_plural": "lutam",
-    "key": "to-fight"
+    "key": "0dcefb36-1c60-4c1f-9374-244f0ccaf537"
   },
   {
     "pt-pt": "o marco",
@@ -214,7 +214,7 @@
     "word_type": "noun",
     "plural_form": "os marcos",
     "gender": "masculine",
-    "key": "milestone"
+    "key": "e8c8904d-7cf5-4533-a7e8-4ee3baed3324"
   },
   {
     "pt-pt": "a moral",
@@ -222,7 +222,7 @@
     "word_type": "noun",
     "plural_form": "as morais",
     "gender": "feminine",
-    "key": "morale"
+    "key": "d6ee76e5-a8cb-42c7-9124-3bdde2a8f281"
   },
   {
     "pt-pt": "a professora",
@@ -230,7 +230,7 @@
     "word_type": "noun",
     "plural_form": "as professoras",
     "gender": "feminine",
-    "key": "teacher-female"
+    "key": "c7bd7983-70cf-4d5e-8751-b4028261fc09"
   },
   {
     "pt-pt": "o reconhecimento",
@@ -238,7 +238,7 @@
     "word_type": "noun",
     "plural_form": "os reconhecimentos",
     "gender": "masculine",
-    "key": "recognition"
+    "key": "c3abb5ad-436c-440f-b0a7-fba4fb7c67ed"
   },
   {
     "pt-pt": "servir",
@@ -250,7 +250,7 @@
     "second_person_plural": "servis",
     "third_person_singular": "serve",
     "third_person_plural": "servem",
-    "key": "to-serve"
+    "key": "24ec9368-8bb3-4ee4-be5b-485791965251"
   },
   {
     "pt-pt": "a venda",
@@ -258,7 +258,7 @@
     "word_type": "noun",
     "plural_form": "as vendas",
     "gender": "feminine",
-    "key": "sale"
+    "key": "c860e998-e60b-4107-8963-42bae8ab15aa"
   },
   {
     "pt-pt": "o volume",
@@ -266,7 +266,7 @@
     "word_type": "noun",
     "plural_form": "os volumes",
     "gender": "masculine",
-    "key": "volume"
+    "key": "a25bfced-413d-4207-9349-e6129cbe8439"
   },
   {
     "pt-pt": "o capitão",
@@ -274,7 +274,7 @@
     "word_type": "noun",
     "plural_form": "os capitães",
     "gender": "masculine",
-    "key": "captain"
+    "key": "652d95bb-f524-4198-a937-27e6b2adf3f3"
   },
   {
     "pt-pt": "o custo",
@@ -282,7 +282,7 @@
     "word_type": "noun",
     "plural_form": "os custos",
     "gender": "masculine",
-    "key": "cost"
+    "key": "a87c4d95-eb32-49db-a1eb-9d525a858dda"
   },
   {
     "pt-pt": "o distrito",
@@ -290,7 +290,7 @@
     "word_type": "noun",
     "plural_form": "os distritos",
     "gender": "masculine",
-    "key": "district"
+    "key": "3d8ed605-374f-4f01-a841-528ecf60e88d"
   },
   {
     "pt-pt": "a década",
@@ -298,7 +298,7 @@
     "word_type": "noun",
     "plural_form": "as décadas",
     "gender": "feminine",
-    "key": "decade"
+    "key": "24fa3a14-43ed-41d1-be82-5bc5356792cd"
   },
   {
     "pt-pt": "económico",
@@ -307,7 +307,7 @@
     "positive": "económico",
     "comparative": "mais económico",
     "superlative": "o mais económico",
-    "key": "economic"
+    "key": "699507df-743a-49f3-a356-51b3e6f4f62f"
   },
   {
     "pt-pt": "o estádio",
@@ -315,7 +315,7 @@
     "word_type": "noun",
     "plural_form": "os estádios",
     "gender": "masculine",
-    "key": "stadium"
+    "key": "5e4d5213-2525-4ebb-ab6f-fae7739571c0"
   },
   {
     "pt-pt": "a matemática",
@@ -323,7 +323,7 @@
     "word_type": "noun",
     "plural_form": "as matemáticas",
     "gender": "feminine",
-    "key": "mathematics"
+    "key": "b0912f5e-742f-464b-812a-8ea960375bc7"
   },
   {
     "pt-pt": "o meio",
@@ -331,7 +331,7 @@
     "word_type": "noun",
     "plural_form": "os meios",
     "gender": "masculine",
-    "key": "means"
+    "key": "07aa6b51-86c4-4efa-9dab-e01ba1ecd520"
   },
   {
     "pt-pt": "o palco",
@@ -339,7 +339,7 @@
     "word_type": "noun",
     "plural_form": "os palcos",
     "gender": "masculine",
-    "key": "stage"
+    "key": "6d5d7e12-6d66-4f2f-91b7-f842a4999264"
   },
   {
     "pt-pt": "o prazo",
@@ -347,7 +347,7 @@
     "word_type": "noun",
     "plural_form": "os prazos",
     "gender": "masculine",
-    "key": "deadline"
+    "key": "903690e7-7253-4552-aca7-f60ebc928d2a"
   },
   {
     "pt-pt": "a princesa",
@@ -355,7 +355,7 @@
     "word_type": "noun",
     "plural_form": "as princesas",
     "gender": "feminine",
-    "key": "princess"
+    "key": "203a4609-f17b-4e62-b496-3a0aa9b9e295"
   },
   {
     "pt-pt": "a sensação",
@@ -363,7 +363,7 @@
     "word_type": "noun",
     "plural_form": "as sensações",
     "gender": "feminine",
-    "key": "sensation"
+    "key": "f9c62192-9b56-4006-be21-a6dc75762dd2"
   },
   {
     "pt-pt": "ótimo",
@@ -372,7 +372,7 @@
     "positive": "ótimo",
     "comparative": "mais ótimo",
     "superlative": "o mais ótimo",
-    "key": "excellent"
+    "key": "3fd85c57-4e04-4042-8aa2-92296dafa45f"
   },
   {
     "pt-pt": "o assassinato",
@@ -380,7 +380,7 @@
     "word_type": "noun",
     "plural_form": "os assassinatos",
     "gender": "masculine",
-    "key": "murder"
+    "key": "5e254aa9-8b23-446e-9b94-edc24cd09049"
   },
   {
     "pt-pt": "a assembleia",
@@ -388,7 +388,7 @@
     "word_type": "noun",
     "plural_form": "as assembleias",
     "gender": "feminine",
-    "key": "assembly"
+    "key": "e0d46d7f-bb71-4b00-996e-ff4d407ea892"
   },
   {
     "pt-pt": "bater",
@@ -400,7 +400,7 @@
     "second_person_plural": "bateis",
     "third_person_singular": "bate",
     "third_person_plural": "batem",
-    "key": "to-hit"
+    "key": "2af89cca-cc05-4cdf-a4c4-27fa156e7c69"
   },
   {
     "pt-pt": "depender",
@@ -412,7 +412,7 @@
     "second_person_plural": "dependeis",
     "third_person_singular": "depende",
     "third_person_plural": "dependem",
-    "key": "to-depend"
+    "key": "572a24a9-42c1-412d-9d5a-24177b4f6c7e"
   },
   {
     "pt-pt": "o domínio",
@@ -420,7 +420,7 @@
     "word_type": "noun",
     "plural_form": "os domínios",
     "gender": "masculine",
-    "key": "domain"
+    "key": "273bfe23-9c37-493b-8c63-5fcb4f6f12d4"
   },
   {
     "pt-pt": "a estrela",
@@ -428,7 +428,7 @@
     "word_type": "noun",
     "plural_form": "as estrelas",
     "gender": "feminine",
-    "key": "star"
+    "key": "94329f7f-1f9f-42ed-952b-aacf5746ea71"
   },
   {
     "pt-pt": "o humor",
@@ -436,6 +436,6 @@
     "word_type": "noun",
     "plural_form": "os humores",
     "gender": "masculine",
-    "key": "humor"
+    "key": "291d6134-9054-4daf-9afa-3c3450ccc0f9"
   }
 ]

@@ -1,24 +1,24 @@
 [
   {
-    "key": "hello",
+    "key": "098f363b-28c3-4f09-b775-9891fc96ecb3",
     "en": "Hello!",
     "pt-pt": "Olá!",
     "word_type": "other"
   },
   {
-    "key": "goodbye",
+    "key": "65bb2e4f-3040-41ec-9f17-8a90003ba0ac",
     "en": "Goodbye!",
     "pt-pt": "Adeus!",
     "word_type": "other"
   },
   {
-    "key": "welcome",
+    "key": "cfdaca7c-c496-466d-afcd-f8bb7348ecdc",
     "en": "Welcome!",
     "pt-pt": "Bem-vindo!",
     "word_type": "other"
   },
   {
-    "key": "please",
+    "key": "ffef934c-67fa-4535-a856-aab92d3685a6",
     "en": "please",
     "pt-pt": "por favor",
     "word_type": "adverb"
@@ -27,28 +27,28 @@
     "pt-pt": "obrigado",
     "en": "thank you",
     "word_type": "other",
-    "key": "thank-you"
+    "key": "dad4dc72-14c6-4427-a8d7-fd109f628d50"
   },
   {
-    "key": "sorry",
+    "key": "283feed8-05c9-461d-af21-e47dac0b90f7",
     "en": "Sorry",
     "pt-pt": "Desculpe",
     "word_type": "other"
   },
   {
-    "key": "yes",
+    "key": "dc5fa1b0-de71-4f87-bb76-5474c8f295aa",
     "en": "yes",
     "pt-pt": "sim",
     "word_type": "adverb"
   },
   {
-    "key": "no",
+    "key": "7e1bfe47-cefe-4568-9820-f71b67abaf79",
     "en": "no",
     "pt-pt": "não",
     "word_type": "adverb"
   },
   {
-    "key": "to-say",
+    "key": "5271580f-8209-4fe4-874d-9610de7ab4c0",
     "en": "to say",
     "pt-pt": "dizer",
     "word_type": "verb",
@@ -60,7 +60,7 @@
     "third_person_plural": "eles/elas dizem"
   },
   {
-    "key": "to-tell",
+    "key": "c6099f50-fbc5-4413-b85f-13d89c225465",
     "en": "to tell",
     "pt-pt": "contar",
     "word_type": "verb",
@@ -72,7 +72,7 @@
     "third_person_plural": "eles/elas contam"
   },
   {
-    "key": "to-ask",
+    "key": "9591ecd0-4e55-49de-bae7-32541cccd67f",
     "en": "to ask",
     "pt-pt": "perguntar",
     "word_type": "verb",
@@ -84,7 +84,7 @@
     "third_person_plural": "eles/elas perguntam"
   },
   {
-    "key": "to-introduce",
+    "key": "a6c814a5-649e-4fe6-ad01-9bc19dfc4b76",
     "en": "to introduce",
     "pt-pt": "apresentar",
     "word_type": "verb",
@@ -96,7 +96,7 @@
     "third_person_plural": "eles/elas apresentam"
   },
   {
-    "key": "conversation",
+    "key": "348d027a-196b-4b71-8a95-0f16b01186ad",
     "en": "conversation",
     "pt-pt": "a conversa",
     "word_type": "noun",
@@ -104,7 +104,7 @@
     "gender": "feminine"
   },
   {
-    "key": "question",
+    "key": "8c4f14fd-f503-4962-b039-b567bf93e06a",
     "en": "question",
     "pt-pt": "a questão",
     "word_type": "noun",
@@ -112,7 +112,7 @@
     "gender": "feminine"
   },
   {
-    "key": "answer",
+    "key": "5d0b6eb2-973b-4175-8916-2fe164524292",
     "en": "answer",
     "pt-pt": "a resposta",
     "word_type": "noun",
@@ -120,211 +120,211 @@
     "gender": "feminine"
   },
   {
-    "key": "he",
+    "key": "0ac9d422-2bd5-49a4-b8e4-cc2480076e05",
     "en": "he",
     "pt-pt": "ele",
     "word_type": "pronoun"
   },
   {
-    "key": "his",
+    "key": "894c4ae1-0ea4-4986-8d9d-6f80b79879e6",
     "en": "his",
     "pt-pt": "seu",
     "word_type": "pronoun"
   },
   {
-    "key": "i",
+    "key": "e957a2e8-94f3-4c2e-9837-e2b72b330a82",
     "en": "I",
     "pt-pt": "eu",
     "word_type": "pronoun"
   },
   {
-    "key": "me",
+    "key": "392d1f82-8198-440f-82c3-ba03283e5ff6",
     "en": "me",
     "pt-pt": "me",
     "word_type": "pronoun"
   },
   {
-    "key": "mine",
+    "key": "cecf179e-9019-456f-b451-7ba1ef43ca54",
     "en": "mine",
     "pt-pt": "meu",
     "word_type": "pronoun"
   },
   {
-    "key": "myself",
+    "key": "ea60e117-563e-4f4d-b3ac-654a3f708866",
     "en": "myself",
     "pt-pt": "eu mesmo",
     "word_type": "pronoun"
   },
   {
-    "key": "our",
+    "key": "37efcf72-ea06-4693-a59e-bdb5fc09a712",
     "en": "our",
     "pt-pt": "nosso",
     "word_type": "pronoun"
   },
   {
-    "key": "she",
+    "key": "0f921f84-dbf4-4be3-8027-448a14518c94",
     "en": "she",
     "pt-pt": "ela",
     "word_type": "pronoun"
   },
   {
-    "key": "us",
+    "key": "5c48958c-f81b-45c5-9b0c-a417ea36aca1",
     "en": "us",
     "pt-pt": "nós",
     "word_type": "pronoun"
   },
   {
-    "key": "you",
+    "key": "5c39e1de-c771-4c4c-8d75-f86b89066a50",
     "en": "you",
     "pt-pt": "tu",
     "word_type": "pronoun"
   },
   {
-    "key": "your",
+    "key": "d897760d-223a-4be4-b75b-7e7883eee6d3",
     "en": "your",
     "pt-pt": "teu",
     "word_type": "pronoun"
   },
   {
-    "key": "yourself",
+    "key": "1e9ade29-9be4-4e57-a926-b81420fd8c6b",
     "en": "yourself",
     "pt-pt": "tu mesmo",
     "word_type": "pronoun"
   },
   {
-    "key": "one",
+    "key": "6b82c5e3-b5ad-4edd-96b4-374fc41b544c",
     "en": "one",
     "pt-pt": "um",
     "word_type": "other"
   },
   {
-    "key": "two",
+    "key": "adb20841-0409-45c0-920e-2efe6f1cee32",
     "en": "two",
     "pt-pt": "dois",
     "word_type": "other"
   },
   {
-    "key": "three",
+    "key": "d596f03d-cea6-42eb-b9bd-8e2075780569",
     "en": "three",
     "pt-pt": "três",
     "word_type": "other"
   },
   {
-    "key": "four",
+    "key": "281fcbde-3f81-4e63-8b16-108c1b012ba8",
     "en": "four",
     "pt-pt": "quatro",
     "word_type": "other"
   },
   {
-    "key": "five",
+    "key": "bf01b8e6-4538-4905-9d65-e9385550a6f6",
     "en": "five",
     "pt-pt": "cinco",
     "word_type": "other"
   },
   {
-    "key": "six",
+    "key": "729a9b14-f064-4106-af1b-7b2c0835cf46",
     "en": "six",
     "pt-pt": "seis",
     "word_type": "other"
   },
   {
-    "key": "seven",
+    "key": "fce6a6a5-a503-41ca-883a-7cbb7d9f543f",
     "en": "seven",
     "pt-pt": "sete",
     "word_type": "other"
   },
   {
-    "key": "eight",
+    "key": "75796a61-5750-402d-86dd-adcfbb0768b2",
     "en": "eight",
     "pt-pt": "oito",
     "word_type": "other"
   },
   {
-    "key": "nine",
+    "key": "2f0acaf3-a84f-41cc-9447-929787fe9e3c",
     "en": "nine",
     "pt-pt": "nove",
     "word_type": "other"
   },
   {
-    "key": "ten",
+    "key": "229f7b39-cfd8-4319-8f34-4f45477aafb2",
     "en": "ten",
     "pt-pt": "dez",
     "word_type": "other"
   },
   {
-    "key": "eleven",
+    "key": "23ff064b-3cf3-4e78-a540-0aa91de6b6cd",
     "en": "eleven",
     "pt-pt": "onze",
     "word_type": "other"
   },
   {
-    "key": "twelve",
+    "key": "66825c7f-ac51-4af5-85a6-2cd7b8e68caa",
     "en": "twelve",
     "pt-pt": "doze",
     "word_type": "other"
   },
   {
-    "key": "thirteen",
+    "key": "38576438-31c0-41a3-9eba-127edb520651",
     "en": "thirteen",
     "pt-pt": "treze",
     "word_type": "other"
   },
   {
-    "key": "fourteen",
+    "key": "587ccac6-a68c-4e5b-9b1c-6a28532dfba1",
     "en": "fourteen",
     "pt-pt": "catorze",
     "word_type": "other"
   },
   {
-    "key": "fifteen",
+    "key": "0b8a048a-18c0-4f82-b8f0-603e0cde209a",
     "en": "fifteen",
     "pt-pt": "quinze",
     "word_type": "other"
   },
   {
-    "key": "sixteen",
+    "key": "91eefab1-e8a9-48a7-801b-7b5835077b61",
     "en": "sixteen",
     "pt-pt": "dezasseis",
     "word_type": "other"
   },
   {
-    "key": "seventeen",
+    "key": "9f5056ca-55ef-4ff7-bdd7-9a7cb85d77bc",
     "en": "seventeen",
     "pt-pt": "dezassete",
     "word_type": "other"
   },
   {
-    "key": "eighteen",
+    "key": "f70d06ad-94ad-4980-beaf-a98f2b2ebb9d",
     "en": "eighteen",
     "pt-pt": "dezoito",
     "word_type": "other"
   },
   {
-    "key": "nineteen",
+    "key": "8bf4442f-4313-47d7-a011-7adafccf31a1",
     "en": "nineteen",
     "pt-pt": "dezanove",
     "word_type": "other"
   },
   {
-    "key": "twenty",
+    "key": "9394a443-5c87-4ab5-895d-da67048b1b4e",
     "en": "twenty",
     "pt-pt": "vinte",
     "word_type": "other"
   },
   {
-    "key": "thirty",
+    "key": "9895c538-a770-4b8d-97d5-43eebf469ff7",
     "en": "thirty",
     "pt-pt": "trinta",
     "word_type": "other"
   },
   {
-    "key": "forty",
+    "key": "91b9ba84-c223-4c90-b945-058bdd549616",
     "en": "forty",
     "pt-pt": "quarenta",
     "word_type": "other"
   },
   {
-    "key": "fifty",
+    "key": "3861682f-1b05-428a-8986-f530045343ff",
     "en": "fifty",
     "pt-pt": "cinquenta",
     "word_type": "other"

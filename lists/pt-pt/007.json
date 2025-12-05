@@ -1,6 +1,6 @@
 [
   {
-    "key": "drug-medicine",
+    "key": "9b58e47a-6896-4cec-96e7-46ae05330ea4",
     "en": "drug (medicine)",
     "pt-pt": "o medicamento",
     "word_type": "noun",
@@ -8,7 +8,7 @@
     "gender": "masculine"
   },
   {
-    "key": "exercise",
+    "key": "82823b81-a7e0-4061-ab88-9e18da6e5e76",
     "en": "exercise",
     "pt-pt": "o exercício",
     "word_type": "noun",
@@ -16,7 +16,7 @@
     "gender": "masculine"
   },
   {
-    "key": "gym",
+    "key": "e00c61e9-f90f-47ec-9e5b-54dfdfd1442c",
     "en": "gym",
     "pt-pt": "o ginásio",
     "word_type": "noun",
@@ -24,14 +24,14 @@
     "gender": "masculine"
   },
   {
-    "key": "health",
+    "key": "06a5dbf9-5304-4abd-bd42-82c412c037d8",
     "en": "health",
     "pt-pt": "a saúde",
     "word_type": "noun",
     "gender": "feminine"
   },
   {
-    "key": "injury",
+    "key": "3ff164b2-e756-415a-8d2d-7a6421cc16d7",
     "en": "injury",
     "pt-pt": "a lesão",
     "word_type": "noun",
@@ -39,14 +39,14 @@
     "gender": "feminine"
   },
   {
-    "key": "medicine",
+    "key": "11a1e8ef-fe20-4824-b925-a0b897abe588",
     "en": "medicine",
     "pt-pt": "a medicina",
     "word_type": "noun",
     "gender": "feminine"
   },
   {
-    "key": "nurse",
+    "key": "54889914-37a4-44b8-b6a8-6ef7948b6a51",
     "en": "nurse",
     "pt-pt": "o enfermeiro",
     "word_type": "noun",
@@ -54,7 +54,7 @@
     "gender": "masculine"
   },
   {
-    "key": "pain",
+    "key": "37872a1e-6b5a-4bc5-aaf0-2fa9e9563b0c",
     "en": "pain",
     "pt-pt": "a dor",
     "word_type": "noun",
@@ -62,7 +62,7 @@
     "gender": "feminine"
   },
   {
-    "key": "patient",
+    "key": "63f939d3-adc1-45fb-94e5-3a148950a3f8",
     "en": "patient",
     "pt-pt": "o paciente",
     "word_type": "noun",
@@ -70,7 +70,7 @@
     "gender": "masculine"
   },
   {
-    "key": "poison",
+    "key": "6d293241-0889-47ce-a572-ae6c7ffa06f2",
     "en": "poison",
     "pt-pt": "o veneno",
     "word_type": "noun",
@@ -78,7 +78,7 @@
     "gender": "masculine"
   },
   {
-    "key": "aunt",
+    "key": "c451f7ff-add6-4b05-94b0-d67cdd456281",
     "en": "aunt",
     "pt-pt": "a tia",
     "word_type": "noun",
@@ -86,7 +86,7 @@
     "gender": "feminine"
   },
   {
-    "key": "brother",
+    "key": "78211e65-ce50-44d1-8716-ccb59be4c885",
     "en": "brother",
     "pt-pt": "o irmão",
     "word_type": "noun",
@@ -94,7 +94,7 @@
     "gender": "masculine"
   },
   {
-    "key": "cousin",
+    "key": "5028ca5b-e313-4358-b602-a9a128e15975",
     "en": "cousin",
     "pt-pt": "o primo",
     "word_type": "noun",
@@ -102,7 +102,7 @@
     "gender": "masculine"
   },
   {
-    "key": "dad",
+    "key": "83c1600e-4dda-4002-90ca-520be9ddd6db",
     "en": "dad",
     "pt-pt": "o pai",
     "word_type": "noun",
@@ -110,7 +110,7 @@
     "gender": "masculine"
   },
   {
-    "key": "daughter",
+    "key": "85511bb3-bbdf-474e-8105-e4567052b43b",
     "en": "daughter",
     "pt-pt": "a filha",
     "word_type": "noun",
@@ -118,7 +118,7 @@
     "gender": "feminine"
   },
   {
-    "key": "grandfather",
+    "key": "8b177d71-74ec-4926-a2b9-863363ae3526",
     "en": "grandfather",
     "pt-pt": "o avô",
     "word_type": "noun",
@@ -126,7 +126,7 @@
     "gender": "masculine"
   },
   {
-    "key": "grandmother",
+    "key": "1922b690-98b0-4cc2-9068-6d94d0255957",
     "en": "grandmother",
     "pt-pt": "a avó",
     "word_type": "noun",
@@ -134,7 +134,7 @@
     "gender": "feminine"
   },
   {
-    "key": "husband",
+    "key": "7386b2ae-f85a-465f-8e58-403b9f6f884e",
     "en": "husband",
     "pt-pt": "o marido",
     "word_type": "noun",
@@ -142,7 +142,7 @@
     "gender": "masculine"
   },
   {
-    "key": "mother",
+    "key": "90879afe-ae41-488f-99c7-6af768fc26a4",
     "en": "mother",
     "pt-pt": "a mãe",
     "word_type": "noun",
@@ -150,7 +150,7 @@
     "gender": "feminine"
   },
   {
-    "key": "parent",
+    "key": "aba37b87-1145-4bc3-854f-52ccabddccbd",
     "en": "parent",
     "pt-pt": "o progenitor",
     "word_type": "noun",
@@ -158,7 +158,7 @@
     "gender": "masculine"
   },
   {
-    "key": "sister",
+    "key": "1c68d044-02e0-43cd-b03e-e81e1ac9ee0f",
     "en": "sister",
     "pt-pt": "a irmã",
     "word_type": "noun",
@@ -166,7 +166,7 @@
     "gender": "feminine"
   },
   {
-    "key": "son",
+    "key": "1ff59984-f65d-4e6a-8f7f-9bfa9a20cba0",
     "en": "son",
     "pt-pt": "o filho",
     "word_type": "noun",
@@ -174,7 +174,7 @@
     "gender": "masculine"
   },
   {
-    "key": "uncle",
+    "key": "61458e3a-b498-4643-8811-7b6bd118b990",
     "en": "uncle",
     "pt-pt": "o tio",
     "word_type": "noun",
@@ -182,7 +182,7 @@
     "gender": "masculine"
   },
   {
-    "key": "wife",
+    "key": "37e2b16b-c207-4ccb-896f-6aa8451279a6",
     "en": "wife",
     "pt-pt": "a esposa",
     "word_type": "noun",
@@ -190,7 +190,7 @@
     "gender": "feminine"
   },
   {
-    "key": "adult",
+    "key": "c95c98c2-f3e7-459f-aa89-098d820ff47e",
     "en": "adult",
     "pt-pt": "o adulto",
     "word_type": "noun",
@@ -198,7 +198,7 @@
     "gender": "masculine"
   },
   {
-    "key": "baby",
+    "key": "12d23c1d-647c-4242-b139-44972715c67e",
     "en": "baby",
     "pt-pt": "o bebé",
     "word_type": "noun",
@@ -206,7 +206,7 @@
     "gender": "masculine"
   },
   {
-    "key": "boy",
+    "key": "57cc8671-5893-4f0a-aebd-fa279383bda5",
     "en": "boy",
     "pt-pt": "o rapaz",
     "word_type": "noun",
@@ -214,7 +214,7 @@
     "gender": "masculine"
   },
   {
-    "key": "child",
+    "key": "6aa90482-0ed0-4f60-ae99-08b7551c4e28",
     "en": "child",
     "pt-pt": "a criança",
     "word_type": "noun",
@@ -222,7 +222,7 @@
     "gender": "feminine"
   },
   {
-    "key": "girl",
+    "key": "04d5962f-bee3-4946-a2e2-b2f156b8aa1a",
     "en": "girl",
     "pt-pt": "a rapariga",
     "word_type": "noun",
@@ -230,7 +230,7 @@
     "gender": "feminine"
   },
   {
-    "key": "man",
+    "key": "2da38b4d-d471-4c84-8258-cef06a9386f5",
     "en": "man",
     "pt-pt": "o homem",
     "word_type": "noun",
@@ -238,14 +238,14 @@
     "gender": "masculine"
   },
   {
-    "key": "people",
+    "key": "8a94df7f-117b-4cf5-aea6-2ed98f4dd769",
     "en": "people",
     "pt-pt": "as pessoas",
     "word_type": "noun",
     "gender": "feminine"
   },
   {
-    "key": "person",
+    "key": "099cba5f-ea16-4430-93d5-358128eb44c3",
     "en": "person",
     "pt-pt": "a pessoa",
     "word_type": "noun",
@@ -253,7 +253,7 @@
     "gender": "feminine"
   },
   {
-    "key": "woman",
+    "key": "2144db10-b518-4ecd-b9c3-5c7b3107963a",
     "en": "woman",
     "pt-pt": "a mulher",
     "word_type": "noun",
@@ -261,7 +261,7 @@
     "gender": "feminine"
   },
   {
-    "key": "boyfriend",
+    "key": "e8e8f4f9-c592-491e-b7a3-9f814c1fbb20",
     "en": "boyfriend",
     "pt-pt": "o namorado",
     "word_type": "noun",
@@ -269,7 +269,7 @@
     "gender": "masculine"
   },
   {
-    "key": "girlfriend",
+    "key": "eb2275da-b160-47b4-9c11-3d65f7d481d4",
     "en": "girlfriend",
     "pt-pt": "a namorada",
     "word_type": "noun",
@@ -277,7 +277,7 @@
     "gender": "feminine"
   },
   {
-    "key": "marriage",
+    "key": "cb2946fb-17fa-4b6a-9e9b-9caedc66f459",
     "en": "marriage",
     "pt-pt": "o casamento",
     "word_type": "noun",
@@ -285,7 +285,7 @@
     "gender": "masculine"
   },
   {
-    "key": "neighbor",
+    "key": "2199329b-338c-4b72-83a6-2b9b44e0884b",
     "en": "neighbor",
     "pt-pt": "o vizinho",
     "word_type": "noun",
@@ -293,7 +293,7 @@
     "gender": "masculine"
   },
   {
-    "key": "partner",
+    "key": "64abac7b-6cdf-4e86-bc48-e5775a1b05e1",
     "en": "partner",
     "pt-pt": "o parceiro",
     "word_type": "noun",
@@ -301,7 +301,7 @@
     "gender": "masculine"
   },
   {
-    "key": "relationship",
+    "key": "646e3d20-2702-41ee-9728-7e775b81957d",
     "en": "relationship",
     "pt-pt": "a relação",
     "word_type": "noun",
@@ -309,7 +309,7 @@
     "gender": "feminine"
   },
   {
-    "key": "cat",
+    "key": "832c753b-d321-48d9-9ded-d1abd02e8416",
     "en": "cat",
     "pt-pt": "o gato",
     "word_type": "noun",
@@ -317,7 +317,7 @@
     "gender": "masculine"
   },
   {
-    "key": "cow",
+    "key": "089d2801-2bdc-4d78-91f5-6ba7d133e393",
     "en": "cow",
     "pt-pt": "a vaca",
     "word_type": "noun",
@@ -325,7 +325,7 @@
     "gender": "feminine"
   },
   {
-    "key": "dog",
+    "key": "d00e64dc-e29e-4bdc-a5f6-6a089c0f84aa",
     "en": "dog",
     "pt-pt": "o cão",
     "word_type": "noun",
@@ -333,7 +333,7 @@
     "gender": "masculine"
   },
   {
-    "key": "horse",
+    "key": "2c2fd169-be82-425c-b72c-f27890b0c66c",
     "en": "horse",
     "pt-pt": "o cavalo",
     "word_type": "noun",
@@ -341,7 +341,7 @@
     "gender": "masculine"
   },
   {
-    "key": "mouse",
+    "key": "0f27a904-5739-4a32-8c65-4c7734d0fe49",
     "en": "mouse",
     "pt-pt": "o rato",
     "word_type": "noun",
@@ -349,7 +349,7 @@
     "gender": "masculine"
   },
   {
-    "key": "pig",
+    "key": "f9d80448-1a8a-4c88-8fd9-d3e6e75fda1e",
     "en": "pig",
     "pt-pt": "o porco",
     "word_type": "noun",
@@ -357,7 +357,7 @@
     "gender": "masculine"
   },
   {
-    "key": "sheep",
+    "key": "f9224096-7a40-4dfb-81f6-cbe69d030fbc",
     "en": "sheep",
     "pt-pt": "a ovelha",
     "word_type": "noun",
@@ -365,7 +365,7 @@
     "gender": "feminine"
   },
   {
-    "key": "bee",
+    "key": "82aba5f0-6fea-4f7c-b3f1-e477f37221fa",
     "en": "bee",
     "pt-pt": "a abelha",
     "word_type": "noun",
@@ -373,7 +373,7 @@
     "gender": "feminine"
   },
   {
-    "key": "bird",
+    "key": "29b70d8c-68ee-4593-94d2-99684cb2c584",
     "en": "bird",
     "pt-pt": "o pássaro",
     "word_type": "noun",
@@ -381,7 +381,7 @@
     "gender": "masculine"
   },
   {
-    "key": "fish",
+    "key": "931eb408-89c5-48cd-b51b-b4fef2353398",
     "en": "fish",
     "pt-pt": "o peixe",
     "word_type": "noun",
@@ -389,7 +389,7 @@
     "gender": "masculine"
   },
   {
-    "key": "snake",
+    "key": "5c696b8e-8a33-4b9d-a1ca-30482c2a8100",
     "en": "snake",
     "pt-pt": "a serpente",
     "word_type": "noun",

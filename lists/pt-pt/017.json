@@ -5,7 +5,7 @@
     "word_type": "noun",
     "plural_form": "os meios",
     "gender": "masculine",
-    "key": "middle"
+    "key": "836c6449-8906-4683-8a64-a88e607a92ea"
   },
   {
     "pt-pt": "o tipo",
@@ -13,13 +13,13 @@
     "word_type": "noun",
     "plural_form": "os tipos",
     "gender": "masculine",
-    "key": "type"
+    "key": "e3c8872d-cf23-436a-b953-e3dea58bd9fc"
   },
   {
     "pt-pt": "enquanto",
     "en": "while",
     "word_type": "conjunction",
-    "key": "while"
+    "key": "fff5b342-b248-4efa-b691-524e046a44a8"
   },
   {
     "pt-pt": "a verdade",
@@ -27,13 +27,13 @@
     "word_type": "noun",
     "plural_form": "as verdades",
     "gender": "feminine",
-    "key": "truth"
+    "key": "ea3a0228-5624-4dc2-8951-499af5d15550"
   },
   {
     "pt-pt": "vocês",
     "en": "you (plural)",
     "word_type": "pronoun",
-    "key": "you-plural"
+    "key": "7064557b-3eb0-4dad-a31a-f9d9565a6b3c"
   },
   {
     "pt-pt": "a foto",
@@ -41,7 +41,7 @@
     "word_type": "noun",
     "plural_form": "as fotos",
     "gender": "feminine",
-    "key": "photo"
+    "key": "b3b96144-e41a-458e-a843-35642896e235"
   },
   {
     "pt-pt": "nacional",
@@ -50,7 +50,7 @@
     "positive": "nacional",
     "comparative": "mais nacional",
     "superlative": "o mais nacional",
-    "key": "national"
+    "key": "b7ad2212-a49c-4be6-8f8d-03cd73933558"
   },
   {
     "pt-pt": "o país",
@@ -58,13 +58,13 @@
     "word_type": "noun",
     "plural_form": "os países",
     "gender": "masculine",
-    "key": "country"
+    "key": "5b123639-21f0-46e6-9729-db4e9a10031b"
   },
   {
     "pt-pt": "quanto",
     "en": "how much",
     "word_type": "adverb",
-    "key": "how-much"
+    "key": "09b5493b-4bcf-4794-bc1c-e0cbb46d66c9"
   },
   {
     "pt-pt": "a volta",
@@ -72,7 +72,7 @@
     "word_type": "noun",
     "plural_form": "as voltas",
     "gender": "feminine",
-    "key": "return"
+    "key": "384cd1b1-a7f2-4161-9e51-7bd882b7da57"
   },
   {
     "pt-pt": "a conta",
@@ -80,7 +80,7 @@
     "word_type": "noun",
     "plural_form": "as contas",
     "gender": "feminine",
-    "key": "account"
+    "key": "ee66cc72-e4e7-4819-878a-e512db1b5814"
   },
   {
     "pt-pt": "a família",
@@ -88,7 +88,7 @@
     "word_type": "noun",
     "plural_form": "as famílias",
     "gender": "feminine",
-    "key": "family"
+    "key": "ba4809b0-73b3-4310-8396-e6307ba61f7b"
   },
   {
     "pt-pt": "final",
@@ -97,7 +97,7 @@
     "positive": "final",
     "comparative": "mais final",
     "superlative": "o mais final",
-    "key": "final"
+    "key": "bae67087-811b-4c50-9ddb-a7c82f2a5c7c"
   },
   {
     "pt-pt": "parecer",
@@ -109,7 +109,7 @@
     "second_person_plural": "vós pareceis",
     "third_person_singular": "ele/ela parece",
     "third_person_plural": "eles/elas parecem",
-    "key": "to-seem"
+    "key": "f2e2258e-5fe1-4015-9a0c-72301c78841f"
   },
   {
     "pt-pt": "o acordo",
@@ -117,13 +117,13 @@
     "word_type": "noun",
     "plural_form": "os acordos",
     "gender": "masculine",
-    "key": "agreement"
+    "key": "be92a909-b369-4495-a958-25a69bd4a152"
   },
   {
     "pt-pt": "num",
     "en": "in a (contraction)",
     "word_type": "preposition",
-    "key": "in-a-contraction"
+    "key": "7f66c468-50bd-426d-b693-2866e2229dc7"
   },
   {
     "pt-pt": "o pai",
@@ -131,13 +131,13 @@
     "word_type": "noun",
     "plural_form": "os pais",
     "gender": "masculine",
-    "key": "father"
+    "key": "c766a526-67a3-4826-9403-d17df7b58adf"
   },
   {
     "pt-pt": "tanto",
     "en": "so much",
     "word_type": "adverb",
-    "key": "so-much"
+    "key": "7da32ed5-bc06-46e6-bc4a-ea37222d7f80"
   },
   {
     "pt-pt": "o vídeo",
@@ -145,19 +145,19 @@
     "word_type": "noun",
     "plural_form": "os vídeos",
     "gender": "masculine",
-    "key": "video"
+    "key": "8b5f3578-b514-4413-9d26-ee6765c489ac"
   },
   {
     "pt-pt": "disso",
     "en": "of that",
     "word_type": "pronoun",
-    "key": "of-that"
+    "key": "53029c2c-aeb9-4218-a607-7b1717eabe05"
   },
   {
     "pt-pt": "dele",
     "en": "of him",
     "word_type": "pronoun",
-    "key": "of-him"
+    "key": "4a0b5390-2880-4b63-a0b1-6fde84654d06"
   },
   {
     "pt-pt": "o direito",
@@ -165,13 +165,13 @@
     "word_type": "noun",
     "plural_form": "os direitos",
     "gender": "masculine",
-    "key": "right"
+    "key": "52c047ea-c71d-436d-8a4f-4c6757d80e34"
   },
   {
     "pt-pt": "tarde",
     "en": "late",
     "word_type": "adverb",
-    "key": "late"
+    "key": "d4a3927a-5244-42e9-b0bb-6e90aa64c6b7"
   },
   {
     "pt-pt": "local",
@@ -180,7 +180,7 @@
     "positive": "local",
     "comparative": "mais local",
     "superlative": "o mais local",
-    "key": "local"
+    "key": "c456c436-2906-4657-a227-ed9833d4927e"
   },
   {
     "pt-pt": "o amigo",
@@ -188,7 +188,7 @@
     "word_type": "noun",
     "plural_form": "os amigos",
     "gender": "masculine",
-    "key": "friend"
+    "key": "99f08bb1-95b1-4ab9-bf19-9adf5cbf88fb"
   },
   {
     "pt-pt": "brasileiro",
@@ -197,7 +197,7 @@
     "positive": "brasileiro",
     "comparative": "mais brasileiro",
     "superlative": "o mais brasileiro",
-    "key": "brazilian"
+    "key": "b9268fb0-a313-4757-be1b-ba2b95e356e5"
   },
   {
     "pt-pt": "o projeto",
@@ -205,7 +205,7 @@
     "word_type": "noun",
     "plural_form": "os projetos",
     "gender": "masculine",
-    "key": "project"
+    "key": "e546eea5-504f-4503-9d3e-6f89d916114d"
   },
   {
     "pt-pt": "a região",
@@ -213,7 +213,7 @@
     "word_type": "noun",
     "plural_form": "as regiões",
     "gender": "feminine",
-    "key": "region"
+    "key": "93060c34-5382-43d4-aa0d-0a594e88a1bc"
   },
   {
     "pt-pt": "sair",
@@ -225,14 +225,14 @@
     "second_person_plural": "vós saís",
     "third_person_singular": "ele/ela sai",
     "third_person_plural": "eles/elas saem",
-    "key": "to-go-out"
+    "key": "35a11bfa-c985-471a-a717-9bef83d00e47"
   },
   {
     "pt-pt": "o sul",
     "en": "south",
     "word_type": "noun",
     "gender": "masculine",
-    "key": "south"
+    "key": "c8624018-74d6-40c0-b446-e4d5774ff8ce"
   },
   {
     "pt-pt": "público",
@@ -241,7 +241,7 @@
     "positive": "público",
     "comparative": "mais público",
     "superlative": "o mais público",
-    "key": "public"
+    "key": "c5e73c51-6fa2-4bfb-b662-fe19be38e05d"
   },
   {
     "pt-pt": "o site",
@@ -249,13 +249,13 @@
     "word_type": "noun",
     "plural_form": "os sites",
     "gender": "masculine",
-    "key": "website"
+    "key": "e4c21d1e-0a08-41a4-bd73-7e3e673e31bc"
   },
   {
     "pt-pt": "comigo",
     "en": "with me",
     "word_type": "pronoun",
-    "key": "with-me"
+    "key": "63f3597a-435a-4e15-831d-869a0fa7f4ed"
   },
   {
     "pt-pt": "o filme",
@@ -263,7 +263,7 @@
     "word_type": "noun",
     "plural_form": "os filmes",
     "gender": "masculine",
-    "key": "film"
+    "key": "fcf9d02c-ed15-4204-888e-d544ad789231"
   },
   {
     "pt-pt": "haver",
@@ -275,13 +275,13 @@
     "second_person_plural": "vós haveis",
     "third_person_singular": "ele/ela há",
     "third_person_plural": "eles/elas hão",
-    "key": "to-exist"
+    "key": "737d075a-df79-4ead-a3cb-a332b4dbbdd2"
   },
   {
     "pt-pt": "mal",
     "en": "badly",
     "word_type": "adverb",
-    "key": "badly"
+    "key": "10c18421-62cd-4b92-b760-6f194a92241f"
   },
   {
     "pt-pt": "geral",
@@ -290,13 +290,13 @@
     "positive": "geral",
     "comparative": "mais geral",
     "superlative": "o mais geral",
-    "key": "general"
+    "key": "6eede1ba-3157-4c56-a523-3f76b0d15baf"
   },
   {
     "pt-pt": "lhe",
     "en": "to him/her",
     "word_type": "pronoun",
-    "key": "to-him-her"
+    "key": "6f471f2f-2ecc-4b07-be67-170d5602659d"
   },
   {
     "pt-pt": "o programa",
@@ -304,7 +304,7 @@
     "word_type": "noun",
     "plural_form": "os programas",
     "gender": "masculine",
-    "key": "program"
+    "key": "2427c496-ac54-4372-ba9e-bc82ebd33d3b"
   },
   {
     "pt-pt": "social",
@@ -313,7 +313,7 @@
     "positive": "social",
     "comparative": "mais social",
     "superlative": "o mais social",
-    "key": "social"
+    "key": "cda7dd18-f8e5-4973-97f0-1ff02bb13ddf"
   },
   {
     "pt-pt": "vários",
@@ -322,7 +322,7 @@
     "positive": "vários",
     "comparative": "mais vários",
     "superlative": "o mais vários",
-    "key": "several"
+    "key": "1d945d9b-e938-408f-90d8-24ecb53c02fb"
   },
   {
     "pt-pt": "a equipa",
@@ -330,7 +330,7 @@
     "word_type": "noun",
     "plural_form": "as equipas",
     "gender": "feminine",
-    "key": "team"
+    "key": "5f18e799-f342-49ac-9f2f-3ee33e1334ce"
   },
   {
     "pt-pt": "feito",
@@ -339,13 +339,13 @@
     "positive": "feito",
     "comparative": "mais feito",
     "superlative": "o mais feito",
-    "key": "made"
+    "key": "18facfa8-a1ab-4426-bf7f-70eea580e597"
   },
   {
     "pt-pt": "neste",
     "en": "in this",
     "word_type": "preposition",
-    "key": "in-this"
+    "key": "0d48448b-a2e2-4e8e-ab19-04df5f411c55"
   },
   {
     "pt-pt": "a segurança",
@@ -353,7 +353,7 @@
     "word_type": "noun",
     "plural_form": "as seguranças",
     "gender": "feminine",
-    "key": "security"
+    "key": "fc4d5a01-88b0-4483-b09b-d3a1a8048e1b"
   },
   {
     "pt-pt": "a falta",
@@ -361,7 +361,7 @@
     "word_type": "noun",
     "plural_form": "as faltas",
     "gender": "feminine",
-    "key": "lack"
+    "key": "dec45700-1178-4f26-99cc-694d4deb4383"
   },
   {
     "pt-pt": "o favor",
@@ -369,7 +369,7 @@
     "word_type": "noun",
     "plural_form": "os favores",
     "gender": "masculine",
-    "key": "favor"
+    "key": "fc94b55f-e1ea-4291-9228-41454138bf19"
   },
   {
     "pt-pt": "a série",
@@ -377,7 +377,7 @@
     "word_type": "noun",
     "plural_form": "as séries",
     "gender": "feminine",
-    "key": "series"
+    "key": "992fb3ff-b768-4f33-bb9d-32a2d351c516"
   },
   {
     "pt-pt": "a causa",
@@ -385,7 +385,7 @@
     "word_type": "noun",
     "plural_form": "as causas",
     "gender": "feminine",
-    "key": "cause"
+    "key": "6d058ad5-a283-45f3-a512-8b20f75d8e11"
   },
   {
     "pt-pt": "o uso",
@@ -393,6 +393,6 @@
     "word_type": "noun",
     "plural_form": "os usos",
     "gender": "masculine",
-    "key": "use"
+    "key": "2122aaf4-9e27-47ac-a910-1e222a4b4834"
   }
 ]

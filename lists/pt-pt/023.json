@@ -5,7 +5,7 @@
     "word_type": "noun",
     "plural_form": "as zonas",
     "gender": "feminine",
-    "key": "zone"
+    "key": "20d05974-7524-4f33-b99f-65ea328c39f2"
   },
   {
     "pt-pt": "o animal",
@@ -13,7 +13,7 @@
     "word_type": "noun",
     "plural_form": "os animais",
     "gender": "masculine",
-    "key": "animal"
+    "key": "2c635725-d3c7-42c0-9db1-3f174843bb28"
   },
   {
     "pt-pt": "certo",
@@ -22,7 +22,7 @@
     "positive": "certo",
     "comparative": "mais certo",
     "superlative": "o mais certo",
-    "key": "certain"
+    "key": "86c34aec-adb9-45d8-9f70-7b128b582c5c"
   },
   {
     "pt-pt": "o interior",
@@ -30,7 +30,7 @@
     "word_type": "noun",
     "plural_form": "os interiores",
     "gender": "masculine",
-    "key": "interior"
+    "key": "ff9c624e-235a-4f7f-a9b6-447abbc9e8d5"
   },
   {
     "pt-pt": "a licença",
@@ -38,7 +38,7 @@
     "word_type": "noun",
     "plural_form": "as licenças",
     "gender": "feminine",
-    "key": "license"
+    "key": "132a1319-63b9-47a6-a547-22ef33bf7c75"
   },
   {
     "pt-pt": "o município",
@@ -46,7 +46,7 @@
     "word_type": "noun",
     "plural_form": "os municípios",
     "gender": "masculine",
-    "key": "municipality"
+    "key": "0d072dfc-260a-4a8d-98eb-59105104d0d0"
   },
   {
     "pt-pt": "a média",
@@ -54,7 +54,7 @@
     "word_type": "noun",
     "plural_form": "as médias",
     "gender": "feminine",
-    "key": "average"
+    "key": "f3fd72ee-3f01-4dad-a3e1-f122721a1097"
   },
   {
     "pt-pt": "médio",
@@ -63,14 +63,14 @@
     "positive": "médio",
     "comparative": "mais médio",
     "superlative": "o mais médio",
-    "key": "medium"
+    "key": "15680d71-fa39-4003-a608-f0d289008747"
   },
   {
     "pt-pt": "os negócios",
     "en": "businesses",
     "word_type": "noun",
     "gender": "masculine",
-    "key": "businesses"
+    "key": "6dec4995-18c4-466f-99f2-01dbb7455232"
   },
   {
     "pt-pt": "a qualidade",
@@ -78,7 +78,7 @@
     "word_type": "noun",
     "plural_form": "as qualidades",
     "gender": "feminine",
-    "key": "quality"
+    "key": "534f0c5b-2332-4a1c-a2ac-51e6e1f3a241"
   },
   {
     "pt-pt": "o telemóvel",
@@ -86,7 +86,7 @@
     "word_type": "noun",
     "plural_form": "os telemóveis",
     "gender": "masculine",
-    "key": "mobile-phone"
+    "key": "13a27509-8e9c-49cc-97a9-bc53d8a08055"
   },
   {
     "pt-pt": "o corte",
@@ -94,7 +94,7 @@
     "word_type": "noun",
     "plural_form": "os cortes",
     "gender": "masculine",
-    "key": "cut"
+    "key": "15026d7b-8446-4ca0-9b46-86e711ed0b46"
   },
   {
     "pt-pt": "a ilha",
@@ -102,7 +102,7 @@
     "word_type": "noun",
     "plural_form": "as ilhas",
     "gender": "feminine",
-    "key": "island"
+    "key": "3b7a393f-7e63-4f36-b46f-3783aced2d27"
   },
   {
     "pt-pt": "a marca",
@@ -110,7 +110,7 @@
     "word_type": "noun",
     "plural_form": "as marcas",
     "gender": "feminine",
-    "key": "brand"
+    "key": "e259cdef-4b3b-463b-8a56-9d45ff4f606b"
   },
   {
     "pt-pt": "a medida",
@@ -118,7 +118,7 @@
     "word_type": "noun",
     "plural_form": "as medidas",
     "gender": "feminine",
-    "key": "measure"
+    "key": "1c36332b-5e86-4c19-b395-67eebf41da44"
   },
   {
     "pt-pt": "natural",
@@ -127,7 +127,7 @@
     "positive": "natural",
     "comparative": "mais natural",
     "superlative": "o mais natural",
-    "key": "natural"
+    "key": "84006e17-4e21-45a9-a230-d072b7b8cea8"
   },
   {
     "pt-pt": "o perfil",
@@ -135,7 +135,7 @@
     "word_type": "noun",
     "plural_form": "os perfis",
     "gender": "masculine",
-    "key": "profile"
+    "key": "36b99a9f-255f-4c57-bc50-4d3a6e2483b6"
   },
   {
     "pt-pt": "preso",
@@ -144,7 +144,7 @@
     "positive": "preso",
     "comparative": "mais preso",
     "superlative": "o mais preso",
-    "key": "imprisoned"
+    "key": "95368473-a55f-44dc-b8d9-16210aa675cb"
   },
   {
     "pt-pt": "o utilizador",
@@ -152,7 +152,7 @@
     "word_type": "noun",
     "plural_form": "os utilizadores",
     "gender": "masculine",
-    "key": "user"
+    "key": "1e39c2bf-754b-44d5-8538-280bfa058bf0"
   },
   {
     "pt-pt": "apresentar",
@@ -164,7 +164,7 @@
     "second_person_plural": "apresentais",
     "third_person_singular": "apresenta",
     "third_person_plural": "apresentam",
-    "key": "to-present"
+    "key": "66303162-7f6a-43c8-9df9-fdbc968db348"
   },
   {
     "pt-pt": "contrário",
@@ -173,7 +173,7 @@
     "positive": "contrário",
     "comparative": "mais contrário",
     "superlative": "o mais contrário",
-    "key": "contrary"
+    "key": "59e143e4-09fe-4163-9072-7aa3ecc6c67b"
   },
   {
     "pt-pt": "a esquerda",
@@ -181,7 +181,7 @@
     "word_type": "noun",
     "plural_form": "as esquerdas",
     "gender": "feminine",
-    "key": "left"
+    "key": "96902cb6-3ba1-439e-836f-a23507b83dce"
   },
   {
     "pt-pt": "incrível",
@@ -190,7 +190,7 @@
     "positive": "incrível",
     "comparative": "mais incrível",
     "superlative": "o mais incrível",
-    "key": "incredible"
+    "key": "c4a1a24e-ec1a-406e-9ffb-cced3f63f9f5"
   },
   {
     "pt-pt": "menor",
@@ -199,7 +199,7 @@
     "positive": "pequeno",
     "comparative": "menor",
     "superlative": "o menor",
-    "key": "smaller"
+    "key": "3c6cbdfa-b87f-4489-987a-c9add309570b"
   },
   {
     "pt-pt": "a natureza",
@@ -207,7 +207,7 @@
     "word_type": "noun",
     "plural_form": "as naturezas",
     "gender": "feminine",
-    "key": "nature"
+    "key": "2bdd339e-b9ff-4b07-b2b6-ee336d9bde7f"
   },
   {
     "pt-pt": "a visão",
@@ -215,7 +215,7 @@
     "word_type": "noun",
     "plural_form": "as visões",
     "gender": "feminine",
-    "key": "vision"
+    "key": "a6fc6be6-bed0-4210-9f3e-a0ec4a5b7255"
   },
   {
     "pt-pt": "a capacidade",
@@ -223,7 +223,7 @@
     "word_type": "noun",
     "plural_form": "as capacidades",
     "gender": "feminine",
-    "key": "capacity"
+    "key": "80a6cd55-732f-41a0-94c4-ca619696b6e8"
   },
   {
     "pt-pt": "capaz",
@@ -232,7 +232,7 @@
     "positive": "capaz",
     "comparative": "mais capaz",
     "superlative": "o mais capaz",
-    "key": "capable"
+    "key": "201b3195-0129-49a0-8f79-68da026eaf55"
   },
   {
     "pt-pt": "a carta",
@@ -240,7 +240,7 @@
     "word_type": "noun",
     "plural_form": "as cartas",
     "gender": "feminine",
-    "key": "letter"
+    "key": "692a16d4-486b-4e48-ac01-5a0b0b17af41"
   },
   {
     "pt-pt": "o conjunto",
@@ -248,21 +248,21 @@
     "word_type": "noun",
     "plural_form": "os conjuntos",
     "gender": "masculine",
-    "key": "set"
+    "key": "b772046e-a5ae-4fcc-b4b1-f6323929fff0"
   },
   {
     "pt-pt": "a fome",
     "en": "hunger",
     "word_type": "noun",
     "gender": "feminine",
-    "key": "hunger"
+    "key": "4c9f70cb-15de-4776-81eb-7357d68e0109"
   },
   {
     "pt-pt": "o leste",
     "en": "east",
     "word_type": "noun",
     "gender": "masculine",
-    "key": "east"
+    "key": "4dde808a-5ec2-4ac1-994b-cd3cc6bd7fa7"
   },
   {
     "pt-pt": "matar",
@@ -274,7 +274,7 @@
     "second_person_plural": "matais",
     "third_person_singular": "mata",
     "third_person_plural": "matam",
-    "key": "to-kill"
+    "key": "24106d97-9936-4851-bb26-b6ca308d461b"
   },
   {
     "pt-pt": "a proposta",
@@ -282,7 +282,7 @@
     "word_type": "noun",
     "plural_form": "as propostas",
     "gender": "feminine",
-    "key": "proposal"
+    "key": "592a9694-6110-4b5f-a55b-40280a1994c2"
   },
   {
     "pt-pt": "o transporte",
@@ -290,7 +290,7 @@
     "word_type": "noun",
     "plural_form": "os transportes",
     "gender": "masculine",
-    "key": "transport"
+    "key": "59607263-b96b-420d-b2c2-82514d4b6393"
   },
   {
     "pt-pt": "a conta",
@@ -298,7 +298,7 @@
     "word_type": "noun",
     "plural_form": "as contas",
     "gender": "feminine",
-    "key": "bill"
+    "key": "f4c8ea49-9aba-4d43-bc51-f9b4b2ef1176"
   },
   {
     "pt-pt": "a cor",
@@ -306,7 +306,7 @@
     "word_type": "noun",
     "plural_form": "as cores",
     "gender": "feminine",
-    "key": "color"
+    "key": "b3b10ecd-6696-4b12-b213-c0c4feed378f"
   },
   {
     "pt-pt": "a culpa",
@@ -314,7 +314,7 @@
     "word_type": "noun",
     "plural_form": "as culpas",
     "gender": "feminine",
-    "key": "guilt"
+    "key": "13c89906-70cd-4926-b4c7-9854bc7ef237"
   },
   {
     "pt-pt": "dado",
@@ -323,7 +323,7 @@
     "positive": "dado",
     "comparative": "mais dado",
     "superlative": "o mais dado",
-    "key": "given"
+    "key": "43741d82-539c-4e43-b109-5a4c8d97b4ae"
   },
   {
     "pt-pt": "o departamento",
@@ -331,7 +331,7 @@
     "word_type": "noun",
     "plural_form": "os departamentos",
     "gender": "masculine",
-    "key": "department"
+    "key": "1735830f-dadc-4179-8386-09a922dd4b13"
   },
   {
     "pt-pt": "a eleição",
@@ -339,7 +339,7 @@
     "word_type": "noun",
     "plural_form": "as eleições",
     "gender": "feminine",
-    "key": "election"
+    "key": "bfa91c1c-4148-476d-99b1-c885b81ff607"
   },
   {
     "pt-pt": "a estrutura",
@@ -347,7 +347,7 @@
     "word_type": "noun",
     "plural_form": "as estruturas",
     "gender": "feminine",
-    "key": "structure"
+    "key": "f09c29e7-bb87-4354-a1b9-a161abc9992c"
   },
   {
     "pt-pt": "a importância",
@@ -355,7 +355,7 @@
     "word_type": "noun",
     "plural_form": "as importâncias",
     "gender": "feminine",
-    "key": "importance"
+    "key": "2f6aac65-7543-405d-b051-3749ce8d908c"
   },
   {
     "pt-pt": "interessante",
@@ -364,7 +364,7 @@
     "positive": "interessante",
     "comparative": "mais interessante",
     "superlative": "o mais interessante",
-    "key": "interesting"
+    "key": "3173971f-d8a2-488b-bb2f-6b096d6e917a"
   },
   {
     "pt-pt": "a operação",
@@ -372,7 +372,7 @@
     "word_type": "noun",
     "plural_form": "as operações",
     "gender": "feminine",
-    "key": "operation"
+    "key": "dc227750-d6cf-496c-b193-d715969cee79"
   },
   {
     "pt-pt": "a origem",
@@ -380,7 +380,7 @@
     "word_type": "noun",
     "plural_form": "as origens",
     "gender": "feminine",
-    "key": "origin"
+    "key": "6c5d8ac7-2bf9-40a8-b4c6-1671d543cdba"
   },
   {
     "pt-pt": "o risco",
@@ -388,7 +388,7 @@
     "word_type": "noun",
     "plural_form": "os riscos",
     "gender": "masculine",
-    "key": "risk"
+    "key": "c3c287db-f00d-4b65-8989-840560647dd0"
   },
   {
     "pt-pt": "usado",
@@ -397,7 +397,7 @@
     "positive": "usado",
     "comparative": "mais usado",
     "superlative": "o mais usado",
-    "key": "used"
+    "key": "9f23aef8-5a3b-4957-afa1-21fe2495070d"
   },
   {
     "pt-pt": "a beleza",
@@ -405,7 +405,7 @@
     "word_type": "noun",
     "plural_form": "as belezas",
     "gender": "feminine",
-    "key": "beauty"
+    "key": "c6089d3a-21c5-4f35-86ed-b26203819a37"
   },
   {
     "pt-pt": "o cabo",
@@ -413,6 +413,6 @@
     "word_type": "noun",
     "plural_form": "os cabos",
     "gender": "masculine",
-    "key": "cable"
+    "key": "dd2cc8c4-d433-40c5-83d2-d97656d56be1"
   }
 ]

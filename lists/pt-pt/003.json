@@ -1,6 +1,6 @@
 [
   {
-    "key": "date-calendar",
+    "key": "c8121144-1698-4f9a-8edc-bad494be83fd",
     "en": "date (calendar)",
     "pt-pt": "a data",
     "word_type": "noun",
@@ -8,7 +8,7 @@
     "gender": "feminine"
   },
   {
-    "key": "birthday",
+    "key": "67e8b508-65a3-4529-a0b7-feef47a4fd12",
     "en": "birthday",
     "pt-pt": "o aniversário",
     "word_type": "noun",
@@ -16,7 +16,7 @@
     "gender": "masculine"
   },
   {
-    "key": "holiday",
+    "key": "acc968fe-e970-42a5-9028-2ce812ca9784",
     "en": "holiday",
     "pt-pt": "o feriado",
     "word_type": "noun",
@@ -24,7 +24,7 @@
     "gender": "masculine"
   },
   {
-    "key": "vacation",
+    "key": "a95dca29-c1ae-4e37-934d-3463847243d9",
     "en": "vacation",
     "pt-pt": "as férias",
     "word_type": "noun",
@@ -32,7 +32,7 @@
     "gender": "feminine"
   },
   {
-    "key": "season",
+    "key": "38c59fbf-3a3c-49ee-8b90-5c59e325f06d",
     "en": "season",
     "pt-pt": "a estação",
     "word_type": "noun",
@@ -40,7 +40,7 @@
     "gender": "feminine"
   },
   {
-    "key": "to-smell",
+    "key": "9c1f16ff-6b10-41c0-ab95-362e44a06186",
     "en": "to smell",
     "pt-pt": "cheirar",
     "word_type": "verb",
@@ -52,7 +52,7 @@
     "third_person_plural": "eles/elas cheiram"
   },
   {
-    "key": "to-taste",
+    "key": "21f163cc-e5c7-4a4f-9529-1260b90c8468",
     "en": "to taste",
     "pt-pt": "provar",
     "word_type": "verb",
@@ -64,7 +64,7 @@
     "third_person_plural": "eles/elas provam"
   },
   {
-    "key": "smell",
+    "key": "15beef5d-4923-4a5f-ac6f-06414cf734a7",
     "en": "smell",
     "pt-pt": "o cheiro",
     "word_type": "noun",
@@ -72,7 +72,7 @@
     "gender": "masculine"
   },
   {
-    "key": "scent",
+    "key": "ed76b4c8-97a6-465a-ab61-fb9e092f1b41",
     "en": "scent",
     "pt-pt": "o perfume",
     "word_type": "noun",
@@ -80,7 +80,7 @@
     "gender": "masculine"
   },
   {
-    "key": "taste-sense-ability",
+    "key": "991a806f-2aa9-462d-aa7e-42706de28216",
     "en": "taste (sense/ability)",
     "pt-pt": "o sabor",
     "word_type": "noun",
@@ -88,7 +88,7 @@
     "gender": "masculine"
   },
   {
-    "key": "sweet",
+    "key": "562af4c6-5330-4526-82ea-3ffdc871efb3",
     "en": "sweet",
     "pt-pt": "doce",
     "word_type": "adjective",
@@ -97,7 +97,7 @@
     "superlative": "o mais doce"
   },
   {
-    "key": "sour",
+    "key": "9e2d18da-0800-4c14-b01b-bd8af284c6bd",
     "en": "sour",
     "pt-pt": "azedo",
     "word_type": "adjective",
@@ -106,7 +106,7 @@
     "superlative": "o mais azedo"
   },
   {
-    "key": "bitter",
+    "key": "bd73f43d-05e6-409e-b752-874c29021312",
     "en": "bitter",
     "pt-pt": "amargo",
     "word_type": "adjective",
@@ -115,7 +115,7 @@
     "superlative": "o mais amargo"
   },
   {
-    "key": "salty",
+    "key": "15f5521b-8db6-47fc-a241-f1908706399a",
     "en": "salty",
     "pt-pt": "salgado",
     "word_type": "adjective",
@@ -124,7 +124,7 @@
     "superlative": "o mais salgado"
   },
   {
-    "key": "spicy",
+    "key": "de53cc35-a4b1-4c01-b4df-adf3d8d64054",
     "en": "spicy",
     "pt-pt": "picante",
     "word_type": "adjective",
@@ -133,7 +133,7 @@
     "superlative": "o mais picante"
   },
   {
-    "key": "delicious",
+    "key": "7907f250-6fcf-4c18-885a-a769806a038f",
     "en": "delicious",
     "pt-pt": "delicioso",
     "word_type": "adjective",
@@ -142,7 +142,7 @@
     "superlative": "o mais delicioso"
   },
   {
-    "key": "smooth",
+    "key": "7364fa69-c9e6-44cf-83b7-2cba60a3098f",
     "en": "smooth",
     "pt-pt": "suave",
     "word_type": "adjective",
@@ -151,7 +151,7 @@
     "superlative": "o mais suave"
   },
   {
-    "key": "rough",
+    "key": "19101780-6c28-456b-89eb-6adb1134bccf",
     "en": "rough",
     "pt-pt": "áspero",
     "word_type": "adjective",
@@ -160,7 +160,7 @@
     "superlative": "o mais áspero"
   },
   {
-    "key": "sharp",
+    "key": "2a0eab90-9fdb-4b2b-a416-dc38115e05c3",
     "en": "sharp",
     "pt-pt": "afiado",
     "word_type": "adjective",
@@ -169,7 +169,7 @@
     "superlative": "o mais afiado"
   },
   {
-    "key": "dull",
+    "key": "62937d30-86a3-4996-b916-6159725483ff",
     "en": "dull",
     "pt-pt": "embotado",
     "word_type": "adjective",
@@ -178,7 +178,7 @@
     "superlative": "o mais embotado"
   },
   {
-    "key": "sticky",
+    "key": "c3937d87-1805-4eb5-8326-b8612fe870c2",
     "en": "sticky",
     "pt-pt": "pegajoso",
     "word_type": "adjective",
@@ -187,7 +187,7 @@
     "superlative": "o mais pegajoso"
   },
   {
-    "key": "slippery",
+    "key": "bf7479b2-3c96-46c2-a717-840187152ef3",
     "en": "slippery",
     "pt-pt": "escorregadio",
     "word_type": "adjective",
@@ -196,7 +196,7 @@
     "superlative": "o mais escorregadio"
   },
   {
-    "key": "angry",
+    "key": "fa4e11e7-ba8f-4ad3-9530-39a34979ff4a",
     "en": "angry",
     "pt-pt": "zangado",
     "word_type": "adjective",
@@ -205,7 +205,7 @@
     "superlative": "o mais zangado"
   },
   {
-    "key": "attention",
+    "key": "2fd6aa31-8480-48c1-8f40-a84e9433a23a",
     "en": "attention",
     "pt-pt": "a atenção",
     "word_type": "noun",
@@ -213,7 +213,7 @@
     "gender": "feminine"
   },
   {
-    "key": "behavior",
+    "key": "5d79abef-8db7-4e3e-99ce-6800af20f270",
     "en": "behavior",
     "pt-pt": "o comportamento",
     "word_type": "noun",
@@ -221,7 +221,7 @@
     "gender": "masculine"
   },
   {
-    "key": "bored",
+    "key": "e0b82c2c-0542-4a1d-8ea3-78d62dc53357",
     "en": "bored",
     "pt-pt": "aborrecido",
     "word_type": "adjective",
@@ -230,7 +230,7 @@
     "superlative": "o mais aborrecido"
   },
   {
-    "key": "comfort",
+    "key": "331157dc-a8a3-423a-8a51-adb98a925f20",
     "en": "comfort",
     "pt-pt": "o conforto",
     "word_type": "noun",
@@ -238,7 +238,7 @@
     "gender": "masculine"
   },
   {
-    "key": "to-decide",
+    "key": "63655f25-1c89-443e-b9a8-aadcc57301e6",
     "en": "to decide",
     "pt-pt": "decidir",
     "word_type": "verb",
@@ -250,7 +250,7 @@
     "third_person_plural": "eles/elas decidem"
   },
   {
-    "key": "decision",
+    "key": "20568dd1-8671-4c6b-8129-67a0f732b8cb",
     "en": "decision",
     "pt-pt": "a decisão",
     "word_type": "noun",
@@ -258,7 +258,7 @@
     "gender": "feminine"
   },
   {
-    "key": "desire",
+    "key": "56d44ab2-983e-4667-b0a6-d1e4189ce9f3",
     "en": "desire",
     "pt-pt": "o desejo",
     "word_type": "noun",
@@ -266,7 +266,7 @@
     "gender": "masculine"
   },
   {
-    "key": "dream",
+    "key": "289d8390-8b91-4638-9a6f-5daaa915e3b6",
     "en": "dream",
     "pt-pt": "o sonho",
     "word_type": "noun",
@@ -274,7 +274,7 @@
     "gender": "masculine"
   },
   {
-    "key": "to-enjoy",
+    "key": "e60a2b47-bbdd-482f-97ac-5950c9611aff",
     "en": "to enjoy",
     "pt-pt": "desfrutar",
     "word_type": "verb",
@@ -286,7 +286,7 @@
     "third_person_plural": "eles/elas desfrutam"
   },
   {
-    "key": "excited",
+    "key": "fc1ba93d-656a-488e-9d68-4e6d88e9955d",
     "en": "excited",
     "pt-pt": "entusiasmado",
     "word_type": "adjective",
@@ -295,7 +295,7 @@
     "superlative": "o mais entusiasmado"
   },
   {
-    "key": "experience",
+    "key": "80e4e87f-2359-4a71-823a-7f33085f4eec",
     "en": "experience",
     "pt-pt": "a experiência",
     "word_type": "noun",
@@ -303,7 +303,7 @@
     "gender": "feminine"
   },
   {
-    "key": "fear",
+    "key": "91691a5b-cf01-49e5-954b-ad60ff8bccc4",
     "en": "fear",
     "pt-pt": "o medo",
     "word_type": "noun",
@@ -311,7 +311,7 @@
     "gender": "masculine"
   },
   {
-    "key": "feeling",
+    "key": "aec4a724-6ceb-4cb9-afec-4bf78dbaad6e",
     "en": "feeling",
     "pt-pt": "o sentimento",
     "word_type": "noun",
@@ -319,7 +319,7 @@
     "gender": "masculine"
   },
   {
-    "key": "happy",
+    "key": "257d961d-81c5-4f0c-a7cb-70a1ad52a582",
     "en": "happy",
     "pt-pt": "feliz",
     "word_type": "adjective",
@@ -328,7 +328,7 @@
     "superlative": "o mais feliz"
   },
   {
-    "key": "to-hate",
+    "key": "08608e13-a149-4028-baf3-120403025a44",
     "en": "to hate",
     "pt-pt": "odiar",
     "word_type": "verb",
@@ -340,7 +340,7 @@
     "third_person_plural": "eles/elas odeiam"
   },
   {
-    "key": "hope",
+    "key": "e47019e7-99fe-4ad0-b25b-1a568cd97406",
     "en": "hope",
     "pt-pt": "a esperança",
     "word_type": "noun",
@@ -348,7 +348,7 @@
     "gender": "feminine"
   },
   {
-    "key": "idea",
+    "key": "5bd16794-c6e9-4ddd-b687-3c517acd8502",
     "en": "idea",
     "pt-pt": "a ideia",
     "word_type": "noun",
@@ -356,7 +356,7 @@
     "gender": "feminine"
   },
   {
-    "key": "to-imagine",
+    "key": "55ac18f0-1e80-4d8a-8a81-e4897e448adc",
     "en": "to imagine",
     "pt-pt": "imaginar",
     "word_type": "verb",
@@ -368,7 +368,7 @@
     "third_person_plural": "eles/elas imaginam"
   },
   {
-    "key": "interest",
+    "key": "4db6d6b0-7fe8-464a-b3a2-0d03d61d7138",
     "en": "interest",
     "pt-pt": "o interesse",
     "word_type": "noun",
@@ -376,7 +376,7 @@
     "gender": "masculine"
   },
   {
-    "key": "knowledge",
+    "key": "c4efc9e3-0fb6-491d-911e-504c1689bf64",
     "en": "knowledge",
     "pt-pt": "o conhecimento",
     "word_type": "noun",
@@ -384,7 +384,7 @@
     "gender": "masculine"
   },
   {
-    "key": "love",
+    "key": "233e2cdb-d21c-4dec-819a-5fcc990fe69c",
     "en": "love",
     "pt-pt": "o amor",
     "word_type": "noun",
@@ -392,7 +392,7 @@
     "gender": "masculine"
   },
   {
-    "key": "memory",
+    "key": "5df2331f-584a-478d-9018-50a9aca7c49c",
     "en": "memory",
     "pt-pt": "a memória",
     "word_type": "noun",
@@ -400,7 +400,7 @@
     "gender": "feminine"
   },
   {
-    "key": "mind",
+    "key": "9b490e7c-7967-4f21-ad2c-87b6d61cd62f",
     "en": "mind",
     "pt-pt": "a mente",
     "word_type": "noun",
@@ -408,7 +408,7 @@
     "gender": "feminine"
   },
   {
-    "key": "opinion",
+    "key": "ecf6ddbd-8964-4dbc-9fc0-4dd3081927e4",
     "en": "opinion",
     "pt-pt": "a opinião",
     "word_type": "noun",
@@ -416,14 +416,14 @@
     "gender": "feminine"
   },
   {
-    "key": "peace",
+    "key": "3e11a262-f7b7-40e0-b569-511dc363637a",
     "en": "peace",
     "pt-pt": "a paz",
     "word_type": "noun",
     "gender": "feminine"
   },
   {
-    "key": "to-remember",
+    "key": "ab80ef87-7550-4b36-8426-86a06e2e8cb8",
     "en": "to remember",
     "pt-pt": "lembrar",
     "word_type": "verb",
@@ -435,7 +435,7 @@
     "third_person_plural": "eles/elas lembram"
   },
   {
-    "key": "respect",
+    "key": "19aa3f9f-f55d-4042-ace2-4cce2047b110",
     "en": "respect",
     "pt-pt": "o respeito",
     "word_type": "noun",

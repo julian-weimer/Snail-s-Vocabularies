@@ -2,6 +2,7 @@ import csv
 import json
 import os
 import shutil
+import uuid
 from string import Template
 
 import typer
@@ -202,7 +203,7 @@ def finalize_list(
     # regenerate key
     for word_obj in word_objects:
         if "en" in word_obj:
-            word_obj["key"] = slugify(word_obj[Language.ENGLISH.value])
+            word_obj["key"] = str(uuid.uuid4())
 
     # deduplicate list
     deduplicated_word_objects = deduplicate_list(word_objects)
@@ -238,6 +239,19 @@ def check_translations_against_dict_cc(
     check_list_against_dict_cc(
         word_objects=word_objects, check_result_path=check_result_path
     )
+
+
+@app.command()
+def dump_list(language: Language, output_file: str) -> None:
+    word_objects = load_word_list(language=language)
+
+    if not word_objects:
+        return
+
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(word_objects, f, ensure_ascii=False, indent=2)
+
+    logger.info(f"Dumped {len(word_objects)} word objects to {output_file}")
 
 
 @app.command()
