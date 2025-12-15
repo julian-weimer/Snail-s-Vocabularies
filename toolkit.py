@@ -1,5 +1,4 @@
 import csv
-import json
 import os
 import shutil
 import uuid
@@ -245,7 +244,7 @@ def dump_list(language: Language, output_file: str) -> None:
         return
 
     with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(word_objects, f, ensure_ascii=False, indent=2)
+        yaml.dump(word_objects, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
 
     logger.info(f"Dumped {len(word_objects)} word objects to {output_file}")
 
