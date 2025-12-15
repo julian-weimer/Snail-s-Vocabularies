@@ -1,16 +1,11 @@
-import json
 import os
-import random
-from io import BytesIO
 from pathlib import Path
 
 import requests
-from PIL import Image
 from ratelimit import limits, sleep_and_retry
 from rich.progress import track
 
 from constants import (
-    DEFAULT_IMAGES_DIR,
     ONE_HOUR,
     UNSPLASH_LIMIT_PER_HOUR,
     Language,

@@ -17,7 +17,6 @@ def save_word_objects_in_chunks(
 
     # Split into chunks and save
     created_files = []
-    total_chunks = len(word_objects) + chunk_size - 1
 
     for i in range(0, len(word_objects), chunk_size):
         chunk = word_objects[i : i + chunk_size]
@@ -26,7 +25,9 @@ def save_word_objects_in_chunks(
         filepath = os.path.join(lang_dir, filename)
 
         with open(filepath, "w", encoding="utf-8") as f:
-            yaml.dump(chunk, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
+            yaml.dump(
+                chunk, f, default_flow_style=False, allow_unicode=True, sort_keys=False
+            )
 
         created_files.append(filepath)
 

@@ -8,11 +8,9 @@ from string import Template
 import typer
 import yaml
 from dotenv import load_dotenv
-from jsonschema import ValidationError, validate
 from rich.console import Console
 from rich.table import Table
 from rich.traceback import install
-from slugify import slugify
 from wordfreq import top_n_list
 
 from constants import (
@@ -39,9 +37,6 @@ from helpers.download_from_bucket import download_from_bucket
 from helpers.get_audio_from_google_cloud_tts import get_audio_from_google_cloud_tts
 from helpers.get_image_from_unsplash import get_image_from_unsplash
 from helpers.get_images_from_unsplash import get_images_from_unsplash
-from helpers.get_word_objects_for_frequency_list import (
-    get_word_objects_for_frequency_list,
-)
 from helpers.load_word_list import load_word_list
 from helpers.save_word_objects_in_chunks import save_word_objects_in_chunks
 from helpers.upload_to_bucket import upload_to_bucket

@@ -6,8 +6,6 @@ from slugify import slugify
 
 from constants import (
     DEFAULT_AUDIO_DIR,
-    DEFAULT_DECKS_DIR,
-    DEFAULT_MEDIA_DIR,
     GENANKI_FLASHCARD_MODEL_ID,
     GENANKI_ID,
     Language,
@@ -20,7 +18,6 @@ from helpers.get_word_additions import (
     get_plural_form_addition,
     get_verb_additions,
 )
-from helpers.load_word_list import load_word_list
 from helpers.update_deck_index import update_deck_index
 from log import logger
 

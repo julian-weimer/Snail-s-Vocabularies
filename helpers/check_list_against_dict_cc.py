@@ -1,13 +1,10 @@
 import csv
 import time
-from pathlib import Path
 from urllib.parse import quote_plus
 
 import requests
 from diskcache import Cache
-from rich.console import Console
 from rich.progress import track
-from rich.table import Table
 
 from constants import DEFAULT_CHECK_RESULT_PATH, TIMEOUT, Language
 from log import logger

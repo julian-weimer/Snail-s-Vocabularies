@@ -1,7 +1,6 @@
 import os
 
 import yaml
-from jsonschema import ValidationError, validate
 
 from constants import DEFAULT_LISTS_DIR, Language
 from helpers.validate_word_objects import validate_word_objects
