@@ -1,0 +1,9540 @@
+- nl: Hallo!
+  en: Hello!
+  fr: Bonjour!
+  de: Hallo!
+  it: Ciao!
+  pl: Cześć!
+  ro: Bună!
+  pt-pt: Olá!
+  ru: Здравствуйте!
+  es: ¡Hola!
+  uk: Привіт!
+  pt-br: Olá!
+- nl: Tot ziens!
+  en: Goodbye!
+  fr: Au revoir!
+  de: Auf Wiedersehen!
+  it: Addio!
+  pl: Do widzenia!
+  ro: La revedere!
+  pt-pt: Adeus!
+  ru: До свидания!
+  es: ¡Adiós!
+  uk: До побачення!
+  pt-br: Adeus!
+- nl: Welkom!
+  en: Welcome!
+  fr: Bienvenue!
+  de: Herzlich willkommen!
+  it: Benvenuti!
+  pl: Witamy!
+  ro: Bun venit!
+  pt-pt: Bem-vindo!
+  ru: Добро пожаловать!
+  es: ¡Bienvenido!
+  uk: Ласкаво просимо!
+  pt-br: Bem-vindo!
+- nl: alsjeblieft
+  en: please
+  fr: s'il vous plaît
+  de: bitte
+  it: per favore
+  pl: proszę
+  ro: te rog
+  pt-pt: por favor
+  ru: пожалуйста
+  es: por favor
+  uk: будь ласка
+  pt-br: por favor
+- nl: Sorry
+  en: Sorry
+  fr: Désolé
+  de: Entschuldigung
+  it: Mi dispiace
+  pl: Przepraszam
+  ro: Îmi pare rău
+  pt-pt: Desculpe
+  ru: Простите
+  es: Lo siento
+  uk: Вибачте
+  pt-br: Desculpe
+- nl: ja
+  en: 'yes'
+  fr: oui
+  de: ja
+  it: sì
+  pl: tak
+  ro: da
+  pt-pt: sim
+  ru: да
+  es: sí
+  uk: так
+  pt-br: sim
+- nl: nee
+  en: 'no'
+  fr: non
+  de: nein
+  it: 'no'
+  pl: nie
+  ro: nu
+  pt-pt: não
+  ru: нет
+  es: 'no'
+  uk: ні
+  pt-br: não
+- nl: zeggen
+  en: to say
+  fr: dire
+  de: sagen
+  it: dire
+  pl: powiedzieć
+  ro: a spune
+  pt-pt: dizer
+  ru: сказать
+  es: decir
+  uk: сказати
+  pt-br: dizer
+- nl: vertellen
+  en: to tell
+  fr: raconter
+  de: erzählen
+  it: raccontare
+  pl: powiedzieć
+  ro: a povesti
+  pt-pt: contar
+  ru: рассказать
+  es: contar
+  uk: розповідати
+  pt-br: contar
+- nl: vragen
+  en: to ask
+  fr: demander
+  de: fragen
+  it: chiedere
+  pl: zapytać
+  ro: a întreba
+  pt-pt: perguntar
+  ru: спросить
+  es: preguntar
+  uk: запитувати
+  pt-br: perguntar
+- nl: voorstellen
+  en: to introduce
+  fr: présenter
+  de: vorstellen
+  it: presentare
+  pl: przedstawić
+  ro: a prezenta
+  pt-pt: apresentar
+  ru: представить
+  es: presentar
+  uk: представити
+  pt-br: apresentar
+- nl: het gesprek
+  en: conversation
+  fr: la conversation
+  de: das Gespräch
+  it: la conversazione
+  pl: rozmowa
+  ro: conversația
+  pt-pt: a conversa
+  ru: разговор
+  es: la conversación
+  uk: розмова
+  pt-br: a conversa
+- nl: de vraag
+  en: question
+  fr: la question
+  de: die Frage
+  it: la domanda
+  pl: pytanie
+  ro: întrebarea
+  pt-pt: a questão
+  ru: вопрос
+  es: la pregunta
+  uk: питання
+  pt-br: a questão
+- nl: het antwoord
+  en: answer
+  fr: la réponse
+  de: die Antwort
+  it: la risposta
+  pl: odpowiedź
+  ro: răspunsul
+  pt-pt: a resposta
+  ru: ответ
+  es: la respuesta
+  uk: відповідь
+  pt-br: a resposta
+- nl: hij
+  en: he
+  fr: il
+  de: er
+  it: lui
+  pl: 'on'
+  ro: el
+  pt-pt: ele
+  ru: он
+  es: él
+  uk: він
+  pt-br: ele
+- nl: hem
+  en: him
+  fr: lui
+  de: ihn
+  it: lui
+  pl: jego
+  ro: el
+  pt-pt: ele
+  ru: его
+  es: lo
+  uk: його
+  pt-br: ele
+- nl: zijn
+  en: his
+  fr: son
+  de: sein
+  it: suo
+  pl: jego
+  ro: lui
+  pt-pt: seu
+  ru: его
+  es: su
+  uk: його
+  pt-br: seu
+- nl: ik
+  en: I
+  fr: je
+  de: ich
+  it: io
+  pl: ja
+  ro: eu
+  pt-pt: eu
+  ru: я
+  es: yo
+  uk: я
+  pt-br: eu
+- nl: het
+  en: it
+  fr: il
+  de: es
+  it: esso
+  pl: to
+  ro: el
+  pt-pt: ele
+  ru: оно
+  es: ello
+  uk: воно
+  pt-br: ele
+- nl: mij
+  en: me
+  fr: moi
+  de: mich
+  it: me
+  pl: mnie
+  ro: eu
+  pt-pt: me
+  ru: меня
+  es: me
+  uk: мене
+  pt-br: me
+- nl: van mij
+  en: mine
+  fr: le mien
+  de: meins
+  it: mio
+  pl: mój
+  ro: al meu
+  pt-pt: meu
+  ru: мой
+  es: mío
+  uk: мій
+  pt-br: meu
+- nl: mijn
+  en: my
+  fr: mon
+  de: mein
+  it: mio
+  pl: mój
+  ro: meu
+  pt-pt: meu
+  ru: мой
+  es: mi
+  uk: мій
+  pt-br: meu
+- nl: mezelf
+  en: myself
+  fr: moi-même
+  de: mich selbst
+  it: me stesso
+  pl: sam
+  ro: eu însumi
+  pt-pt: eu mesmo
+  ru: само
+  es: yo mismo
+  uk: само
+  pt-br: eu mesmo
+- nl: ons
+  en: our
+  fr: notre
+  de: unser
+  it: nostro
+  pl: nasz
+  ro: nostru
+  pt-pt: nosso
+  ru: наш
+  es: nuestro
+  uk: наш
+  pt-br: nosso
+- nl: zij
+  en: she
+  fr: elle
+  de: sie
+  it: lei
+  pl: ona
+  ro: ea
+  pt-pt: ela
+  ru: она
+  es: ella
+  uk: вона
+  pt-br: ela
+- nl: haar
+  en: her
+  fr: elle
+  de: ihr
+  it: lei
+  pl: jej
+  ro: ea
+  pt-pt: ela
+  ru: её
+  es: ella
+  uk: її
+  pt-br: ela
+- nl: ons
+  en: us
+  fr: nous
+  de: uns
+  it: noi
+  pl: nas
+  ro: noi
+  pt-pt: nós
+  ru: нас
+  es: nos
+  uk: нас
+  pt-br: nós
+- nl: wij
+  en: we
+  fr: nous
+  de: wir
+  it: noi
+  pl: my
+  ro: noi
+  pt-pt: nós
+  ru: мы
+  es: nosotros
+  uk: ми
+  pt-br: nós
+- nl: jij/u
+  en: you
+  fr: vous
+  de: du/Sie
+  it: tu
+  pl: ty
+  ro: tu
+  pt-pt: tu
+  ru: вы
+  es: tú
+  uk: ти
+  pt-br: tu
+- nl: jouw/uw
+  en: your
+  fr: votre
+  de: dein/Ihr
+  it: tuo
+  pl: twój
+  ro: tău
+  pt-pt: teu
+  ru: ваш
+  es: tu
+  uk: твій
+  pt-br: teu
+- nl: jezelf
+  en: yourself
+  fr: toi-même
+  de: dich selbst
+  it: te stesso
+  pl: siebie
+  ro: tu însuți
+  pt-pt: tu mesmo
+  ru: себя
+  es: tú mismo
+  uk: себе
+  pt-br: tu mesmo
+- nl: een
+  en: one
+  fr: un
+  de: eins
+  it: uno
+  pl: jeden
+  ro: unu
+  pt-pt: um
+  ru: один
+  es: uno
+  uk: один
+  pt-br: um
+- nl: twee
+  en: two
+  fr: deux
+  de: zwei
+  it: due
+  pl: dwa
+  ro: doi
+  pt-pt: dois
+  ru: два
+  es: dos
+  uk: два
+  pt-br: dois
+- nl: drie
+  en: three
+  fr: trois
+  de: drei
+  it: tre
+  pl: trzy
+  ro: trei
+  pt-pt: três
+  ru: три
+  es: tres
+  uk: три
+  pt-br: três
+- nl: vier
+  en: four
+  fr: quatre
+  de: vier
+  it: quattro
+  pl: cztery
+  ro: patru
+  pt-pt: quatro
+  ru: четыре
+  es: cuatro
+  uk: чотири
+  pt-br: quatro
+- nl: vijf
+  en: five
+  fr: cinq
+  de: fünf
+  it: cinque
+  pl: pięć
+  ro: cinci
+  pt-pt: cinco
+  ru: пять
+  es: cinco
+  uk: п'ять
+  pt-br: cinco
+- nl: zes
+  en: six
+  fr: six
+  de: sechs
+  it: sei
+  pl: sześć
+  ro: șase
+  pt-pt: seis
+  ru: шесть
+  es: seis
+  uk: шість
+  pt-br: seis
+- nl: zeven
+  en: seven
+  fr: sept
+  de: sieben
+  it: sette
+  pl: siedem
+  ro: șapte
+  pt-pt: sete
+  ru: семь
+  es: siete
+  uk: сім
+  pt-br: sete
+- nl: acht
+  en: eight
+  fr: huit
+  de: acht
+  it: otto
+  pl: osiem
+  ro: opt
+  pt-pt: oito
+  ru: восемь
+  es: ocho
+  uk: вісім
+  pt-br: oito
+- nl: negen
+  en: nine
+  fr: neuf
+  de: neun
+  it: nove
+  pl: dziewięć
+  ro: nouă
+  pt-pt: nove
+  ru: девять
+  es: nueve
+  uk: дев'ять
+  pt-br: nove
+- nl: tien
+  en: ten
+  fr: dix
+  de: zehn
+  it: dieci
+  pl: dziesięć
+  ro: zece
+  pt-pt: dez
+  ru: десять
+  es: diez
+  uk: десять
+  pt-br: dez
+- nl: elf
+  en: eleven
+  fr: onze
+  de: elf
+  it: undici
+  pl: jedenaście
+  ro: unsprezece
+  pt-pt: onze
+  ru: одиннадцать
+  es: once
+  uk: одинадцять
+  pt-br: onze
+- nl: twaalf
+  en: twelve
+  fr: douze
+  de: zwölf
+  it: dodici
+  pl: dwanaście
+  ro: doisprezece
+  pt-pt: doze
+  ru: двенадцать
+  es: doce
+  uk: дванадцять
+  pt-br: doze
+- nl: dertien
+  en: thirteen
+  fr: treize
+  de: dreizehn
+  it: tredici
+  pl: trzynaście
+  ro: treisprezece
+  pt-pt: treze
+  ru: тринадцать
+  es: trece
+  uk: тринадцять
+  pt-br: treze
+- nl: veertien
+  en: fourteen
+  fr: quatorze
+  de: vierzehn
+  it: quattordici
+  pl: czternaście
+  ro: paisprezece
+  pt-pt: catorze
+  ru: четырнадцать
+  es: catorce
+  uk: чотирнадцять
+  pt-br: catorze
+- nl: vijftien
+  en: fifteen
+  fr: quinze
+  de: fünfzehn
+  it: quindici
+  pl: piętnaście
+  ro: cincisprezece
+  pt-pt: quinze
+  ru: пятнадцать
+  es: quince
+  uk: п'ятнадцять
+  pt-br: quinze
+- nl: zestien
+  en: sixteen
+  fr: seize
+  de: sechzehn
+  it: sedici
+  pl: szesnaście
+  ro: șaisprezece
+  pt-pt: dezasseis
+  ru: шестнадцать
+  es: dieciséis
+  uk: шістнадцять
+  pt-br: dezasseis
+- nl: zeventien
+  en: seventeen
+  fr: dix-sept
+  de: siebzehn
+  it: diciassette
+  pl: siedemnaście
+  ro: șaptesprezece
+  pt-pt: dezassete
+  ru: семнадцать
+  es: diecisiete
+  uk: сімнадцять
+  pt-br: dezassete
+- nl: achttien
+  en: eighteen
+  fr: dix-huit
+  de: achtzehn
+  it: diciotto
+  pl: osiemnaście
+  ro: optsprezece
+  pt-pt: dezoito
+  ru: восемнадцать
+  es: dieciocho
+  uk: вісімнадцять
+  pt-br: dezoito
+- nl: negentien
+  en: nineteen
+  fr: dix-neuf
+  de: neunzehn
+  it: diciannove
+  pl: dziewiętnaście
+  ro: nouăsprezece
+  pt-pt: dezanove
+  ru: девятнадцать
+  es: diecinueve
+  uk: дев'ятнадцять
+  pt-br: dezanove
+- nl: twintig
+  en: twenty
+  fr: vingt
+  de: zwanzig
+  it: venti
+  pl: dwadzieścia
+  ro: douăzeci
+  pt-pt: vinte
+  ru: двадцать
+  es: veinte
+  uk: двадцять
+  pt-br: vinte
+- nl: dertig
+  en: thirty
+  fr: trente
+  de: dreißig
+  it: trenta
+  pl: trzydzieści
+  ro: treizeci
+  pt-pt: trinta
+  ru: тридцать
+  es: treinta
+  uk: тридцять
+  pt-br: trinta
+- nl: veertig
+  en: forty
+  fr: quarante
+  de: vierzig
+  it: quaranta
+  pl: czterdzieści
+  ro: patruzeci
+  pt-pt: quarenta
+  ru: сорок
+  es: cuarenta
+  uk: сорок
+  pt-br: quarenta
+- nl: vijftig
+  en: fifty
+  fr: cinquante
+  de: fünfzig
+  it: cinquanta
+  pl: pięćdziesiąt
+  ro: cincizeci
+  pt-pt: cinquenta
+  ru: пятьдесят
+  es: cincuenta
+  uk: п'ятдесят
+  pt-br: cinquenta
+- nl: zestig
+  en: sixty
+  fr: soixante
+  de: sechzig
+  it: sessanta
+  pl: sześćdziesiąt
+  ro: șaizeci
+  pt-pt: sessenta
+  ru: шестьдесят
+  es: sesenta
+  uk: шістдесят
+  pt-br: sessenta
+- nl: zeventig
+  en: seventy
+  fr: soixante-dix
+  de: siebzig
+  it: settanta
+  pl: siedemdziesiąt
+  ro: șaptezeci
+  pt-pt: setenta
+  ru: семьдесят
+  es: setenta
+  uk: сімдесят
+  pt-br: setenta
+- nl: tachtig
+  en: eighty
+  fr: quatre-vingts
+  de: achtzig
+  it: ottanta
+  pl: osiemdziesiąt
+  ro: optzeci
+  pt-pt: oitenta
+  ru: восемьдесят
+  es: ochenta
+  uk: вісімдесят
+  pt-br: oitenta
+- nl: negentig
+  en: ninety
+  fr: quatre-vingt-dix
+  de: neunzig
+  it: novanta
+  pl: dziewięćdziesiąt
+  ro: nouăzeci
+  pt-pt: noventa
+  ru: девяносто
+  es: noventa
+  uk: дев'яносто
+  pt-br: noventa
+- nl: honderd
+  en: hundred
+  fr: cent
+  de: hundert
+  it: cento
+  pl: sto
+  ro: sută
+  pt-pt: cem
+  ru: сто
+  es: cien
+  uk: сто
+  pt-br: cem
+- nl: duizend
+  en: thousand
+  fr: mille
+  de: tausend
+  it: mille
+  pl: tysiąc
+  ro: mie
+  pt-pt: mil
+  ru: тысяча
+  es: mil
+  uk: тисяча
+  pt-br: mil
+- nl: het miljoen
+  en: million
+  fr: le million
+  de: die Million
+  it: milione
+  pl: milion
+  ro: milionul
+  pt-pt: o milhão
+  ru: миллион
+  es: el millón
+  uk: мільйон
+  pt-br: o milhão
+- nl: het miljard
+  en: billion
+  fr: le milliard
+  de: die Milliarde
+  it: miliardo
+  pl: miliard
+  ro: miliardul
+  pt-pt: os mil milhões
+  ru: миллиард
+  es: los mil millones
+  uk: мільярд
+  pt-br: os mil milhões
+- nl: eerste
+  en: first
+  fr: premier
+  de: erste
+  it: primo
+  pl: pierwszy
+  ro: primul
+  pt-pt: primeiro
+  ru: первый
+  es: primero
+  uk: перший
+  pt-br: primeiro
+- nl: tweede
+  en: second
+  fr: deuxième
+  de: zweite
+  it: secondo
+  pl: drugi
+  ro: al doilea
+  pt-pt: segundo
+  ru: второй
+  es: segundo
+  uk: другий
+  pt-br: segundo
+- nl: derde
+  en: third
+  fr: troisième
+  de: dritte
+  it: terzo
+  pl: trzeci
+  ro: al treilea
+  pt-pt: terceiro
+  ru: третий
+  es: tercero
+  uk: третій
+  pt-br: terceiro
+- nl: vierde
+  en: fourth
+  fr: quatrième
+  de: vierte
+  it: quarto
+  pl: czwarty
+  ro: al patrulea
+  pt-pt: quarto
+  ru: четвёртый
+  es: cuarto
+  uk: четвертий
+  pt-br: quarto
+- nl: vijfde
+  en: fifth
+  fr: cinquième
+  de: fünfte
+  it: quinto
+  pl: piąty
+  ro: al cincilea
+  pt-pt: quinto
+  ru: пятый
+  es: quinto
+  uk: п'ятий
+  pt-br: quinto
+- nl: de helft
+  en: half
+  fr: la moitié
+  de: die Hälfte
+  it: la metà
+  pl: połowa
+  ro: jumătate
+  pt-pt: a metade
+  ru: половина
+  es: la mitad
+  uk: половина
+  pt-br: a metade
+- nl: het kwart
+  en: quarter (fraction)
+  fr: le quart (fraction)
+  de: das Viertel
+  it: quarto (frazione)
+  pl: ćwierć (ułamek)
+  ro: sfertul
+  pt-pt: o quarto
+  ru: четверть (дробь)
+  es: el cuarto (fracción)
+  uk: чверть (дріб)
+  pt-br: o quarto
+- nl: het nummer
+  en: number
+  fr: le numéro
+  de: die Nummer
+  it: numero
+  pl: liczba
+  ro: numărul
+  pt-pt: o número
+  ru: номер
+  es: el número
+  uk: номер
+  pt-br: o número
+- nl: het bedrag
+  en: amount
+  fr: le montant
+  de: der Betrag
+  it: importo
+  pl: kwota
+  ro: suma
+  pt-pt: o montante
+  ru: сумма
+  es: la cantidad
+  uk: сума
+  pt-br: o montante
+- nl: de optelling
+  en: addition (math)
+  fr: l'addition (mathématiques)
+  de: die Addition
+  it: addizione (matematica)
+  pl: dodawanie (matematyka)
+  ro: adunarea (matematică)
+  pt-pt: a adição
+  ru: сложение (математика)
+  es: la suma (matemáticas)
+  uk: додавання (математика)
+  pt-br: a adição
+- nl: de deling
+  en: division (math)
+  fr: la division (mathématiques)
+  de: die Division
+  it: divisione (matematica)
+  pl: dzielenie (matematyka)
+  ro: împărțirea (matematică)
+  pt-pt: a divisão
+  ru: деление (математика)
+  es: la división (matemáticas)
+  uk: ділення (математика)
+  pt-br: a divisão
+- nl: de hoek
+  en: angle
+  fr: l'angle
+  de: der Winkel
+  it: angolo
+  pl: kąt
+  ro: unghiul
+  pt-pt: o ângulo
+  ru: угол
+  es: el ángulo
+  uk: кут
+  pt-br: o ângulo
+- nl: de cirkel
+  en: circle
+  fr: le cercle
+  de: der Kreis
+  it: cerchio
+  pl: koło
+  ro: cercul
+  pt-pt: o círculo
+  ru: круг
+  es: el círculo
+  uk: коло
+  pt-br: o círculo
+- nl: de kromme
+  en: curve
+  fr: la courbe
+  de: die Kurve
+  it: curva
+  pl: krzywa
+  ro: curba
+  pt-pt: a curva
+  ru: кривая
+  es: la curva
+  uk: крива
+  pt-br: a curva
+- nl: het vierkant
+  en: square (shape)
+  fr: le carré (forme)
+  de: das Quadrat
+  it: quadrato (forma)
+  pl: kwadrat (kształt)
+  ro: pătratul
+  pt-pt: o quadrado
+  ru: квадрат (форма)
+  es: el cuadrado (forma)
+  uk: квадрат (форма)
+  pt-br: o quadrado
+- nl: de maandag
+  en: Monday
+  fr: le lundi
+  de: der Montag
+  it: lunedì
+  pl: poniedziałek
+  ro: luni
+  pt-pt: a segunda-feira
+  ru: понедельник
+  es: el lunes
+  uk: понеділок
+  pt-br: a segunda-feira
+- nl: de dinsdag
+  en: Tuesday
+  fr: le mardi
+  de: der Dienstag
+  it: martedì
+  pl: wtorek
+  ro: marți
+  pt-pt: a terça-feira
+  ru: вторник
+  es: el martes
+  uk: вівторок
+  pt-br: a terça-feira
+- nl: de woensdag
+  en: Wednesday
+  fr: le mercredi
+  de: der Mittwoch
+  it: mercoledì
+  pl: środa
+  ro: miercuri
+  pt-pt: a quarta-feira
+  ru: среда
+  es: el miércoles
+  uk: середа
+  pt-br: a quarta-feira
+- nl: de donderdag
+  en: Thursday
+  fr: le jeudi
+  de: der Donnerstag
+  it: giovedì
+  pl: czwartek
+  ro: joi
+  pt-pt: a quinta-feira
+  ru: четверг
+  es: el jueves
+  uk: четвер
+  pt-br: a quinta-feira
+- nl: de vrijdag
+  en: Friday
+  fr: le vendredi
+  de: der Freitag
+  it: venerdì
+  pl: piątek
+  ro: vineri
+  pt-pt: a sexta-feira
+  ru: пятница
+  es: el viernes
+  uk: п'ятниця
+  pt-br: a sexta-feira
+- nl: de zaterdag
+  en: Saturday
+  fr: le samedi
+  de: der Samstag
+  it: sabato
+  pl: sobota
+  ro: sâmbătă
+  pt-pt: o sábado
+  ru: суббота
+  es: el sábado
+  uk: субота
+  pt-br: o sábado
+- nl: de zondag
+  en: Sunday
+  fr: le dimanche
+  de: der Sonntag
+  it: domenica
+  pl: niedziela
+  ro: duminică
+  pt-pt: o domingo
+  ru: воскресенье
+  es: el domingo
+  uk: неділя
+  pt-br: o domingo
+- nl: januari
+  en: January
+  fr: janvier
+  de: der Januar
+  it: gennaio
+  pl: styczeń
+  ro: ianuarie
+  pt-pt: janeiro
+  ru: январь
+  es: el enero
+  uk: січень
+  pt-br: janeiro
+- nl: februari
+  en: February
+  fr: février
+  de: der Februar
+  it: febbraio
+  pl: luty
+  ro: februarie
+  pt-pt: fevereiro
+  ru: февраль
+  es: el febrero
+  uk: лютий
+  pt-br: fevereiro
+- nl: maart
+  en: March
+  fr: mars
+  de: der März
+  it: marzo
+  pl: marzec
+  ro: martie
+  pt-pt: março
+  ru: март
+  es: el marzo
+  uk: березень
+  pt-br: março
+- nl: april
+  en: April
+  fr: avril
+  de: der April
+  it: aprile
+  pl: kwiecień
+  ro: aprilie
+  pt-pt: abril
+  ru: апрель
+  es: el abril
+  uk: квітень
+  pt-br: abril
+- nl: mei
+  en: May
+  fr: mai
+  de: der Mai
+  it: maggio
+  pl: maj
+  ro: mai
+  pt-pt: maio
+  ru: май
+  es: el mayo
+  uk: травень
+  pt-br: maio
+- nl: juni
+  en: June
+  fr: juin
+  de: der Juni
+  it: giugno
+  pl: czerwiec
+  ro: iunie
+  pt-pt: junho
+  ru: июнь
+  es: el junio
+  uk: червень
+  pt-br: junho
+- nl: juli
+  en: July
+  fr: juillet
+  de: der Juli
+  it: luglio
+  pl: lipiec
+  ro: iulie
+  pt-pt: julho
+  ru: июль
+  es: el julio
+  uk: липень
+  pt-br: julho
+- nl: augustus
+  en: August
+  fr: août
+  de: der August
+  it: agosto
+  pl: sierpień
+  ro: august
+  pt-pt: agosto
+  ru: август
+  es: el agosto
+  uk: серпень
+  pt-br: agosto
+- nl: september
+  en: September
+  fr: septembre
+  de: der September
+  it: settembre
+  pl: wrzesień
+  ro: septembrie
+  pt-pt: setembro
+  ru: сентябрь
+  es: el septiembre
+  uk: вересень
+  pt-br: setembro
+- nl: oktober
+  en: October
+  fr: octobre
+  de: der Oktober
+  it: ottobre
+  pl: październik
+  ro: octombrie
+  pt-pt: outubro
+  ru: октябрь
+  es: el octubre
+  uk: жовтень
+  pt-br: outubro
+- nl: november
+  en: November
+  fr: novembre
+  de: der November
+  it: novembre
+  pl: listopad
+  ro: noiembrie
+  pt-pt: novembro
+  ru: ноябрь
+  es: el noviembre
+  uk: листопад
+  pt-br: novembro
+- nl: december
+  en: December
+  fr: décembre
+  de: der Dezember
+  it: dicembre
+  pl: grudzień
+  ro: decembrie
+  pt-pt: dezembro
+  ru: декабрь
+  es: el diciembre
+  uk: грудень
+  pt-br: dezembro
+- nl: de lente
+  en: spring (season)
+  fr: le printemps
+  de: der Frühling
+  it: primavera
+  pl: wiosna
+  ro: primăvara
+  pt-pt: a primavera
+  ru: весна
+  es: la primavera
+  uk: весна
+  pt-br: a primavera
+- nl: de zomer
+  en: summer
+  fr: l'été
+  de: der Sommer
+  it: estate
+  pl: lato
+  ro: vara
+  pt-pt: o verão
+  ru: лето
+  es: el verano
+  uk: літо
+  pt-br: o verão
+- nl: de herfst
+  en: autumn
+  fr: l'automne
+  de: der Herbst
+  it: autunno
+  pl: jesień
+  ro: toamna
+  pt-pt: o outono
+  ru: осень
+  es: el otoño
+  uk: осінь
+  pt-br: o outono
+- nl: de winter
+  en: winter
+  fr: l'hiver
+  de: der Winter
+  it: inverno
+  pl: zima
+  ro: iarna
+  pt-pt: o inverno
+  ru: зима
+  es: el invierno
+  uk: зима
+  pt-br: o inverno
+- nl: de week
+  en: week
+  fr: la semaine
+  de: die Woche
+  it: la settimana
+  pl: tydzień
+  ro: săptămâna
+  pt-pt: a semana
+  ru: неделя
+  es: la semana
+  uk: тиждень
+  pt-br: a semana
+- nl: het weekend
+  en: weekend
+  fr: le week-end
+  de: das Wochenende
+  it: fine settimana
+  pl: weekend
+  ro: weekendul
+  pt-pt: o fim de semana
+  ru: выходные
+  es: el fin de semana
+  uk: вихідні
+  pt-br: o fim de semana
+- nl: de maand
+  en: month
+  fr: le mois
+  de: der Monat
+  it: mese
+  pl: miesiąc
+  ro: luna
+  pt-pt: o mês
+  ru: месяц
+  es: el mes
+  uk: місяць
+  pt-br: o mês
+- nl: het jaar
+  en: year
+  fr: l'année
+  de: das Jahr
+  it: anno
+  pl: rok
+  ro: anul
+  pt-pt: o ano
+  ru: год
+  es: el año
+  uk: рік
+  pt-br: o ano
+- nl: de datum
+  en: date (calendar)
+  fr: la date (calendrier)
+  de: das Datum
+  it: data (calendario)
+  pl: data (kalendarz)
+  ro: data
+  pt-pt: a data
+  ru: дата (календарная)
+  es: la fecha (calendario)
+  uk: дата (календарна)
+  pt-br: a data
+- nl: de verjaardag
+  en: birthday
+  fr: l'anniversaire
+  de: der Geburtstag
+  it: compleanno
+  pl: urodziny
+  ro: ziua de naștere
+  pt-pt: o aniversário
+  ru: день рождения
+  es: el cumpleaños
+  uk: день народження
+  pt-br: o aniversário
+- nl: de feestdag
+  en: holiday
+  fr: le jour férié
+  de: der Feiertag
+  it: festa
+  pl: święto
+  ro: sărbătoarea
+  pt-pt: o feriado
+  ru: праздник
+  es: el día festivo
+  uk: свято
+  pt-br: o feriado
+- nl: de vakantie
+  en: vacation
+  fr: les vacances
+  de: der Urlaub
+  it: vacanza
+  pl: wakacje
+  ro: vacanța
+  pt-pt: as férias
+  ru: отпуск
+  es: las vacaciones
+  uk: відпустка
+  pt-br: as férias
+- nl: het seizoen
+  en: season
+  fr: la saison
+  de: die Jahreszeit
+  it: stagione
+  pl: pora roku
+  ro: anotimpul
+  pt-pt: a estação
+  ru: сезон
+  es: la estación
+  uk: сезон
+  pt-br: a estação
+- nl: ruiken
+  en: to smell
+  fr: sentir
+  de: riechen
+  it: annusare
+  pl: wąchać
+  ro: a mirosi
+  pt-pt: cheirar
+  ru: нюхать
+  es: oler
+  uk: нюхати
+  pt-br: cheirar
+- nl: proeven
+  en: to taste
+  fr: goûter
+  de: schmecken
+  it: assaggiare
+  pl: smakować
+  ro: a gusta
+  pt-pt: provar
+  ru: пробовать
+  es: probar
+  uk: куштувати
+  pt-br: provar
+- nl: de geur
+  en: smell
+  fr: l'odeur
+  de: der Geruch
+  it: odore
+  pl: zapach
+  ro: mirosul
+  pt-pt: o cheiro
+  ru: запах
+  es: el olor
+  uk: запах
+  pt-br: o cheiro
+- nl: het parfum
+  en: scent
+  fr: le parfum
+  de: der Duft
+  it: profumo
+  pl: aromat
+  ro: parfumul
+  pt-pt: o perfume
+  ru: аромат
+  es: el aroma
+  uk: аромат
+  pt-br: o perfume
+- nl: de smaak (zintuig)
+  en: taste (sense/ability)
+  fr: le goût (sens)
+  de: der Geschmack (Sinneswahrnehmung)
+  it: gusto (senso)
+  pl: smak (zmysł)
+  ro: gustul (simț)
+  pt-pt: o sabor
+  ru: вкус (чувство)
+  es: el sabor (sentido)
+  uk: смак (відчуття)
+  pt-br: o sabor
+- nl: de smaak (aroma)
+  en: flavor (specific taste quality)
+  fr: la saveur (qualité gustative)
+  de: der Geschmack (Aroma)
+  it: sapore (qualità gustativa)
+  pl: smak (aromat)
+  ro: aroma
+  pt-pt: o sabor
+  ru: вкус
+  es: el sabor (cualidad)
+  uk: смак
+  pt-br: o sabor
+- nl: zoet
+  en: sweet
+  fr: sucré
+  de: süß
+  it: dolce
+  pl: słodki
+  ro: dulce
+  pt-pt: doce
+  ru: сладкий
+  es: dulce
+  uk: солодкий
+  pt-br: doce
+- nl: zuur
+  en: sour
+  fr: aigre
+  de: sauer
+  it: acido
+  pl: kwaśny
+  ro: acru
+  pt-pt: azedo
+  ru: кислый
+  es: agrio
+  uk: кислий
+  pt-br: azedo
+- nl: bitter
+  en: bitter
+  fr: amer
+  de: bitter
+  it: amaro
+  pl: gorzki
+  ro: amar
+  pt-pt: amargo
+  ru: горький
+  es: amargo
+  uk: гіркий
+  pt-br: amargo
+- nl: zout
+  en: salty
+  fr: salé
+  de: salzig
+  it: salato
+  pl: słony
+  ro: sărat
+  pt-pt: salgado
+  ru: солёный
+  es: salado
+  uk: солоний
+  pt-br: salgado
+- nl: pittig
+  en: spicy
+  fr: épicé
+  de: würzig
+  it: piccante
+  pl: pikantny
+  ro: picant
+  pt-pt: picante
+  ru: острый
+  es: picante
+  uk: гострий
+  pt-br: picante
+- nl: heerlijk
+  en: delicious
+  fr: délicieux
+  de: lecker
+  it: delizioso
+  pl: pyszny
+  ro: delicios
+  pt-pt: delicioso
+  ru: вкусный
+  es: delicioso
+  uk: смачний
+  pt-br: delicioso
+- nl: glad
+  en: smooth
+  fr: lisse
+  de: glatt
+  it: liscio
+  pl: gładki
+  ro: neted
+  pt-pt: suave
+  ru: гладкий
+  es: suave
+  uk: гладкий
+  pt-br: suave
+- nl: ruw
+  en: rough
+  fr: rugueux
+  de: rau
+  it: ruvido
+  pl: szorstki
+  ro: aspru
+  pt-pt: áspero
+  ru: грубый
+  es: áspero
+  uk: грубий
+  pt-br: áspero
+- nl: scherp
+  en: sharp
+  fr: tranchant
+  de: scharf
+  it: affilato
+  pl: ostry
+  ro: ascuțit
+  pt-pt: afiado
+  ru: острый
+  es: afilado
+  uk: гострий
+  pt-br: afiado
+- nl: bot
+  en: dull
+  fr: ennuyeux
+  de: stumpf
+  it: smussato
+  pl: tępy
+  ro: tocit
+  pt-pt: embotado
+  ru: тупой
+  es: desafilado
+  uk: тупий
+  pt-br: embotado
+- nl: kleverig
+  en: sticky
+  fr: collant
+  de: klebrig
+  it: appiccicoso
+  pl: lepki
+  ro: lipicios
+  pt-pt: pegajoso
+  ru: липкий
+  es: pegajoso
+  uk: липкий
+  pt-br: pegajoso
+- nl: glad
+  en: slippery
+  fr: glissant
+  de: rutschig
+  it: scivoloso
+  pl: śliski
+  ro: alunecos
+  pt-pt: escorregadio
+  ru: скользкий
+  es: resbaladizo
+  uk: слизький
+  pt-br: escorregadio
+- nl: boos
+  en: angry
+  fr: en colère
+  de: wütend
+  it: arrabbiato
+  pl: zły
+  ro: supărat
+  pt-pt: zangado
+  ru: злой
+  es: enfadado
+  uk: злий
+  pt-br: zangado
+- nl: de aandacht
+  en: attention
+  fr: l'attention
+  de: die Aufmerksamkeit
+  it: attenzione
+  pl: uwaga
+  ro: atenția
+  pt-pt: a atenção
+  ru: внимание
+  es: la atención
+  uk: увага
+  pt-br: a atenção
+- nl: het gedrag
+  en: behavior
+  fr: le comportement
+  de: das Verhalten
+  it: comportamento
+  pl: zachowanie
+  ro: comportamentul
+  pt-pt: o comportamento
+  ru: поведение
+  es: el comportamiento
+  uk: поведінка
+  pt-br: o comportamento
+- nl: verveeld
+  en: bored
+  fr: ennuyé
+  de: gelangweilt
+  it: annoiato
+  pl: znudzony
+  ro: plictisit
+  pt-pt: aborrecido
+  ru: скучающий
+  es: aburrido
+  uk: знуджений
+  pt-br: aborrecido
+- nl: het comfort
+  en: comfort
+  fr: le confort
+  de: der Komfort
+  it: comfort
+  pl: komfort
+  ro: confortul
+  pt-pt: o conforto
+  ru: комфорт
+  es: la comodidad
+  uk: комфорт
+  pt-br: o conforto
+- nl: beslissen
+  en: to decide
+  fr: décider
+  de: entscheiden
+  it: decidere
+  pl: zdecydować
+  ro: a decide
+  pt-pt: decidir
+  ru: решать
+  es: decidir
+  uk: вирішувати
+  pt-br: decidir
+- nl: de beslissing
+  en: decision
+  fr: la décision
+  de: die Entscheidung
+  it: decisione
+  pl: decyzja
+  ro: decizia
+  pt-pt: a decisão
+  ru: решение
+  es: la decisión
+  uk: рішення
+  pt-br: a decisão
+- nl: het verlangen
+  en: desire
+  fr: le désir
+  de: der Wunsch
+  it: desiderio
+  pl: pragnienie
+  ro: dorința
+  pt-pt: o desejo
+  ru: желание
+  es: el deseo
+  uk: бажання
+  pt-br: o desejo
+- nl: de droom
+  en: dream
+  fr: le rêve
+  de: der Traum
+  it: sogno
+  pl: sen
+  ro: visul
+  pt-pt: o sonho
+  ru: мечта
+  es: el sueño
+  uk: мрія
+  pt-br: o sonho
+- nl: genieten
+  en: to enjoy
+  fr: profiter
+  de: genießen
+  it: godere
+  pl: cieszyć się
+  ro: a se bucura
+  pt-pt: desfrutar
+  ru: наслаждаться
+  es: disfrutar
+  uk: насолоджуватися
+  pt-br: desfrutar
+- nl: opgewonden
+  en: excited
+  fr: excité
+  de: aufgeregt
+  it: eccitato
+  pl: podekscytowany
+  ro: entuziasmat
+  pt-pt: entusiasmado
+  ru: взволнованный
+  es: emocionado
+  uk: схвильований
+  pt-br: entusiasmado
+- nl: de ervaring
+  en: experience
+  fr: l'expérience
+  de: die Erfahrung
+  it: esperienza
+  pl: doświadczenie
+  ro: experiența
+  pt-pt: a experiência
+  ru: опыт
+  es: la experiencia
+  uk: досвід
+  pt-br: a experiência
+- nl: de angst
+  en: fear
+  fr: la peur
+  de: die Angst
+  it: paura
+  pl: strach
+  ro: frica
+  pt-pt: o medo
+  ru: страх
+  es: el miedo
+  uk: страх
+  pt-br: o medo
+- nl: het gevoel
+  en: feeling
+  fr: le sentiment
+  de: das Gefühl
+  it: sentimento
+  pl: uczucie
+  ro: sentimentul
+  pt-pt: o sentimento
+  ru: чувство
+  es: el sentimiento
+  uk: почуття
+  pt-br: o sentimento
+- nl: gelukkig
+  en: happy
+  fr: heureux
+  de: glücklich
+  it: felice
+  pl: szczęśliwy
+  ro: fericit
+  pt-pt: feliz
+  ru: счастливый
+  es: feliz
+  uk: щасливий
+  pt-br: feliz
+- nl: haten
+  en: to hate
+  fr: haïr
+  de: hassen
+  it: odiare
+  pl: nienawidzić
+  ro: a urî
+  pt-pt: odiar
+  ru: ненавидеть
+  es: odiar
+  uk: ненавидіти
+  pt-br: odiar
+- nl: de hoop
+  en: hope
+  fr: l'espoir
+  de: die Hoffnung
+  it: speranza
+  pl: nadzieja
+  ro: speranța
+  pt-pt: a esperança
+  ru: надежда
+  es: la esperanza
+  uk: надія
+  pt-br: a esperança
+- nl: het idee
+  en: idea
+  fr: l'idée
+  de: die Idee
+  it: idea
+  pl: pomysł
+  ro: ideea
+  pt-pt: a ideia
+  ru: идея
+  es: la idea
+  uk: ідея
+  pt-br: a ideia
+- nl: zich voorstellen
+  en: to imagine
+  fr: imaginer
+  de: sich vorstellen
+  it: immaginare
+  pl: wyobrażać sobie
+  ro: a imagina
+  pt-pt: imaginar
+  ru: представлять
+  es: imaginar
+  uk: уявляти
+  pt-br: imaginar
+- nl: de interesse
+  en: interest
+  fr: l'intérêt
+  de: das Interesse
+  it: interesse
+  pl: zainteresowanie
+  ro: interesul
+  pt-pt: o interesse
+  ru: интерес
+  es: el interés
+  uk: інтерес
+  pt-br: o interesse
+- nl: de kennis
+  en: knowledge
+  fr: la connaissance
+  de: das Wissen
+  it: conoscenza
+  pl: wiedza
+  ro: cunoștința
+  pt-pt: o conhecimento
+  ru: знание
+  es: el conocimiento
+  uk: знання
+  pt-br: o conhecimento
+- nl: de liefde
+  en: love
+  fr: l'amour
+  de: die Liebe
+  it: amore
+  pl: miłość
+  ro: dragostea
+  pt-pt: o amor
+  ru: любовь
+  es: el amor
+  uk: кохання
+  pt-br: o amor
+- nl: de herinnering
+  en: memory
+  fr: la mémoire
+  de: die Erinnerung
+  it: memoria
+  pl: pamięć
+  ro: memoria
+  pt-pt: a memória
+  ru: память
+  es: la memoria
+  uk: пам'ять
+  pt-br: a memória
+- nl: de geest
+  en: mind
+  fr: l'esprit
+  de: der Geist
+  it: mente
+  pl: umysł
+  ro: mintea
+  pt-pt: a mente
+  ru: разум
+  es: la mente
+  uk: розум
+  pt-br: a mente
+- nl: de mening
+  en: opinion
+  fr: l'avis
+  de: die Meinung
+  it: opinione
+  pl: opinia
+  ro: opinia
+  pt-pt: a opinião
+  ru: мнение
+  es: la opinión
+  uk: думка
+  pt-br: a opinião
+- nl: de vrede
+  en: peace
+  fr: la paix
+  de: der Frieden
+  it: pace
+  pl: pokój
+  ro: pacea
+  pt-pt: a paz
+  ru: мир
+  es: la paz
+  uk: мир
+  pt-br: a paz
+- nl: zich herinneren
+  en: to remember
+  fr: se souvenir
+  de: sich erinnern
+  it: ricordare
+  pl: pamiętać
+  ro: a-și aminti
+  pt-pt: lembrar
+  ru: помнить
+  es: recordar
+  uk: пам'ятати
+  pt-br: lembrar
+- nl: het respect
+  en: respect
+  fr: le respect
+  de: der Respekt
+  it: rispetto
+  pl: szacunek
+  ro: respectul
+  pt-pt: o respeito
+  ru: уважение
+  es: el respeto
+  uk: повага
+  pt-br: o respeito
+- nl: verdrietig
+  en: sad
+  fr: triste
+  de: traurig
+  it: triste
+  pl: smutny
+  ro: trist
+  pt-pt: triste
+  ru: грустный
+  es: triste
+  uk: сумний
+  pt-br: triste
+- nl: de verrassing
+  en: surprise
+  fr: la surprise
+  de: die Überraschung
+  it: sorpresa
+  pl: niespodzianka
+  ro: surpriza
+  pt-pt: a surpresa
+  ru: сюрприз
+  es: la sorpresa
+  uk: сюрприз
+  pt-br: a surpresa
+- nl: de gedachte
+  en: thought
+  fr: la pensée
+  de: der Gedanke
+  it: pensiero
+  pl: myśl
+  ro: gândul
+  pt-pt: o pensamento
+  ru: мысль
+  es: el pensamiento
+  uk: думка
+  pt-br: o pensamento
+- nl: begrijpen
+  en: to understand
+  fr: comprendre
+  de: verstehen
+  it: capire
+  pl: rozumieć
+  ro: a înțelege
+  pt-pt: compreender
+  ru: понимать
+  es: comprender
+  uk: розуміти
+  pt-br: compreender
+- nl: het ding
+  en: thing
+  fr: la chose
+  de: die Sache
+  it: cosa
+  pl: rzecz
+  ro: lucrul
+  pt-pt: a coisa
+  ru: вещь
+  es: la cosa
+  uk: річ
+  pt-br: a coisa
+- nl: de weg
+  en: way
+  fr: le chemin
+  de: der Weg
+  it: modo
+  pl: sposób
+  ro: calea
+  pt-pt: o caminho
+  ru: путь
+  es: el camino
+  uk: шлях
+  pt-br: o caminho
+- nl: de plaats
+  en: place
+  fr: le lieu
+  de: der Ort
+  it: luogo
+  pl: miejsce
+  ro: locul
+  pt-pt: o lugar
+  ru: место
+  es: el lugar
+  uk: місце
+  pt-br: o lugar
+- nl: het deel
+  en: part
+  fr: la partie
+  de: der Teil
+  it: parte
+  pl: część
+  ro: partea
+  pt-pt: a parte
+  ru: часть
+  es: la parte
+  uk: частина
+  pt-br: a parte
+- nl: de wereld
+  en: world
+  fr: le monde
+  de: die Welt
+  it: mondo
+  pl: świat
+  ro: lumea
+  pt-pt: o mundo
+  ru: мир
+  es: el mundo
+  uk: світ
+  pt-br: o mundo
+- nl: het probleem
+  en: problem
+  fr: le problème
+  de: das Problem
+  it: problema
+  pl: problem
+  ro: problema
+  pt-pt: o problema
+  ru: проблема
+  es: el problema
+  uk: проблема
+  pt-br: o problema
+- nl: het voorbeeld
+  en: example
+  fr: l'exemple
+  de: das Beispiel
+  it: esempio
+  pl: przykład
+  ro: exemplul
+  pt-pt: o exemplo
+  ru: пример
+  es: el ejemplo
+  uk: приклад
+  pt-br: o exemplo
+- nl: de groep
+  en: group
+  fr: le groupe
+  de: die Gruppe
+  it: gruppo
+  pl: grupa
+  ro: grupul
+  pt-pt: o grupo
+  ru: группа
+  es: el grupo
+  uk: група
+  pt-br: o grupo
+- nl: het feit
+  en: fact
+  fr: le fait
+  de: die Tatsache
+  it: fatto
+  pl: fakt
+  ro: faptul
+  pt-pt: o facto
+  ru: факт
+  es: el hecho
+  uk: факт
+  pt-br: o facto
+- nl: het punt
+  en: point
+  fr: le point
+  de: der Punkt
+  it: punto
+  pl: punkt
+  ro: punctul
+  pt-pt: o ponto
+  ru: точка
+  es: el punto
+  uk: точка
+  pt-br: o ponto
+- nl: de verandering
+  en: change
+  fr: le changement
+  de: die Änderung
+  it: cambiamento
+  pl: zmiana
+  ro: schimbarea
+  pt-pt: a mudança
+  ru: изменение
+  es: el cambio
+  uk: зміна
+  pt-br: a mudança
+- nl: het verschil
+  en: difference
+  fr: la différence
+  de: der Unterschied
+  it: differenza
+  pl: różnica
+  ro: diferența
+  pt-pt: a diferença
+  ru: разница
+  es: la diferencia
+  uk: різниця
+  pt-br: a diferença
+- nl: het einde
+  en: end
+  fr: la fin
+  de: das Ende
+  it: fine
+  pl: koniec
+  ro: sfârșitul
+  pt-pt: o fim
+  ru: конец
+  es: el fin
+  uk: кінець
+  pt-br: o fim
+- nl: het plan
+  en: plan
+  fr: le plan
+  de: der Plan
+  it: piano
+  pl: plan
+  ro: planul
+  pt-pt: o plano
+  ru: план
+  es: el plan
+  uk: план
+  pt-br: o plano
+- nl: de kans
+  en: chance
+  fr: la chance
+  de: die Chance
+  it: possibilità
+  pl: szansa
+  ro: șansa
+  pt-pt: a oportunidade
+  ru: шанс
+  es: la oportunidad
+  uk: шанс
+  pt-br: a oportunidade
+- nl: de keuze
+  en: choice
+  fr: le choix
+  de: die Wahl
+  it: scelta
+  pl: wybór
+  ro: alegerea
+  pt-pt: a escolha
+  ru: выбор
+  es: la elección
+  uk: вибір
+  pt-br: a escolha
+- nl: rood
+  en: red
+  fr: rouge
+  de: rot
+  it: rosso
+  pl: czerwony
+  ro: roșu
+  pt-pt: vermelho
+  ru: красный
+  es: rojo
+  uk: червоний
+  pt-br: vermelho
+- nl: blauw
+  en: blue
+  fr: bleu
+  de: blau
+  it: blu
+  pl: niebieski
+  ro: albastru
+  pt-pt: azul
+  ru: синий
+  es: azul
+  uk: синій
+  pt-br: azul
+- nl: geel
+  en: yellow
+  fr: jaune
+  de: gelb
+  it: giallo
+  pl: żółty
+  ro: galben
+  pt-pt: amarelo
+  ru: жёлтый
+  es: amarillo
+  uk: жовтий
+  pt-br: amarelo
+- nl: groen
+  en: green
+  fr: vert
+  de: grün
+  it: verde
+  pl: zielony
+  ro: verde
+  pt-pt: verde
+  ru: зелёный
+  es: verde
+  uk: зелений
+  pt-br: verde
+- nl: oranje
+  en: orange (color)
+  fr: orange
+  de: orange
+  it: arancione
+  pl: pomarańczowy
+  ro: portocaliu
+  pt-pt: laranja
+  ru: оранжевый
+  es: naranja
+  uk: помаранчевий
+  pt-br: laranja
+- nl: paars
+  en: purple
+  fr: violet
+  de: lila
+  it: viola
+  pl: fioletowy
+  ro: violet
+  pt-pt: roxo
+  ru: фиолетовый
+  es: morado
+  uk: фіолетовий
+  pt-br: roxo
+- nl: roze
+  en: pink
+  fr: rose
+  de: rosa
+  it: rosa
+  pl: różowy
+  ro: roz
+  pt-pt: a cor-de-rosa
+  ru: розовый
+  es: rosa
+  uk: рожевий
+  pt-br: a cor-de-rosa
+- nl: zwart
+  en: black
+  fr: noir
+  de: schwarz
+  it: nero
+  pl: czarny
+  ro: negru
+  pt-pt: preto
+  ru: чёрный
+  es: negro
+  uk: чорний
+  pt-br: preto
+- nl: wit
+  en: white
+  fr: blanc
+  de: weiß
+  it: bianco
+  pl: biały
+  ro: alb
+  pt-pt: branco
+  ru: белый
+  es: blanco
+  uk: білий
+  pt-br: branco
+- nl: grijs
+  en: gray
+  fr: gris
+  de: grau
+  it: grigio
+  pl: szary
+  ro: gri
+  pt-pt: cinzento
+  ru: серый
+  es: gris
+  uk: сірий
+  pt-br: cinzento
+- nl: bruin
+  en: brown
+  fr: brun
+  de: braun
+  it: marrone
+  pl: brązowy
+  ro: maro
+  pt-pt: castanho
+  ru: коричневый
+  es: el marrón
+  uk: коричневий
+  pt-br: castanho
+- nl: hier
+  en: here
+  fr: ici
+  de: hier
+  it: qui
+  pl: tutaj
+  ro: aici
+  pt-pt: aqui
+  ru: в этом
+  es: aquí
+  uk: тут
+  pt-br: aqui
+- nl: daar
+  en: there
+  fr: là
+  de: dort
+  it: lì
+  pl: tam
+  ro: acolo
+  pt-pt: lá
+  ru: там
+  es: allí
+  uk: там
+  pt-br: lá
+- nl: het gebied
+  en: area
+  fr: la zone
+  de: der Bereich
+  it: area
+  pl: obszar
+  ro: zona
+  pt-pt: a área
+  ru: область
+  es: el área
+  uk: область
+  pt-br: a área
+- nl: het centrum
+  en: center
+  fr: le centre
+  de: das Zentrum
+  it: centro
+  pl: centrum
+  ro: centrul
+  pt-pt: o centro
+  ru: центр
+  es: el centro
+  uk: центр
+  pt-br: o centro
+- nl: de hoek
+  en: corner
+  fr: le coin
+  de: die Ecke
+  it: angolo
+  pl: róg
+  ro: colțul
+  pt-pt: o canto
+  ru: угол
+  es: la esquina
+  uk: кут
+  pt-br: o canto
+- nl: de richting
+  en: direction
+  fr: la direction
+  de: die Richtung
+  it: direzione
+  pl: kierunek
+  ro: direcția
+  pt-pt: a direção
+  ru: направление
+  es: la dirección
+  uk: напрямок
+  pt-br: a direção
+- nl: in
+  en: in
+  fr: dans
+  de: in
+  it: in
+  pl: w
+  ro: în
+  pt-pt: em
+  ru: в
+  es: en
+  uk: на
+  pt-br: em
+- nl: op
+  en: 'on'
+  fr: sur
+  de: auf
+  it: su
+  pl: na
+  ro: pe
+  pt-pt: sobre
+  ru: на
+  es: sobre
+  uk: на
+  pt-br: sobre
+- nl: bij
+  en: at
+  fr: à
+  de: bei
+  it: a
+  pl: w
+  ro: la
+  pt-pt: em
+  ru: в
+  es: en
+  uk: на
+  pt-br: em
+- nl: naar
+  en: to
+  fr: à
+  de: zu
+  it: a
+  pl: do
+  ro: la
+  pt-pt: para
+  ru: к
+  es: a
+  uk: до
+  pt-br: para
+- nl: van
+  en: from
+  fr: de
+  de: von
+  it: da
+  pl: z
+  ro: de la
+  pt-pt: de
+  ru: от
+  es: de
+  uk: від
+  pt-br: de
+- nl: met
+  en: with
+  fr: avec
+  de: mit
+  it: con
+  pl: z
+  ro: cu
+  pt-pt: com
+  ru: с
+  es: con
+  uk: з
+  pt-br: com
+- nl: voor
+  en: for
+  fr: pour
+  de: für
+  it: per
+  pl: dla
+  ro: pentru
+  pt-pt: para
+  ru: для
+  es: para
+  uk: для
+  pt-br: para
+- nl: over
+  en: about
+  fr: à propos de
+  de: über
+  it: circa
+  pl: o
+  ro: despre
+  pt-pt: sobre
+  ru: о
+  es: sobre
+  uk: про
+  pt-br: sobre
+- nl: omhoog
+  en: up
+  fr: en haut
+  de: hinauf
+  it: su
+  pl: w górę
+  ro: sus
+  pt-pt: para cima
+  ru: вверх
+  es: arriba
+  uk: вгору
+  pt-br: para cima
+- nl: omlaag
+  en: down
+  fr: en bas
+  de: hinunter
+  it: giù
+  pl: w dół
+  ro: jos
+  pt-pt: para baixo
+  ru: вниз
+  es: abajo
+  uk: вниз
+  pt-br: para baixo
+- nl: de bovenkant
+  en: top
+  fr: le sommet
+  de: die Spitze
+  it: cima
+  pl: góra
+  ro: vârful
+  pt-pt: o topo
+  ru: верх
+  es: la parte superior
+  uk: верх
+  pt-br: o topo
+- nl: de bodem
+  en: bottom
+  fr: le fond
+  de: der Boden
+  it: fondo
+  pl: dno
+  ro: fundul
+  pt-pt: o fundo
+  ru: дно
+  es: el fondo
+  uk: дно
+  pt-br: o fundo
+- nl: onder
+  en: under
+  fr: sous
+  de: unter
+  it: sotto
+  pl: pod
+  ro: sub
+  pt-pt: sob
+  ru: под
+  es: bajo
+  uk: під
+  pt-br: sob
+- nl: links
+  en: left (direction)
+  fr: à gauche
+  de: links
+  it: a sinistra
+  pl: w lewo
+  ro: la stânga
+  pt-pt: à esquerda
+  ru: налево
+  es: a la izquierda
+  uk: ліворуч
+  pt-br: à esquerda
+- nl: rechts
+  en: right (direction)
+  fr: à droite
+  de: rechts
+  it: a destra
+  pl: w prawo
+  ro: la dreapta
+  pt-pt: à direita
+  ru: направо
+  es: a la derecha
+  uk: праворуч
+  pt-br: à direita
+- nl: de voorkant
+  en: front
+  fr: l'avant
+  de: die Vorderseite
+  it: fronte
+  pl: przód
+  ro: partea din față
+  pt-pt: a frente
+  ru: перед
+  es: el frente
+  uk: перед
+  pt-br: a frente
+- nl: binnen
+  en: inside
+  fr: à l'intérieur
+  de: drinnen
+  it: dentro
+  pl: wewnątrz
+  ro: înăuntru
+  pt-pt: dentro
+  ru: внутри
+  es: dentro
+  uk: всередині
+  pt-br: dentro
+- nl: buiten
+  en: outside
+  fr: à l'extérieur
+  de: draußen
+  it: fuori
+  pl: na zewnątrz
+  ro: afară
+  pt-pt: fora
+  ru: снаружи
+  es: afuera
+  uk: зовні
+  pt-br: fora
+- nl: door
+  en: through
+  fr: à travers
+  de: durch
+  it: attraverso
+  pl: przez
+  ro: prin
+  pt-pt: através de
+  ru: через
+  es: a través de
+  uk: завдяки
+  pt-br: através de
+- nl: over
+  en: across
+  fr: en travers
+  de: hinüber
+  it: dall'altra parte
+  pl: w poprzek
+  ro: de-a curmezișul
+  pt-pt: do outro lado
+  ru: поперёк
+  es: al otro lado
+  uk: через
+  pt-br: do outro lado
+- nl: tussen
+  en: between
+  fr: entre
+  de: zwischen
+  it: tra
+  pl: między
+  ro: între
+  pt-pt: entre
+  ru: между
+  es: entre
+  uk: між
+  pt-br: entre
+- nl: rondom
+  en: around
+  fr: autour de
+  de: um
+  it: intorno
+  pl: wokół
+  ro: în jurul
+  pt-pt: em torno de
+  ru: вокруг
+  es: alrededor de
+  uk: навколо
+  pt-br: em torno de
+- nl: het moment
+  en: moment
+  fr: le moment
+  de: der Moment
+  it: momento
+  pl: moment
+  ro: momentul
+  pt-pt: o momento
+  ru: момент
+  es: el momento
+  uk: момент
+  pt-br: o momento
+- nl: de minuut
+  en: minute
+  fr: la minute
+  de: die Minute
+  it: minuto
+  pl: minuta
+  ro: minutul
+  pt-pt: o minuto
+  ru: минута
+  es: el minuto
+  uk: хвилина
+  pt-br: o minuto
+- nl: de dag
+  en: day
+  fr: le jour
+  de: der Tag
+  it: giorno
+  pl: dzień
+  ro: ziua
+  pt-pt: o dia
+  ru: день
+  es: el día
+  uk: день
+  pt-br: o dia
+- nl: de ochtend
+  en: morning
+  fr: le matin
+  de: der Morgen
+  it: mattina
+  pl: poranek
+  ro: dimineața
+  pt-pt: a manhã
+  ru: утро
+  es: la mañana
+  uk: ранок
+  pt-br: a manhã
+- nl: de middag
+  en: afternoon
+  fr: l'après-midi
+  de: der Nachmittag
+  it: pomeriggio
+  pl: popołudnie
+  ro: după-amiaza
+  pt-pt: a tarde
+  ru: день
+  es: la tarde
+  uk: день
+  pt-br: a tarde
+- nl: de avond
+  en: evening
+  fr: le soir
+  de: der Abend
+  it: sera
+  pl: wieczór
+  ro: seara
+  pt-pt: a noite
+  ru: вечер
+  es: la tarde
+  uk: вечір
+  pt-br: a noite
+- nl: de nacht
+  en: night
+  fr: la nuit
+  de: die Nacht
+  it: notte
+  pl: noc
+  ro: noaptea
+  pt-pt: a noite
+  ru: ночь
+  es: la noche
+  uk: ніч
+  pt-br: a noite
+- nl: middernacht
+  en: midnight
+  fr: minuit
+  de: die Mitternacht
+  it: mezzanotte
+  pl: północ
+  ro: miezul nopții
+  pt-pt: a meia-noite
+  ru: полночь
+  es: la medianoche
+  uk: північ
+  pt-br: a meia-noite
+- nl: vanavond
+  en: tonight
+  fr: ce soir
+  de: heute Abend
+  it: stasera
+  pl: dziś wieczorem
+  ro: în seara asta
+  pt-pt: esta noite
+  ru: сегодня вечером
+  es: esta noche
+  uk: сьогодні ввечері
+  pt-br: esta noite
+- nl: de periode
+  en: period
+  fr: la période
+  de: der Zeitraum
+  it: periodo
+  pl: okres
+  ro: perioada
+  pt-pt: o período
+  ru: период
+  es: el período
+  uk: період
+  pt-br: o período
+- nl: de tijd
+  en: time
+  fr: le temps
+  de: die Zeit
+  it: tempo
+  pl: czas
+  ro: timpul
+  pt-pt: o tempo
+  ru: время
+  es: el tiempo
+  uk: час
+  pt-br: o tempo
+- nl: de klok
+  en: clock
+  fr: l'horloge
+  de: die Uhr
+  it: orologio
+  pl: zegar
+  ro: ceasul
+  pt-pt: o relógio
+  ru: часы
+  es: el reloj
+  uk: годинник
+  pt-br: o relógio
+- nl: het uur
+  en: hour
+  fr: l'heure
+  de: die Stunde
+  it: ora
+  pl: godzina
+  ro: ora
+  pt-pt: a hora
+  ru: час
+  es: la hora
+  uk: година
+  pt-br: a hora
+- nl: vandaag
+  en: today
+  fr: aujourd'hui
+  de: heute
+  it: oggi
+  pl: dzisiaj
+  ro: astăzi
+  pt-pt: hoje
+  ru: сегодня
+  es: hoy
+  uk: сьогодні
+  pt-br: hoje
+- nl: morgen
+  en: tomorrow
+  fr: demain
+  de: morgen
+  it: domani
+  pl: jutro
+  ro: mâine
+  pt-pt: amanhã
+  ru: завтра
+  es: la mañana
+  uk: завтра
+  pt-br: amanhã
+- nl: gisteren
+  en: yesterday
+  fr: hier
+  de: gestern
+  it: ieri
+  pl: wczoraj
+  ro: ieri
+  pt-pt: ontem
+  ru: вчера
+  es: ayer
+  uk: вчора
+  pt-br: ontem
+- nl: nu
+  en: now
+  fr: maintenant
+  de: jetzt
+  it: ora
+  pl: teraz
+  ro: acum
+  pt-pt: agora
+  ru: сейчас
+  es: ahora
+  uk: зараз
+  pt-br: agora
+- nl: dan
+  en: then
+  fr: puis
+  de: dann
+  it: allora
+  pl: wtedy
+  ro: atunci
+  pt-pt: depois
+  ru: затем
+  es: entonces
+  uk: тоді
+  pt-br: depois
+- nl: het verleden
+  en: past
+  fr: le passé
+  de: die Vergangenheit
+  it: passato
+  pl: przeszłość
+  ro: trecutul
+  pt-pt: o passado
+  ru: прошлое
+  es: el pasado
+  uk: минуле
+  pt-br: o passado
+- nl: de toekomst
+  en: future
+  fr: le futur
+  de: die Zukunft
+  it: futuro
+  pl: przyszłość
+  ro: viitorul
+  pt-pt: o futuro
+  ru: будущее
+  es: el futuro
+  uk: майбутнє
+  pt-br: o futuro
+- nl: voor
+  en: before
+  fr: avant
+  de: vor
+  it: prima
+  pl: przed
+  ro: înainte de
+  pt-pt: antes de
+  ru: до
+  es: antes de
+  uk: перед
+  pt-br: antes de
+- nl: na
+  en: after
+  fr: après
+  de: nach
+  it: dopo
+  pl: po
+  ro: după
+  pt-pt: após
+  ru: после
+  es: después de
+  uk: після
+  pt-br: após
+- nl: later
+  en: later
+  fr: plus tard
+  de: später
+  it: più tardi
+  pl: później
+  ro: mai târziu
+  pt-pt: mais tarde
+  ru: позже
+  es: más tarde
+  uk: пізніше
+  pt-br: mais tarde
+- nl: binnenkort
+  en: soon
+  fr: bientôt
+  de: bald
+  it: presto
+  pl: wkrótce
+  ro: curând
+  pt-pt: em breve
+  ru: скоро
+  es: pronto
+  uk: незабаром
+  pt-br: em breve
+- nl: vroeg
+  en: early
+  fr: tôt
+  de: früh
+  it: presto
+  pl: wcześnie
+  ro: devreme
+  pt-pt: cedo
+  ru: рано
+  es: temprano
+  uk: рано
+  pt-br: cedo
+- nl: het begin
+  en: beginning
+  fr: le début
+  de: der Anfang
+  it: inizio
+  pl: początek
+  ro: începutul
+  pt-pt: o começo
+  ru: начало
+  es: el comienzo
+  uk: початок
+  pt-br: o começo
+- nl: tijdens
+  en: during
+  fr: pendant
+  de: während
+  it: durante
+  pl: podczas
+  ro: în timpul
+  pt-pt: durante
+  ru: во время
+  es: durante
+  uk: протягом
+  pt-br: durante
+- nl: tot
+  en: till
+  fr: jusqu'à
+  de: bis
+  it: fino a
+  pl: do
+  ro: până
+  pt-pt: até
+  ru: до
+  es: hasta
+  uk: до
+  pt-br: até
+- nl: altijd
+  en: always
+  fr: toujours
+  de: immer
+  it: sempre
+  pl: zawsze
+  ro: întotdeauna
+  pt-pt: sempre
+  ru: всегда
+  es: siempre
+  uk: завжди
+  pt-br: sempre
+- nl: nooit
+  en: never
+  fr: jamais
+  de: niemals
+  it: mai
+  pl: nigdy
+  ro: niciodată
+  pt-pt: nunca
+  ru: никогда
+  es: nunca
+  uk: ніколи
+  pt-br: nunca
+- nl: vaak
+  en: often
+  fr: souvent
+  de: oft
+  it: spesso
+  pl: często
+  ro: adesea
+  pt-pt: frequentemente
+  ru: часто
+  es: a menudo
+  uk: часто
+  pt-br: frequentemente
+- nl: soms
+  en: sometimes
+  fr: parfois
+  de: manchmal
+  it: a volte
+  pl: czasami
+  ro: uneori
+  pt-pt: às vezes
+  ru: иногда
+  es: a veces
+  uk: іноді
+  pt-br: às vezes
+- nl: eens
+  en: once
+  fr: une fois
+  de: einmal
+  it: una volta
+  pl: raz
+  ro: o dată
+  pt-pt: uma vez
+  ru: однажды
+  es: una vez
+  uk: одного разу
+  pt-br: uma vez
+- nl: gewoonlijk
+  en: usually
+  fr: habituellement
+  de: normalerweise
+  it: di solito
+  pl: zazwyczaj
+  ro: de obicei
+  pt-pt: normalmente
+  ru: обычно
+  es: normalmente
+  uk: зазвичай
+  pt-br: normalmente
+- nl: ooit
+  en: ever
+  fr: jamais
+  de: je
+  it: mai
+  pl: kiedykolwiek
+  ro: vreodată
+  pt-pt: alguma vez
+  ru: когда-либо
+  es: alguna vez
+  uk: коли-небудь
+  pt-br: alguma vez
+- nl: al
+  en: already
+  fr: déjà
+  de: schon
+  it: già
+  pl: już
+  ro: deja
+  pt-pt: já
+  ru: уже
+  es: ya
+  uk: вже
+  pt-br: já
+- nl: nog steeds
+  en: still
+  fr: encore
+  de: noch
+  it: ancora
+  pl: wciąż
+  ro: încă
+  pt-pt: ainda
+  ru: всё ещё
+  es: todavía
+  uk: все ще
+  pt-br: ainda
+- nl: opnieuw
+  en: again
+  fr: à nouveau
+  de: wieder
+  it: di nuovo
+  pl: ponownie
+  ro: din nou
+  pt-pt: novamente
+  ru: снова
+  es: de nuevo
+  uk: знову
+  pt-br: novamente
+- nl: wanneer
+  en: when
+  fr: quand
+  de: wenn
+  it: quando
+  pl: kiedy
+  ro: când
+  pt-pt: quando
+  ru: когда
+  es: cuando
+  uk: коли
+  pt-br: quando
+- nl: de afstand
+  en: distance
+  fr: la distance
+  de: die Entfernung
+  it: distanza
+  pl: odległość
+  ro: distanța
+  pt-pt: a distância
+  ru: расстояние
+  es: la distancia
+  uk: відстань
+  pt-br: a distância
+- nl: de centimeter
+  en: centimeter
+  fr: le centimètre
+  de: der Zentimeter
+  it: centimetro
+  pl: centymetr
+  ro: centimetrul
+  pt-pt: o centímetro
+  ru: сантиметр
+  es: el centímetro
+  uk: сантиметр
+  pt-br: o centímetro
+- nl: de inch
+  en: inch
+  fr: le pouce
+  de: der Zoll
+  it: pollice
+  pl: cal
+  ro: inci
+  pt-pt: a polegada
+  ru: дюйм
+  es: la pulgada
+  uk: дюйм
+  pt-br: a polegada
+- nl: de meter
+  en: meter
+  fr: le mètre
+  de: der Meter
+  it: metro
+  pl: metr
+  ro: metrul
+  pt-pt: o metro
+  ru: метр
+  es: el metro
+  uk: метр
+  pt-br: o metro
+- nl: de kilometer
+  en: kilometer
+  fr: le kilomètre
+  de: der Kilometer
+  it: chilometro
+  pl: kilometr
+  ro: kilometrul
+  pt-pt: o quilómetro
+  ru: километр
+  es: el kilómetro
+  uk: кілометр
+  pt-br: o quilómetro
+- nl: de mijl
+  en: mile
+  fr: le mile
+  de: die Meile
+  it: miglio
+  pl: mila
+  ro: mila
+  pt-pt: a milha
+  ru: миля
+  es: la milla
+  uk: миля
+  pt-br: a milha
+- nl: het gewicht
+  en: weight
+  fr: le poids
+  de: das Gewicht
+  it: peso
+  pl: waga
+  ro: greutatea
+  pt-pt: o peso
+  ru: вес
+  es: el peso
+  uk: вага
+  pt-br: o peso
+- nl: de kilogram
+  en: kilogram
+  fr: le kilogramme
+  de: das Kilogramm
+  it: chilogrammo
+  pl: kilogram
+  ro: kilogramul
+  pt-pt: o quilograma
+  ru: килограмм
+  es: el kilogramo
+  uk: кілограм
+  pt-br: o quilograma
+- nl: het hoofd
+  en: head
+  fr: la tête
+  de: der Kopf
+  it: testa
+  pl: głowa
+  ro: capul
+  pt-pt: a cabeça
+  ru: голова
+  es: la cabeza
+  uk: голова
+  pt-br: a cabeça
+- nl: het haar
+  en: hair
+  fr: le cheveu
+  de: das Haar
+  it: capelli
+  pl: włosy
+  ro: părul
+  pt-pt: o cabelo
+  ru: волосы
+  es: el pelo
+  uk: волосся
+  pt-br: o cabelo
+- nl: het gezicht
+  en: face
+  fr: le visage
+  de: das Gesicht
+  it: viso
+  pl: twarz
+  ro: fața
+  pt-pt: o rosto
+  ru: лицо
+  es: la cara
+  uk: обличчя
+  pt-br: o rosto
+- nl: het brein
+  en: brain
+  fr: le cerveau
+  de: das Gehirn
+  it: cervello
+  pl: mózg
+  ro: creierul
+  pt-pt: o cérebro
+  ru: мозг
+  es: el cerebro
+  uk: мозок
+  pt-br: o cérebro
+- nl: het oog
+  en: eye
+  fr: l'œil
+  de: das Auge
+  it: occhio
+  pl: oko
+  ro: ochiul
+  pt-pt: o olho
+  ru: глаз
+  es: el ojo
+  uk: око
+  pt-br: o olho
+- nl: het oor
+  en: ear
+  fr: l'oreille
+  de: das Ohr
+  it: orecchio
+  pl: ucho
+  ro: urechea
+  pt-pt: a orelha
+  ru: ухо
+  es: la oreja
+  uk: вухо
+  pt-br: a orelha
+- nl: de neus
+  en: nose
+  fr: le nez
+  de: die Nase
+  it: naso
+  pl: nos
+  ro: nasul
+  pt-pt: o nariz
+  ru: нос
+  es: la nariz
+  uk: ніс
+  pt-br: o nariz
+- nl: de mond
+  en: mouth
+  fr: la bouche
+  de: der Mund
+  it: bocca
+  pl: usta
+  ro: gura
+  pt-pt: a boca
+  ru: рот
+  es: la boca
+  uk: рот
+  pt-br: a boca
+- nl: de lip
+  en: lip
+  fr: la lèvre
+  de: die Lippe
+  it: labbro
+  pl: warga
+  ro: buza
+  pt-pt: o lábio
+  ru: губа
+  es: el labio
+  uk: губа
+  pt-br: o lábio
+- nl: de tong
+  en: tongue
+  fr: la langue
+  de: die Zunge
+  it: lingua
+  pl: język
+  ro: limba
+  pt-pt: a língua
+  ru: язык
+  es: la lengua
+  uk: язик
+  pt-br: a língua
+- nl: de tand
+  en: tooth
+  fr: la dent
+  de: der Zahn
+  it: dente
+  pl: ząb
+  ro: dintele
+  pt-pt: o dente
+  ru: зуб
+  es: el diente
+  uk: зуб
+  pt-br: o dente
+- nl: de keel
+  en: throat
+  fr: la gorge
+  de: die Kehle
+  it: gola
+  pl: gardło
+  ro: gâtul
+  pt-pt: a garganta
+  ru: горло
+  es: la garganta
+  uk: горло
+  pt-br: a garganta
+- nl: de stem
+  en: voice
+  fr: la voix
+  de: die Stimme
+  it: voce
+  pl: głos
+  ro: vocea
+  pt-pt: a voz
+  ru: голос
+  es: la voz
+  uk: голос
+  pt-br: a voz
+- nl: het gehoor
+  en: hearing
+  fr: l'ouïe
+  de: das Gehör
+  it: udito
+  pl: słuch
+  ro: auzul
+  pt-pt: a audição
+  ru: слух
+  es: el oído
+  uk: слух
+  pt-br: a audição
+- nl: de nek
+  en: neck
+  fr: le cou
+  de: der Hals
+  it: collo
+  pl: szyja
+  ro: gâtul
+  pt-pt: o pescoço
+  ru: шея
+  es: el cuello
+  uk: шия
+  pt-br: o pescoço
+- nl: de schouder
+  en: shoulder
+  fr: l'épaule
+  de: die Schulter
+  it: spalla
+  pl: ramię
+  ro: umărul
+  pt-pt: o ombro
+  ru: плечо
+  es: el hombro
+  uk: плече
+  pt-br: o ombro
+- nl: de borst
+  en: chest
+  fr: la poitrine
+  de: die Brust
+  it: petto
+  pl: klatka piersiowa
+  ro: pieptul
+  pt-pt: o peito
+  ru: грудь
+  es: el pecho
+  uk: груди
+  pt-br: o peito
+- nl: de rug
+  en: back (body part)
+  fr: le dos
+  de: der Rücken
+  it: schiena
+  pl: plecy
+  ro: spatele
+  pt-pt: as costas
+  ru: спина
+  es: la espalda
+  uk: спина
+  pt-br: as costas
+- nl: de arm
+  en: arm
+  fr: le bras
+  de: der Arm
+  it: braccio
+  pl: ramię
+  ro: brațul
+  pt-pt: o braço
+  ru: рука
+  es: el brazo
+  uk: рука
+  pt-br: o braço
+- nl: de hand
+  en: hand
+  fr: la main
+  de: die Hand
+  it: mano
+  pl: ręka
+  ro: mâna
+  pt-pt: a mão
+  ru: рука
+  es: la mano
+  uk: рука
+  pt-br: a mão
+- nl: de vinger
+  en: finger
+  fr: le doigt
+  de: der Finger
+  it: dito
+  pl: palec
+  ro: degetul
+  pt-pt: o dedo
+  ru: палец
+  es: el dedo
+  uk: палець
+  pt-br: o dedo
+- nl: de duim
+  en: thumb
+  fr: le pouce
+  de: der Daumen
+  it: pollice
+  pl: kciuk
+  ro: degetul mare
+  pt-pt: o polegar
+  ru: большой палец
+  es: el pulgar
+  uk: великий палець
+  pt-br: o polegar
+- nl: de nagel
+  en: nail (body part)
+  fr: l'ongle
+  de: der Nagel
+  it: unghia
+  pl: paznokieć
+  ro: unghia
+  pt-pt: a unha
+  ru: ноготь
+  es: la uña
+  uk: ніготь
+  pt-br: a unha
+- nl: het hart
+  en: heart
+  fr: le cœur
+  de: das Herz
+  it: cuore
+  pl: serce
+  ro: inima
+  pt-pt: o coração
+  ru: сердце
+  es: el corazón
+  uk: серце
+  pt-br: o coração
+- nl: de adem
+  en: breath
+  fr: le souffle
+  de: der Atem
+  it: respiro
+  pl: oddech
+  ro: respirația
+  pt-pt: a respiração
+  ru: дыхание
+  es: el aliento
+  uk: подих
+  pt-br: a respiração
+- nl: de maag
+  en: stomach
+  fr: l'estomac
+  de: der Magen
+  it: stomaco
+  pl: żołądek
+  ro: stomacul
+  pt-pt: o estômago
+  ru: желудок
+  es: el estómago
+  uk: шлунок
+  pt-br: o estômago
+- nl: het been
+  en: leg
+  fr: la jambe
+  de: das Bein
+  it: gamba
+  pl: noga
+  ro: piciorul
+  pt-pt: a perna
+  ru: нога
+  es: la pierna
+  uk: нога
+  pt-br: a perna
+- nl: de knie
+  en: knee
+  fr: le genou
+  de: das Knie
+  it: ginocchio
+  pl: kolano
+  ro: genunchiul
+  pt-pt: o joelho
+  ru: колено
+  es: la rodilla
+  uk: коліно
+  pt-br: o joelho
+- nl: de voet
+  en: foot
+  fr: le pied
+  de: der Fuß
+  it: piede
+  pl: stopa
+  ro: piciorul
+  pt-pt: o pé
+  ru: стопа
+  es: el pie
+  uk: стопа
+  pt-br: o pé
+- nl: de teen
+  en: toe
+  fr: l'orteil
+  de: der Zeh
+  it: dito del piede
+  pl: palec u nogi
+  ro: degetul de la picior
+  pt-pt: o dedo do pé
+  ru: палец ноги
+  es: el dedo del pie
+  uk: палець ноги
+  pt-br: o dedo do pé
+- nl: het lichaam
+  en: body
+  fr: le corps
+  de: der Körper
+  it: corpo
+  pl: ciało
+  ro: corpul
+  pt-pt: o corpo
+  ru: тело
+  es: el cuerpo
+  uk: тіло
+  pt-br: o corpo
+- nl: de huid
+  en: skin
+  fr: la peau
+  de: die Haut
+  it: pelle
+  pl: skóra
+  ro: pielea
+  pt-pt: a pele
+  ru: кожа
+  es: la piel
+  uk: шкіра
+  pt-br: a pele
+- nl: de spier
+  en: muscle
+  fr: le muscle
+  de: der Muskel
+  it: muscolo
+  pl: mięsień
+  ro: mușchiul
+  pt-pt: o músculo
+  ru: мышца
+  es: el músculo
+  uk: м'яз
+  pt-br: o músculo
+- nl: het bot
+  en: bone
+  fr: l'os
+  de: der Knochen
+  it: osso
+  pl: kość
+  ro: osul
+  pt-pt: o osso
+  ru: кость
+  es: el hueso
+  uk: кістка
+  pt-br: o osso
+- nl: het vlees
+  en: flesh
+  fr: la chair
+  de: das Fleisch
+  it: carne
+  pl: ciało
+  ro: carnea
+  pt-pt: a carne
+  ru: плоть
+  es: la carne
+  uk: плоть
+  pt-br: a carne
+- nl: het bloed
+  en: blood
+  fr: le sang
+  de: das Blut
+  it: sangue
+  pl: krew
+  ro: sângele
+  pt-pt: o sangue
+  ru: кровь
+  es: la sangre
+  uk: кров
+  pt-br: o sangue
+- nl: het zintuig
+  en: sense
+  fr: le sens
+  de: der Sinn
+  it: senso
+  pl: zmysł
+  ro: simțul
+  pt-pt: o sentido
+  ru: чувство
+  es: el sentido
+  uk: почуття
+  pt-br: o sentido
+- nl: het geslacht
+  en: sex
+  fr: le sexe
+  de: das Geschlecht
+  it: sesso
+  pl: płeć
+  ro: sexul
+  pt-pt: o sexo
+  ru: пол
+  es: el sexo
+  uk: стать
+  pt-br: o sexo
+- nl: de geboorte
+  en: birth
+  fr: la naissance
+  de: die Geburt
+  it: nascita
+  pl: narodziny
+  ro: nașterea
+  pt-pt: o nascimento
+  ru: рождение
+  es: el nacimiento
+  uk: народження
+  pt-br: o nascimento
+- nl: de dood
+  en: death
+  fr: la mort
+  de: der Tod
+  it: morte
+  pl: śmierć
+  ro: moartea
+  pt-pt: a morte
+  ru: смерть
+  es: la muerte
+  uk: смерть
+  pt-br: a morte
+- nl: de wond
+  en: wound
+  fr: la blessure
+  de: die Wunde
+  it: ferita
+  pl: rana
+  ro: rana
+  pt-pt: a ferida
+  ru: рана
+  es: la herida
+  uk: рана
+  pt-br: a ferida
+- nl: de staart
+  en: tail
+  fr: la queue
+  de: der Schwanz
+  it: coda
+  pl: ogon
+  ro: coada
+  pt-pt: a cauda
+  ru: хвост
+  es: la cola
+  uk: хвіст
+  pt-br: a cauda
+- nl: de vleugel
+  en: wing
+  fr: l'aile
+  de: der Flügel
+  it: ala
+  pl: skrzydło
+  ro: aripa
+  pt-pt: a asa
+  ru: крыло
+  es: el ala
+  uk: крило
+  pt-br: a asa
+- nl: de zorg
+  en: care
+  fr: le soin
+  de: die Pflege
+  it: cura
+  pl: opieka
+  ro: îngrijirea
+  pt-pt: o cuidado
+  ru: уход
+  es: el cuidado
+  uk: догляд
+  pt-br: o cuidado
+- nl: de hoest
+  en: cough
+  fr: la toux
+  de: der Husten
+  it: tosse
+  pl: kaszel
+  ro: tusea
+  pt-pt: a tosse
+  ru: кашель
+  es: la tos
+  uk: кашель
+  pt-br: a tosse
+- nl: het dieet
+  en: diet
+  fr: le régime
+  de: die Diät
+  it: dieta
+  pl: dieta
+  ro: dieta
+  pt-pt: a dieta
+  ru: диета
+  es: la dieta
+  uk: дієта
+  pt-br: a dieta
+- nl: de ziekte
+  en: disease
+  fr: la maladie
+  de: die Krankheit
+  it: malattia
+  pl: choroba
+  ro: boala
+  pt-pt: a doença
+  ru: болезнь
+  es: la enfermedad
+  uk: хвороба
+  pt-br: a doença
+- nl: de dokter
+  en: doctor
+  fr: le médecin
+  de: der Arzt
+  it: medico
+  pl: lekarz
+  ro: doctorul
+  pt-pt: médico
+  ru: врач
+  es: el doctor
+  uk: лікар
+  pt-br: médico
+- nl: het medicijn
+  en: drug (medicine)
+  fr: le médicament
+  de: das Medikament
+  it: farmaco
+  pl: lek
+  ro: medicamentul
+  pt-pt: o medicamento
+  ru: лекарство
+  es: el medicamento
+  uk: ліки
+  pt-br: o medicamento
+- nl: de oefening
+  en: exercise
+  fr: l'exercice
+  de: die Übung
+  it: esercizio
+  pl: ćwiczenie
+  ro: exercițiul
+  pt-pt: o exercício
+  ru: упражнение
+  es: el ejercicio
+  uk: вправа
+  pt-br: o exercício
+- nl: de sportschool
+  en: gym
+  fr: la salle de sport
+  de: das Fitnessstudio
+  it: palestra
+  pl: siłownia
+  ro: sala de sport
+  pt-pt: o ginásio
+  ru: спортзал
+  es: el gimnasio
+  uk: спортзал
+  pt-br: o ginásio
+- nl: de gezondheid
+  en: health
+  fr: la santé
+  de: die Gesundheit
+  it: salute
+  pl: zdrowie
+  ro: sănătatea
+  pt-pt: a saúde
+  ru: здоровье
+  es: la salud
+  uk: здоров'я
+  pt-br: a saúde
+- nl: de blessure
+  en: injury
+  fr: la blessure
+  de: die Verletzung
+  it: infortunio
+  pl: uraz
+  ro: rănirea
+  pt-pt: a lesão
+  ru: травма
+  es: la lesión
+  uk: травма
+  pt-br: a lesão
+- nl: medisch
+  en: medical
+  fr: médical
+  de: medizinisch
+  it: medico
+  pl: medyczny
+  ro: medical
+  pt-pt: médico
+  ru: медицинский
+  es: médico
+  uk: медичний
+  pt-br: médico
+- nl: de geneeskunde
+  en: medicine
+  fr: le médecine
+  de: die Medizin
+  it: medicina
+  pl: medycyna
+  ro: medicina
+  pt-pt: a medicina
+  ru: медицина
+  es: la medicina
+  uk: медицина
+  pt-br: a medicina
+- nl: de verpleegster
+  en: nurse
+  fr: l'infirmière
+  de: die Krankenschwester
+  it: infermiera
+  pl: pielęgniarka
+  ro: asistenta medicală
+  pt-pt: a enfermeira
+  ru: медсестра
+  es: la enfermera
+  uk: медсестра
+  pt-br: a enfermeira
+- nl: de pijn
+  en: pain
+  fr: la douleur
+  de: der Schmerz
+  it: dolore
+  pl: ból
+  ro: durerea
+  pt-pt: a dor
+  ru: боль
+  es: el dolor
+  uk: біль
+  pt-br: a dor
+- nl: de patiënt
+  en: patient
+  fr: le patient
+  de: der Patient
+  it: paziente
+  pl: pacjent
+  ro: pacientul
+  pt-pt: o paciente
+  ru: пациент
+  es: el paciente
+  uk: пацієнт
+  pt-br: o paciente
+- nl: het gif
+  en: poison
+  fr: le poison
+  de: das Gift
+  it: veleno
+  pl: trucizna
+  ro: otrava
+  pt-pt: o veneno
+  ru: яд
+  es: el veneno
+  uk: отрута
+  pt-br: o veneno
+- nl: de tante
+  en: aunt
+  fr: la tante
+  de: die Tante
+  it: zia
+  pl: ciotka
+  ro: mătușa
+  pt-pt: a tia
+  ru: тётя
+  es: la tía
+  uk: тітка
+  pt-br: a tia
+- nl: de broer
+  en: brother
+  fr: le frère
+  de: der Bruder
+  it: fratello
+  pl: brat
+  ro: fratele
+  pt-pt: o irmão
+  ru: брат
+  es: el hermano
+  uk: брат
+  pt-br: o irmão
+- nl: de neef
+  en: cousin
+  fr: le cousin
+  de: der Cousin
+  it: cugino
+  pl: kuzyn
+  ro: vărul
+  pt-pt: o primo
+  ru: двоюродный брат
+  es: el primo
+  uk: двоюрідний брат
+  pt-br: o primo
+- nl: papa
+  en: dad
+  fr: papa
+  de: der Papa
+  it: papà
+  pl: tata
+  ro: tata
+  pt-pt: o pai
+  ru: папа
+  es: el papá
+  uk: тато
+  pt-br: o pai
+- nl: de dochter
+  en: daughter
+  fr: la fille
+  de: die Tochter
+  it: figlia
+  pl: córka
+  ro: fiica
+  pt-pt: a filha
+  ru: дочь
+  es: la hija
+  uk: дочка
+  pt-br: a filha
+- nl: de vader
+  en: father
+  fr: le père
+  de: der Vater
+  it: padre
+  pl: ojciec
+  ro: tatăl
+  pt-pt: o pai
+  ru: отец
+  es: el padre
+  uk: батько
+  pt-br: o pai
+- nl: de grootvader
+  en: grandfather
+  fr: le grand-père
+  de: der Großvater
+  it: nonno
+  pl: dziadek
+  ro: bunicul
+  pt-pt: o avô
+  ru: дедушка
+  es: el abuelo
+  uk: дідусь
+  pt-br: o avô
+- nl: de grootmoeder
+  en: grandmother
+  fr: la grand-mère
+  de: die Großmutter
+  it: nonna
+  pl: babcia
+  ro: bunica
+  pt-pt: a avó
+  ru: бабушка
+  es: la abuela
+  uk: бабуся
+  pt-br: a avó
+- nl: de echtgenoot
+  en: husband
+  fr: le mari
+  de: der Ehemann
+  it: marito
+  pl: mąż
+  ro: soțul
+  pt-pt: o marido
+  ru: муж
+  es: el marido
+  uk: чоловік
+  pt-br: o marido
+- nl: de moeder
+  en: mother
+  fr: la mère
+  de: die Mutter
+  it: madre
+  pl: matka
+  ro: mama
+  pt-pt: a mãe
+  ru: мать
+  es: la madre
+  uk: мати
+  pt-br: a mãe
+- nl: de ouder
+  en: parent
+  fr: le parent
+  de: der Elternteil
+  it: genitore
+  pl: rodzic
+  ro: părintele
+  pt-pt: o progenitor
+  ru: родитель
+  es: el padre
+  uk: батько
+  pt-br: o progenitor
+- nl: de grootouder
+  en: grandparent
+  fr: le grand-parent
+  de: der Großelternteil
+  it: nonno
+  pl: dziadkowie
+  ro: bunicul
+  pt-pt: o avô
+  ru: дедушка или бабушка
+  es: el abuelo
+  uk: дідусь або бабуся
+  pt-br: o avô
+- nl: de zus
+  en: sister
+  fr: la sœur
+  de: die Schwester
+  it: sorella
+  pl: siostra
+  ro: sora
+  pt-pt: a irmã
+  ru: сестра
+  es: la hermana
+  uk: сестра
+  pt-br: a irmã
+- nl: de zoon
+  en: son
+  fr: le fils
+  de: der Sohn
+  it: figlio
+  pl: syn
+  ro: fiul
+  pt-pt: o filho
+  ru: сын
+  es: el hijo
+  uk: син
+  pt-br: o filho
+- nl: de oom
+  en: uncle
+  fr: l'oncle
+  de: der Onkel
+  it: zio
+  pl: wujek
+  ro: unchiul
+  pt-pt: o tio
+  ru: дядя
+  es: el tío
+  uk: дядько
+  pt-br: o tio
+- nl: de echtgenote
+  en: wife
+  fr: l'épouse
+  de: die Ehefrau
+  it: moglie
+  pl: żona
+  ro: soția
+  pt-pt: a esposa
+  ru: жена
+  es: la esposa
+  uk: дружина
+  pt-br: a esposa
+- nl: de volwassene
+  en: adult
+  fr: l'adulte
+  de: der Erwachsene
+  it: adulto
+  pl: dorosły
+  ro: adultul
+  pt-pt: o adulto
+  ru: взрослый
+  es: el adulto
+  uk: дорослий
+  pt-br: o adulto
+- nl: de baby
+  en: baby
+  fr: le bébé
+  de: das Baby
+  it: neonato
+  pl: niemowlę
+  ro: bebelușul
+  pt-pt: o bebé
+  ru: младенец
+  es: el bebé
+  uk: немовля
+  pt-br: o bebé
+- nl: de jongen
+  en: boy
+  fr: le garçon
+  de: der Junge
+  it: ragazzo
+  pl: chłopiec
+  ro: băiatul
+  pt-pt: o rapaz
+  ru: мальчик
+  es: el chico
+  uk: хлопчик
+  pt-br: o rapaz
+- nl: het kind
+  en: child
+  fr: l'enfant
+  de: das Kind
+  it: bambino
+  pl: dziecko
+  ro: copilul
+  pt-pt: a criança
+  ru: ребёнок
+  es: el niño
+  uk: дитина
+  pt-br: a criança
+- nl: het meisje
+  en: girl
+  fr: la fille
+  de: das Mädchen
+  it: ragazza
+  pl: dziewczyna
+  ro: fata
+  pt-pt: a rapariga
+  ru: девочка
+  es: la chica
+  uk: дівчинка
+  pt-br: a rapariga
+- nl: de man
+  en: man
+  fr: l'homme
+  de: der Mann
+  it: uomo
+  pl: mężczyzna
+  ro: bărbatul
+  pt-pt: o homem
+  ru: мужчина
+  es: el hombre
+  uk: чоловік
+  pt-br: o homem
+- nl: de mensen
+  en: people
+  fr: les gens
+  de: die Menschen
+  it: persone
+  pl: ludzie
+  ro: oamenii
+  pt-pt: as pessoas
+  ru: люди
+  es: la gente
+  uk: люди
+  pt-br: as pessoas
+- nl: de persoon
+  en: person
+  fr: la personne
+  de: die Person
+  it: persona
+  pl: osoba
+  ro: persoana
+  pt-pt: a pessoa
+  ru: человек
+  es: la persona
+  uk: людина
+  pt-br: a pessoa
+- nl: de vrouw
+  en: woman
+  fr: la femme
+  de: die Frau
+  it: donna
+  pl: kobieta
+  ro: femeia
+  pt-pt: a mulher
+  ru: женщина
+  es: la mujer
+  uk: жінка
+  pt-br: a mulher
+- nl: de vriend
+  en: boyfriend
+  fr: le petit ami
+  de: der Freund
+  it: ragazzo
+  pl: chłopak
+  ro: prietenul
+  pt-pt: o namorado
+  ru: парень
+  es: el novio
+  uk: хлопець
+  pt-br: o namorado
+- nl: de vriendin
+  en: girlfriend
+  fr: la petite amie
+  de: die Freundin
+  it: fidanzata
+  pl: dziewczyna
+  ro: prietena
+  pt-pt: a namorada
+  ru: девушка
+  es: la novia
+  uk: дівчина
+  pt-br: a namorada
+- nl: het huwelijk
+  en: marriage
+  fr: le mariage
+  de: die Ehe
+  it: matrimonio
+  pl: małżeństwo
+  ro: căsătoria
+  pt-pt: o casamento
+  ru: брак
+  es: el matrimonio
+  uk: шлюб
+  pt-br: o casamento
+- nl: de buur
+  en: neighbor
+  fr: le voisin
+  de: der Nachbar
+  it: vicino
+  pl: sąsiad
+  ro: vecinul
+  pt-pt: o vizinho
+  ru: сосед
+  es: el vecino
+  uk: сусід
+  pt-br: o vizinho
+- nl: de partner
+  en: partner
+  fr: le partenaire
+  de: der Partner
+  it: partner
+  pl: partner
+  ro: partenerul
+  pt-pt: o parceiro
+  ru: партнёр
+  es: el compañero
+  uk: партнер
+  pt-br: o parceiro
+- nl: de relatie
+  en: relationship
+  fr: la relation
+  de: die Beziehung
+  it: relazione
+  pl: związek
+  ro: relația
+  pt-pt: a relação
+  ru: отношения
+  es: la relación
+  uk: стосунки
+  pt-br: a relação
+- nl: de bruiloft
+  en: wedding
+  fr: le mariage
+  de: die Hochzeit
+  it: matrimonio
+  pl: ślub
+  ro: nunta
+  pt-pt: o casamento
+  ru: свадьба
+  es: la boda
+  uk: весілля
+  pt-br: o casamento
+- nl: de kat
+  en: cat
+  fr: le chat
+  de: die Katze
+  it: gatto
+  pl: kot
+  ro: pisica
+  pt-pt: o gato
+  ru: кошка
+  es: el gato
+  uk: кіт
+  pt-br: o gato
+- nl: de koe
+  en: cow
+  fr: la vache
+  de: die Kuh
+  it: mucca
+  pl: krowa
+  ro: vaca
+  pt-pt: a vaca
+  ru: корова
+  es: la vaca
+  uk: корова
+  pt-br: a vaca
+- nl: de hond
+  en: dog
+  fr: le chien
+  de: der Hund
+  it: cane
+  pl: pies
+  ro: câinele
+  pt-pt: o cão
+  ru: собака
+  es: el perro
+  uk: собака
+  pt-br: o cão
+- nl: het paard
+  en: horse
+  fr: le cheval
+  de: das Pferd
+  it: cavallo
+  pl: koń
+  ro: calul
+  pt-pt: o cavalo
+  ru: лошадь
+  es: el caballo
+  uk: кінь
+  pt-br: o cavalo
+- nl: de muis
+  en: mouse
+  fr: la souris
+  de: die Maus
+  it: topo
+  pl: mysz
+  ro: șoarecele
+  pt-pt: o rato
+  ru: мышь
+  es: el ratón
+  uk: миша
+  pt-br: o rato
+- nl: het varken
+  en: pig
+  fr: le cochon
+  de: das Schwein
+  it: maiale
+  pl: świnia
+  ro: porcul
+  pt-pt: o porco
+  ru: свинья
+  es: el cerdo
+  uk: свиня
+  pt-br: o porco
+- nl: het schaap
+  en: sheep
+  fr: le mouton
+  de: das Schaf
+  it: pecora
+  pl: owca
+  ro: oaia
+  pt-pt: a ovelha
+  ru: овца
+  es: la oveja
+  uk: вівця
+  pt-br: a ovelha
+- nl: de bij
+  en: bee
+  fr: l'abeille
+  de: die Biene
+  it: ape
+  pl: pszczoła
+  ro: albina
+  pt-pt: a abelha
+  ru: пчела
+  es: la abeja
+  uk: бджола
+  pt-br: a abelha
+- nl: de vogel
+  en: bird
+  fr: l'oiseau
+  de: der Vogel
+  it: uccello
+  pl: ptak
+  ro: pasărea
+  pt-pt: o pássaro
+  ru: птица
+  es: el pájaro
+  uk: птах
+  pt-br: o pássaro
+- nl: de vis
+  en: fish
+  fr: le poisson
+  de: der Fisch
+  it: pesce
+  pl: ryba
+  ro: peștele
+  pt-pt: o peixe
+  ru: рыба
+  es: el pez
+  uk: риба
+  pt-br: o peixe
+- nl: de slang
+  en: snake
+  fr: le serpent
+  de: die Schlange
+  it: serpente
+  pl: wąż
+  ro: șarpele
+  pt-pt: a serpente
+  ru: змея
+  es: la serpiente
+  uk: змія
+  pt-br: a serpente
+- nl: de veer
+  en: feather
+  fr: la plume
+  de: die Feder
+  it: piuma
+  pl: pióro
+  ro: pana
+  pt-pt: uma pena
+  ru: перо
+  es: la pluma
+  uk: перо
+  pt-br: uma pena
+- nl: de bloem
+  en: flower
+  fr: la fleur
+  de: die Blume
+  it: fiore
+  pl: kwiat
+  ro: floarea
+  pt-pt: a flor
+  ru: цветок
+  es: la flor
+  uk: квітка
+  pt-br: a flor
+- nl: het gras
+  en: grass
+  fr: l'herbe
+  de: das Gras
+  it: erba
+  pl: trawa
+  ro: iarba
+  pt-pt: a relva
+  ru: трава
+  es: la hierba
+  uk: трава
+  pt-br: a relva
+- nl: het blad
+  en: leaf
+  fr: la feuille
+  de: das Blatt
+  it: foglia
+  pl: liść
+  ro: frunza
+  pt-pt: a folha
+  ru: лист
+  es: la hoja
+  uk: листок
+  pt-br: a folha
+- nl: de plant
+  en: plant
+  fr: le plante
+  de: die Pflanze
+  it: pianta
+  pl: roślina
+  ro: planta
+  pt-pt: a planta
+  ru: растение
+  es: la planta
+  uk: рослина
+  pt-br: a planta
+- nl: de boom
+  en: tree
+  fr: l'arbre
+  de: der Baum
+  it: albero
+  pl: drzewo
+  ro: copacul
+  pt-pt: a árvore
+  ru: дерево
+  es: el árbol
+  uk: дерево
+  pt-br: a árvore
+- nl: de heuvel
+  en: hill
+  fr: la colline
+  de: der Hügel
+  it: collina
+  pl: wzgórze
+  ro: dealul
+  pt-pt: a colina
+  ru: холм
+  es: la colina
+  uk: пагорб
+  pt-br: a colina
+- nl: het meer
+  en: lake
+  fr: le lac
+  de: der See
+  it: lago
+  pl: jezioro
+  ro: lacul
+  pt-pt: o lago
+  ru: озеро
+  es: el lago
+  uk: озеро
+  pt-br: o lago
+- nl: het land
+  en: land
+  fr: la terre
+  de: das Land
+  it: terra
+  pl: ziemia
+  ro: pământul
+  pt-pt: a terra
+  ru: земля
+  es: la tierra
+  uk: земля
+  pt-br: a terra
+- nl: de rivier
+  en: river
+  fr: la rivière
+  de: der Fluss
+  it: fiume
+  pl: rzeka
+  ro: râul
+  pt-pt: o rio
+  ru: река
+  es: el río
+  uk: річка
+  pt-br: o rio
+- nl: de zee
+  en: sea
+  fr: la mer
+  de: das Meer
+  it: mare
+  pl: morze
+  ro: marea
+  pt-pt: o mar
+  ru: море
+  es: el mar
+  uk: море
+  pt-br: o mar
+- nl: de lucht
+  en: air
+  fr: l'air
+  de: die Luft
+  it: aria
+  pl: powietrze
+  ro: aerul
+  pt-pt: o ar
+  ru: воздух
+  es: el aire
+  uk: повітря
+  pt-br: o ar
+- nl: de wolk
+  en: cloud
+  fr: le nuage
+  de: die Wolke
+  it: nuvola
+  pl: chmura
+  ro: norul
+  pt-pt: a nuvem
+  ru: облако
+  es: la nube
+  uk: хмара
+  pt-br: a nuvem
+- nl: het vuur
+  en: fire
+  fr: le feu
+  de: das Feuer
+  it: fuoco
+  pl: ogień
+  ro: focul
+  pt-pt: o fogo
+  ru: огонь
+  es: el fuego
+  uk: вогонь
+  pt-br: o fogo
+- nl: het ijs
+  en: ice
+  fr: la glace
+  de: das Eis
+  it: ghiaccio
+  pl: lód
+  ro: gheața
+  pt-pt: o gelo
+  ru: лёд
+  es: el hielo
+  uk: лід
+  pt-br: o gelo
+- nl: de regen
+  en: rain
+  fr: la pluie
+  de: der Regen
+  it: pioggia
+  pl: deszcz
+  ro: ploaia
+  pt-pt: a chuva
+  ru: дождь
+  es: la lluvia
+  uk: дощ
+  pt-br: a chuva
+- nl: de lucht
+  en: sky
+  fr: le ciel
+  de: der Himmel
+  it: cielo
+  pl: niebo
+  ro: cerul
+  pt-pt: o céu
+  ru: небеса
+  es: el cielo
+  uk: небо
+  pt-br: o céu
+- nl: de sneeuw
+  en: snow
+  fr: la neige
+  de: der Schnee
+  it: neve
+  pl: śnieg
+  ro: zăpada
+  pt-pt: a neve
+  ru: снег
+  es: la nieve
+  uk: сніг
+  pt-br: a neve
+- nl: het weer
+  en: weather
+  fr: le temps
+  de: das Wetter
+  it: tempo
+  pl: pogoda
+  ro: vremea
+  pt-pt: o tempo
+  ru: погода
+  es: el tiempo
+  uk: погода
+  pt-br: o tempo
+- nl: de wind
+  en: wind
+  fr: le vent
+  de: der Wind
+  it: vento
+  pl: wiatr
+  ro: vântul
+  pt-pt: o vento
+  ru: ветер
+  es: el viento
+  uk: вітер
+  pt-br: o vento
+- nl: de Aarde
+  en: Earth
+  fr: la Terre
+  de: die Erde
+  it: Terra
+  pl: Ziemia
+  ro: Pământul
+  pt-pt: a Terra
+  ru: Земля
+  es: la Tierra
+  uk: Земля
+  pt-br: a Terra
+- nl: de ruimte
+  en: space
+  fr: l'espace
+  de: der Raum
+  it: spazio
+  pl: przestrzeń
+  ro: spațiul
+  pt-pt: o espaço
+  ru: космос
+  es: el espacio
+  uk: космос
+  pt-br: o espaço
+- nl: de zon
+  en: sun
+  fr: le soleil
+  de: die Sonne
+  it: sole
+  pl: słońce
+  ro: soarele
+  pt-pt: o sol
+  ru: солнце
+  es: el sol
+  uk: сонце
+  pt-br: o sol
+- nl: het brood
+  en: bread
+  fr: le pain
+  de: das Brot
+  it: pane
+  pl: chleb
+  ro: pâinea
+  pt-pt: o pão
+  ru: хлеб
+  es: el pan
+  uk: хліб
+  pt-br: o pão
+- nl: de rijst
+  en: rice
+  fr: le riz
+  de: der Reis
+  it: riso
+  pl: ryż
+  ro: orezul
+  pt-pt: o arroz
+  ru: рис
+  es: el arroz
+  uk: рис
+  pt-br: o arroz
+- nl: het fruit
+  en: fruit
+  fr: le fruit
+  de: das Obst
+  it: frutta
+  pl: owoc
+  ro: fructul
+  pt-pt: a fruta
+  ru: фрукт
+  es: la fruta
+  uk: фрукт
+  pt-br: a fruta
+- nl: de appel
+  en: apple
+  fr: la pomme
+  de: der Apfel
+  it: mela
+  pl: jabłko
+  ro: mărul
+  pt-pt: a maçã
+  ru: яблоко
+  es: la manzana
+  uk: яблуко
+  pt-br: a maçã
+- nl: de banaan
+  en: banana
+  fr: la banane
+  de: die Banane
+  it: banana
+  pl: banan
+  ro: banana
+  pt-pt: a banana
+  ru: банан
+  es: el plátano
+  uk: банан
+  pt-br: a banana
+- nl: de groente
+  en: vegetable
+  fr: le légume
+  de: das Gemüse
+  it: verdura
+  pl: warzywo
+  ro: leguma
+  pt-pt: o legume
+  ru: овощ
+  es: la verdura
+  uk: овоч
+  pt-br: o legume
+- nl: de aardappel
+  en: potato
+  fr: la pomme de terre
+  de: die Kartoffel
+  it: patata
+  pl: ziemniak
+  ro: cartoful
+  pt-pt: a batata
+  ru: картофель
+  es: la patata
+  uk: картопля
+  pt-br: a batata
+- nl: de tomaat
+  en: tomato
+  fr: la tomate
+  de: die Tomate
+  it: pomodoro
+  pl: pomidor
+  ro: roșia
+  pt-pt: o tomate
+  ru: помидор
+  es: el tomate
+  uk: помідор
+  pt-br: o tomate
+- nl: de ui
+  en: onion
+  fr: l'oignon
+  de: die Zwiebel
+  it: cipolla
+  pl: cebula
+  ro: ceapa
+  pt-pt: a cebola
+  ru: лук
+  es: la cebolla
+  uk: цибуля
+  pt-br: a cebola
+- nl: de kip
+  en: chicken
+  fr: le poulet
+  de: das Huhn
+  it: pollo
+  pl: kurczak
+  ro: puiul
+  pt-pt: o frango
+  ru: курица
+  es: el pollo
+  uk: курка
+  pt-br: o frango
+- nl: het ei
+  en: egg
+  fr: l'œuf
+  de: das Ei
+  it: uovo
+  pl: jajko
+  ro: oul
+  pt-pt: o ovo
+  ru: яйцо
+  es: el huevo
+  uk: яйце
+  pt-br: o ovo
+- nl: de melk
+  en: milk
+  fr: le lait
+  de: die Milch
+  it: latte
+  pl: mleko
+  ro: laptele
+  pt-pt: o leite
+  ru: молоко
+  es: la leche
+  uk: молоко
+  pt-br: o leite
+- nl: de kaas
+  en: cheese
+  fr: le fromage
+  de: der Käse
+  it: il formaggio
+  pl: ser
+  ro: brânza
+  pt-pt: o queijo
+  ru: сыр
+  es: el queso
+  uk: сир
+  pt-br: o queijo
+- nl: de boter
+  en: butter
+  fr: le beurre
+  de: die Butter
+  it: burro
+  pl: masło
+  ro: untul
+  pt-pt: a manteiga
+  ru: масло
+  es: la mantequilla
+  uk: масло
+  pt-br: a manteiga
+- nl: het zout
+  en: salt
+  fr: le sel
+  de: das Salz
+  it: sale
+  pl: sól
+  ro: sarea
+  pt-pt: o sal
+  ru: соль
+  es: la sal
+  uk: сіль
+  pt-br: o sal
+- nl: de suiker
+  en: sugar
+  fr: le sucre
+  de: der Zucker
+  it: zucchero
+  pl: cukier
+  ro: zahărul
+  pt-pt: o açúcar
+  ru: сахар
+  es: el azúcar
+  uk: цукор
+  pt-br: o açúcar
+- nl: het water
+  en: water
+  fr: l'eau
+  de: das Wasser
+  it: acqua
+  pl: woda
+  ro: apa
+  pt-pt: a água
+  ru: вода
+  es: el agua
+  uk: вода
+  pt-br: a água
+- nl: de thee
+  en: tea
+  fr: le thé
+  de: der Tee
+  it: tè
+  pl: herbata
+  ro: ceaiul
+  pt-pt: o chá
+  ru: чай
+  es: el té
+  uk: чай
+  pt-br: o chá
+- nl: de koffie
+  en: coffee
+  fr: le café
+  de: der Kaffee
+  it: caffè
+  pl: kawa
+  ro: cafeaua
+  pt-pt: o café
+  ru: кофе
+  es: el café
+  uk: кава
+  pt-br: o café
+- nl: het sap
+  en: juice
+  fr: le jus
+  de: der Saft
+  it: succo
+  pl: sok
+  ro: sucul
+  pt-pt: o sumo
+  ru: сок
+  es: el zumo
+  uk: сік
+  pt-br: o sumo
+- nl: de olie
+  en: oil
+  fr: l'huile
+  de: das Öl
+  it: olio
+  pl: olej
+  ro: uleiul
+  pt-pt: o óleo
+  ru: масло
+  es: el aceite
+  uk: олія
+  pt-br: o óleo
+- nl: het eten
+  en: food
+  fr: la nourriture
+  de: das Essen
+  it: cibo
+  pl: jedzenie
+  ro: mâncarea
+  pt-pt: a comida
+  ru: еда
+  es: la comida
+  uk: їжа
+  pt-br: a comida
+- nl: de maaltijd
+  en: meal
+  fr: le repas
+  de: die Mahlzeit
+  it: pasto
+  pl: posiłek
+  ro: masa
+  pt-pt: a refeição
+  ru: еда
+  es: la comida
+  uk: їжа
+  pt-br: a refeição
+- nl: het ontbijt
+  en: breakfast
+  fr: le petit déjeuner
+  de: das Frühstück
+  it: colazione
+  pl: śniadanie
+  ro: micul dejun
+  pt-pt: o pequeno-almoço
+  ru: завтрак
+  es: el desayuno
+  uk: сніданок
+  pt-br: o pequeno-almoço
+- nl: de lunch
+  en: lunch
+  fr: le déjeuner
+  de: das Mittagessen
+  it: pranzo
+  pl: obiad
+  ro: prânzul
+  pt-pt: o almoço
+  ru: обед
+  es: el almuerzo
+  uk: обід
+  pt-br: o almoço
+- nl: het avondeten
+  en: dinner
+  fr: le dîner
+  de: das Abendessen
+  it: cena
+  pl: kolacja
+  ro: cina
+  pt-pt: o jantar
+  ru: ужин
+  es: la cena
+  uk: вечеря
+  pt-br: o jantar
+- nl: het stuk
+  en: piece
+  fr: le morceau
+  de: das Stück
+  it: pezzo
+  pl: kawałek
+  ro: bucata
+  pt-pt: a peça
+  ru: кусок
+  es: la pieza
+  uk: шматок
+  pt-br: a peça
+- nl: de kant
+  en: side
+  fr: le côté
+  de: die Seite
+  it: lato
+  pl: strona
+  ro: partea
+  pt-pt: o lado
+  ru: сторона
+  es: el lado
+  uk: сторона
+  pt-br: o lado
+- nl: de grootte
+  en: size
+  fr: la taille
+  de: die Größe
+  it: dimensione
+  pl: rozmiar
+  ro: mărimea
+  pt-pt: o tamanho
+  ru: размер
+  es: el tamaño
+  uk: розмір
+  pt-br: o tamanho
+- nl: de vorm
+  en: shape
+  fr: la forme
+  de: die Form
+  it: la forma
+  pl: kształt
+  ro: forma
+  pt-pt: a forma
+  ru: форма
+  es: la forma
+  uk: форма
+  pt-br: a forma
+- nl: de lijn
+  en: line
+  fr: la ligne
+  de: die Linie
+  it: linea
+  pl: linia
+  ro: linia
+  pt-pt: a linha
+  ru: линия
+  es: la línea
+  uk: лінія
+  pt-br: a linha
+- nl: de leeftijd
+  en: age
+  fr: l'âge
+  de: das Alter
+  it: età
+  pl: wiek
+  ro: vârsta
+  pt-pt: a idade
+  ru: возраст
+  es: la edad
+  uk: вік
+  pt-br: a idade
+- nl: dit
+  en: this
+  fr: ceci
+  de: dies
+  it: questo
+  pl: to
+  ro: acesta
+  pt-pt: este
+  ru: это
+  es: este
+  uk: це
+  pt-br: este
+- nl: dat
+  en: that
+  fr: cela
+  de: das
+  it: quello
+  pl: to
+  ro: acela
+  pt-pt: esse
+  ru: то
+  es: ese
+  uk: те
+  pt-br: esse
+- nl: deze
+  en: these
+  fr: ces
+  de: diese
+  it: questi
+  pl: te
+  ro: aceștia
+  pt-pt: estes
+  ru: эти
+  es: estos
+  uk: ці
+  pt-br: estes
+- nl: die
+  en: those
+  fr: ceux-là
+  de: jene
+  it: quelli
+  pl: tamte
+  ro: aceia
+  pt-pt: esses
+  ru: те
+  es: esos
+  uk: ті
+  pt-br: esses
+- nl: als
+  en: as
+  fr: comme
+  de: als
+  it: come
+  pl: jako
+  ro: ca
+  pt-pt: como
+  ru: как
+  es: como
+  uk: як
+  pt-br: como
+- nl: niet
+  en: not
+  fr: pas
+  de: nicht
+  it: non
+  pl: nie
+  ro: nu
+  pt-pt: não
+  ru: не
+  es: 'no'
+  uk: не
+  pt-br: não
+- nl: allemaal
+  en: all
+  fr: tous
+  de: alle
+  it: tutti
+  pl: wszystko
+  ro: toți
+  pt-pt: todos
+  ru: всё
+  es: todos
+  uk: все
+  pt-br: todos
+- nl: enige
+  en: any
+  fr: n'importe quel
+  de: irgendein
+  it: qualsiasi
+  pl: jakikolwiek
+  ro: orice
+  pt-pt: qualquer
+  ru: любой
+  es: cualquier
+  uk: будь-який
+  pt-br: qualquer
+- nl: sommige
+  en: some
+  fr: quelques
+  de: einige
+  it: alcuni
+  pl: niektóre
+  ro: unii
+  pt-pt: alguns
+  ru: некоторые
+  es: algunos
+  uk: деякі
+  pt-br: alguns
+- nl: elke
+  en: every
+  fr: chaque
+  de: jeder
+  it: ogni
+  pl: wszyscy
+  ro: fiecare
+  pt-pt: cada
+  ru: каждый
+  es: cada
+  uk: кожен
+  pt-br: cada
+- nl: veel
+  en: many
+  fr: beaucoup
+  de: viele
+  it: molti
+  pl: wiele
+  ro: mulți
+  pt-pt: muitos
+  ru: много
+  es: muchos
+  uk: багато
+  pt-br: muitos
+- nl: weinig
+  en: few
+  fr: peu
+  de: wenige
+  it: pochi
+  pl: niewiele
+  ro: puțini
+  pt-pt: poucos
+  ru: мало
+  es: pocos
+  uk: мало
+  pt-br: poucos
+- nl: meer
+  en: more
+  fr: plus
+  de: mehr
+  it: più
+  pl: więcej
+  ro: mai mult
+  pt-pt: mais
+  ru: больше
+  es: más
+  uk: більше
+  pt-br: mais
+- nl: meest
+  en: most
+  fr: le plus
+  de: am meisten
+  it: più
+  pl: najbardziej
+  ro: cel mai mult
+  pt-pt: mais
+  ru: больше всего
+  es: más
+  uk: найбільше
+  pt-br: mais
+- nl: veel
+  en: much
+  fr: beaucoup
+  de: viel
+  it: molto
+  pl: dużo
+  ro: mult
+  pt-pt: muito
+  ru: много
+  es: mucho
+  uk: багато
+  pt-br: muito
+- nl: beide
+  en: both
+  fr: les deux
+  de: beide
+  it: entrambi
+  pl: oba
+  ro: ambii
+  pt-pt: ambos
+  ru: оба
+  es: ambos
+  uk: обидва
+  pt-br: ambos
+- nl: andere
+  en: other
+  fr: autre
+  de: andere
+  it: altro
+  pl: inny
+  ro: alt
+  pt-pt: outro
+  ru: другой
+  es: otro
+  uk: інший
+  pt-br: outro
+- nl: een ander
+  en: another
+  fr: un autre
+  de: ein anderer
+  it: un altro
+  pl: inny
+  ro: altul
+  pt-pt: outro
+  ru: другой
+  es: otro
+  uk: інший
+  pt-br: outro
+- nl: zeer
+  en: very
+  fr: très
+  de: sehr
+  it: molto
+  pl: bardzo
+  ro: foarte
+  pt-pt: muito
+  ru: очень
+  es: muy
+  uk: дуже
+  pt-br: muito
+- nl: ook
+  en: also
+  fr: aussi
+  de: auch
+  it: anche
+  pl: również
+  ro: de asemenea
+  pt-pt: também
+  ru: также
+  es: también
+  uk: також
+  pt-br: também
+- nl: gewoon
+  en: just
+  fr: juste
+  de: nur
+  it: solo
+  pl: po prostu
+  ro: doar
+  pt-pt: apenas
+  ru: просто
+  es: solo
+  uk: просто
+  pt-br: apenas
+- nl: bijna
+  en: almost
+  fr: presque
+  de: fast
+  it: quasi
+  pl: prawie
+  ro: aproape
+  pt-pt: quase
+  ru: почти
+  es: casi
+  uk: майже
+  pt-br: quase
+- nl: echt
+  en: really
+  fr: vraiment
+  de: wirklich
+  it: davvero
+  pl: naprawdę
+  ro: cu adevărat
+  pt-pt: realmente
+  ru: действительно
+  es: realmente
+  uk: справді
+  pt-br: realmente
+- nl: misschien
+  en: maybe
+  fr: peut-être
+  de: vielleicht
+  it: forse
+  pl: może
+  ro: poate
+  pt-pt: talvez
+  ru: может быть
+  es: tal vez
+  uk: можливо
+  pt-br: talvez
+- nl: waarschijnlijk
+  en: probably
+  fr: probablement
+  de: wahrscheinlich
+  it: probabilmente
+  pl: prawdopodobnie
+  ro: probabil
+  pt-pt: provavelmente
+  ru: вероятно
+  es: probablemente
+  uk: ймовірно
+  pt-br: provavelmente
+- nl: vooral
+  en: especially
+  fr: surtout
+  de: besonders
+  it: soprattutto
+  pl: zwłaszcza
+  ro: în special
+  pt-pt: especialmente
+  ru: особенно
+  es: especialmente
+  uk: особливо
+  pt-br: especialmente
+- nl: precies
+  en: exactly
+  fr: exactement
+  de: genau
+  it: esattamente
+  pl: dokładnie
+  ro: exact
+  pt-pt: exatamente
+  ru: точно
+  es: exactamente
+  uk: точно
+  pt-br: exatamente
+- nl: samen
+  en: together
+  fr: ensemble
+  de: zusammen
+  it: insieme
+  pl: razem
+  ro: împreună
+  pt-pt: juntos
+  ru: вместе
+  es: juntos
+  uk: разом
+  pt-br: juntos
+- nl: anders
+  en: else
+  fr: sinon
+  de: sonst
+  it: altro
+  pl: jeszcze
+  ro: altfel
+  pt-pt: mais
+  ru: иначе
+  es: más
+  uk: інакше
+  pt-br: mais
+- nl: genoeg
+  en: enough
+  fr: assez
+  de: genug
+  it: abbastanza
+  pl: wystarczająco
+  ro: suficient
+  pt-pt: suficiente
+  ru: достаточно
+  es: suficiente
+  uk: досить
+  pt-br: suficiente
+- nl: vrij
+  en: quite
+  fr: assez
+  de: ziemlich
+  it: abbastanza
+  pl: całkiem
+  ro: destul de
+  pt-pt: bastante
+  ru: довольно
+  es: bastante
+  uk: досить
+  pt-br: bastante
+- nl: het goud
+  en: gold
+  fr: l'or
+  de: das Gold
+  it: oro
+  pl: złoto
+  ro: aurul
+  pt-pt: o ouro
+  ru: золото
+  es: el oro
+  uk: золото
+  pt-br: o ouro
+- nl: het ijzer
+  en: iron
+  fr: le fer
+  de: das Eisen
+  it: ferro
+  pl: żelazo
+  ro: fierul
+  pt-pt: o ferro
+  ru: железо
+  es: el hierro
+  uk: залізо
+  pt-br: o ferro
+- nl: het zilver
+  en: silver
+  fr: l'argent
+  de: das Silber
+  it: argento
+  pl: srebro
+  ro: argintul
+  pt-pt: a prata
+  ru: серебро
+  es: la plata
+  uk: срібло
+  pt-br: a prata
+- nl: het plastic
+  en: plastic
+  fr: le plastique
+  de: das Plastik
+  it: plastica
+  pl: plastik
+  ro: plasticul
+  pt-pt: o plástico
+  ru: пластик
+  es: el plástico
+  uk: пластик
+  pt-br: o plástico
+- nl: het hout
+  en: wood
+  fr: le bois
+  de: das Holz
+  it: legno
+  pl: drewno
+  ro: lemnul
+  pt-pt: a madeira
+  ru: дерево
+  es: la madera
+  uk: деревина
+  pt-br: a madeira
+- nl: de steen
+  en: stone
+  fr: la pierre
+  de: der Stein
+  it: pietra
+  pl: kamień
+  ro: piatra
+  pt-pt: a pedra
+  ru: камень
+  es: la piedra
+  uk: камінь
+  pt-br: a pedra
+- nl: het metaal
+  en: metal
+  fr: le métal
+  de: das Metall
+  it: metallo
+  pl: metal
+  ro: metalul
+  pt-pt: o metal
+  ru: металл
+  es: el metal
+  uk: метал
+  pt-br: o metal
+- nl: de doek
+  en: cloth
+  fr: le tissu
+  de: das Tuch
+  it: tessuto
+  pl: tkanina
+  ro: pânza
+  pt-pt: o tecido
+  ru: ткань
+  es: la tela
+  uk: тканина
+  pt-br: o tecido
+- nl: het leer
+  en: leather
+  fr: le cuir
+  de: das Leder
+  it: pelle
+  pl: skóra
+  ro: pielea
+  pt-pt: o couro
+  ru: кожа
+  es: el cuero
+  uk: шкіра
+  pt-br: o couro
+- nl: de stof
+  en: fabric
+  fr: le tissu
+  de: der Stoff
+  it: tessuto
+  pl: tkanina
+  ro: țesătura
+  pt-pt: o tecido
+  ru: ткань
+  es: la tela
+  uk: тканина
+  pt-br: o tecido
+- nl: het glas
+  en: glass (material)
+  fr: le verre
+  de: das Glas
+  it: vetro
+  pl: szkło
+  ro: sticla
+  pt-pt: o vidro
+  ru: стекло
+  es: el vidrio
+  uk: скло
+  pt-br: o vidro
+- nl: vergelijken
+  en: to compare
+  fr: comparer
+  de: vergleichen
+  it: confrontare
+  pl: porównywać
+  ro: a compara
+  pt-pt: comparar
+  ru: сравнивать
+  es: comparar
+  uk: порівнювати
+  pt-br: comparar
+- nl: de vergelijking
+  en: comparison
+  fr: la comparaison
+  de: der Vergleich
+  it: confronto
+  pl: porównanie
+  ro: comparația
+  pt-pt: a comparação
+  ru: сравнение
+  es: la comparación
+  uk: порівняння
+  pt-br: a comparação
+- nl: de reden
+  en: reason
+  fr: la raison
+  de: der Grund
+  it: ragione
+  pl: powód
+  ro: motivul
+  pt-pt: a razão
+  ru: причина
+  es: la razón
+  uk: причина
+  pt-br: a razão
+- nl: wat
+  en: what
+  fr: quoi
+  de: was
+  it: cosa
+  pl: co
+  ro: ce
+  pt-pt: o que
+  ru: что
+  es: qué
+  uk: що
+  pt-br: o que
+- nl: wie
+  en: who
+  fr: qui
+  de: wer
+  it: chi
+  pl: kto
+  ro: cine
+  pt-pt: quem
+  ru: кто
+  es: quién
+  uk: хто
+  pt-br: quem
+- nl: welke
+  en: which
+  fr: lequel
+  de: welcher
+  it: quale
+  pl: który
+  ro: care
+  pt-pt: qual
+  ru: который
+  es: cuál
+  uk: який
+  pt-br: qual
+- nl: waarom
+  en: why
+  fr: pourquoi
+  de: warum
+  it: perché
+  pl: dlaczego
+  ro: de ce
+  pt-pt: porquê
+  ru: почему
+  es: por qué
+  uk: чому
+  pt-br: porquê
+- nl: hoe
+  en: how
+  fr: comment
+  de: wie
+  it: come
+  pl: jak
+  ro: cum
+  pt-pt: como
+  ru: как
+  es: cómo
+  uk: як
+  pt-br: como
+- nl: waar
+  en: where
+  fr: où
+  de: wo
+  it: dove
+  pl: gdzie
+  ro: unde
+  pt-pt: onde
+  ru: где
+  es: dónde
+  uk: де
+  pt-br: onde
+- nl: wiens
+  en: whose
+  fr: de qui
+  de: wessen
+  it: di chi
+  pl: czyj
+  ro: al cui
+  pt-pt: de quem
+  ru: чей
+  es: de quién
+  uk: чий
+  pt-br: de quem
+- nl: hebben
+  en: to have
+  fr: avoir
+  de: haben
+  it: avere
+  pl: mieć
+  ro: a avea
+  pt-pt: ter
+  ru: иметь
+  es: tener
+  uk: мати
+  pt-br: ter
+- nl: doen
+  en: to do
+  fr: faire
+  de: tun
+  it: fare
+  pl: robić
+  ro: a face
+  pt-pt: fazer
+  ru: делать
+  es: hacer
+  uk: робити
+  pt-br: fazer
+- nl: kunnen
+  en: to can
+  fr: pouvoir
+  de: können
+  it: potere
+  pl: móc
+  ro: a putea
+  pt-pt: poder
+  ru: мочь
+  es: poder
+  uk: могти
+  pt-br: poder
+- nl: zullen
+  en: will
+  fr: auxiliaire pour former le futur
+  de: werden
+  it: ausiliare per formare il futuro
+  pl: będzie
+  ro: auxiliar pentru viitor
+  pt-pt: auxiliar futuro
+  ru: вспомогательный глагол для будущего времени
+  es: auxiliar para formar el futuro
+  uk: допоміжне дієслово для майбутнього часу
+  pt-br: auxiliar futuro
+- nl: zou
+  en: would
+  fr: auxiliaire pour former le conditionnel
+  de: würde
+  it: ausiliare per formare il condizionale
+  pl: by
+  ro: auxiliar pentru condițional
+  pt-pt: auxiliar condicional
+  ru: частица для условного наклонения (бы)
+  es: auxiliar para formar el condicional
+  uk: частка для умовного способу (би)
+  pt-br: auxiliar condicional
+- nl: zou moeten
+  en: should
+  fr: devoir (conditionnel)
+  de: sollen
+  it: dovere
+  pl: powinien
+  ro: ar trebui
+  pt-pt: dever
+  ru: следовать
+  es: deber
+  uk: слідувати
+  pt-br: dever
+- nl: moeten
+  en: must
+  fr: devoir
+  de: müssen
+  it: dovere
+  pl: musieć
+  ro: a trebui
+  pt-pt: dever
+  ru: должен
+  es: deber
+  uk: бути змушеним
+  pt-br: dever
+- nl: gaan
+  en: to go
+  fr: aller
+  de: gehen
+  it: andare
+  pl: iść
+  ro: a merge
+  pt-pt: ir
+  ru: идти
+  es: ir
+  uk: йти
+  pt-br: ir
+- nl: komen
+  en: to come
+  fr: venir
+  de: kommen
+  it: venire
+  pl: przyjść
+  ro: a veni
+  pt-pt: vir
+  ru: приходить
+  es: venir
+  uk: приходити
+  pt-br: vir
+- nl: krijgen
+  en: to get (something)
+  fr: obtenir
+  de: bekommen
+  it: ottenere
+  pl: otrzymać
+  ro: a obține
+  pt-pt: obter
+  ru: получать
+  es: obtener
+  uk: отримувати
+  pt-br: obter
+- nl: maken
+  en: to make
+  fr: faire
+  de: machen
+  it: fare
+  pl: zrobić
+  ro: a face
+  pt-pt: fazer
+  ru: делать
+  es: hacer
+  uk: робити
+  pt-br: fazer
+- nl: nemen
+  en: to take
+  fr: prendre
+  de: nehmen
+  it: prendere
+  pl: brać
+  ro: a lua
+  pt-pt: tomar
+  ru: брать
+  es: tomar
+  uk: брати
+  pt-br: tomar
+- nl: zien
+  en: to see
+  fr: voir
+  de: sehen
+  it: vedere
+  pl: widzieć
+  ro: a vedea
+  pt-pt: ver
+  ru: видеть
+  es: ver
+  uk: бачити
+  pt-br: ver
+- nl: geven
+  en: to give
+  fr: donner
+  de: geben
+  it: dare
+  pl: dawać
+  ro: a da
+  pt-pt: dar
+  ru: давать
+  es: dar
+  uk: давати
+  pt-br: dar
+- nl: eten
+  en: to eat
+  fr: manger
+  de: essen
+  it: mangiare
+  pl: jeść
+  ro: a mânca
+  pt-pt: comer
+  ru: есть
+  es: comer
+  uk: їсти
+  pt-br: comer
+- nl: drinken
+  en: to drink
+  fr: boire
+  de: trinken
+  it: bere
+  pl: pić
+  ro: a bea
+  pt-pt: beber
+  ru: пить
+  es: beber
+  uk: пити
+  pt-br: beber
+- nl: rennen
+  en: to run
+  fr: courir
+  de: laufen
+  it: correre
+  pl: biegać
+  ro: a alerga
+  pt-pt: correr
+  ru: бежать
+  es: correr
+  uk: бігти
+  pt-br: correr
+- nl: lopen
+  en: to walk
+  fr: marcher
+  de: gehen (zu Fuß)
+  it: camminare
+  pl: chodzić
+  ro: a merge pe jos
+  pt-pt: caminhar
+  ru: ходить
+  es: caminar
+  uk: ходити
+  pt-br: caminhar
+- nl: zitten
+  en: to sit
+  fr: s'asseoir
+  de: sitzen
+  it: sedersi
+  pl: siedzieć
+  ro: a ședea
+  pt-pt: sentar-se
+  ru: сидеть
+  es: sentarse
+  uk: сидіти
+  pt-br: sentar-se
+- nl: staan
+  en: to stand
+  fr: être debout
+  de: stehen
+  it: stare in piedi
+  pl: stać
+  ro: a sta în picioare
+  pt-pt: estar de pé
+  ru: стоять
+  es: estar de pie
+  uk: стояти
+  pt-br: estar de pé
+- nl: slapen
+  en: to sleep
+  fr: dormir
+  de: schlafen
+  it: dormire
+  pl: spać
+  ro: a dormi
+  pt-pt: dormir
+  ru: спать
+  es: dormir
+  uk: спати
+  pt-br: dormir
+- nl: wakker worden
+  en: to wake
+  fr: se réveiller
+  de: aufwachen
+  it: svegliarsi
+  pl: obudzić się
+  ro: a se trezi
+  pt-pt: acordar
+  ru: просыпаться
+  es: despertar
+  uk: прокидатися
+  pt-br: acordar
+- nl: kijken
+  en: to look
+  fr: regarder
+  de: schauen
+  it: guardare
+  pl: patrzeć
+  ro: a privi
+  pt-pt: olhar
+  ru: смотреть
+  es: mirar
+  uk: дивитися
+  pt-br: olhar
+- nl: vinden
+  en: to find
+  fr: trouver
+  de: finden
+  it: trovare
+  pl: znaleźć
+  ro: a găsi
+  pt-pt: encontrar
+  ru: находить
+  es: encontrar
+  uk: знаходити
+  pt-br: encontrar
+- nl: leggen
+  en: to put
+  fr: mettre
+  de: legen
+  it: mettere
+  pl: położyć
+  ro: a pune
+  pt-pt: pôr
+  ru: класть
+  es: poner
+  uk: класти
+  pt-br: pôr
+- nl: willen
+  en: to want
+  fr: vouloir
+  de: wollen
+  it: volere
+  pl: chcieć
+  ro: a vrea
+  pt-pt: querer
+  ru: хотеть
+  es: querer
+  uk: хотіти
+  pt-br: querer
+- nl: nodig hebben
+  en: to need
+  fr: avoir besoin
+  de: brauchen
+  it: avere bisogno
+  pl: potrzebować
+  ro: a avea nevoie
+  pt-pt: precisar
+  ru: нуждаться
+  es: necesitar
+  uk: потребувати
+  pt-br: precisar
+- nl: leuk vinden
+  en: to like
+  fr: aimer
+  de: mögen
+  it: piacere
+  pl: lubić
+  ro: a plăcea
+  pt-pt: gostar
+  ru: нравиться
+  es: gustar
+  uk: подобатися
+  pt-br: gostar
+- nl: weten
+  en: to know (facts)
+  fr: savoir
+  de: wissen
+  it: sapere
+  pl: wiedzieć
+  ro: a ști
+  pt-pt: saber
+  ru: знать
+  es: saber
+  uk: знати
+  pt-br: saber
+- nl: denken
+  en: to think
+  fr: penser
+  de: denken
+  it: pensare
+  pl: myśleć
+  ro: a gândi
+  pt-pt: pensar
+  ru: думать
+  es: pensar
+  uk: думати
+  pt-br: pensar
+- de: helfen
+  en: to help
+  fr: aider
+  ru: помогать
+  es: ayudar
+  pt-pt: ajudar
+  pl: pomagać
+  uk: допомагати
+  it: aiutare
+  nl: helpen
+  ro: a ajuta
+  pt-br: ajudar
+- de: warten
+  en: to wait
+  fr: attendre
+  ru: ждать
+  es: esperar
+  pt-pt: esperar
+  pl: czekać
+  uk: чекати
+  it: aspettare
+  nl: wachten
+  ro: a aștepta
+  pt-br: esperar
+- de: öffnen
+  en: to open
+  fr: ouvrir
+  ru: открывать
+  es: abrir
+  pt-pt: abrir
+  pl: otwierać
+  uk: відкривати
+  it: aprire
+  nl: openen
+  ro: a deschide
+  pt-br: abrir
+- de: schließen
+  en: to close
+  fr: fermer
+  ru: закрывать
+  es: cerrar
+  pt-pt: fechar
+  pl: zamykać
+  uk: закривати
+  it: chiudere
+  nl: sluiten
+  ro: a închide
+  pt-br: fechar
+- de: benutzen
+  en: to use
+  fr: utiliser
+  ru: использовать
+  es: usar
+  pt-pt: usar
+  pl: używać
+  uk: використовувати
+  it: usare
+  nl: gebruiken
+  ro: a folosi
+  pt-br: usar
+- de: leben
+  en: to live
+  fr: vivre
+  ru: жить
+  es: vivir
+  pt-pt: viver
+  pl: żyć
+  uk: жити
+  it: vivere
+  nl: leven
+  ro: a trăi
+  pt-br: viver
+- de: bleiben
+  en: to stay
+  fr: rester
+  ru: оставаться
+  es: quedarse
+  pt-pt: ficar
+  pl: zostawać
+  uk: залишатися
+  it: rimanere
+  nl: blijven
+  ro: a rămâne
+  pt-br: ficar
+- de: verlassen
+  en: to leave
+  fr: partir
+  ru: уходить
+  es: salir
+  pt-pt: partir
+  pl: opuszczać
+  uk: залишати
+  it: lasciare
+  nl: vertrekken
+  ro: a pleca
+  pt-br: partir
+- de: ankommen
+  en: to arrive
+  fr: arriver
+  ru: прибывать
+  es: llegar
+  pt-pt: chegar
+  pl: przybywać
+  uk: прибувати
+  it: arrivare
+  nl: aankomen
+  ro: a sosi
+  pt-br: chegar
+- de: versuchen
+  en: to try
+  fr: essayer
+  ru: пытаться
+  es: intentar
+  pt-pt: tentar
+  pl: próbować
+  uk: намагатися
+  it: provare
+  nl: proberen
+  ro: a încerca
+  pt-br: tentar
+- de: geschehen
+  en: to happen
+  fr: se produire
+  ru: происходить
+  es: suceder
+  pt-pt: acontecer
+  pl: zdarzać się
+  uk: відбуватися
+  it: accadere
+  nl: gebeuren
+  ro: a se întâmpla
+  pt-br: acontecer
+- de: zeigen
+  en: to show
+  fr: montrer
+  ru: показывать
+  es: mostrar
+  pt-pt: mostrar
+  pl: pokazywać
+  uk: показувати
+  it: mostrare
+  nl: tonen
+  ro: a arăta
+  pt-br: mostrar
+- de: drehen
+  en: to turn
+  fr: tourner
+  ru: поворачивать
+  es: girar
+  pt-pt: virar
+  pl: obracać
+  uk: повертати
+  it: girare
+  nl: draaien
+  ro: a se întoarce
+  pt-br: virar
+- de: bewegen
+  en: to move
+  fr: bouger
+  ru: двигать
+  es: mover
+  pt-pt: mover
+  pl: ruszać
+  uk: рухати
+  it: muovere
+  nl: bewegen
+  ro: a mișca
+  pt-br: mover
+- de: bringen
+  en: to bring
+  fr: apporter
+  ru: приносить
+  es: traer
+  pt-pt: trazer
+  pl: przynosić
+  uk: приносити
+  it: portare
+  nl: brengen
+  ro: a aduce
+  pt-br: trazer
+- de: fühlen
+  en: to feel
+  fr: sentir
+  ru: чувствовать
+  es: sentir
+  pt-pt: sentir
+  pl: czuć
+  uk: відчувати
+  it: sentire
+  nl: voelen
+  ro: a simți
+  pt-br: sentir
+- de: berühren
+  en: to touch
+  fr: toucher
+  ru: трогать
+  es: tocar
+  pt-pt: tocar
+  pl: dotykać
+  uk: торкатися
+  it: toccare
+  nl: aanraken
+  ro: a atinge
+  pt-br: tocar
+- de: zuhören
+  en: to listen
+  fr: écouter
+  ru: слушать
+  es: escuchar
+  pt-pt: ouvir
+  pl: słuchać
+  uk: слухати
+  it: ascoltare
+  nl: luisteren
+  ro: a asculta
+  pt-br: ouvir
+- de: zusehen
+  en: to watch
+  fr: regarder
+  ru: смотреть
+  es: ver
+  pt-pt: ver
+  pl: oglądać
+  uk: дивитися
+  it: guardare
+  nl: kijken
+  ro: a privi
+  pt-br: ver
+- de: lesen
+  en: to read
+  fr: lire
+  ru: читать
+  es: leer
+  pt-pt: ler
+  pl: czytać
+  uk: читати
+  it: leggere
+  nl: lezen
+  ro: a citi
+  pt-br: ler
+- de: schreiben
+  en: to write
+  fr: écrire
+  ru: писать
+  es: escribir
+  pt-pt: escrever
+  pl: pisać
+  uk: писати
+  it: scrivere
+  nl: schrijven
+  ro: a scrie
+  pt-br: escrever
+- de: waschen
+  en: to wash
+  fr: laver
+  ru: мыть
+  es: lavar
+  pt-pt: lavar
+  pl: myć
+  uk: мити
+  it: lavare
+  nl: wassen
+  ro: a spăla
+  pt-br: lavar
+- de: kochen
+  en: to cook
+  fr: cuisiner
+  ru: готовить
+  es: cocinar
+  pt-pt: cozinhar
+  pl: gotować
+  uk: готувати
+  it: cucinare
+  nl: koken
+  ro: a găti
+  pt-br: cozinhar
+- de: schneiden
+  en: to cut
+  fr: couper
+  ru: резать
+  es: cortar
+  pt-pt: cortar
+  pl: ciąć
+  uk: різати
+  it: tagliare
+  nl: snijden
+  ro: a tăia
+  pt-br: cortar
+- de: tragen (transportieren)
+  en: to carry
+  fr: porter
+  ru: носить
+  es: llevar
+  pt-pt: carregar
+  pl: nosić
+  uk: носити
+  it: portare
+  nl: dragen
+  ro: a duce
+  pt-br: carregar
+- de: tragen (Kleidung)
+  en: to wear (clothing)
+  fr: porter
+  ru: носить
+  es: llevar
+  pt-pt: vestir
+  pl: nosić
+  uk: носити
+  it: indossare
+  nl: dragen
+  ro: a purta
+  pt-br: vestir
+- de: brechen
+  en: to break
+  fr: casser
+  ru: ломать
+  es: romper
+  pt-pt: quebrar
+  pl: złamać
+  uk: ламати
+  it: rompere
+  nl: breken
+  ro: a rupe
+  pt-br: quebrar
+- de: reparieren
+  en: to fix
+  fr: réparer
+  ru: чинить
+  es: arreglar
+  pt-pt: consertar
+  pl: naprawić
+  uk: полагодити
+  it: riparare
+  nl: repareren
+  ro: a repara
+  pt-br: consertar
+- de: bauen
+  en: to build
+  fr: construire
+  ru: строить
+  es: construir
+  pt-pt: construir
+  pl: budować
+  uk: будувати
+  it: costruire
+  nl: bouwen
+  ro: a construi
+  pt-br: construir
+- de: stoppen
+  en: to stop
+  fr: arrêter
+  ru: останавливать
+  es: parar
+  pt-pt: parar
+  pl: zatrzymać się
+  uk: зупинятися
+  it: fermarsi
+  nl: stoppen
+  ro: a opri
+  pt-br: parar
+- de: starten
+  en: to start
+  fr: commencer
+  ru: начинать
+  es: empezar
+  pt-pt: começar
+  pl: zacząć
+  uk: починати
+  it: iniziare
+  nl: beginnen
+  ro: a începe
+  pt-br: começar
+- de: arbeiten
+  en: to work
+  fr: travailler
+  ru: работать
+  es: trabajar
+  pt-pt: trabalhar
+  pl: pracować
+  uk: працювати
+  it: lavorare
+  nl: werken
+  ro: a lucra
+  pt-br: trabalhar
+- de: spielen
+  en: to play
+  fr: jouer
+  ru: играть
+  es: jugar
+  pt-pt: jogar
+  pl: grać
+  uk: грати
+  it: giocare
+  nl: spelen
+  ro: a juca
+  pt-br: jogar
+- de: ändern
+  en: to change
+  fr: changer
+  ru: менять
+  es: cambiar
+  pt-pt: mudar
+  pl: zmienić
+  uk: змінювати
+  it: cambiare
+  nl: veranderen
+  ro: a schimba
+  pt-br: mudar
+- de: behalten
+  en: to keep
+  fr: garder
+  ru: хранить
+  es: mantener
+  pt-pt: manter
+  pl: zachować
+  uk: зберігати
+  it: mantenere
+  nl: houden
+  ro: a păstra
+  pt-br: manter
+- de: halten
+  en: to hold
+  fr: tenir
+  ru: держать
+  es: sostener
+  pt-pt: segurar
+  pl: trzymać
+  uk: тримати
+  it: tenere
+  nl: vasthouden
+  ro: a ține
+  pt-br: segurar
+- de: ziehen
+  en: to pull
+  fr: tirer
+  ru: тянуть
+  es: tirar
+  pt-pt: puxar
+  pl: ciągnąć
+  uk: тягнути
+  it: tirare
+  nl: trekken
+  ro: a trage
+  pt-br: puxar
+- de: schieben
+  en: to push
+  fr: pousser
+  ru: толкать
+  es: empujar
+  pt-pt: empurrar
+  pl: pchać
+  uk: штовхати
+  it: spingere
+  nl: duwen
+  ro: a împinge
+  pt-br: empurrar
+- de: fliegen
+  en: to fly
+  fr: voler
+  ru: летать
+  es: volar
+  pt-pt: voar
+  pl: latać
+  uk: літати
+  it: volare
+  nl: vliegen
+  ro: a zbura
+  pt-br: voar
+- de: fahren
+  en: to ride (bicycle/car)
+  fr: rouler
+  ru: ездить верхом
+  es: montar
+  pt-pt: andar
+  pl: jeździć
+  uk: їздити
+  it: cavalcare
+  nl: rijden
+  ro: a merge
+  pt-br: andar
+- de: groß
+  en: big
+  fr: grand
+  ru: большой
+  es: grande
+  pt-pt: grande
+  pl: duży
+  uk: великий
+  it: grande
+  nl: groot
+  ro: mare
+  pt-br: grande
+- de: klein
+  en: small
+  fr: petit
+  ru: маленький
+  es: pequeño
+  pt-pt: pequeno
+  pl: mały
+  uk: маленький
+  it: piccolo
+  nl: klein
+  ro: mic
+  pt-br: pequeno
+- de: lang
+  en: long
+  fr: long
+  ru: длинный
+  es: largo
+  pt-pt: longo
+  pl: długi
+  uk: довгий
+  it: lungo
+  nl: lang
+  ro: lung
+  pt-br: longo
+- de: kurz
+  en: short
+  fr: court
+  ru: короткий
+  es: corto
+  pt-pt: curto
+  pl: krótki
+  uk: короткий
+  it: corto
+  nl: kort
+  ro: scurt
+  pt-br: curto
+- de: hoch
+  en: high
+  fr: haut
+  ru: высокий
+  es: alto
+  pt-pt: alto
+  pl: wysoki
+  uk: високий
+  it: alto
+  nl: hoog
+  ro: înalt
+  pt-br: alto
+- de: niedrig
+  en: low
+  fr: bas
+  ru: низкий
+  es: bajo
+  pt-pt: baixo
+  pl: niski
+  uk: низький
+  it: basso
+  nl: laag
+  ro: scund
+  pt-br: baixo
+- de: breit
+  en: wide
+  fr: large
+  ru: широкий
+  es: ancho
+  pt-pt: largo
+  pl: szeroki
+  uk: широкий
+  it: ampio
+  nl: breed
+  ro: larg
+  pt-br: largo
+- de: schmal
+  en: narrow
+  fr: étroit
+  ru: узкий
+  es: estrecho
+  pt-pt: estreito
+  pl: wąski
+  uk: вузький
+  it: stretto
+  nl: smal
+  ro: îngust
+  pt-br: estreito
+- de: dick
+  en: thick
+  fr: épais
+  ru: толстый
+  es: grueso
+  pt-pt: grosso
+  pl: gruby
+  uk: товстий
+  it: spesso
+  nl: dik
+  ro: gros
+  pt-br: grosso
+- de: dünn
+  en: thin
+  fr: mince
+  ru: тонкий
+  es: fino
+  pt-pt: fino
+  pl: cienki
+  uk: тонкий
+  it: sottile
+  nl: dun
+  ro: subțire
+  pt-br: fino
+- de: schwer
+  en: heavy
+  fr: lourd
+  ru: тяжёлый
+  es: pesado
+  pt-pt: pesado
+  pl: ciężki
+  uk: важкий
+  it: pesante
+  nl: zwaar
+  ro: greu
+  pt-br: pesado
+- de: gut
+  en: good
+  fr: bon
+  ru: хороший
+  es: bueno
+  pt-pt: bom
+  pl: dobry
+  uk: добрий
+  it: buono
+  nl: goed
+  ro: bun
+  pt-br: bom
+- de: schlecht
+  en: bad
+  fr: mauvais
+  ru: плохой
+  es: malo
+  pt-pt: mau
+  pl: zły
+  uk: поганий
+  it: cattivo
+  nl: slecht
+  ro: rău
+  pt-br: mau
+- de: neu
+  en: new
+  fr: nouveau
+  ru: новый
+  es: nuevo
+  pt-pt: novo
+  pl: nowy
+  uk: новий
+  it: nuovo
+  nl: nieuw
+  ro: nou
+  pt-br: novo
+- de: alt
+  en: old
+  fr: vieux
+  ru: старый
+  es: viejo
+  pt-pt: velho
+  pl: stary
+  uk: старий
+  it: vecchio
+  nl: oud
+  ro: vechi
+  pt-br: velho
+- de: heiß
+  en: hot
+  fr: chaud
+  ru: горячий
+  es: caliente
+  pt-pt: quente
+  pl: gorący
+  uk: гарячий
+  it: caldo
+  nl: heet
+  ro: fierbinte
+  pt-br: quente
+- de: kalt
+  en: cold
+  fr: froid
+  ru: холодный
+  es: frío
+  pt-pt: frio
+  pl: zimny
+  uk: холодний
+  it: freddo
+  nl: koud
+  ro: rece
+  pt-br: frio
+- de: warm
+  en: warm
+  fr: chaud
+  ru: тёплый
+  es: cálido
+  pt-pt: quente
+  pl: ciepły
+  uk: теплий
+  it: caldo
+  nl: warm
+  ro: cald
+  pt-br: quente
+- de: nass
+  en: wet
+  fr: mouillé
+  ru: мокрый
+  es: mojado
+  pt-pt: molhado
+  pl: mokry
+  uk: мокрий
+  it: bagnato
+  nl: nat
+  ro: ud
+  pt-br: molhado
+- de: trocken
+  en: dry
+  fr: sec
+  ru: сухой
+  es: seco
+  pt-pt: seco
+  pl: suchy
+  uk: сухий
+  it: asciutto
+  nl: droog
+  ro: uscat
+  pt-br: seco
+- de: sauber
+  en: clean
+  fr: propre
+  ru: чистый
+  es: limpio
+  pt-pt: limpo
+  pl: czysty
+  uk: чистий
+  it: pulito
+  nl: schoon
+  ro: curat
+  pt-br: limpo
+- de: schmutzig
+  en: dirty
+  fr: sale
+  ru: грязный
+  es: sucio
+  pt-pt: sujo
+  pl: brudny
+  uk: брудний
+  it: sporco
+  nl: vuil
+  ro: murdar
+  pt-br: sujo
+- de: hart
+  en: hard
+  fr: dur
+  ru: твёрдый
+  es: duro
+  pt-pt: duro
+  pl: twardy
+  uk: твердий
+  it: duro
+  nl: hard
+  ro: dur
+  pt-br: duro
+- de: weich
+  en: soft
+  fr: doux
+  ru: мягкий
+  es: suave
+  pt-pt: macio
+  pl: miękki
+  uk: м'який
+  it: morbido
+  nl: zacht
+  ro: moale
+  pt-br: macio
+- de: offen
+  en: open
+  fr: ouvert
+  ru: открытый
+  es: abierto
+  pt-pt: aberto
+  pl: otwarty
+  uk: відкритий
+  it: aperto
+  nl: open
+  ro: deschis
+  pt-br: aberto
+- de: voll
+  en: full
+  fr: plein
+  ru: полный
+  es: lleno
+  pt-pt: cheio
+  pl: pełny
+  uk: повний
+  it: pieno
+  nl: vol
+  ro: plin
+  pt-br: cheio
+- de: schnell
+  en: fast
+  fr: rapide
+  ru: быстрый
+  es: rápido
+  pt-pt: rápido
+  pl: szybki
+  uk: швидкий
+  it: veloce
+  nl: snel
+  ro: rapid
+  pt-br: rápido
+- de: langsam
+  en: slow
+  fr: lent
+  ru: медленный
+  es: lento
+  pt-pt: lento
+  pl: powolny
+  uk: повільний
+  it: lento
+  nl: langzaam
+  ro: lent
+  pt-br: lento
+- de: einfach
+  en: easy
+  fr: facile
+  ru: лёгкий
+  es: fácil
+  pt-pt: fácil
+  pl: łatwy
+  uk: легкий
+  it: facile
+  nl: gemakkelijk
+  ro: ușor
+  pt-br: fácil
+- de: schwierig
+  en: difficult
+  fr: difficile
+  ru: трудный
+  es: difícil
+  pt-pt: difícil
+  pl: trudny
+  uk: важкий
+  it: difficile
+  nl: moeilijk
+  ro: dificil
+  pt-br: difícil
+- de: tot
+  en: dead
+  fr: mort
+  ru: мёртвый
+  es: muerto
+  pt-pt: morto
+  pl: martwy
+  uk: мертвий
+  it: morto
+  nl: dood
+  ro: mort
+  pt-br: morto
+- de: lebendig
+  en: alive
+  fr: vivant
+  ru: живой
+  es: vivo
+  pt-pt: vivo
+  pl: żywy
+  uk: живий
+  it: vivo
+  nl: levend
+  ro: viu
+  pt-br: vivo
+- de: jung
+  en: young
+  fr: jeune
+  ru: молодой
+  es: joven
+  pt-pt: jovem
+  pl: młody
+  uk: молодий
+  it: giovane
+  nl: jong
+  ro: tânăr
+  pt-br: jovem
+- de: dunkel
+  en: dark
+  fr: sombre
+  ru: тёмный
+  es: oscuro
+  pt-pt: escuro
+  pl: ciemny
+  uk: темний
+  it: scuro
+  nl: donker
+  ro: întunecat
+  pt-br: escuro
+- de: hell
+  en: bright
+  fr: lumineux
+  ru: яркий
+  es: brillante
+  pt-pt: brilhante
+  pl: jasny
+  uk: яскравий
+  it: luminoso
+  nl: helder
+  ro: luminos
+  pt-br: brilhante
+- de: schön
+  en: beautiful
+  fr: beau
+  ru: красивый
+  es: hermoso
+  pt-pt: bonito
+  pl: piękny
+  uk: прекрасний
+  it: bello
+  nl: mooi
+  ro: frumos
+  pt-br: bonito
+- de: hässlich
+  en: ugly
+  fr: laid
+  ru: уродливый
+  es: feo
+  pt-pt: feio
+  pl: brzydki
+  uk: потворний
+  it: brutto
+  nl: lelijk
+  ro: urât
+  pt-br: feio
+- de: stark
+  en: strong
+  fr: fort
+  ru: сильный
+  es: fuerte
+  pt-pt: forte
+  pl: silny
+  uk: сильний
+  it: forte
+  nl: sterk
+  ro: puternic
+  pt-br: forte
+- de: schwach
+  en: weak
+  fr: faible
+  ru: слабый
+  es: débil
+  pt-pt: fraco
+  pl: słaby
+  uk: слабкий
+  it: debole
+  nl: zwak
+  ro: slab
+  pt-br: fraco
+- de: hungrig
+  en: hungry
+  fr: affamé
+  ru: голодный
+  es: hambriento
+  pt-pt: faminto
+  pl: głodny
+  uk: голодний
+  it: affamato
+  nl: hongerig
+  ro: înfometat
+  pt-br: faminto
+- de: durstig
+  en: thirsty
+  fr: assoiffé
+  ru: испытывающий жажду
+  es: sediento
+  pt-pt: sedento
+  pl: spragniony
+  uk: спраглий
+  it: assetato
+  nl: dorstig
+  ro: însetat
+  pt-br: sedento
+- de: müde
+  en: tired
+  fr: fatigué
+  ru: усталый
+  es: cansado
+  pt-pt: cansado
+  pl: zmęczony
+  uk: втомлений
+  it: stanco
+  nl: moe
+  ro: obosit
+  pt-br: cansado
+- de: krank
+  en: sick
+  fr: malade
+  ru: больной
+  es: enfermo
+  pt-pt: doente
+  pl: chory
+  uk: хворий
+  it: malato
+  nl: ziek
+  ro: bolnav
+  pt-br: doente
+- de: wichtig
+  en: important
+  fr: important
+  ru: важный
+  es: importante
+  pt-pt: importante
+  pl: ważny
+  uk: важливий
+  it: importante
+  nl: belangrijk
+  ro: important
+  pt-br: importante
+- de: verschieden
+  en: different
+  fr: différent
+  ru: разный
+  es: diferente
+  pt-pt: diferente
+  pl: inny
+  uk: інший
+  it: diverso
+  nl: verschillend
+  ro: diferit
+  pt-br: diferente
+- de: gleich
+  en: same
+  fr: même
+  ru: одинаковый
+  es: mismo
+  pt-pt: mesmo
+  pl: ten sam
+  uk: однаковий
+  it: stesso
+  nl: hetzelfde
+  ro: același
+  pt-br: mesmo
+- de: wahr
+  en: 'true'
+  fr: vrai
+  ru: истинный
+  es: verdadero
+  pt-pt: verdadeiro
+  pl: prawdziwy
+  uk: справжній
+  it: vero
+  nl: waar
+  ro: adevărat
+  pt-br: verdadeiro
+- de: falsch
+  en: 'false'
+  fr: faux
+  ru: ложный
+  es: falso
+  pt-pt: falso
+  pl: fałszywy
+  uk: хибний
+  it: falso
+  nl: vals
+  ro: fals
+  pt-br: falso
+- de: richtig
+  en: right (correct)
+  fr: correct
+  ru: правильный
+  es: correcto
+  pt-pt: correto
+  pl: poprawny
+  uk: правильний
+  it: corretto
+  nl: juist
+  ro: corect
+  pt-br: correto
+- de: möglich
+  en: possible
+  fr: possible
+  ru: возможный
+  es: posible
+  pt-pt: possível
+  pl: możliwy
+  uk: можливий
+  it: possibile
+  nl: mogelijk
+  ro: posibil
+  pt-br: possível
+- de: bereit
+  en: ready
+  fr: prêt
+  ru: готовый
+  es: listo
+  pt-pt: pronto
+  pl: gotowy
+  uk: готовий
+  it: pronto
+  nl: klaar
+  ro: gata
+  pt-br: pronto
+- de: sicher
+  en: sure
+  fr: sûr
+  ru: уверенный
+  es: seguro
+  pt-pt: certo
+  pl: pewny
+  uk: впевнений
+  it: sicuro
+  nl: zeker
+  ro: sigur
+  pt-br: certo
+- de: normal
+  en: normal
+  fr: normal
+  ru: нормальный
+  es: normal
+  pt-pt: normal
+  pl: normalny
+  uk: нормальний
+  it: normale
+  nl: normaal
+  ro: normal
+  pt-br: normal
+- de: echt
+  en: real
+  fr: réel
+  ru: настоящий
+  es: real
+  pt-pt: real
+  pl: prawdziwy
+  uk: справжній
+  it: reale
+  nl: echt
+  ro: real
+  pt-br: real
+- de: hauptsächlich
+  en: main
+  fr: principal
+  ru: главный
+  es: principal
+  pt-pt: principal
+  pl: główny
+  uk: головний
+  it: principale
+  nl: hoofd
+  ro: principal
+  pt-br: principal
+- de: nett
+  en: nice
+  fr: gentil
+  ru: милый
+  es: agradable
+  pt-pt: agradável
+  pl: miły
+  uk: милий
+  it: carino
+  nl: aardig
+  ro: drăguț
+  pt-br: agradável
+- de: arm
+  en: poor
+  fr: pauvre
+  ru: бедный
+  es: pobre
+  pt-pt: pobre
+  pl: biedny
+  uk: бідний
+  it: povero
+  nl: arm
+  ro: sărac
+  pt-br: pobre
+- de: reich
+  en: rich
+  fr: riche
+  ru: богатый
+  es: rico
+  pt-pt: rico
+  pl: bogaty
+  uk: багатий
+  it: ricco
+  nl: rijk
+  ro: bogat
+  pt-br: rico
+- de: berühmt
+  en: famous
+  fr: célèbre
+  ru: знаменитый
+  es: famoso
+  pt-pt: famoso
+  pl: sławny
+  uk: відомий
+  it: famoso
+  nl: beroemd
+  ro: faimos
+  pt-br: famoso
+- de: frei
+  en: free
+  fr: libre
+  ru: свободный
+  es: libre
+  pt-pt: livre
+  pl: wolny
+  uk: вільний
+  it: libero
+  nl: vrij
+  ro: liber
+  pt-br: livre
+- de: gefährlich
+  en: dangerous
+  fr: dangereux
+  ru: опасный
+  es: peligroso
+  pt-pt: perigoso
+  pl: niebezpieczny
+  uk: небезпечний
+  it: pericoloso
+  nl: gevaarlijk
+  ro: periculos
+  pt-br: perigoso
+- de: leise
+  en: quiet
+  fr: calme
+  ru: тихий
+  es: tranquilo
+  pt-pt: calmo
+  pl: cichy
+  uk: тихий
+  it: tranquillo
+  nl: stil
+  ro: liniștit
+  pt-br: calmo
+- de: laut
+  en: loud
+  fr: bruyant
+  ru: громкий
+  es: ruidoso
+  pt-pt: alto
+  pl: głośny
+  uk: гучний
+  it: rumoroso
+  nl: luid
+  ro: zgomotos
+  pt-br: alto
+- de: beschäftigt
+  en: busy
+  fr: occupé
+  ru: занятый
+  es: ocupado
+  pt-pt: ocupado
+  pl: zajęty
+  uk: зайнятий
+  it: occupato
+  nl: druk
+  ro: ocupat
+  pt-br: ocupado
+- de: leer
+  en: empty
+  fr: vide
+  ru: пустой
+  es: vacío
+  pt-pt: vazio
+  pl: pusty
+  uk: порожній
+  it: vuoto
+  nl: leeg
+  ro: gol
+  pt-br: vazio
+- de: und
+  en: and
+  fr: et
+  ru: и
+  es: y
+  pt-pt: e
+  pl: i
+  uk: і
+  it: e
+  nl: en
+  ro: și
+  pt-br: e
+- de: oder
+  en: or
+  fr: ou
+  ru: или
+  es: o
+  pt-pt: ou
+  pl: lub
+  uk: або
+  it: o
+  nl: of
+  ro: sau
+  pt-br: ou
+- de: aber
+  en: but
+  fr: mais
+  ru: но
+  es: pero
+  pt-pt: mas
+  pl: ale
+  uk: але
+  it: ma
+  nl: maar
+  ro: dar
+  pt-br: mas
+- de: so
+  en: so
+  fr: donc
+  ru: так
+  es: así
+  pt-pt: assim
+  pl: więc
+  uk: отже
+  it: così
+  nl: dus
+  ro: deci
+  pt-br: assim
+- de: weil
+  en: because
+  fr: parce que
+  ru: потому что
+  es: porque
+  pt-pt: porque
+  pl: ponieważ
+  uk: тому що
+  it: perché
+  nl: omdat
+  ro: pentru că
+  pt-br: porque
+- de: jedoch
+  en: however
+  fr: cependant
+  ru: однако
+  es: sin embargo
+  pt-pt: no entanto
+  pl: jednak
+  uk: однак
+  it: tuttavia
+  nl: echter
+  ro: totuși
+  pt-br: no entanto
+- de: daher
+  en: therefore
+  fr: par conséquent
+  ru: поэтому
+  es: por lo tanto
+  pt-pt: portanto
+  pl: dlatego
+  uk: тому
+  it: quindi
+  nl: daarom
+  ro: prin urmare
+  pt-br: portanto
+- de: obwohl
+  en: although
+  fr: bien que
+  ru: хотя
+  es: aunque
+  pt-pt: embora
+  pl: chociaż
+  uk: хоча
+  it: sebbene
+  nl: hoewel
+  ro: deși
+  pt-br: embora
+- de: nichts
+  en: nothing
+  fr: rien
+  ru: ничего
+  es: nada
+  pt-pt: nada
+  pl: nic
+  uk: нічого
+  it: nulla
+  nl: niets
+  ro: nimic
+  pt-br: nada
+- de: niemand
+  en: nobody
+  fr: personne
+  ru: никто
+  es: nadie
+  pt-pt: ninguém
+  pl: nikt
+  uk: ніхто
+  it: nessuno
+  nl: niemand
+  ro: nimeni
+  pt-br: ninguém
+- de: jemand
+  en: anybody
+  fr: quelqu'un
+  ru: кто-нибудь
+  es: cualquiera
+  pt-pt: qualquer pessoa
+  pl: ktokolwiek
+  uk: будь-хто
+  it: chiunque
+  nl: iemand
+  ro: oricine
+  pt-br: qualquer pessoa
+- de: irgendetwas
+  en: anything
+  fr: quelque chose
+  ru: что-нибудь
+  es: cualquier cosa
+  pt-pt: qualquer coisa
+  pl: cokolwiek
+  uk: що-небудь
+  it: qualsiasi cosa
+  nl: iets
+  ro: orice
+  pt-br: qualquer coisa
+- de: alles
+  en: everything
+  fr: tout
+  ru: всё
+  es: todo
+  pt-pt: tudo
+  pl: wszystko
+  uk: все
+  it: tutto
+  nl: alles
+  ro: totul
+  pt-br: tudo
+- de: etwas
+  en: something
+  fr: quelque chose
+  ru: что-то
+  es: algo
+  pt-pt: algo
+  pl: coś
+  uk: щось
+  it: qualcosa
+  nl: iets
+  ro: ceva
+  pt-br: algo
+- de: das Zuhause
+  en: home
+  fr: le domicile
+  ru: дом
+  es: la casa
+  pt-pt: a casa
+  pl: dom
+  uk: дім
+  it: casa
+  nl: thuis
+  ro: casa
+  pt-br: a casa
+- de: das Haus
+  en: house
+  fr: la maison
+  ru: дом
+  es: la casa
+  pt-pt: a casa
+  pl: dom
+  uk: будинок
+  it: casa
+  nl: huis
+  ro: casă
+  pt-br: a casa
+- de: das Zimmer
+  en: room
+  fr: la pièce
+  ru: комната
+  es: la habitación
+  pt-pt: o quarto
+  pl: pokój
+  uk: кімната
+  it: camera
+  nl: kamer
+  ro: cameră
+  pt-br: o quarto
+- de: die Küche
+  en: kitchen
+  fr: la cuisine
+  ru: кухня
+  es: la cocina
+  pt-pt: a cozinha
+  pl: kuchnia
+  uk: кухня
+  it: cucina
+  nl: keuken
+  ro: bucătărie
+  pt-br: a cozinha
+- de: das Badezimmer
+  en: bathroom
+  fr: la salle de bain
+  ru: ванная комната
+  es: el cuarto de baño
+  pt-pt: a casa de banho
+  pl: łazienka
+  uk: ванна кімната
+  it: bagno
+  nl: badkamer
+  ro: baie
+  pt-br: a casa de banho
+- de: das Schlafzimmer
+  en: bedroom
+  fr: la chambre
+  ru: спальня
+  es: el dormitorio
+  pt-pt: o quarto
+  pl: sypialnia
+  uk: спальня
+  it: camera da letto
+  nl: slaapkamer
+  ro: dormitor
+  pt-br: o quarto
+- de: die Tür
+  en: door
+  fr: la porte
+  ru: дверь
+  es: la puerta
+  pt-pt: a porta
+  pl: drzwi
+  uk: двері
+  it: porta
+  nl: deur
+  ro: ușă
+  pt-br: a porta
+- de: das Fenster
+  en: window
+  fr: la fenêtre
+  ru: окно
+  es: la ventana
+  pt-pt: a janela
+  pl: okno
+  uk: вікно
+  it: finestra
+  nl: raam
+  ro: fereastră
+  pt-br: a janela
+- de: die Wand
+  en: wall
+  fr: le mur
+  ru: стена
+  es: la pared
+  pt-pt: a parede
+  pl: ściana
+  uk: стіна
+  it: muro
+  nl: muur
+  ro: perete
+  pt-br: a parede
+- de: die Decke
+  en: ceiling
+  fr: le plafond
+  ru: потолок
+  es: el techo
+  pt-pt: o teto
+  pl: sufit
+  uk: стеля
+  it: soffitto
+  nl: plafond
+  ro: tavan
+  pt-br: o teto
+- de: das Dach
+  en: roof
+  fr: le toit
+  ru: крыша
+  es: el tejado
+  pt-pt: o telhado
+  pl: dach
+  uk: дах
+  it: tetto
+  nl: dak
+  ro: acoperiș
+  pt-br: o telhado
+- de: das Bett
+  en: bed
+  fr: le lit
+  ru: кровать
+  es: la cama
+  pt-pt: a cama
+  pl: łóżko
+  uk: ліжко
+  it: letto
+  nl: bed
+  ro: pat
+  pt-br: a cama
+- de: der Tisch
+  en: table
+  fr: la table
+  ru: стол
+  es: la mesa
+  pt-pt: a mesa
+  pl: stół
+  uk: стіл
+  it: tavolo
+  nl: tafel
+  ro: masă
+  pt-br: a mesa
+- de: der Stuhl
+  en: chair
+  fr: la chaise
+  ru: стул
+  es: la silla
+  pt-pt: a cadeira
+  pl: krzesło
+  uk: стілець
+  it: sedia
+  nl: stoel
+  ro: scaun
+  pt-br: a cadeira
+- de: der Schreibtisch
+  en: desk
+  fr: le bureau
+  ru: письменный стол
+  es: el escritorio
+  pt-pt: a secretária
+  pl: biurko
+  uk: письмовий стіл
+  it: scrivania
+  nl: bureau
+  ro: birou
+  pt-br: a secretária
+- de: die Tasse
+  en: cup
+  fr: la tasse
+  ru: чашка
+  es: la taza
+  pt-pt: a chávena
+  pl: filiżanka
+  uk: чашка
+  it: tazza
+  nl: kop
+  ro: ceașcă
+  pt-br: a chávena
+- de: der Teller
+  en: plate
+  fr: l'assiette
+  ru: тарелка
+  es: el plato
+  pt-pt: o prato
+  pl: talerz
+  uk: тарілка
+  it: piatto
+  nl: bord
+  ro: farfurie
+  pt-br: o prato
+- de: die Schüssel
+  en: bowl
+  fr: le bol
+  ru: миска
+  es: el cuenco
+  pt-pt: a tigela
+  pl: miska
+  uk: миска
+  it: ciotola
+  nl: kom
+  ro: bol
+  pt-br: a tigela
+- de: das Glas (Trinkgefäß)
+  en: glass (cup)
+  fr: le verre
+  ru: стакан
+  es: el vaso
+  pt-pt: o copo
+  pl: szklanka
+  uk: склянка
+  it: bicchiere
+  nl: glas
+  ro: pahar
+  pt-br: o copo
+- de: der Löffel
+  en: spoon
+  fr: la cuillère
+  ru: ложка
+  es: la cuchara
+  pt-pt: a colher
+  pl: łyżka
+  uk: ложка
+  it: cucchiaio
+  nl: lepel
+  ro: lingură
+  pt-br: a colher
+- de: die Gabel
+  en: fork
+  fr: la fourchette
+  ru: вилка
+  es: el tenedor
+  pt-pt: o garfo
+  pl: widelec
+  uk: виделка
+  it: forchetta
+  nl: vork
+  ro: furculiță
+  pt-br: o garfo
+- de: das Messer
+  en: knife
+  fr: le couteau
+  ru: нож
+  es: el cuchillo
+  pt-pt: a faca
+  pl: nóż
+  uk: ніж
+  it: coltello
+  nl: mes
+  ro: cuțit
+  pt-br: a faca
+- de: der Topf
+  en: pot
+  fr: la casserole
+  ru: кастрюля
+  es: la olla
+  pt-pt: a panela
+  pl: garnek
+  uk: каструля
+  it: pentola
+  nl: pan
+  ro: oală
+  pt-br: a panela
+- de: der Stift
+  en: pen
+  fr: le stylo
+  ru: ручка
+  es: el bolígrafo
+  pt-pt: a caneta
+  pl: długopis
+  uk: ручка
+  it: penna
+  nl: pen
+  ro: pix
+  pt-br: a caneta
+- de: der Bleistift
+  en: pencil
+  fr: le crayon
+  ru: карандаш
+  es: el lápiz
+  pt-pt: o lápis
+  pl: ołówek
+  uk: олівець
+  it: matita
+  nl: potlood
+  ro: creion
+  pt-br: o lápis
+- de: das Papier
+  en: paper
+  fr: le papier
+  ru: бумага
+  es: el papel
+  pt-pt: o papel
+  pl: papier
+  uk: папір
+  it: carta
+  nl: papier
+  ro: hârtie
+  pt-br: o papel
+- de: die Kiste
+  en: box
+  fr: la boîte
+  ru: коробка
+  es: la caja
+  pt-pt: a caixa
+  pl: pudełko
+  uk: коробка
+  it: scatola
+  nl: doos
+  ro: cutie
+  pt-br: a caixa
+- de: die Flasche
+  en: bottle
+  fr: la bouteille
+  ru: бутылка
+  es: la botella
+  pt-pt: a garrafa
+  pl: butelka
+  uk: пляшка
+  it: bottiglia
+  nl: fles
+  ro: sticlă
+  pt-br: a garrafa
+- de: der Schlüssel
+  en: key
+  fr: la clé
+  ru: ключ
+  es: la llave
+  pt-pt: a chave
+  pl: klucz
+  uk: ключ
+  it: chiave
+  nl: sleutel
+  ro: cheie
+  pt-br: a chave
+- de: die Seife
+  en: soap
+  fr: le savon
+  ru: мыло
+  es: el jabón
+  pt-pt: o sabão
+  pl: mydło
+  uk: мило
+  it: sapone
+  nl: zeep
+  ro: săpun
+  pt-br: o sabão
+- de: der Garten
+  en: garden
+  fr: le jardin
+  ru: сад
+  es: el jardín
+  pt-pt: o jardim
+  pl: ogród
+  uk: сад
+  it: giardino
+  nl: tuin
+  ro: grădină
+  pt-br: o jardim
+- de: der Hof
+  en: yard
+  fr: la cour
+  ru: двор
+  es: el patio
+  pt-pt: o quintal
+  pl: podwórko
+  uk: двір
+  it: cortile
+  nl: tuin
+  ro: curte
+  pt-br: o quintal
+- de: der Schuh
+  en: shoe
+  fr: la chaussure
+  ru: ботинок
+  es: el zapato
+  pt-pt: o sapato
+  pl: but
+  uk: черевик
+  it: scarpa
+  nl: schoen
+  ro: pantof
+  pt-br: o sapato
+- de: das Hemd
+  en: shirt
+  fr: la chemise
+  ru: рубашка
+  es: la camisa
+  pt-pt: a camisa
+  pl: koszula
+  uk: сорочка
+  it: camicia
+  nl: overhemd
+  ro: cămașă
+  pt-br: a camisa
+- de: die Hose
+  en: pants
+  fr: le pantalon
+  ru: брюки
+  es: los pantalones
+  pt-pt: as calças
+  pl: spodnie
+  uk: штани
+  it: pantaloni
+  nl: broek
+  ro: pantaloni
+  pt-br: as calças
+- de: der Mantel
+  en: coat
+  fr: le manteau
+  ru: пальто
+  es: el abrigo
+  pt-pt: o casaco
+  pl: płaszcz
+  uk: пальто
+  it: cappotto
+  nl: jas
+  ro: haină
+  pt-br: o casaco
+- de: der Hut
+  en: hat
+  fr: le chapeau
+  ru: шляпа
+  es: el sombrero
+  pt-pt: o chapéu
+  pl: kapelusz
+  uk: капелюх
+  it: cappello
+  nl: hoed
+  ro: pălărie
+  pt-br: o chapéu
+- de: das Kleid
+  en: dress
+  fr: la robe
+  ru: платье
+  es: el vestido
+  pt-pt: o vestido
+  pl: sukienka
+  uk: сукня
+  it: abito
+  nl: jurk
+  ro: rochie
+  pt-br: o vestido
+- de: die Socke
+  en: sock
+  fr: la chaussette
+  ru: носок
+  es: el calcetín
+  pt-pt: a meia
+  pl: skarpeta
+  uk: шкарпетка
+  it: calzino
+  nl: sok
+  ro: ciorap
+  pt-br: a meia
+- de: die Jacke
+  en: jacket
+  fr: la veste
+  ru: куртка
+  es: la chaqueta
+  pt-pt: o casaco
+  pl: kurtka
+  uk: куртка
+  it: giacca
+  nl: jas
+  ro: jachetă
+  pt-br: o casaco
+- de: der Pullover
+  en: sweater
+  fr: le pull
+  ru: свитер
+  es: el jersey
+  pt-pt: a camisola
+  pl: sweter
+  uk: светр
+  it: maglione
+  nl: trui
+  ro: pulover
+  pt-br: a camisola
+- de: der Rock
+  en: skirt
+  fr: la jupe
+  ru: юбка
+  es: la falda
+  pt-pt: a saia
+  pl: spódnica
+  uk: спідниця
+  it: gonna
+  nl: rok
+  ro: fustă
+  pt-br: a saia
+- de: die Tasche
+  en: bag
+  fr: le sac
+  ru: сумка
+  es: la bolsa
+  pt-pt: o saco
+  pl: torba
+  uk: сумка
+  it: borsa
+  nl: tas
+  ro: geantă
+  pt-br: o saco
+- de: der Job
+  en: job
+  fr: l'emploi
+  ru: работа
+  es: el empleo
+  pt-pt: o trabalho
+  pl: praca
+  uk: робота
+  it: lavoro
+  nl: baan
+  ro: loc de muncă
+  pt-br: o trabalho
+- de: der Arbeiter
+  en: worker
+  fr: le travailleur
+  ru: рабочий
+  es: el trabajador
+  pt-pt: o trabalhador
+  pl: pracownik
+  uk: працівник
+  it: lavoratore
+  nl: werknemer
+  ro: muncitor
+  pt-br: o trabalhador
+- de: der Landwirt
+  en: farmer
+  fr: l'agriculteur
+  ru: фермер
+  es: el agricultor
+  pt-pt: o agricultor
+  pl: rolnik
+  uk: фермер
+  it: agricoltore
+  nl: boer
+  ro: fermier
+  pt-br: o agricultor
+- de: der Ingenieur
+  en: engineer
+  fr: l'ingénieur
+  ru: инженер
+  es: el ingeniero
+  pt-pt: o engenheiro
+  pl: inżynier
+  uk: інженер
+  it: ingegnere
+  nl: ingenieur
+  ro: inginer
+  pt-br: o engenheiro
+- de: der Rechtsanwalt
+  en: lawyer
+  fr: l'avocat
+  ru: адвокат
+  es: el abogado
+  pt-pt: o advogado
+  pl: prawnik
+  uk: адвокат
+  it: avvocato
+  nl: advocaat
+  ro: avocat
+  pt-br: o advogado
+- de: der Koch
+  en: cook (person)
+  fr: le cuisinier
+  ru: повар
+  es: el cocinero
+  pt-pt: o cozinheiro
+  pl: kucharz
+  uk: кухар
+  it: cuoco
+  nl: kok
+  ro: bucătar
+  pt-br: o cozinheiro
+- de: der Fahrer
+  en: driver
+  fr: le conducteur
+  ru: водитель
+  es: el conductor
+  pt-pt: o condutor
+  pl: kierowca
+  uk: водій
+  it: autista
+  nl: chauffeur
+  ro: șofer
+  pt-br: o condutor
+- de: der Manager
+  en: manager
+  fr: le directeur
+  ru: менеджер
+  es: el director
+  pt-pt: o gestor
+  pl: kierownik
+  uk: менеджер
+  it: manager
+  nl: manager
+  ro: manager
+  pt-br: o gestor
+- de: der Bauarbeiter
+  en: builder
+  fr: le constructeur
+  ru: строитель
+  es: el constructor
+  pt-pt: o construtor
+  pl: budowniczy
+  uk: будівельник
+  it: costruttore
+  nl: bouwer
+  ro: constructor
+  pt-br: o construtor
+- de: die Adresse
+  en: address
+  fr: l'adresse
+  ru: адрес
+  es: la dirección
+  pt-pt: o endereço
+  pl: adres
+  uk: адреса
+  it: indirizzo
+  nl: adres
+  ro: adresă
+  pt-br: o endereço
+- de: der Rat
+  en: advice
+  fr: le conseil
+  ru: совет
+  es: el consejo
+  pt-pt: o conselho
+  pl: rada
+  uk: порада
+  it: consiglio
+  nl: advies
+  ro: sfat
+  pt-br: o conselho
+- de: anrufen
+  en: to call
+  fr: appeler
+  ru: звонить
+  es: llamar
+  pt-pt: chamar
+  pl: dzwonić
+  uk: телефонувати
+  it: chiamare
+  nl: bellen
+  ro: a suna
+  pt-br: chamar
+- de: die Karte
+  en: card
+  fr: la carte
+  ru: карта
+  es: la tarjeta
+  pt-pt: o cartão
+  pl: karta
+  uk: картка
+  it: carta
+  nl: kaart
+  ro: card
+  pt-br: o cartão
+- de: beschreiben
+  en: to describe
+  fr: décrire
+  ru: описывать
+  es: describir
+  pt-pt: descrever
+  pl: opisywać
+  uk: описувати
+  it: descrivere
+  nl: beschrijven
+  ro: a descrie
+  pt-br: descrever
+- de: die Beschreibung
+  en: description
+  fr: la description
+  ru: описание
+  es: la descripción
+  pt-pt: a descrição
+  pl: opis
+  uk: опис
+  it: descrizione
+  nl: beschrijving
+  ro: descriere
+  pt-br: a descrição
+- de: erklären
+  en: to explain
+  fr: expliquer
+  ru: объяснять
+  es: explicar
+  pt-pt: explicar
+  pl: wyjaśnić
+  uk: пояснювати
+  it: spiegare
+  nl: uitleggen
+  ro: a explica
+  pt-br: explicar
+- de: die Information
+  en: information
+  fr: l'information
+  ru: информация
+  es: la información
+  pt-pt: a informação
+  pl: informacja
+  uk: інформація
+  it: informazione
+  nl: informatie
+  ro: informație
+  pt-br: a informação
+- de: das Interview
+  en: interview
+  fr: l'entretien
+  ru: интервью
+  es: la entrevista
+  pt-pt: a entrevista
+  pl: wywiad
+  uk: співбесіда
+  it: intervista
+  nl: interview
+  ro: interviu
+  pt-br: a entrevista
+- de: die Sprache
+  en: language
+  fr: la langue
+  ru: язык
+  es: el idioma
+  pt-pt: a língua
+  pl: język
+  uk: мова
+  it: lingua
+  nl: taal
+  ro: limbă
+  pt-br: a língua
+- de: der Brief
+  en: letter (mail)
+  fr: la lettre
+  ru: письмо
+  es: la carta
+  pt-pt: a carta
+  pl: list
+  uk: лист
+  it: lettera
+  nl: brief
+  ro: scrisoare
+  pt-br: a carta
+- de: die Bedeutung
+  en: meaning
+  fr: le sens
+  ru: значение
+  es: el significado
+  pt-pt: o significado
+  pl: znaczenie
+  uk: значення
+  it: significato
+  nl: betekenis
+  ro: sens
+  pt-br: o significado
+- de: die Nachricht
+  en: message
+  fr: le message
+  ru: сообщение
+  es: el mensaje
+  pt-pt: a mensagem
+  pl: wiadomość
+  uk: повідомлення
+  it: messaggio
+  nl: bericht
+  ro: mesaj
+  pt-br: a mensagem
+- de: der Name
+  en: name
+  fr: le nom
+  ru: имя
+  es: el nombre
+  pt-pt: o nome
+  pl: nazwa
+  uk: ім'я
+  it: nome
+  nl: naam
+  ro: nume
+  pt-br: o nome
+- de: die Notiz
+  en: note
+  fr: la note
+  ru: примечание
+  es: la nota
+  pt-pt: a nota
+  pl: uwaga
+  uk: примітка
+  it: nota
+  nl: notitie
+  ro: notă
+  pt-br: a nota
+- de: der Beitrag
+  en: post (publication)
+  fr: la publication
+  ru: пост
+  es: la publicación
+  pt-pt: a publicação
+  pl: wpis
+  uk: пост
+  it: post
+  nl: post
+  ro: postare
+  pt-br: a publicação
+- de: der Bericht
+  en: report
+  fr: le rapport
+  ru: отчёт
+  es: el informe
+  pt-pt: o relatório
+  pl: raport
+  uk: доповідь
+  it: rapporto
+  nl: rapport
+  ro: raport
+  pt-br: o relatório
+- de: die Anfrage
+  en: request
+  fr: la demande
+  ru: запрос
+  es: la solicitud
+  pt-pt: o pedido
+  pl: żądanie
+  uk: запит
+  it: richiesta
+  nl: verzoek
+  ro: cerere
+  pt-br: o pedido
+- de: senden
+  en: to send
+  fr: envoyer
+  ru: отправлять
+  es: enviar
+  pt-pt: enviar
+  pl: wysłać
+  uk: відправляти
+  it: inviare
+  nl: verzenden
+  ro: a trimite
+  pt-br: enviar
+- de: das Zeichen
+  en: sign (symbol)
+  fr: le signe
+  ru: знак
+  es: la señal
+  pt-pt: o sinal
+  pl: znak
+  uk: знак
+  it: segno
+  nl: teken
+  ro: semn
+  pt-br: o sinal
+- de: die Rechtschreibung
+  en: spelling
+  fr: l'orthographe
+  ru: правописание
+  es: la ortografía
+  pt-pt: a ortografia
+  pl: pisownia
+  uk: правопис
+  it: ortografia
+  nl: spelling
+  ro: ortografie
+  pt-br: a ortografia
+- de: die Briefmarke
+  en: stamp (postage)
+  fr: le timbre
+  ru: марка
+  es: el sello
+  pt-pt: o selo
+  pl: znaczek
+  uk: марка
+  it: francobollo
+  nl: postzegel
+  ro: timbru
+  pt-br: o selo
+- de: die Aussage
+  en: statement
+  fr: la déclaration
+  ru: заявление
+  es: la declaración
+  pt-pt: a declaração
+  pl: oświadczenie
+  uk: заява
+  it: dichiarazione
+  nl: verklaring
+  ro: declarație
+  pt-br: a declaração
+- de: der Text
+  en: text
+  fr: le texte
+  ru: текст
+  es: el texto
+  pt-pt: o texto
+  pl: tekst
+  uk: текст
+  it: testo
+  nl: tekst
+  ro: text
+  pt-br: o texto
+- de: der Titel
+  en: title
+  fr: le titre
+  ru: название
+  es: el título
+  pt-pt: o título
+  pl: tytuł
+  uk: назва
+  it: titolo
+  nl: titel
+  ro: titlu
+  pt-br: o título
+- de: das Thema
+  en: topic
+  fr: le sujet
+  ru: тема
+  es: el tema
+  pt-pt: o tema
+  pl: temat
+  uk: тема
+  it: argomento
+  nl: onderwerp
+  ro: subiect
+  pt-br: o tema
+- de: das Wort
+  en: word
+  fr: le mot
+  ru: слово
+  es: la palabra
+  pt-pt: a palavra
+  pl: słowo
+  uk: слово
+  it: parola
+  nl: woord
+  ro: cuvânt
+  pt-br: a palavra
+- de: das Schreiben
+  en: writing
+  fr: l'écriture
+  ru: письмо
+  es: la escritura
+  pt-pt: a escrita
+  pl: pisanie
+  uk: письмо
+  it: scrittura
+  nl: schrijven
+  ro: scriere
+  pt-br: a escrita
+- de: der Lehrer
+  en: teacher
+  fr: l'enseignant
+  ru: учитель
+  es: el profesor
+  pt-pt: o professor
+  pl: nauczyciel
+  uk: вчитель
+  it: insegnante
+  nl: leraar
+  ro: profesor
+  pt-br: o professor
+- de: der Student
+  en: student
+  fr: l'étudiant
+  ru: студент
+  es: el estudiante
+  pt-pt: o estudante
+  pl: uczeń
+  uk: студент
+  it: studente
+  nl: student
+  ro: student
+  pt-br: o estudante
+- de: lernen
+  en: to learn
+  fr: apprendre
+  ru: учиться
+  es: aprender
+  pt-pt: aprender
+  pl: uczyć się
+  uk: вчитися
+  it: imparare
+  nl: leren
+  ro: a învăța
+  pt-br: aprender
+- de: studieren
+  en: to study
+  fr: étudier
+  ru: изучать
+  es: estudiar
+  pt-pt: estudar
+  pl: studiować
+  uk: вивчати
+  it: studiare
+  nl: studeren
+  ro: a studia
+  pt-br: estudar
+- de: die Klasse
+  en: class
+  fr: la classe
+  ru: класс
+  es: la clase
+  pt-pt: a classe
+  pl: klasa
+  uk: клас
+  it: classe
+  nl: klas
+  ro: clasă
+  pt-br: a classe
+- de: die Lektion
+  en: lesson
+  fr: la leçon
+  ru: урок
+  es: la lección
+  pt-pt: a lição
+  pl: lekcja
+  uk: урок
+  it: lezione
+  nl: les
+  ro: lecție
+  pt-br: a lição
+- de: der Test
+  en: test
+  fr: le test
+  ru: тест
+  es: la prueba
+  pt-pt: o teste
+  pl: test
+  uk: тест
+  it: test
+  nl: test
+  ro: test
+  pt-br: o teste
+- de: das Buch
+  en: book
+  fr: le livre
+  ru: книга
+  es: el libro
+  pt-pt: o livro
+  pl: książka
+  uk: книга
+  it: libro
+  nl: boek
+  ro: carte
+  pt-br: o livro
+- de: die Musik
+  en: music
+  fr: la musique
+  ru: музыка
+  es: la música
+  pt-pt: a música
+  pl: muzyka
+  uk: музика
+  it: musica
+  nl: muziek
+  ro: muzică
+  pt-br: a música
+- de: das Lied
+  en: song
+  fr: la chanson
+  ru: песня
+  es: la canción
+  pt-pt: a canção
+  pl: piosenka
+  uk: пісня
+  it: canzone
+  nl: lied
+  ro: cântec
+  pt-br: a canção
+- de: der Tanz
+  en: dance
+  fr: la danse
+  ru: танец
+  es: el baile
+  pt-pt: a dança
+  pl: taniec
+  uk: танець
+  it: danza
+  nl: dans
+  ro: dans
+  pt-br: a dança
+- de: das Bild
+  en: picture
+  fr: l'image
+  ru: картинка
+  es: la foto
+  pt-pt: a imagem
+  pl: zdjęcie
+  uk: картина
+  it: immagine
+  nl: foto
+  ro: poză
+  pt-br: a imagem
+- de: die Geschichte
+  en: story
+  fr: l'histoire
+  ru: история
+  es: la historia
+  pt-pt: a história
+  pl: historia
+  uk: історія
+  it: storia
+  nl: verhaal
+  ro: poveste
+  pt-br: a história
+- de: die Kunst
+  en: art
+  fr: l'art
+  ru: искусство
+  es: el arte
+  pt-pt: a arte
+  pl: sztuka
+  uk: мистецтво
+  it: arte
+  nl: kunst
+  ro: artă
+  pt-br: a arte
+- de: der Film
+  en: movie
+  fr: le film
+  ru: фильм
+  es: la película
+  pt-pt: o filme
+  pl: film
+  uk: фільм
+  it: film
+  nl: film
+  ro: film
+  pt-br: o filme
+- de: malen
+  en: to paint
+  fr: peindre
+  ru: красить
+  es: pintar
+  pt-pt: pintar
+  pl: malować
+  uk: малювати
+  it: dipingere
+  nl: schilderen
+  ro: a picta
+  pt-br: pintar
+- de: zeichnen
+  en: to draw
+  fr: dessiner
+  ru: рисовать
+  es: dibujar
+  pt-pt: desenhar
+  pl: rysować
+  uk: малювати
+  it: disegnare
+  nl: tekenen
+  ro: a desena
+  pt-br: desenhar
+- de: der Sänger/die Sängerin
+  en: singer
+  fr: le chanteur
+  ru: певец
+  es: el cantante
+  pt-pt: o cantor
+  pl: piosenkarz
+  uk: співак
+  it: cantante
+  nl: zanger
+  ro: cântăreț
+  pt-br: o cantor
+- de: der Schauspieler
+  en: actor
+  fr: l'acteur
+  ru: актёр
+  es: el actor
+  pt-pt: o ator
+  pl: aktor
+  uk: актор
+  it: attore
+  nl: acteur
+  ro: actor
+  pt-br: o ator
+- de: die Nachrichten
+  en: news
+  fr: les nouvelles
+  ru: новости
+  es: las noticias
+  pt-pt: as notícias
+  pl: wiadomości
+  uk: новини
+  it: notizie
+  nl: nieuws
+  ro: știri
+  pt-br: as notícias
+- de: das Festival
+  en: festival
+  fr: le festival
+  ru: фестиваль
+  es: el festival
+  pt-pt: o festival
+  pl: festiwal
+  uk: фестиваль
+  it: festival
+  nl: festival
+  ro: festival
+  pt-br: o festival
+- de: die Flagge
+  en: flag
+  fr: le drapeau
+  ru: флаг
+  es: la bandera
+  pt-pt: a bandeira
+  pl: flaga
+  uk: прапор
+  it: bandiera
+  nl: vlag
+  ro: steag
+  pt-br: a bandeira
+- de: der König
+  en: king
+  fr: le roi
+  ru: король
+  es: el rey
+  pt-pt: o rei
+  pl: król
+  uk: король
+  it: re
+  nl: koning
+  ro: rege
+  pt-br: o rei
+- de: die Nation
+  en: nation
+  fr: la nation
+  ru: нация
+  es: la nación
+  pt-pt: a nação
+  pl: naród
+  uk: нація
+  it: nazione
+  nl: natie
+  ro: națiune
+  pt-br: a nação
+- de: die Königin
+  en: queen
+  fr: la reine
+  ru: королева
+  es: la reina
+  pt-pt: a rainha
+  pl: królowa
+  uk: королева
+  it: regina
+  nl: koningin
+  ro: regină
+  pt-br: a rainha
+- de: der Krieg
+  en: war
+  fr: la guerre
+  ru: война
+  es: la guerra
+  pt-pt: a guerra
+  pl: wojna
+  uk: війна
+  it: guerra
+  nl: oorlog
+  ro: război
+  pt-br: a guerra
+- de: das Geld
+  en: money
+  fr: l'argent
+  ru: деньги
+  es: el dinero
+  pt-pt: o dinheiro
+  pl: pieniądze
+  uk: гроші
+  it: denaro
+  nl: geld
+  ro: bani
+  pt-br: o dinheiro
+- de: kaufen
+  en: to buy
+  fr: acheter
+  ru: покупать
+  es: comprar
+  pt-pt: comprar
+  pl: kupić
+  uk: купувати
+  it: comprare
+  nl: kopen
+  ro: a cumpăra
+  pt-br: comprar
+- de: verkaufen
+  en: to sell
+  fr: vendre
+  ru: продавать
+  es: vender
+  pt-pt: vender
+  pl: sprzedawać
+  uk: продавати
+  it: vendere
+  nl: verkopen
+  ro: a vinde
+  pt-br: vender
+- de: zahlen
+  en: to pay
+  fr: payer
+  ru: платить
+  es: pagar
+  pt-pt: pagar
+  pl: płacić
+  uk: платити
+  it: pagare
+  nl: betalen
+  ro: a plăti
+  pt-br: pagar
+- de: der Preis
+  en: price
+  fr: le prix
+  ru: цена
+  es: el precio
+  pt-pt: o preço
+  pl: cena
+  uk: ціна
+  it: prezzo
+  nl: prijs
+  ro: preț
+  pt-br: o preço
+- de: die Bank (finanziell)
+  en: bank (financial)
+  fr: la banque (financière)
+  ru: банк
+  es: el banco
+  pt-pt: o banco
+  pl: bank
+  uk: банк
+  it: banca
+  nl: bank
+  ro: bancă
+  pt-br: o banco
+- de: der Euro
+  en: euro
+  fr: l'euro
+  ru: евро
+  es: el euro
+  pt-pt: o euro
+  pl: euro
+  uk: євро
+  it: euro
+  nl: euro
+  ro: euro
+  pt-br: o euro
+- de: das Bargeld
+  en: cash
+  fr: l'argent liquide
+  ru: наличные
+  es: el efectivo
+  pt-pt: o dinheiro
+  pl: gotówka
+  uk: готівка
+  it: contanti
+  nl: contant geld
+  ro: numerar
+  pt-br: o dinheiro
+- de: das Unternehmen
+  en: business
+  fr: l'entreprise
+  ru: бизнес
+  es: la empresa
+  pt-pt: o negócio
+  pl: biznes
+  uk: бізнес
+  it: attività commerciale
+  nl: bedrijf
+  ro: afacere
+  pt-br: o negócio
+- de: der Markt
+  en: market
+  fr: le marché
+  ru: рынок
+  es: el mercado
+  pt-pt: o mercado
+  pl: rynek
+  uk: ринок
+  it: mercato
+  nl: markt
+  ro: piață
+  pt-br: o mercado
+- de: das Produkt
+  en: product
+  fr: le produit
+  ru: продукт
+  es: el producto
+  pt-pt: o produto
+  pl: produkt
+  uk: продукт
+  it: prodotto
+  nl: product
+  ro: produs
+  pt-br: o produto
+- de: der Strand
+  en: beach
+  fr: la plage
+  ru: пляж
+  es: la playa
+  pt-pt: a praia
+  pl: plaża
+  uk: пляж
+  it: spiaggia
+  nl: strand
+  ro: plajă
+  pt-br: a praia
+- de: der Wald
+  en: forest
+  fr: la forêt
+  ru: лес
+  es: el bosque
+  pt-pt: a floresta
+  pl: las
+  uk: ліс
+  it: foresta
+  nl: bos
+  ro: pădure
+  pt-br: a floresta
+- de: der Berg
+  en: mountain
+  fr: la montagne
+  ru: гора
+  es: la montaña
+  pt-pt: a montanha
+  pl: góra
+  uk: гора
+  it: montagna
+  nl: berg
+  ro: munte
+  pt-br: a montanha
+- de: die Schule
+  en: school
+  fr: l'école
+  ru: школа
+  es: la escuela
+  pt-pt: a escola
+  pl: szkoła
+  uk: школа
+  it: scuola
+  nl: school
+  ro: școală
+  pt-br: a escola
+- de: die Bibliothek
+  en: library
+  fr: la bibliothèque
+  ru: библиотека
+  es: la biblioteca
+  pt-pt: a biblioteca
+  pl: biblioteka
+  uk: бібліотека
+  it: biblioteca
+  nl: bibliotheek
+  ro: bibliotecă
+  pt-br: a biblioteca
+- de: der Park
+  en: park
+  fr: le parc
+  ru: парк
+  es: el parque
+  pt-pt: o parque
+  pl: park
+  uk: парк
+  it: parco
+  nl: park
+  ro: parc
+  pt-br: o parque
+- de: das Hotel
+  en: hotel
+  fr: l'hôtel
+  ru: отель
+  es: el hotel
+  pt-pt: o hotel
+  pl: hotel
+  uk: готель
+  it: albergo
+  nl: hotel
+  ro: hotel
+  pt-br: o hotel
+- de: das Restaurant
+  en: restaurant
+  fr: le restaurant
+  ru: ресторан
+  es: el restaurante
+  pt-pt: o restaurante
+  pl: restauracja
+  uk: ресторан
+  it: ristorante
+  nl: restaurant
+  ro: restaurant
+  pt-br: o restaurante
+- de: der Flughafen
+  en: airport
+  fr: l'aéroport
+  ru: аэропорт
+  es: el aeropuerto
+  pt-pt: o aeroporto
+  pl: lotnisko
+  uk: аеропорт
+  it: aeroporto
+  nl: luchthaven
+  ro: aeroport
+  pt-br: o aeroporto
+- de: der Bahnhof
+  en: station
+  fr: la station
+  ru: станция
+  es: la estación
+  pt-pt: a estação
+  pl: stacja
+  uk: станція
+  it: stazione
+  nl: station
+  ro: stație
+  pt-br: a estação
+- de: das Krankenhaus
+  en: hospital
+  fr: l'hôpital
+  ru: больница
+  es: el hospital
+  pt-pt: o hospital
+  pl: szpital
+  uk: лікарня
+  it: ospedale
+  nl: ziekenhuis
+  ro: spital
+  pt-br: o hospital
+- de: die Kirche
+  en: church
+  fr: l'église
+  ru: церковь
+  es: la iglesia
+  pt-pt: a igreja
+  pl: kościół
+  uk: церква
+  it: chiesa
+  nl: kerk
+  ro: biserică
+  pt-br: a igreja
+- de: der Sport
+  en: sport
+  fr: le sport
+  ru: спорт
+  es: el deporte
+  pt-pt: o desporto
+  pl: sport
+  uk: спорт
+  it: sport
+  nl: sport
+  ro: sport
+  pt-br: o desporto
+- de: der Ball
+  en: ball
+  fr: la balle
+  ru: мяч
+  es: la bola
+  pt-pt: a bola
+  pl: piłka
+  uk: м'яч
+  it: palla
+  nl: bal
+  ro: minge
+  pt-br: a bola
+- de: der Fußball
+  en: football
+  fr: le football
+  ru: футбол
+  es: el fútbol
+  pt-pt: o futebol
+  pl: piłka nożna
+  uk: футбол
+  it: calcio
+  nl: voetbal
+  ro: fotbal
+  pt-br: o futebol
+- de: das Spiel
+  en: game
+  fr: le jeu
+  ru: игра
+  es: el juego
+  pt-pt: o jogo
+  pl: gra
+  uk: гра
+  it: gioco
+  nl: spel
+  ro: joc
+  pt-br: o jogo
+- de: der Spieler
+  en: player
+  fr: le joueur
+  ru: игрок
+  es: el jugador
+  pt-pt: o jogador
+  pl: gracz
+  uk: гравець
+  it: giocatore
+  nl: speler
+  ro: jucător
+  pt-br: o jogador
+- de: das Schwimmen
+  en: swimming
+  fr: la natation
+  ru: плавание
+  es: la natación
+  pt-pt: a natação
+  pl: pływanie
+  uk: плавання
+  it: nuoto
+  nl: zwemmen
+  ro: înot
+  pt-br: a natação
+- de: das Tennis
+  en: tennis
+  fr: le tennis
+  ru: теннис
+  es: el tenis
+  pt-pt: o ténis
+  pl: tenis
+  uk: теніс
+  it: tennis
+  nl: tennis
+  ro: tenis
+  pt-br: o ténis
+- de: das Telefon
+  en: phone
+  fr: le téléphone
+  ru: телефон
+  es: el teléfono
+  pt-pt: o telefone
+  pl: telefon
+  uk: телефон
+  it: telefono
+  nl: telefoon
+  ro: telefon
+  pt-br: o telefone
+- de: das Radio
+  en: radio
+  fr: la radio
+  ru: радио
+  es: la radio
+  pt-pt: a rádio
+  pl: radio
+  uk: радіо
+  it: radio
+  nl: radio
+  ro: radio
+  pt-br: a rádio
+- de: das Fernsehen
+  en: television
+  fr: la télévision
+  ru: телевидение
+  es: la televisión
+  pt-pt: a televisão
+  pl: telewizja
+  uk: телебачення
+  it: televisione
+  nl: televisie
+  ro: televiziune
+  pt-br: a televisão
+- de: der Computer
+  en: computer
+  fr: l'ordinateur
+  ru: компьютер
+  es: el ordenador
+  pt-pt: o computador
+  pl: komputer
+  uk: комп'ютер
+  it: computer
+  nl: computer
+  ro: calculator
+  pt-br: o computador
+- de: das Internet
+  en: internet
+  fr: Internet
+  ru: интернет
+  es: el internet
+  pt-pt: a internet
+  pl: internet
+  uk: інтернет
+  it: internet
+  nl: internet
+  ro: internet
+  pt-br: a internet
+- de: die E-Mail
+  en: email
+  fr: le courriel
+  ru: электронная почта
+  es: el correo electrónico
+  pt-pt: o email
+  pl: e-mail
+  uk: електронна пошта
+  it: e-mail
+  nl: e-mail
+  ro: e-mail
+  pt-br: o email
+- de: die Kamera
+  en: camera
+  fr: la caméra
+  ru: камера
+  es: la cámara
+  pt-pt: a câmara
+  pl: kamera
+  uk: камера
+  it: macchina fotografica
+  nl: camera
+  ro: cameră
+  pt-br: a câmara
+- de: der Bildschirm
+  en: screen
+  fr: l'écran
+  ru: экран
+  es: la pantalla
+  pt-pt: o ecrã
+  pl: ekran
+  uk: екран
+  it: schermo
+  nl: scherm
+  ro: ecran
+  pt-br: o ecrã
+- de: die Straße
+  en: street
+  fr: la rue
+  ru: улица
+  es: la calle
+  pt-pt: a rua
+  pl: ulica
+  uk: вулиця
+  it: strada
+  nl: straat
+  ro: stradă
+  pt-br: a rua
+- de: die Stadt
+  en: city
+  fr: la ville
+  ru: город
+  es: la ciudad
+  pt-pt: a cidade
+  pl: miasto
+  uk: місто
+  it: città
+  nl: stad
+  ro: oraș
+  pt-br: a cidade
+- de: die Stadt (Kleinstadt)
+  en: town
+  fr: la ville
+  ru: город
+  es: la ciudad
+  pt-pt: a cidade
+  pl: miasto
+  uk: містечко
+  it: città
+  nl: stadje
+  ro: oraș
+  pt-br: a cidade
+- de: das Gebäude
+  en: building
+  fr: le bâtiment
+  ru: здание
+  es: el edificio
+  pt-pt: o edifício
+  pl: budynek
+  uk: будівля
+  it: edificio
+  nl: gebouw
+  ro: clădire
+  pt-br: o edifício
+- de: das Büro
+  en: office
+  fr: le bureau
+  ru: офис
+  es: la oficina
+  pt-pt: o escritório
+  pl: biuro
+  uk: офіс
+  it: ufficio
+  nl: kantoor
+  ro: birou
+  pt-br: o escritório
+- de: das Geschäft
+  en: store
+  fr: le magasin
+  ru: магазин
+  es: la tienda
+  pt-pt: a loja
+  pl: sklep
+  uk: магазин
+  it: negozio
+  nl: winkel
+  ro: magazin
+  pt-br: a loja
+- de: das Auto
+  en: car
+  fr: la voiture
+  ru: автомобиль
+  es: el coche
+  pt-pt: o carro
+  pl: samochód
+  uk: машина
+  it: auto
+  nl: auto
+  ro: mașină
+  pt-br: o carro
+- de: der Bus
+  en: bus
+  fr: le bus
+  ru: автобус
+  es: el autobús
+  pt-pt: o autocarro
+  pl: autobus
+  uk: автобус
+  it: autobus
+  nl: bus
+  ro: autobuz
+  pt-br: o autocarro
+- de: der Zug
+  en: train
+  fr: le train
+  ru: поезд
+  es: el tren
+  pt-pt: o comboio
+  pl: pociąg
+  uk: потяг
+  it: treno
+  nl: trein
+  ro: tren
+  pt-br: o comboio
+- de: das Fahrrad
+  en: bike
+  fr: le vélo
+  ru: велосипед
+  es: la bicicleta
+  pt-pt: a bicicleta
+  pl: rower
+  uk: велосипед
+  it: bicicletta
+  nl: fiets
+  ro: bicicletă
+  pt-br: a bicicleta
+- de: das Boot
+  en: boat
+  fr: le bateau
+  ru: лодка
+  es: el barco
+  pt-pt: o barco
+  pl: łódź
+  uk: човен
+  it: barca
+  nl: boot
+  ro: barcă
+  pt-br: o barco
+- de: das Flugzeug
+  en: plane
+  fr: l'avion
+  ru: самолёт
+  es: el avión
+  pt-pt: o avião
+  pl: samolot
+  uk: літак
+  it: aereo
+  nl: vliegtuig
+  ro: avion
+  pt-br: o avião
+- de: das Ticket
+  en: ticket
+  fr: le billet
+  ru: билет
+  es: el billete
+  pt-pt: o bilhete
+  pl: bilet
+  uk: квиток
+  it: biglietto
+  nl: ticket
+  ro: bilet
+  pt-br: o bilhete
+- de: das Gesetz
+  en: law
+  fr: la loi
+  ru: закон
+  es: la ley
+  pt-pt: a lei
+  pl: prawo
+  uk: закон
+  it: legge
+  nl: wet
+  ro: lege
+  pt-br: a lei
+- de: die Polizei
+  en: police
+  fr: la police
+  ru: полиция
+  es: la policía
+  pt-pt: a polícia
+  pl: policja
+  uk: поліція
+  it: polizia
+  nl: politie
+  ro: poliție
+  pt-br: a polícia
+- de: das Gefängnis
+  en: prison
+  fr: la prison
+  ru: тюрьма
+  es: la prisión
+  pt-pt: a prisão
+  pl: więzienie
+  uk: в'язниця
+  it: prigione
+  nl: gevangenis
+  ro: închisoare
+  pt-br: a prisão
+- de: das Verbrechen
+  en: crime
+  fr: le crime
+  ru: преступление
+  es: el delito
+  pt-pt: o crime
+  pl: przestępstwo
+  uk: злочин
+  it: crimine
+  nl: misdaad
+  ro: crimă
+  pt-br: o crime
+- de: die Bestrafung
+  en: punishment
+  fr: la punition
+  ru: наказание
+  es: el castigo
+  pt-pt: a punição
+  pl: kara
+  uk: покарання
+  it: punizione
+  nl: straf
+  ro: pedeapsă
+  pt-br: a punição
+- de: das Gericht
+  en: court (legal)
+  fr: le tribunal
+  ru: суд
+  es: el tribunal
+  pt-pt: o tribunal
+  pl: sąd
+  uk: суд
+  it: tribunale
+  nl: rechtbank
+  ro: tribunal
+  pt-br: o tribunal
+- de: der Richter
+  en: judge
+  fr: le juge
+  ru: судья
+  es: el juez
+  pt-pt: o juiz
+  pl: sędzia
+  uk: суддя
+  it: giudice
+  nl: rechter
+  ro: judecător
+  pt-br: o juiz
+- de: Gott
+  en: god
+  fr: dieu
+  ru: бог
+  es: el dios
+  pt-pt: o deus
+  pl: bóg
+  uk: бог
+  it: dio
+  nl: god
+  ro: dumnezeu
+  pt-br: o deus
+- de: die Hölle
+  en: hell
+  fr: l'enfer
+  ru: ад
+  es: el infierno
+  pt-pt: o inferno
+  pl: piekło
+  uk: пекло
+  it: inferno
+  nl: hel
+  ro: iad
+  pt-br: o inferno
+- de: beten
+  en: to pray
+  fr: prier
+  ru: молиться
+  es: rezar
+  pt-pt: rezar
+  pl: modlić się
+  uk: молитися
+  it: pregare
+  nl: bidden
+  ro: a se ruga
+  pt-br: rezar
+- de: der Priester
+  en: priest
+  fr: le prêtre
+  ru: священник
+  es: el sacerdote
+  pt-pt: o padre
+  pl: ksiądz
+  uk: священик
+  it: sacerdote
+  nl: priester
+  ro: preot
+  pt-br: o padre
+- de: die Religion
+  en: religion
+  fr: la religion
+  ru: религия
+  es: la religión
+  pt-pt: a religião
+  pl: religia
+  uk: релігія
+  it: religione
+  nl: religie
+  ro: religie
+  pt-br: a religião
+- de: die Regierung
+  en: government
+  fr: le gouvernement
+  ru: правительство
+  es: el gobierno
+  pt-pt: o governo
+  pl: rząd
+  uk: уряд
+  it: governo
+  nl: regering
+  ro: guvern
+  pt-br: o governo
+- de: der Präsident
+  en: president
+  fr: le président
+  ru: президент
+  es: el presidente
+  pt-pt: o presidente
+  pl: prezydent
+  uk: президент
+  it: presidente
+  nl: president
+  ro: președinte
+  pt-br: o presidente
+- de: die Energie
+  en: energy
+  fr: l'énergie
+  ru: энергия
+  es: la energía
+  pt-pt: a energia
+  pl: energia
+  uk: енергія
+  it: energia
+  nl: energie
+  ro: energie
+  pt-br: a energia
+- de: die Wärme
+  en: heat
+  fr: la chaleur
+  ru: тепло
+  es: el calor
+  pt-pt: o calor
+  pl: ciepło
+  uk: тепло
+  it: calore
+  nl: warmte
+  ro: căldură
+  pt-br: o calor
+- de: das Licht
+  en: light (illumination)
+  fr: la lumière
+  ru: свет
+  es: la luz
+  pt-pt: a luz
+  pl: światło
+  uk: світло
+  it: luce
+  nl: licht
+  ro: lumină
+  pt-br: a luz
+- de: der Klang
+  en: sound
+  fr: le son
+  ru: звук
+  es: el sonido
+  pt-pt: o som
+  pl: dźwięk
+  uk: звук
+  it: suono
+  nl: geluid
+  ro: sunet
+  pt-br: o som
+- de: die Temperatur
+  en: temperature
+  fr: la température
+  ru: температура
+  es: la temperatura
+  pt-pt: a temperatura
+  pl: temperatura
+  uk: температура
+  it: temperatura
+  nl: temperatuur
+  ro: temperatură
+  pt-br: a temperatura

@@ -1,0 +1,386 @@
+- key: 0d37a9d4-66ac-46fe-a54b-45a92d80c85c
+  en: to build
+  word_type: verb
+  pt-pt: construir
+  first_person_singular: eu construo
+  first_person_plural: nós construímos
+  second_person_singular: tu constróis
+  second_person_plural: vós construís
+  third_person_singular: ele/ela constrói
+  third_person_plural: eles/elas constroem
+- key: 09f293fe-506c-4b88-87e7-8057d322c04a
+  en: to stop
+  word_type: verb
+  pt-pt: parar
+  first_person_singular: eu paro
+  first_person_plural: nós paramos
+  second_person_singular: tu paras
+  second_person_plural: vós parais
+  third_person_singular: ele/ela para
+  third_person_plural: eles/elas param
+- key: e42ae36e-39ac-4859-82b6-968e6cb61548
+  en: to start
+  word_type: verb
+  pt-pt: começar
+  first_person_singular: eu começo
+  first_person_plural: nós começamos
+  second_person_singular: tu começas
+  second_person_plural: vós começais
+  third_person_singular: ele/ela começa
+  third_person_plural: eles/elas começam
+- key: 1fe10279-5822-4419-8ac0-d4ebd3000544
+  en: to work
+  word_type: verb
+  pt-pt: trabalhar
+  first_person_singular: eu trabalho
+  first_person_plural: nós trabalhamos
+  second_person_singular: tu trabalhas
+  second_person_plural: vós trabalhais
+  third_person_singular: ele/ela trabalha
+  third_person_plural: eles/elas trabalham
+- key: 3c770659-fd69-418a-b9cb-0db51cf5a767
+  en: to play
+  word_type: verb
+  pt-pt: jogar
+  first_person_singular: eu jogo
+  first_person_plural: nós jogamos
+  second_person_singular: tu jogas
+  second_person_plural: vós jogais
+  third_person_singular: ele/ela joga
+  third_person_plural: eles/elas jogam
+- key: ef910822-0d7e-4b4e-a073-16ba1adc97b6
+  en: to change
+  word_type: verb
+  pt-pt: mudar
+  first_person_singular: eu mudo
+  first_person_plural: nós mudamos
+  second_person_singular: tu mudas
+  second_person_plural: vós mudais
+  third_person_singular: ele/ela muda
+  third_person_plural: eles/elas mudam
+- key: bca0b940-1bb6-492b-8473-a30a0aaab830
+  en: to keep
+  word_type: verb
+  pt-pt: manter
+  first_person_singular: eu mantenho
+  first_person_plural: nós mantemos
+  second_person_singular: tu manténs
+  second_person_plural: vós mantende
+  third_person_singular: ele/ela mantém
+  third_person_plural: eles/elas mantêm
+- key: 7affd051-6b39-4ec8-a510-ba5c985829ab
+  en: to hold
+  word_type: verb
+  pt-pt: segurar
+  first_person_singular: eu seguro
+  first_person_plural: nós seguramos
+  second_person_singular: tu seguras
+  second_person_plural: vós segurais
+  third_person_singular: ele/ela segura
+  third_person_plural: eles/elas seguram
+- key: 48a20224-2013-431c-b9e8-db0cb7815a8f
+  en: to pull
+  word_type: verb
+  pt-pt: puxar
+  first_person_singular: eu puxo
+  first_person_plural: nós puxamos
+  second_person_singular: tu puxas
+  second_person_plural: vós puxais
+  third_person_singular: ele/ela puxa
+  third_person_plural: eles/elas puxam
+- key: 05203bec-c05f-4cb6-bea1-0a02954fd3fa
+  en: to push
+  word_type: verb
+  pt-pt: empurrar
+  first_person_singular: eu empurro
+  first_person_plural: nós empurramos
+  second_person_singular: tu empurras
+  second_person_plural: vós empurrais
+  third_person_singular: ele/ela empurra
+  third_person_plural: eles/elas empurram
+- key: 4022793d-353f-45a1-a5f5-71cf0f3e79cd
+  en: to fly
+  word_type: verb
+  pt-pt: voar
+  first_person_singular: eu voo
+  first_person_plural: nós voamos
+  second_person_singular: tu voas
+  second_person_plural: vós voais
+  third_person_singular: ele/ela voa
+  third_person_plural: eles/elas voam
+- key: 82e3e21e-725a-4714-ad47-c28c584d7671
+  en: to ride (bicycle/car)
+  word_type: verb
+  pt-pt: andar
+  first_person_singular: eu ando
+  first_person_plural: nós andamos
+  second_person_singular: tu andas
+  second_person_plural: vós andais
+  third_person_singular: ele/ela anda
+  third_person_plural: eles/elas andam
+- key: 3036affe-562c-4e2b-9fa3-71e0fdadbf14
+  en: big
+  word_type: adjective
+  pt-pt: grande
+  positive: grande
+  comparative: maior
+  superlative: o maior
+- key: 65d88959-d891-47ac-8442-a2ce6b5ffb42
+  en: small
+  word_type: adjective
+  pt-pt: pequeno
+  positive: pequeno
+  comparative: menor
+  superlative: o menor
+- key: c990e09a-dd25-4a6a-a80d-2d673d6c2114
+  en: long
+  word_type: adjective
+  pt-pt: longo
+  positive: longo
+  comparative: mais longo
+  superlative: o mais longo
+- key: d54ae032-1d6e-4287-8022-70a958c0ac38
+  en: short
+  word_type: adjective
+  pt-pt: curto
+  positive: curto
+  comparative: mais curto
+  superlative: o mais curto
+- key: c2ee97b4-e726-4048-906b-10399985d5c7
+  en: high
+  word_type: adjective
+  pt-pt: alto
+  positive: alto
+  comparative: mais alto
+  superlative: o mais alto
+- key: 85d3daea-f0d0-4403-a9ca-30cf883cb6e6
+  en: low
+  word_type: adjective
+  pt-pt: baixo
+  positive: baixo
+  comparative: mais baixo
+  superlative: o mais baixo
+- key: c07ee2e8-f544-4adc-a891-c632e3481c88
+  en: wide
+  word_type: adjective
+  pt-pt: largo
+  positive: largo
+  comparative: mais largo
+  superlative: o mais largo
+- key: 2a18d983-de70-41fa-bcaf-a49a3f27fe64
+  en: narrow
+  word_type: adjective
+  pt-pt: estreito
+  positive: estreito
+  comparative: mais estreito
+  superlative: o mais estreito
+- key: 02478c9b-79e7-44c6-a106-3d399817be0f
+  en: thick
+  word_type: adjective
+  pt-pt: grosso
+  positive: grosso
+  comparative: mais grosso
+  superlative: o mais grosso
+- key: 9117cb9e-8154-4014-8b8e-1d614ae70b9d
+  en: thin
+  word_type: adjective
+  pt-pt: fino
+  positive: fino
+  comparative: mais fino
+  superlative: o mais fino
+- key: 1a9ea47d-b64c-4c4d-b95e-755649a6f17a
+  en: heavy
+  word_type: adjective
+  pt-pt: pesado
+  positive: pesado
+  comparative: mais pesado
+  superlative: o mais pesado
+- key: f2171afc-acc0-45b0-ba59-c3a0f7f814c1
+  en: good
+  word_type: adjective
+  pt-pt: bom
+  positive: bom
+  comparative: melhor
+  superlative: o melhor
+- key: a85dd30c-5f87-4c84-bccc-1db7f65ee7da
+  en: bad
+  word_type: adjective
+  pt-pt: mau
+  positive: mau
+  comparative: pior
+  superlative: o pior
+- key: 8160cfca-b863-4037-a6a5-205743780f13
+  en: new
+  word_type: adjective
+  pt-pt: novo
+  positive: novo
+  comparative: mais novo
+  superlative: o mais novo
+- key: 5f02a7ab-80af-4496-b33f-cc6ce9f4e84d
+  en: old
+  word_type: adjective
+  pt-pt: velho
+  positive: velho
+  comparative: mais velho
+  superlative: o mais velho
+- key: 4ab145f3-60a8-4979-b337-ada1a15556e0
+  en: hot
+  word_type: adjective
+  pt-pt: quente
+  positive: quente
+  comparative: mais quente
+  superlative: o mais quente
+- key: d5ac8a3a-4c2a-4c35-95ff-bcf914fd5f5a
+  en: cold
+  word_type: adjective
+  pt-pt: frio
+  positive: frio
+  comparative: mais frio
+  superlative: o mais frio
+- key: a333f7e9-e454-492f-9a4a-9196e6004aae
+  en: wet
+  word_type: adjective
+  pt-pt: molhado
+  positive: molhado
+  comparative: mais molhado
+  superlative: o mais molhado
+- key: bfb3b4e3-7f8a-4ddc-b894-499d86cde211
+  en: dry
+  word_type: adjective
+  pt-pt: seco
+  positive: seco
+  comparative: mais seco
+  superlative: o mais seco
+- key: 355cc383-732d-4532-8c43-d7ad9e403d0c
+  en: clean
+  word_type: adjective
+  pt-pt: limpo
+  positive: limpo
+  comparative: mais limpo
+  superlative: o mais limpo
+- key: 342f75ad-df9e-4bba-bc26-ab4ff7c3e72e
+  en: dirty
+  word_type: adjective
+  pt-pt: sujo
+  positive: sujo
+  comparative: mais sujo
+  superlative: o mais sujo
+- key: 4c0b1d72-770e-41e4-b8f3-a0af24ca5fbb
+  en: hard
+  word_type: adjective
+  pt-pt: duro
+  positive: duro
+  comparative: mais duro
+  superlative: o mais duro
+- key: 1c66fb5b-6302-4592-b8f6-da4a914890ff
+  en: soft
+  word_type: adjective
+  pt-pt: macio
+  positive: macio
+  comparative: mais macio
+  superlative: o mais macio
+- key: b62c3759-16f9-4e35-9505-32cfa50763f0
+  en: open
+  word_type: adjective
+  pt-pt: aberto
+  positive: aberto
+  comparative: mais aberto
+  superlative: o mais aberto
+- key: 2222d816-d272-4d70-a4f9-d010cb08c35a
+  en: full
+  word_type: adjective
+  pt-pt: cheio
+  positive: cheio
+  comparative: mais cheio
+  superlative: o mais cheio
+- key: 1ffbfcbe-adcc-441f-b77b-e7d3793bd6ec
+  en: fast
+  word_type: adjective
+  pt-pt: rápido
+  positive: rápido
+  comparative: mais rápido
+  superlative: o mais rápido
+- key: dbb0b9f1-0a0e-461b-a1e0-b916aea2af75
+  en: slow
+  word_type: adjective
+  pt-pt: lento
+  positive: lento
+  comparative: mais lento
+  superlative: o mais lento
+- key: cd367fc4-382f-4542-9d0a-f91feb7cac88
+  en: easy
+  word_type: adjective
+  pt-pt: fácil
+  positive: fácil
+  comparative: mais fácil
+  superlative: o mais fácil
+- key: cdf86a6e-5e28-49c3-93e7-b6e5cbdaa4ce
+  en: difficult
+  word_type: adjective
+  pt-pt: difícil
+  positive: difícil
+  comparative: mais difícil
+  superlative: o mais difícil
+- key: fd1d4e15-e8ad-423d-bbb4-85b4e509b726
+  en: dead
+  word_type: adjective
+  pt-pt: morto
+  positive: morto
+  comparative: mais morto
+  superlative: o mais morto
+- key: de6bbd96-9293-4605-8f17-58082950c22f
+  en: alive
+  word_type: adjective
+  pt-pt: vivo
+  positive: vivo
+  comparative: mais vivo
+  superlative: o mais vivo
+- key: 3364c801-c653-4af1-84f2-e191928f5d3d
+  en: young
+  word_type: adjective
+  pt-pt: jovem
+  positive: jovem
+  comparative: mais jovem
+  superlative: o mais jovem
+- key: 04ac5295-cea0-455d-b7c8-2addebaa942c
+  en: dark
+  word_type: adjective
+  pt-pt: escuro
+  positive: escuro
+  comparative: mais escuro
+  superlative: o mais escuro
+- key: b201bf2d-187c-4ddc-92d3-c4126e903f6e
+  en: bright
+  word_type: adjective
+  pt-pt: brilhante
+  positive: brilhante
+  comparative: mais brilhante
+  superlative: o mais brilhante
+- key: 5768c3db-e94f-4300-a579-7c13834a5a21
+  en: beautiful
+  word_type: adjective
+  pt-pt: bonito
+  positive: bonito
+  comparative: mais bonito
+  superlative: o mais bonito
+- key: 2a4db6cd-7bdd-4baa-8c18-b01062bb2f21
+  en: ugly
+  word_type: adjective
+  pt-pt: feio
+  positive: feio
+  comparative: mais feio
+  superlative: o mais feio
+- key: fad912fc-a060-41fa-83f1-bcb84dda4bef
+  en: strong
+  word_type: adjective
+  pt-pt: forte
+  positive: forte
+  comparative: mais forte
+  superlative: o mais forte
+- key: db85dcc9-face-45ea-ba70-1caa42d6b2ca
+  en: weak
+  word_type: adjective
+  pt-pt: fraco
+  positive: fraco
+  comparative: mais fraco
+  superlative: o mais fraco

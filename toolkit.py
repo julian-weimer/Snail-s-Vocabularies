@@ -6,6 +6,7 @@ import uuid
 from string import Template
 
 import typer
+import yaml
 from dotenv import load_dotenv
 from jsonschema import ValidationError, validate
 from rich.console import Console
@@ -61,9 +62,9 @@ def get_list(
     # Load environment variables from .env file
     load_dotenv()
 
-    # load basics.json and save it in basics_list variable
+    # load basics.yaml and save it in basics_list variable
     with open(basics_list_path, "r", encoding="utf-8") as f:
-        basics_list = json.load(f)
+        basics_list = yaml.safe_load(f)
 
     # get initial frequency list
     # wordfreq does not make a difference between european and brazilian portuguese

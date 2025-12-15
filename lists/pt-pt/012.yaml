@@ -1,0 +1,297 @@
+- key: c11c55cd-f7f8-42dd-9282-c63a71e829d9
+  en: hungry
+  word_type: adjective
+  pt-pt: faminto
+  positive: faminto
+  comparative: mais faminto
+  superlative: o mais faminto
+- key: c611284f-edf0-4ae0-b8ec-586291aeb012
+  en: thirsty
+  word_type: adjective
+  pt-pt: sedento
+  positive: sedento
+  comparative: mais sedento
+  superlative: o mais sedento
+- key: 53bc9441-8329-47be-be45-9bf4fbfd504b
+  en: tired
+  word_type: adjective
+  pt-pt: cansado
+  positive: cansado
+  comparative: mais cansado
+  superlative: o mais cansado
+- key: d3ee9277-c630-4c7e-814e-bacdd22b7e89
+  en: sick
+  word_type: adjective
+  pt-pt: doente
+  positive: doente
+  comparative: mais doente
+  superlative: o mais doente
+- key: 402648d3-e1d7-47ff-a4bc-4af34e090027
+  en: important
+  word_type: adjective
+  pt-pt: importante
+  positive: importante
+  comparative: mais importante
+  superlative: o mais importante
+- key: 6296e5ad-7d0b-49d6-a6e1-2aa300d8718b
+  en: different
+  word_type: adjective
+  pt-pt: diferente
+  positive: diferente
+  comparative: mais diferente
+  superlative: o mais diferente
+- key: 332d13ed-d15a-4c9d-abfc-898c535ee7d3
+  en: same
+  word_type: adjective
+  pt-pt: mesmo
+  positive: mesmo
+  comparative: mais igual
+  superlative: o mais igual
+- key: 09af676d-d49a-4deb-a11c-db5cd3e5d4a0
+  en: 'true'
+  word_type: adjective
+  pt-pt: verdadeiro
+  positive: verdadeiro
+  comparative: mais verdadeiro
+  superlative: o mais verdadeiro
+- key: 738dd341-cecc-49db-8a28-abba751af978
+  en: 'false'
+  word_type: adjective
+  pt-pt: falso
+  positive: falso
+  comparative: mais falso
+  superlative: o mais falso
+- key: fb64cb07-e4e7-4b4e-9f69-2a96f4e73a30
+  en: right (correct)
+  word_type: adjective
+  pt-pt: correto
+  positive: correto
+  comparative: mais correto
+  superlative: o mais correto
+- key: 65500ed0-2bcf-4ca9-86a5-de63ac09e437
+  en: possible
+  word_type: adjective
+  pt-pt: possível
+  positive: possível
+  comparative: mais possível
+  superlative: o mais possível
+- key: 1060b22c-6cf2-4024-b924-046f369a668f
+  en: ready
+  word_type: adjective
+  pt-pt: pronto
+  positive: pronto
+  comparative: mais pronto
+  superlative: o mais pronto
+- key: 5b57fe93-491b-46ba-9ca6-81345c9f2b1d
+  en: sure
+  word_type: adjective
+  pt-pt: certo
+  positive: certo
+  comparative: mais certo
+  superlative: o mais certo
+- key: c38a032e-cfc6-44c3-9114-08d5cdd28b1b
+  en: normal
+  word_type: adjective
+  pt-pt: normal
+  positive: normal
+  comparative: mais normal
+  superlative: o mais normal
+- key: c3a4e452-dd07-4ab3-9e48-bf5c18d2c103
+  en: real
+  word_type: adjective
+  pt-pt: real
+  positive: real
+  comparative: mais real
+  superlative: o mais real
+- key: d27bb51f-4dd0-4c1d-bea7-1cee34d1b603
+  en: main
+  word_type: adjective
+  pt-pt: principal
+  positive: principal
+  comparative: mais principal
+  superlative: o mais principal
+- key: 095111e6-eed7-4565-91cb-9c3a5e81ef3d
+  en: nice
+  word_type: adjective
+  pt-pt: agradável
+  positive: agradável
+  comparative: mais agradável
+  superlative: o mais agradável
+- key: a46ba509-87fd-4c16-84fe-a9236e74b68d
+  en: poor
+  word_type: adjective
+  pt-pt: pobre
+  positive: pobre
+  comparative: mais pobre
+  superlative: o mais pobre
+- key: adcf8c6c-4e1c-403a-8ff4-fecc04c176bd
+  en: rich
+  word_type: adjective
+  pt-pt: rico
+  positive: rico
+  comparative: mais rico
+  superlative: o mais rico
+- key: e209227d-57a0-49e0-b009-742455776f87
+  en: famous
+  word_type: adjective
+  pt-pt: famoso
+  positive: famoso
+  comparative: mais famoso
+  superlative: o mais famoso
+- key: 0ca13908-c2d5-4f46-a844-f0cd807984f1
+  en: free
+  word_type: adjective
+  pt-pt: livre
+  positive: livre
+  comparative: mais livre
+  superlative: o mais livre
+- key: 2cc5b586-6511-4663-9763-138436a83985
+  en: dangerous
+  word_type: adjective
+  pt-pt: perigoso
+  positive: perigoso
+  comparative: mais perigoso
+  superlative: o mais perigoso
+- key: 967baf44-bbdb-4e86-86db-7726e3f4eea4
+  en: quiet
+  word_type: adjective
+  pt-pt: calmo
+  positive: calmo
+  comparative: mais calmo
+  superlative: o mais calmo
+- key: c73ecf59-66bf-4794-9201-213c6bcfe6ab
+  en: busy
+  word_type: adjective
+  pt-pt: ocupado
+  positive: ocupado
+  comparative: mais ocupado
+  superlative: o mais ocupado
+- key: c5b1fd9f-a624-4444-aea9-4ff7d085ffe2
+  en: empty
+  word_type: adjective
+  pt-pt: vazio
+  positive: vazio
+  comparative: mais vazio
+  superlative: o mais vazio
+- key: 37cd6954-6c52-47dd-a3e6-e054bd3802cd
+  en: and
+  word_type: conjunction
+  pt-pt: e
+- key: 1fec5e1f-4053-4e43-9aee-2578ac975a45
+  en: or
+  word_type: conjunction
+  pt-pt: ou
+- key: 05e3f745-24bc-467b-9d6d-565f2ea63501
+  en: but
+  word_type: conjunction
+  pt-pt: mas
+- key: 0d89fac9-70e2-4704-b5ba-17a7d41413ab
+  en: so
+  word_type: adverb
+  pt-pt: assim
+- key: 37113548-0098-437c-9710-b9112d282976
+  en: because
+  word_type: conjunction
+  pt-pt: porque
+- key: e9e199f2-8534-4b84-9d28-f29e24944066
+  en: however
+  word_type: adverb
+  pt-pt: no entanto
+- key: b12b9a41-5f67-45c0-8707-5de02af70ce5
+  en: therefore
+  word_type: adverb
+  pt-pt: portanto
+- key: 4ed1c36c-2470-41c7-9dae-f3bbd634d717
+  en: although
+  word_type: conjunction
+  pt-pt: embora
+- key: bec8d6c1-a848-4048-b0de-88874eb8cba7
+  en: nothing
+  word_type: pronoun
+  pt-pt: nada
+- key: fe0c92f5-48a0-445c-a659-6e52db2393b9
+  en: nobody
+  word_type: pronoun
+  pt-pt: ninguém
+- key: 94fa2d10-8497-47f9-980d-1e9ee25590a9
+  en: anybody
+  word_type: pronoun
+  pt-pt: qualquer pessoa
+- key: c8530e5b-948e-4835-8ec3-9d477d811a12
+  en: anything
+  word_type: pronoun
+  pt-pt: qualquer coisa
+- key: 05065f1d-6b89-42fe-85f1-0c5c10c80aae
+  en: everything
+  word_type: pronoun
+  pt-pt: tudo
+- key: 86ece6b8-bfe9-4e1c-b4d3-accd2e40456a
+  en: something
+  word_type: pronoun
+  pt-pt: algo
+- key: 9d539f28-16e3-4e0f-9b82-69622a2eb539
+  en: home
+  word_type: noun
+  pt-pt: a casa
+  plural_form: as casas
+  gender: feminine
+- key: 68fb2965-321b-443d-88e5-29f9fcc45a21
+  en: kitchen
+  word_type: noun
+  pt-pt: a cozinha
+  plural_form: as cozinhas
+  gender: feminine
+- key: 4242d5e4-1289-4727-9951-f65b8eac37f7
+  en: bathroom
+  word_type: noun
+  pt-pt: a casa de banho
+  plural_form: as casas de banho
+  gender: feminine
+- key: 48f20683-2b75-4adc-b548-35273bd6271c
+  en: door
+  word_type: noun
+  pt-pt: a porta
+  plural_form: as portas
+  gender: feminine
+- key: 0fd1fba6-8f2a-4280-ad47-8fed92302383
+  en: window
+  word_type: noun
+  pt-pt: a janela
+  plural_form: as janelas
+  gender: feminine
+- key: 31c22294-56a4-4633-8150-5299708438ce
+  en: wall
+  word_type: noun
+  pt-pt: a parede
+  plural_form: as paredes
+  gender: feminine
+- key: e266fd06-ba76-4403-8caf-f8f2542fed6a
+  en: ceiling
+  word_type: noun
+  pt-pt: o teto
+  plural_form: os tetos
+  gender: masculine
+- key: 6da727d1-fb30-406a-9ec3-f2baf9e27b98
+  en: roof
+  word_type: noun
+  pt-pt: o telhado
+  plural_form: os telhados
+  gender: masculine
+- key: 779b8aa2-3a87-4ac5-bdeb-1a545b81b8ef
+  en: bed
+  pt-pt: a cama
+  word_type: noun
+  plural_form: as camas
+  gender: feminine
+- key: a6286213-b1a0-47fe-ae55-e6cef54611bb
+  en: table
+  pt-pt: a mesa
+  word_type: noun
+  plural_form: as mesas
+  gender: feminine
+- key: 5d8d52a4-8e6d-4e5c-a152-dc16f30e6744
+  en: chair
+  pt-pt: a cadeira
+  word_type: noun
+  plural_form: as cadeiras
+  gender: feminine

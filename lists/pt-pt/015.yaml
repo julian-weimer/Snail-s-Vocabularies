@@ -1,0 +1,304 @@
+- key: 7b250f09-44e7-4749-8137-cade8faf420b
+  en: forest
+  pt-pt: a floresta
+  word_type: noun
+  gender: feminine
+  plural_form: as florestas
+- key: 12d2073f-99c6-4059-9c96-0e66d73ae86f
+  en: mountain
+  pt-pt: a montanha
+  word_type: noun
+  gender: feminine
+  plural_form: as montanhas
+- key: ed4603b8-b6d7-4212-b275-72dc616f9c61
+  en: school
+  pt-pt: a escola
+  word_type: noun
+  gender: feminine
+  plural_form: as escolas
+- key: 13503d6e-dfe8-43fd-8190-c349c634b74c
+  en: library
+  pt-pt: a biblioteca
+  word_type: noun
+  gender: feminine
+  plural_form: as bibliotecas
+- key: 1c0a0e64-536c-4d79-b31c-33a24fe837ab
+  en: park
+  pt-pt: o parque
+  word_type: noun
+  gender: masculine
+  plural_form: os parques
+- key: 13fd34dd-5806-4016-a2ec-ce9f3a7b819b
+  en: hotel
+  pt-pt: o hotel
+  word_type: noun
+  gender: masculine
+  plural_form: os hotéis
+- key: 77fb829b-ad2c-4167-9222-ae3f59079d57
+  en: restaurant
+  pt-pt: o restaurante
+  word_type: noun
+  gender: masculine
+  plural_form: os restaurantes
+- key: 433afe95-1ddb-4489-a4f7-d9deb5532171
+  en: airport
+  pt-pt: o aeroporto
+  word_type: noun
+  gender: masculine
+  plural_form: os aeroportos
+- key: 2fd1551a-eac6-4bd1-9ec7-f12239d40cf8
+  en: hospital
+  pt-pt: o hospital
+  word_type: noun
+  gender: masculine
+  plural_form: os hospitais
+- key: 49f52553-a959-41a4-97a9-24b95600e41d
+  en: church
+  pt-pt: a igreja
+  word_type: noun
+  gender: feminine
+  plural_form: as igrejas
+- key: d6d44bca-a614-477d-b16b-05c42349c09c
+  en: sport
+  pt-pt: o desporto
+  word_type: noun
+  gender: masculine
+  plural_form: os desportos
+- key: 39a683e6-8a9e-4d32-abb0-4de96ea72a4b
+  en: ball
+  pt-pt: a bola
+  word_type: noun
+  gender: feminine
+  plural_form: as bolas
+- key: 76623f3b-20c9-4387-8f7f-941c5fb6cb44
+  en: football
+  pt-pt: o futebol
+  word_type: noun
+  gender: masculine
+  plural_form: os futebóis
+- key: 60fd7160-0114-4009-9e04-c62b8a5c264f
+  en: game
+  pt-pt: o jogo
+  word_type: noun
+  gender: masculine
+  plural_form: os jogos
+- key: e2a861a6-6725-421e-829c-9fb9c996f7cf
+  en: player
+  pt-pt: o jogador
+  word_type: noun
+  gender: masculine
+  plural_form: os jogadores
+- key: 9da36f9e-e9a0-44a0-a8f6-d91ffb94d0fb
+  en: swimming
+  pt-pt: a natação
+  word_type: noun
+  gender: feminine
+  plural_form: as natações
+- key: e6765327-d156-46e2-aa1b-fc9833c850d3
+  en: tennis
+  pt-pt: o ténis
+  word_type: noun
+  gender: masculine
+  plural_form: os ténis
+- key: 85abb5b6-b882-4ddc-adbc-5f47da1548e3
+  en: phone
+  pt-pt: o telefone
+  word_type: noun
+  gender: masculine
+  plural_form: os telefones
+- key: 183fc329-91eb-4149-9990-5a35c4ad2873
+  en: radio
+  pt-pt: a rádio
+  word_type: noun
+  gender: feminine
+  plural_form: as rádios
+- key: 0a6a14aa-6379-454d-99c1-6ad01bb4d4a0
+  en: television
+  pt-pt: a televisão
+  word_type: noun
+  gender: feminine
+  plural_form: as televisões
+- key: 8881db99-5d61-45dd-a375-db94c9643f05
+  en: computer
+  pt-pt: o computador
+  word_type: noun
+  gender: masculine
+  plural_form: os computadores
+- key: fc4a6680-ff6d-46be-ae0f-555d01a35976
+  en: internet
+  pt-pt: a internet
+  word_type: noun
+  gender: feminine
+  plural_form: as internets
+- key: 4a3540de-c3cf-4a43-9aee-5f6d823e9672
+  en: email
+  pt-pt: o email
+  word_type: noun
+  gender: masculine
+  plural_form: os emails
+- key: 5e5dcb74-43db-4972-8aa7-ed1af5a469d7
+  en: camera
+  pt-pt: a câmara
+  word_type: noun
+  gender: feminine
+  plural_form: as câmaras
+- key: 6459eebd-1e21-4c5f-bb2b-97a0ebbd0fdb
+  en: screen
+  pt-pt: o ecrã
+  word_type: noun
+  gender: masculine
+  plural_form: os ecrãs
+- key: 01b66c4a-523a-4a09-93be-4c426db5eb36
+  en: street
+  pt-pt: a rua
+  word_type: noun
+  gender: feminine
+  plural_form: as ruas
+- key: e0d947a7-a1bf-4b84-b70a-0faccaf1beb5
+  en: city
+  pt-pt: a cidade
+  word_type: noun
+  gender: feminine
+  plural_form: as cidades
+- key: ffdd721c-88ce-4d48-a2a7-9e7025da765e
+  en: building
+  pt-pt: o edifício
+  word_type: noun
+  gender: masculine
+  plural_form: os edifícios
+- key: 69d83d56-779a-47be-87ea-8e8f914497c5
+  en: office
+  pt-pt: o escritório
+  word_type: noun
+  gender: masculine
+  plural_form: os escritórios
+- key: 548b82f5-dee1-4c48-8a45-940464a8548b
+  en: store
+  pt-pt: a loja
+  word_type: noun
+  gender: feminine
+  plural_form: as lojas
+- key: ae8a39e8-24f2-4574-8ebe-741102fcfc05
+  en: car
+  pt-pt: o carro
+  word_type: noun
+  gender: masculine
+  plural_form: os carros
+- key: f39c6233-5218-45b7-ab3b-beef33c50fb3
+  en: bus
+  pt-pt: o autocarro
+  word_type: noun
+  gender: masculine
+  plural_form: os autocarros
+- key: fa64e7f2-0fb7-438f-852c-fe239c7f6f8d
+  en: train
+  pt-pt: o comboio
+  word_type: noun
+  gender: masculine
+  plural_form: os comboios
+- key: dea9b033-9366-44fc-aac0-10741a7d334f
+  en: bike
+  pt-pt: a bicicleta
+  word_type: noun
+  gender: feminine
+  plural_form: as bicicletas
+- key: 0fea222a-af5f-4595-b81e-2dd9fe4e28e9
+  en: boat
+  pt-pt: o barco
+  word_type: noun
+  gender: masculine
+  plural_form: os barcos
+- key: 2071c145-025b-4511-875c-a139d4d059b7
+  en: plane
+  pt-pt: o avião
+  word_type: noun
+  gender: masculine
+  plural_form: os aviões
+- key: f24ce075-5aa3-4361-b4d2-25c12b0753f8
+  en: ticket
+  pt-pt: o bilhete
+  word_type: noun
+  gender: masculine
+  plural_form: os bilhetes
+- key: c00b0993-e6aa-4c6f-a19d-5b302aadb0fd
+  en: law
+  pt-pt: a lei
+  word_type: noun
+  gender: feminine
+  plural_form: as leis
+- key: 64a6bf9f-a4e7-4553-9fe6-10222fe0a85c
+  en: police
+  pt-pt: a polícia
+  word_type: noun
+  gender: feminine
+  plural_form: as polícias
+- key: eee7f11d-9758-4069-9fde-cdc2c707f12d
+  en: prison
+  pt-pt: a prisão
+  word_type: noun
+  gender: feminine
+  plural_form: as prisões
+- key: 74d145fb-7f41-45a5-8107-36cdcd6d32b1
+  en: crime
+  pt-pt: o crime
+  word_type: noun
+  gender: masculine
+  plural_form: os crimes
+- key: 2ef219e3-5338-44b0-8d77-16af451d16ae
+  en: punishment
+  pt-pt: a punição
+  word_type: noun
+  gender: feminine
+  plural_form: as punições
+- key: 711022f1-45c8-4ca3-9a01-d2dbb7deed43
+  en: court (legal)
+  pt-pt: o tribunal
+  word_type: noun
+  gender: masculine
+  plural_form: os tribunais
+- key: 2ebfd70f-a6dd-4150-a514-3d7d670894e8
+  en: judge
+  pt-pt: o juiz
+  word_type: noun
+  gender: masculine
+  plural_form: os juízes
+- key: 1dd38c57-8bb0-4d28-806a-56e0f9139003
+  en: god
+  pt-pt: o deus
+  word_type: noun
+  gender: masculine
+  plural_form: os deuses
+- key: ed17154b-d273-44b2-b527-a863262bf354
+  en: hell
+  pt-pt: o inferno
+  word_type: noun
+  gender: masculine
+  plural_form: os infernos
+- key: b4b8ede7-700c-401a-bce1-2bc19480df11
+  en: to pray
+  pt-pt: rezar
+  word_type: verb
+  first_person_singular: eu rezo
+  first_person_plural: nós rezamos
+  second_person_singular: tu rezas
+  second_person_plural: vós rezais
+  third_person_singular: ele/ela reza
+  third_person_plural: eles/elas rezam
+- key: 43ead50d-04aa-4634-b3a9-e64ed570afa4
+  en: priest
+  pt-pt: o padre
+  word_type: noun
+  gender: masculine
+  plural_form: os padres
+- key: c3294002-7b7b-4f5c-8bd1-c8f5b44eb8f5
+  en: religion
+  pt-pt: a religião
+  word_type: noun
+  gender: feminine
+  plural_form: as religiões
+- key: 8bc78aa6-ef67-435f-a773-88bb440f133f
+  en: government
+  pt-pt: o governo
+  word_type: noun
+  gender: masculine
+  plural_form: os governos

@@ -1,0 +1,339 @@
+- pt-pt: a vergonha
+  en: shame
+  word_type: noun
+  plural_form: as vergonhas
+  gender: feminine
+  key: a0f82778-d01b-4886-9fed-f923315f9058
+- pt-pt: visitar
+  en: to visit
+  word_type: verb
+  first_person_singular: visito
+  first_person_plural: visitamos
+  second_person_singular: visitas
+  second_person_plural: visitais
+  third_person_singular: visita
+  third_person_plural: visitam
+  key: 38955fa4-ca12-45f4-bb37-be2ae377630a
+- pt-pt: aceitar
+  en: to accept
+  word_type: verb
+  first_person_singular: aceito
+  first_person_plural: aceitamos
+  second_person_singular: aceitas
+  second_person_plural: aceitais
+  third_person_singular: aceita
+  third_person_plural: aceitam
+  key: 9599533e-fb5c-46f0-9837-bbbec609096b
+- pt-pt: a alegria
+  en: joy
+  word_type: noun
+  plural_form: as alegrias
+  gender: feminine
+  key: dd866557-55c1-4d88-89e5-6cfe61e2ce5f
+- pt-pt: a apresentação
+  en: presentation
+  word_type: noun
+  plural_form: as apresentações
+  gender: feminine
+  key: fd2190f6-7b6b-4fe8-a7d2-b4b8e2b78f2b
+- pt-pt: a autoridade
+  en: authority
+  word_type: noun
+  plural_form: as autoridades
+  gender: feminine
+  key: 70b1a46c-0224-4113-976f-ac5ce211b1bb
+- pt-pt: a carne
+  en: meat
+  word_type: noun
+  plural_form: as carnes
+  gender: feminine
+  key: 0b3898ca-775b-43b4-8ad8-4945a263bbe7
+- pt-pt: o clique
+  en: click
+  word_type: noun
+  plural_form: os cliques
+  gender: masculine
+  key: 14626aa0-6e39-4238-ae6d-543341bf0816
+- pt-pt: a confiança
+  en: trust
+  word_type: noun
+  plural_form: as confianças
+  gender: feminine
+  key: c51351a1-8299-4ccc-9062-5fd304ffa049
+- pt-pt: a corrida
+  en: race
+  word_type: noun
+  plural_form: as corridas
+  gender: feminine
+  key: e14587f6-32f6-447e-9197-becffcf42d30
+- pt-pt: cuidar
+  en: to care
+  word_type: verb
+  first_person_singular: cuido
+  first_person_plural: cuidamos
+  second_person_singular: cuidas
+  second_person_plural: cuidais
+  third_person_singular: cuida
+  third_person_plural: cuidam
+  key: 9f39ecc5-8764-4695-b9c5-63a37f8be0ba
+- pt-pt: a distribuição
+  en: distribution
+  word_type: noun
+  plural_form: as distribuições
+  gender: feminine
+  key: 64cc8adf-8027-4d2e-992a-1e483e261e9d
+- pt-pt: dito
+  en: said
+  word_type: adjective
+  positive: dito
+  comparative: mais dito
+  superlative: o mais dito
+  key: 2a5d7c35-8d02-419f-9dec-d014c9edfec5
+- pt-pt: ocorrer
+  en: to occur
+  word_type: verb
+  first_person_singular: ocorro
+  first_person_plural: ocorremos
+  second_person_singular: ocorres
+  second_person_plural: ocorreis
+  third_person_singular: ocorre
+  third_person_plural: ocorrem
+  key: a254acd9-69e6-4917-aed1-e998e2718ece
+- pt-pt: o veículo
+  en: vehicle
+  word_type: noun
+  plural_form: os veículos
+  gender: masculine
+  key: deea8f7f-3562-49d1-9701-c21466225423
+- pt-pt: o feito
+  en: feat
+  word_type: noun
+  plural_form: os feitos
+  gender: masculine
+  key: 75998500-fef4-40a6-8779-f911f0d7208a
+- pt-pt: o golo
+  en: goal
+  word_type: noun
+  plural_form: os golos
+  gender: masculine
+  key: e28263c2-adf9-4772-982d-69a877a87382
+- pt-pt: o golpe
+  en: blow
+  word_type: noun
+  plural_form: os golpes
+  gender: masculine
+  key: d6869ca6-f82d-4a33-8c75-614c087164e4
+- pt-pt: o gás
+  en: gas
+  word_type: noun
+  plural_form: os gases
+  gender: masculine
+  key: 31bf8948-25e2-4872-8871-dbbb7d91c7d5
+- pt-pt: o impacto
+  en: impact
+  word_type: noun
+  plural_form: os impactos
+  gender: masculine
+  key: 1ca8b5d2-0d17-41d8-a03d-121c85d114f9
+- pt-pt: o julgamento
+  en: judgment
+  word_type: noun
+  plural_form: os julgamentos
+  gender: masculine
+  key: 1a23dbfc-cc3b-4ab7-a6e8-69e792426944
+- pt-pt: ligar
+  en: to connect
+  word_type: verb
+  first_person_singular: ligo
+  first_person_plural: ligamos
+  second_person_singular: ligas
+  second_person_plural: ligais
+  third_person_singular: liga
+  third_person_plural: ligam
+  key: d3936f72-52fc-45f9-a2d5-13fb49dd93a2
+- pt-pt: lutar
+  en: to fight
+  word_type: verb
+  first_person_singular: luto
+  first_person_plural: lutamos
+  second_person_singular: lutas
+  second_person_plural: lutais
+  third_person_singular: luta
+  third_person_plural: lutam
+  key: 0dcefb36-1c60-4c1f-9374-244f0ccaf537
+- pt-pt: o marco
+  en: milestone
+  word_type: noun
+  plural_form: os marcos
+  gender: masculine
+  key: e8c8904d-7cf5-4533-a7e8-4ee3baed3324
+- pt-pt: a moral
+  en: morale
+  word_type: noun
+  plural_form: as morais
+  gender: feminine
+  key: d6ee76e5-a8cb-42c7-9124-3bdde2a8f281
+- pt-pt: a professora
+  en: teacher (female)
+  word_type: noun
+  plural_form: as professoras
+  gender: feminine
+  key: c7bd7983-70cf-4d5e-8751-b4028261fc09
+- pt-pt: o reconhecimento
+  en: recognition
+  word_type: noun
+  plural_form: os reconhecimentos
+  gender: masculine
+  key: c3abb5ad-436c-440f-b0a7-fba4fb7c67ed
+- pt-pt: servir
+  en: to serve
+  word_type: verb
+  first_person_singular: sirvo
+  first_person_plural: servimos
+  second_person_singular: serves
+  second_person_plural: servis
+  third_person_singular: serve
+  third_person_plural: servem
+  key: 24ec9368-8bb3-4ee4-be5b-485791965251
+- pt-pt: a venda
+  en: sale
+  word_type: noun
+  plural_form: as vendas
+  gender: feminine
+  key: c860e998-e60b-4107-8963-42bae8ab15aa
+- pt-pt: o volume
+  en: volume
+  word_type: noun
+  plural_form: os volumes
+  gender: masculine
+  key: a25bfced-413d-4207-9349-e6129cbe8439
+- pt-pt: o capitão
+  en: captain
+  word_type: noun
+  plural_form: os capitães
+  gender: masculine
+  key: 652d95bb-f524-4198-a937-27e6b2adf3f3
+- pt-pt: o custo
+  en: cost
+  word_type: noun
+  plural_form: os custos
+  gender: masculine
+  key: a87c4d95-eb32-49db-a1eb-9d525a858dda
+- pt-pt: o distrito
+  en: district
+  word_type: noun
+  plural_form: os distritos
+  gender: masculine
+  key: 3d8ed605-374f-4f01-a841-528ecf60e88d
+- pt-pt: a década
+  en: decade
+  word_type: noun
+  plural_form: as décadas
+  gender: feminine
+  key: 24fa3a14-43ed-41d1-be82-5bc5356792cd
+- pt-pt: económico
+  en: economic
+  word_type: adjective
+  positive: económico
+  comparative: mais económico
+  superlative: o mais económico
+  key: 699507df-743a-49f3-a356-51b3e6f4f62f
+- pt-pt: o estádio
+  en: stadium
+  word_type: noun
+  plural_form: os estádios
+  gender: masculine
+  key: 5e4d5213-2525-4ebb-ab6f-fae7739571c0
+- pt-pt: a matemática
+  en: mathematics
+  word_type: noun
+  plural_form: as matemáticas
+  gender: feminine
+  key: b0912f5e-742f-464b-812a-8ea960375bc7
+- pt-pt: o meio
+  en: means
+  word_type: noun
+  plural_form: os meios
+  gender: masculine
+  key: 07aa6b51-86c4-4efa-9dab-e01ba1ecd520
+- pt-pt: o palco
+  en: stage
+  word_type: noun
+  plural_form: os palcos
+  gender: masculine
+  key: 6d5d7e12-6d66-4f2f-91b7-f842a4999264
+- pt-pt: o prazo
+  en: deadline
+  word_type: noun
+  plural_form: os prazos
+  gender: masculine
+  key: 903690e7-7253-4552-aca7-f60ebc928d2a
+- pt-pt: a princesa
+  en: princess
+  word_type: noun
+  plural_form: as princesas
+  gender: feminine
+  key: 203a4609-f17b-4e62-b496-3a0aa9b9e295
+- pt-pt: a sensação
+  en: sensation
+  word_type: noun
+  plural_form: as sensações
+  gender: feminine
+  key: f9c62192-9b56-4006-be21-a6dc75762dd2
+- pt-pt: ótimo
+  en: excellent
+  word_type: adjective
+  positive: ótimo
+  comparative: mais ótimo
+  superlative: o mais ótimo
+  key: 3fd85c57-4e04-4042-8aa2-92296dafa45f
+- pt-pt: o assassinato
+  en: murder
+  word_type: noun
+  plural_form: os assassinatos
+  gender: masculine
+  key: 5e254aa9-8b23-446e-9b94-edc24cd09049
+- pt-pt: a assembleia
+  en: assembly
+  word_type: noun
+  plural_form: as assembleias
+  gender: feminine
+  key: e0d46d7f-bb71-4b00-996e-ff4d407ea892
+- pt-pt: bater
+  en: to hit
+  word_type: verb
+  first_person_singular: bato
+  first_person_plural: batemos
+  second_person_singular: bates
+  second_person_plural: bateis
+  third_person_singular: bate
+  third_person_plural: batem
+  key: 2af89cca-cc05-4cdf-a4c4-27fa156e7c69
+- pt-pt: depender
+  en: to depend
+  word_type: verb
+  first_person_singular: dependo
+  first_person_plural: dependemos
+  second_person_singular: dependes
+  second_person_plural: dependeis
+  third_person_singular: depende
+  third_person_plural: dependem
+  key: 572a24a9-42c1-412d-9d5a-24177b4f6c7e
+- pt-pt: o domínio
+  en: domain
+  word_type: noun
+  plural_form: os domínios
+  gender: masculine
+  key: 273bfe23-9c37-493b-8c63-5fcb4f6f12d4
+- pt-pt: a estrela
+  en: star
+  word_type: noun
+  plural_form: as estrelas
+  gender: feminine
+  key: 94329f7f-1f9f-42ed-952b-aacf5746ea71
+- pt-pt: o humor
+  en: humor
+  word_type: noun
+  plural_form: os humores
+  gender: masculine
+  key: 291d6134-9054-4daf-9afa-3c3450ccc0f9

@@ -1,5 +1,6 @@
-import json
 import os
+
+import yaml
 
 from constants import DEFAULT_CHUNK_SIZE, Language
 
@@ -21,11 +22,11 @@ def save_word_objects_in_chunks(
     for i in range(0, len(word_objects), chunk_size):
         chunk = word_objects[i : i + chunk_size]
         chunk_number = (i // chunk_size) + 1
-        filename = f"{chunk_number:03d}.json"
+        filename = f"{chunk_number:03d}.yaml"
         filepath = os.path.join(lang_dir, filename)
 
         with open(filepath, "w", encoding="utf-8") as f:
-            json.dump(chunk, f, ensure_ascii=False, indent=2)
+            yaml.dump(chunk, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
 
         created_files.append(filepath)
 

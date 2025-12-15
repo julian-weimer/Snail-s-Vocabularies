@@ -1,0 +1,337 @@
+- pt-pt: a iniciativa
+  en: initiative
+  word_type: noun
+  plural_form: as iniciativas
+  gender: feminine
+  key: 90c901c8-36d9-4a20-9a28-14f6ecc7fce3
+- pt-pt: o limite
+  en: limit
+  word_type: noun
+  plural_form: os limites
+  gender: masculine
+  key: 258032a0-0fa7-4f43-8448-049c1b33adb9
+- pt-pt: maravilhoso
+  en: wonderful
+  word_type: adjective
+  positive: maravilhoso
+  comparative: mais maravilhoso
+  superlative: o mais maravilhoso
+  key: fb9f83f0-891e-42f9-826d-b6c2b9cfa628
+- pt-pt: o discurso
+  en: speech
+  word_type: noun
+  plural_form: os discursos
+  gender: masculine
+  key: 110a9272-73db-440a-8a4c-cf52b0cfa9ce
+- pt-pt: a homenagem
+  en: tribute
+  word_type: noun
+  plural_form: as homenagens
+  gender: feminine
+  key: cb704fcf-c0d4-45d0-8ad3-4107ef047110
+- pt-pt: manter
+  en: to maintain
+  word_type: verb
+  first_person_singular: mantenho
+  first_person_plural: mantemos
+  second_person_singular: manténs
+  second_person_plural: mantendes
+  third_person_singular: mantém
+  third_person_plural: mantêm
+  key: 33a0d44f-5190-4d09-9452-3f71d6fb63bc
+- pt-pt: o mapa
+  en: map
+  word_type: noun
+  plural_form: os mapas
+  gender: masculine
+  key: f6eae3c1-e6e1-4bb9-9b21-b830db2cddf5
+- pt-pt: merecer
+  en: to deserve
+  word_type: verb
+  first_person_singular: mereço
+  first_person_plural: merecemos
+  second_person_singular: mereces
+  second_person_plural: mereceis
+  third_person_singular: merece
+  third_person_plural: merecem
+  key: f59c8ef4-4cdb-47b7-9974-5c9b427441d1
+- pt-pt: a ponte
+  en: bridge
+  word_type: noun
+  plural_form: as pontes
+  gender: feminine
+  key: 396f7865-c51a-4f20-afb3-d995326c9086
+- pt-pt: promover
+  en: to promote
+  word_type: verb
+  first_person_singular: promovo
+  first_person_plural: promovemos
+  second_person_singular: promoves
+  second_person_plural: promoveis
+  third_person_singular: promove
+  third_person_plural: promovem
+  key: a6b21ade-7bf0-4472-a6a3-889353eff739
+- pt-pt: a reação
+  en: reaction
+  word_type: noun
+  plural_form: as reações
+  gender: feminine
+  key: e67140cb-eca8-4648-a6a9-aabd6a8dae35
+- pt-pt: salvar
+  en: to save
+  word_type: verb
+  first_person_singular: salvo
+  first_person_plural: salvamos
+  second_person_singular: salvas
+  second_person_plural: salvais
+  third_person_singular: salva
+  third_person_plural: salvam
+  key: b7aa466f-6683-4adc-a95a-554ffb63503c
+- pt-pt: a avenida
+  en: avenue
+  word_type: noun
+  plural_form: as avenidas
+  gender: feminine
+  key: 2c1fcfee-133b-433c-aad0-0fa9c50cc59f
+- pt-pt: o concurso
+  en: contest
+  word_type: noun
+  plural_form: os concursos
+  gender: masculine
+  key: fbc11ae6-1733-45f6-be1b-f872dab3b6c3
+- pt-pt: conter
+  en: to contain
+  word_type: verb
+  first_person_singular: contenho
+  first_person_plural: contemos
+  second_person_singular: conténs
+  second_person_plural: contendes
+  third_person_singular: contém
+  third_person_plural: contêm
+  key: e0cdd92f-efe1-48dc-8d01-5947b2faf203
+- pt-pt: o desenho
+  en: drawing
+  word_type: noun
+  plural_form: os desenhos
+  gender: masculine
+  key: 35eca84e-4f47-4325-b5da-14ef6e4d8e8a
+- pt-pt: a divulgação
+  en: disclosure
+  word_type: noun
+  plural_form: as divulgações
+  gender: feminine
+  key: c2efc643-1139-4a97-b7cb-c3171febafd0
+- pt-pt: o perigo
+  en: danger
+  word_type: noun
+  plural_form: os perigos
+  gender: masculine
+  key: c297a455-0fea-414a-a32b-da47abbacf30
+- pt-pt: a pista
+  en: track
+  word_type: noun
+  plural_form: as pistas
+  gender: feminine
+  key: 7d9ce0e3-cc16-4ea6-bc95-398f890f434b
+- pt-pt: o potencial
+  en: potential
+  word_type: noun
+  plural_form: os potenciais
+  gender: masculine
+  key: ad684ec4-9f16-4e8e-8690-e38b167159e1
+- pt-pt: o princípio
+  en: principle
+  word_type: noun
+  plural_form: os princípios
+  gender: masculine
+  key: 50801db9-e5bd-4e4e-bc69-0314968e0ee6
+- pt-pt: a raiva
+  en: anger
+  word_type: noun
+  gender: feminine
+  key: 1d85ddf4-495b-46d9-8f49-8194ac70b496
+- pt-pt: o apartamento
+  en: apartment
+  word_type: noun
+  plural_form: os apartamentos
+  gender: masculine
+  key: afba0bbf-bac3-47b5-a215-8b7149e09cef
+- pt-pt: o cenário
+  en: scenario
+  word_type: noun
+  plural_form: os cenários
+  gender: masculine
+  key: b6bf2377-70c9-42fd-8ff1-72dc8c1f61a1
+- pt-pt: o cliente
+  en: client
+  word_type: noun
+  plural_form: os clientes
+  gender: masculine
+  key: 2aeb8489-d821-41a2-9540-3074b5368cb3
+- pt-pt: complexo
+  en: complex
+  word_type: adjective
+  positive: complexo
+  comparative: mais complexo
+  superlative: o mais complexo
+  key: 74b72d00-cdc6-45df-89e4-23259fb554f8
+- pt-pt: a conferência
+  en: conference
+  word_type: noun
+  plural_form: as conferências
+  gender: feminine
+  key: 75b22dba-f11d-4fde-9b2f-470a685e588f
+- pt-pt: conferir
+  en: to check
+  word_type: verb
+  first_person_singular: eu confiro
+  first_person_plural: nós conferimos
+  second_person_singular: tu conferes
+  second_person_plural: vós conferis
+  third_person_singular: ele/ela confere
+  third_person_plural: eles/elas conferem
+  key: 3e33cd44-4339-4938-82c8-0b24ec86a76c
+- pt-pt: discutir
+  en: to discuss
+  word_type: verb
+  first_person_singular: eu discuto
+  first_person_plural: nós discutimos
+  second_person_singular: tu discutes
+  second_person_plural: vós discutis
+  third_person_singular: ele/ela discute
+  third_person_plural: eles/elas discutem
+  key: 4853d212-695e-4503-b84d-5c99bf45b214
+- pt-pt: o esforço
+  en: effort
+  word_type: noun
+  plural_form: os esforços
+  gender: masculine
+  key: c119f8aa-5f4b-4a4c-aa8e-1af2dfd6b331
+- pt-pt: europeu
+  en: European
+  word_type: adjective
+  positive: europeu
+  comparative: mais europeu
+  superlative: o mais europeu
+  key: 4d9d5f4d-0d1a-4336-909b-a208ec338ff8
+- pt-pt: a figura
+  en: figure
+  word_type: noun
+  plural_form: as figuras
+  gender: feminine
+  key: 3c16e201-82fc-4166-b14f-e8ae9ab7e607
+- pt-pt: o habitante
+  en: inhabitant
+  word_type: noun
+  plural_form: os habitantes
+  gender: masculine
+  key: fa5be51e-8a4c-443c-830c-aa98216f8545
+- pt-pt: a infância
+  en: childhood
+  word_type: noun
+  gender: feminine
+  key: f0352352-3c4d-4b53-b020-dca10508545e
+- pt-pt: seguro
+  en: safe
+  word_type: adjective
+  positive: seguro
+  comparative: mais seguro
+  superlative: o mais seguro
+  key: 3608ae96-86cb-42a3-9530-8d883bcb43ad
+- pt-pt: tirar
+  en: to remove
+  word_type: verb
+  first_person_singular: eu tiro
+  first_person_plural: nós tiramos
+  second_person_singular: tu tiras
+  second_person_plural: vós tirais
+  third_person_singular: ele/ela tira
+  third_person_plural: eles/elas tiram
+  key: e6c9481a-ee70-459e-9e72-620d79413269
+- pt-pt: anti
+  en: anti
+  word_type: other
+  key: 8eefe1b1-7bf3-4070-b0db-1272f7b0381d
+- pt-pt: o arquivo
+  en: file
+  word_type: noun
+  plural_form: os arquivos
+  gender: masculine
+  key: b806138c-9a91-436e-bfd3-7a0af3d49440
+- pt-pt: a atitude
+  en: attitude
+  word_type: noun
+  plural_form: as atitudes
+  gender: feminine
+  key: d33950bb-36d8-4ada-995c-e30f1124a5e9
+- pt-pt: baseado
+  en: based
+  word_type: adjective
+  positive: baseado
+  comparative: mais baseado
+  superlative: o mais baseado
+  key: 69900c8c-ccb1-49a8-8203-6abb68178fa6
+- pt-pt: a bateria
+  en: battery
+  word_type: noun
+  plural_form: as baterias
+  gender: feminine
+  key: 6d768ac5-9e5b-45b4-a49f-dae533dcc266
+- pt-pt: casar
+  en: to marry
+  word_type: verb
+  first_person_singular: eu caso
+  first_person_plural: nós casamos
+  second_person_singular: tu casas
+  second_person_plural: vós casais
+  third_person_singular: ele/ela casa
+  third_person_plural: eles/elas casam
+  key: c3943431-51d9-430f-9abb-bd07cfee0b10
+- pt-pt: a cobertura
+  en: coverage
+  word_type: noun
+  plural_form: as coberturas
+  gender: feminine
+  key: d2bd2d82-a40e-4696-b850-8219fcf75351
+- pt-pt: crescer
+  en: to grow
+  word_type: verb
+  first_person_singular: eu cresço
+  first_person_plural: nós crescemos
+  second_person_singular: tu cresces
+  second_person_plural: vós cresceis
+  third_person_singular: ele/ela cresce
+  third_person_plural: eles/elas crescem
+  key: e7f4da0e-39cf-4313-997e-9724d9cdb6f9
+- pt-pt: a declaração
+  en: declaration
+  word_type: noun
+  plural_form: as declarações
+  gender: feminine
+  key: 865b8b7a-d113-402f-8918-c6cb960868f5
+- pt-pt: destas
+  en: of these
+  word_type: pronoun
+  key: fc9ec2bc-1abb-4cab-9207-2692452d79d5
+- pt-pt: a discussão
+  en: discussion
+  word_type: noun
+  plural_form: as discussões
+  gender: feminine
+  key: d3589265-5d7d-4874-9756-5f202d8aa9ea
+- pt-pt: o dono
+  en: owner
+  word_type: noun
+  plural_form: os donos
+  gender: masculine
+  key: 7f8e1805-30db-4423-a83d-d195ba7f05c7
+- pt-pt: a emergência
+  en: emergency
+  word_type: noun
+  plural_form: as emergências
+  gender: feminine
+  key: 36fdd3ad-0c28-488f-ab6e-1d5be72518f4
+- pt-pt: extremamente
+  en: extremely
+  word_type: adverb
+  key: 8a3e276a-b0af-481a-8062-62e4bde4ac6b

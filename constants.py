@@ -3,7 +3,7 @@ from enum import Enum
 DEFAULT_LENGTH = 2500
 DEFAULT_LISTS_DIR = "./lists"
 DEFAULT_DECKS_DIR = "./build"
-DEFAULT_BASICS_LIST_PATH = "./basics.json"
+DEFAULT_BASICS_LIST_PATH = "./basics.yaml"
 DEFAULT_MEDIA_DIR = "./media"
 DEFAULT_IMAGES_DIR = "images"
 DEFAULT_AUDIO_DIR = "audio"

@@ -1,0 +1,314 @@
+- pt-pt: lhes
+  en: them
+  word_type: pronoun
+  key: 4581f061-88f3-44af-a6b2-7294f7440201
+- pt-pt: a necessidade
+  en: necessity
+  word_type: noun
+  plural_form: as necessidades
+  gender: feminine
+  key: e3b6d950-1320-4c7d-b828-2e740199f638
+- pt-pt: o século
+  en: century
+  word_type: noun
+  plural_form: os séculos
+  gender: masculine
+  key: 6339c89c-902f-4fc8-89aa-6ac2e0984319
+- pt-pt: a amiga
+  en: friend (female)
+  word_type: noun
+  plural_form: as amigas
+  gender: feminine
+  key: 6df1427f-caee-4015-b09c-e4d48af566c8
+- pt-pt: anterior
+  en: previous
+  word_type: adjective
+  positive: anterior
+  comparative: mais anterior
+  superlative: o mais anterior
+  key: 18ce8a8b-7b23-4690-8634-553c2fe58704
+- pt-pt: o cinema
+  en: cinema
+  word_type: noun
+  plural_form: os cinemas
+  gender: masculine
+  key: 086419c1-e517-4e5e-b8bf-21a47caa0493
+- pt-pt: criado
+  en: created
+  word_type: adjective
+  positive: criado
+  comparative: mais criado
+  superlative: o mais criado
+  key: 3408613c-dabb-4ac1-b0fe-b7ae2a6f0b6f
+- pt-pt: a estação
+  en: station
+  word_type: noun
+  plural_form: as estações
+  gender: feminine
+  key: 253d22c3-42c3-4a92-b196-95c89231e95a
+- pt-pt: a fé
+  en: faith
+  word_type: noun
+  gender: feminine
+  key: b9c51272-346b-4bc1-a6e6-119d74e8a5ad
+- pt-pt: a lula
+  en: squid
+  word_type: noun
+  plural_form: as lulas
+  gender: feminine
+  key: ceb9d9b7-9dd5-4f70-af8b-be042b75399a
+- pt-pt: o material
+  en: material
+  word_type: noun
+  plural_form: os materiais
+  gender: masculine
+  key: 812160a0-9996-43e2-bc87-f9e2d71eb9e7
+- pt-pt: necessário
+  en: necessary
+  word_type: adjective
+  positive: necessário
+  comparative: mais necessário
+  superlative: o mais necessário
+  key: ef7add62-d5b9-4d55-9a30-b7aa06e5267e
+- pt-pt: perfeito
+  en: perfect
+  word_type: adjective
+  positive: perfeito
+  comparative: mais perfeito
+  superlative: o mais perfeito
+  key: 0df2e1e6-c607-4e25-acbe-cda69619c5fb
+- pt-pt: a prática
+  en: practice
+  word_type: noun
+  plural_form: as práticas
+  gender: feminine
+  key: 75c03555-afde-474f-a26f-db68436384b8
+- pt-pt: realizado
+  en: accomplished
+  word_type: adjective
+  positive: realizado
+  comparative: mais realizado
+  superlative: o mais realizado
+  key: 077863e2-2444-409e-9705-7ea489d9b7bf
+- pt-pt: a sede
+  en: thirst
+  word_type: noun
+  gender: feminine
+  key: c7b0a771-edb3-42e0-bb5d-115da5f4c1b8
+- pt-pt: seguido
+  en: followed
+  word_type: adjective
+  positive: seguido
+  comparative: mais seguido
+  superlative: o mais seguido
+  key: d87b4c6a-53c6-4bfb-a395-a8931c5979cf
+- pt-pt: a administração
+  en: administration
+  word_type: noun
+  plural_form: as administrações
+  gender: feminine
+  key: bd162ded-6942-455a-b265-d7360bdaa8ef
+- pt-pt: a carreira
+  en: career
+  word_type: noun
+  plural_form: as carreiras
+  gender: feminine
+  key: b54863d2-458a-4539-9f71-24ceba5954c8
+- pt-pt: a cena
+  en: scene
+  word_type: noun
+  plural_form: as cenas
+  gender: feminine
+  key: 1ed09994-071e-4b81-9d52-f9be8efe2ec2
+- pt-pt: o chão
+  en: floor
+  word_type: noun
+  plural_form: os chãos
+  gender: masculine
+  key: 203b63b9-0fed-44cf-a4a9-7e93b73afe5e
+- pt-pt: completamente
+  en: completely
+  word_type: adverb
+  key: f5d3fd7a-d02c-42ab-9ee3-1787edb238d5
+- pt-pt: escrito
+  en: written
+  word_type: adjective
+  positive: escrito
+  comparative: mais escrito
+  superlative: o mais escrito
+  key: fa43ebfc-4b9d-4620-90da-358098fb85a4
+- pt-pt: a função
+  en: function
+  word_type: noun
+  plural_form: as funções
+  gender: feminine
+  key: 086738ff-c1a4-4174-ab33-150076aa0dba
+- pt-pt: participar
+  en: to participate
+  word_type: verb
+  first_person_singular: eu participo
+  first_person_plural: nós participamos
+  second_person_singular: tu participas
+  second_person_plural: vós participais
+  third_person_singular: ele/ela participa
+  third_person_plural: eles/elas participam
+  key: 4e3ceaf9-d6f3-4a2f-9261-c3a1968d1d65
+- pt-pt: a pressão
+  en: pressure
+  word_type: noun
+  plural_form: as pressões
+  gender: feminine
+  key: 78d9855c-afc5-4788-9c58-db442f6c4daa
+- pt-pt: publicado
+  en: published
+  word_type: adjective
+  positive: publicado
+  comparative: mais publicado
+  superlative: o mais publicado
+  key: 2245751b-6eb0-47ff-bcf0-1f1e30dae95f
+- pt-pt: totalmente
+  en: totally
+  word_type: adverb
+  key: 6c75dba7-165c-4e6f-b1d8-8ca67bc02e7c
+- pt-pt: o contato
+  en: contact
+  word_type: noun
+  plural_form: os contatos
+  gender: masculine
+  key: 45f47f1d-b61a-4c00-85a0-529ae073777b
+- pt-pt: o crescimento
+  en: growth
+  word_type: noun
+  plural_form: os crescimentos
+  gender: masculine
+  key: 84299bf6-1805-4286-8345-88f4fad08908
+- pt-pt: a crise
+  en: crisis
+  word_type: noun
+  plural_form: as crises
+  gender: feminine
+  key: add72fc9-9ea7-4a20-8ee5-823b664905fa
+- pt-pt: evitar
+  en: to avoid
+  word_type: verb
+  first_person_singular: evito
+  first_person_plural: evitamos
+  second_person_singular: evitas
+  second_person_plural: evitais
+  third_person_singular: evita
+  third_person_plural: evitam
+  key: d0987837-6d87-4f5b-8bd1-4a8b94a2f263
+- pt-pt: a guarda
+  en: guard
+  word_type: noun
+  plural_form: as guardas
+  gender: feminine
+  key: ea296ac9-b9ac-4df8-88af-66fa65683d93
+- pt-pt: histórico
+  en: historical
+  word_type: adjective
+  positive: histórico
+  comparative: mais histórico
+  superlative: o mais histórico
+  key: 3e9bc007-267a-4f73-a625-bae813b7db2b
+- pt-pt: a indústria
+  en: industry
+  word_type: noun
+  plural_form: as indústrias
+  gender: feminine
+  key: 7d83314d-c987-4c8b-9263-b64e01821d2c
+- pt-pt: a proteção
+  en: protection
+  word_type: noun
+  plural_form: as proteções
+  gender: feminine
+  key: 00ccacad-cd32-4d66-9dde-6f61db9d843a
+- pt-pt: o sinal
+  en: signal
+  word_type: noun
+  plural_form: os sinais
+  gender: masculine
+  key: 71d0e8b2-06e9-482d-8332-32f8278b63ce
+- pt-pt: sozinho
+  en: alone
+  word_type: adjective
+  positive: sozinho
+  comparative: mais sozinho
+  superlative: o mais sozinho
+  key: a07e355c-abcb-40ac-8d00-c333fef8cbeb
+- pt-pt: a unidade
+  en: unit
+  word_type: noun
+  plural_form: as unidades
+  gender: feminine
+  key: 641f213a-64f8-4235-a5ed-d8e5c7fe6ee9
+- pt-pt: a vila
+  en: village
+  word_type: noun
+  plural_form: as vilas
+  gender: feminine
+  key: d2558e2d-8dcd-4189-8f7d-19f791bb24d7
+- pt-pt: conversar
+  en: to converse
+  word_type: verb
+  first_person_singular: converso
+  first_person_plural: conversamos
+  second_person_singular: conversas
+  second_person_plural: conversais
+  third_person_singular: conversa
+  third_person_plural: conversam
+  key: 4d725183-743b-4266-9f08-0e0defd8af49
+- pt-pt: o deputado
+  en: deputy
+  word_type: noun
+  plural_form: os deputados
+  gender: masculine
+  key: 6712cd8e-82cf-4139-8d89-3b0f3957a949
+- pt-pt: o espírito
+  en: spirit
+  word_type: noun
+  plural_form: os espíritos
+  gender: masculine
+  key: 36803942-5f97-4843-b75b-33964699d8ba
+- pt-pt: a estrada
+  en: road
+  word_type: noun
+  plural_form: as estradas
+  gender: feminine
+  key: 3ebdafbb-c2fd-4d4e-b5ec-eb0ae676f396
+- pt-pt: a geração
+  en: generation
+  word_type: noun
+  plural_form: as gerações
+  gender: feminine
+  key: 71ab2019-a00f-4af4-9b2a-fc7aa5e3cfff
+- pt-pt: o governador
+  en: governor
+  word_type: noun
+  plural_form: os governadores
+  gender: masculine
+  key: 830664f7-b488-45c7-b2a2-30d7810aaa47
+- pt-pt: a imprensa
+  en: press (media)
+  word_type: noun
+  plural_form: as imprensas
+  gender: feminine
+  key: a2220d50-fd3f-4557-b18a-2abbff1aa6ad
+- pt-pt: a saída
+  en: exit
+  word_type: noun
+  plural_form: as saídas
+  gender: feminine
+  key: d15ff102-f19a-45dd-a2fd-328c9e4476ca
+- pt-pt: a alma
+  en: soul
+  word_type: noun
+  plural_form: as almas
+  gender: feminine
+  key: 5b358a19-f99a-4224-9d82-01842dd15670
+- pt-pt: o artista
+  en: artist
+  word_type: noun
+  plural_form: os artistas
+  gender: masculine
+  key: 8f43c9c7-23d5-4eb1-9731-d3004ec00529

@@ -1,0 +1,331 @@
+- pt-pt: estar
+  en: to be (location/temporary state)
+  word_type: verb
+  first_person_singular: estou
+  first_person_plural: estamos
+  second_person_singular: estás
+  second_person_plural: estais
+  third_person_singular: está
+  third_person_plural: estão
+  key: f22d398d-81e8-4b65-b67a-0fb921047289
+- pt-pt: a lista
+  en: list
+  word_type: noun
+  plural_form: as listas
+  gender: feminine
+  key: 4c1cf84d-b929-4be3-8c9e-e5a25fc45902
+- pt-pt: o senhor
+  plural_form: os senhores
+  en: gentleman
+  word_type: noun
+  gender: masculine
+  key: 9ca6b04e-6368-4c1e-8e92-8a651a789a57
+- pt-pt: viu
+  en: saw
+  word_type: verb
+  first_person_singular: vi
+  first_person_plural: vimos
+  second_person_singular: viste
+  second_person_plural: vistes
+  third_person_singular: viu
+  third_person_plural: viram
+  key: f20ad8e4-b100-4f31-bfbc-36de2e76407d
+- pt-pt: a certeza
+  plural_form: as certezas
+  en: certainty
+  word_type: noun
+  gender: feminine
+  key: 23a4bd0b-cff8-4136-a6c8-2aa93d3e9cfd
+- pt-pt: consigo
+  en: with oneself
+  word_type: pronoun
+  key: ec9d8c25-4cad-40c7-8f1a-cda832a0c4d5
+- pt-pt: o evento
+  plural_form: os eventos
+  en: event
+  word_type: noun
+  gender: masculine
+  key: a7247fe0-634b-4ca7-8499-b95785f2ef31
+- pt-pt: oficial
+  positive: oficial
+  comparative: mais oficial
+  superlative: o mais oficial
+  en: official
+  word_type: adjective
+  key: 612c5d76-16a0-43de-86ac-0f38ba2847fe
+- pt-pt: perto
+  positive: perto
+  comparative: mais perto
+  superlative: o mais perto
+  en: near
+  word_type: adverb
+  key: b7281176-5e19-483c-bc2f-7704328ad2c6
+- pt-pt: único
+  positive: único
+  comparative: mais único
+  superlative: o mais único
+  en: unique
+  word_type: adjective
+  key: 0dc6f5d2-a44c-4ac2-a2ae-2035e65699a8
+- pt-pt: o apoio
+  plural_form: os apoios
+  en: support
+  word_type: noun
+  gender: masculine
+  key: f237e408-09fe-493a-bcfd-413216190d55
+- pt-pt: entrar
+  en: to enter
+  word_type: verb
+  first_person_singular: entro
+  first_person_plural: entramos
+  second_person_singular: entras
+  second_person_plural: entrais
+  third_person_singular: entra
+  third_person_plural: entram
+  key: c81d1d6c-e20f-48ce-9823-77ceded61775
+- pt-pt: o serviço
+  plural_form: os serviços
+  en: service
+  word_type: noun
+  gender: masculine
+  key: 337566de-167f-4574-985d-f14d00e7a931
+- pt-pt: a língua
+  plural_form: as línguas
+  en: language
+  word_type: noun
+  gender: feminine
+  key: f28fe761-1c72-4540-a82c-52e164c241bc
+- pt-pt: os pais
+  en: parents
+  word_type: noun
+  gender: masculine
+  key: d2618315-ea35-492b-ab42-67a9dcbfe4c1
+- pt-pt: português
+  positive: português
+  comparative: mais português
+  superlative: o mais português
+  en: Portuguese
+  word_type: adjective
+  key: 157dde22-6dda-4e9d-954e-0bf8e2c415eb
+- pt-pt: a situação
+  plural_form: as situações
+  en: situation
+  word_type: noun
+  gender: feminine
+  key: 422d85bf-754c-4bc5-bff3-633432d7bb87
+- pt-pt: sério
+  positive: sério
+  comparative: mais sério
+  superlative: o mais sério
+  en: serious
+  word_type: adjective
+  key: c2e9567a-8413-47bf-9652-95d85e333a07
+- pt-pt: o caminho
+  plural_form: os caminhos
+  en: path
+  word_type: noun
+  gender: masculine
+  key: 2f4f26ab-767f-4efe-8a45-bacc13e4c6bd
+- pt-pt: a festa
+  plural_form: as festas
+  en: party
+  word_type: noun
+  gender: feminine
+  key: b036bb1c-061f-4f13-bcb7-4c6edbb31c2d
+- pt-pt: o nível
+  plural_form: os níveis
+  en: level
+  word_type: noun
+  gender: masculine
+  key: a53e083c-a03c-4f04-9f39-ba883926e425
+- pt-pt: total
+  positive: total
+  comparative: mais total
+  superlative: o mais total
+  en: total
+  word_type: adjective
+  key: 07bd5235-c869-440d-8077-323aed37c5be
+- pt-pt: a vista
+  plural_form: as vistas
+  en: view
+  word_type: noun
+  gender: feminine
+  key: 8a09aa53-ec9d-49ae-bd71-455c1e1565b4
+- pt-pt: devido
+  positive: devido
+  comparative: mais devido
+  superlative: o mais devido
+  en: due
+  word_type: adjective
+  key: c76a46ae-ae6f-4edf-8fcb-9ed1fd8ff8e4
+- pt-pt: inglês
+  positive: inglês
+  comparative: mais inglês
+  superlative: o mais inglês
+  en: English
+  word_type: adjective
+  key: bf1b5f7f-03cc-4004-9e4a-8d548230e325
+- pt-pt: o objetivo
+  plural_form: os objetivos
+  en: objective
+  word_type: noun
+  gender: masculine
+  key: ce02b450-01ed-4fe8-b308-550d0b46ab44
+- pt-pt: o partido
+  plural_form: os partidos
+  en: party (political)
+  word_type: noun
+  gender: masculine
+  key: f9e8923f-8181-4ee6-97a8-22323cc6fece
+- pt-pt: o sucesso
+  plural_form: os sucessos
+  en: success
+  word_type: noun
+  gender: masculine
+  key: 3156ece0-eb5c-42ed-9f78-a54a05fd14bf
+- pt-pt: valer
+  en: to be worth
+  word_type: verb
+  first_person_singular: valho
+  first_person_plural: valemos
+  second_person_singular: vales
+  second_person_plural: valeis
+  third_person_singular: vale
+  third_person_plural: valem
+  key: 27d261fc-16f4-4353-8e1e-00b44cb64d71
+- pt-pt: o capital
+  plural_form: os capitais
+  en: capital (money)
+  word_type: noun
+  gender: masculine
+  key: 538e05c8-f4d5-4227-ba7f-ecc906710ce5
+- pt-pt: a justiça
+  plural_form: as justiças
+  en: justice
+  word_type: noun
+  gender: feminine
+  key: d3b0388d-e40d-4018-84de-3c765b3deb51
+- pt-pt: o membro
+  plural_form: os membros
+  en: member
+  word_type: noun
+  gender: masculine
+  key: 1263874f-efe6-499f-9636-2c334ce95bf2
+- pt-pt: mundial
+  positive: mundial
+  comparative: mais mundial
+  superlative: o mais mundial
+  en: worldwide
+  word_type: adjective
+  key: 7dfc2adb-4e5f-4569-9123-d419c4a6c40f
+- pt-pt: o presente
+  plural_form: os presentes
+  en: present (gift)
+  word_type: noun
+  gender: masculine
+  key: 7f93a943-c090-455c-adc2-9eb29c1b8314
+- pt-pt: seguir
+  en: to follow
+  word_type: verb
+  first_person_singular: sigo
+  first_person_plural: seguimos
+  second_person_singular: segues
+  second_person_plural: seguis
+  third_person_singular: segue
+  third_person_plural: seguem
+  key: feca43ab-a6b1-4890-b7a7-26e32d9dcf17
+- pt-pt: a ação
+  plural_form: as ações
+  en: action
+  word_type: noun
+  gender: feminine
+  key: b3cad00f-6f00-497c-89ed-b50781fddf9a
+- pt-pt: a imagem
+  plural_form: as imagens
+  en: image
+  word_type: noun
+  gender: feminine
+  key: 7befbce6-8a17-484f-b5e6-be54a70b489e
+- pt-pt: a luz
+  plural_form: as luzes
+  en: light
+  word_type: noun
+  gender: feminine
+  key: e0578e2a-e732-4868-9e20-0a7e7d741d67
+- pt-pt: militar
+  positive: militar
+  comparative: mais militar
+  superlative: o mais militar
+  en: military
+  word_type: adjective
+  key: 9b026940-2a35-4247-a322-723b377a9ee3
+- pt-pt: o movimento
+  plural_form: os movimentos
+  en: movement
+  word_type: noun
+  gender: masculine
+  key: 03fad3ee-8a34-45ff-8038-7a29e5fd3f0d
+- pt-pt: a ordem
+  plural_form: as ordens
+  en: order
+  word_type: noun
+  gender: feminine
+  key: 08676ef7-ddfc-45ea-b736-1586b8799f6c
+- pt-pt: próximo
+  positive: próximo
+  comparative: mais próximo
+  superlative: o mais próximo
+  en: next
+  word_type: adjective
+  key: ec1d56fe-5dd9-43ff-9595-59ae5d502bcf
+- pt-pt: a construção
+  plural_form: as construções
+  en: construction
+  word_type: noun
+  gender: feminine
+  key: 4cfc8ed9-2c6b-4026-84fb-1bbfa18fa90f
+- pt-pt: acreditar
+  en: to believe
+  word_type: verb
+  first_person_singular: eu acredito
+  first_person_plural: nós acreditamos
+  second_person_singular: tu acreditas
+  second_person_plural: vós acreditais
+  third_person_singular: ele/ela acredita
+  third_person_plural: eles/elas acreditam
+  key: 09703001-26f6-4ed9-ab33-ed3bca53120f
+- pt-pt: o controlo
+  en: control
+  word_type: noun
+  plural_form: os controlos
+  gender: masculine
+  key: 9bf18a1d-42ea-4c69-8ffb-d15470326f97
+- pt-pt: a empresa
+  en: company
+  word_type: noun
+  plural_form: as empresas
+  gender: feminine
+  key: 1e41950d-95e0-4a4a-a499-5c5315a88408
+- pt-pt: principalmente
+  en: mainly
+  word_type: adverb
+  key: 54ec5b0d-c90a-4880-b1b3-952500a3baa9
+- pt-pt: o resultado
+  en: result
+  word_type: noun
+  plural_form: os resultados
+  gender: masculine
+  key: a61fd68f-9b2a-4a22-be11-144454dae0af
+- pt-pt: a sala
+  en: room
+  word_type: noun
+  plural_form: as salas
+  gender: feminine
+  key: 269a1e73-acbe-4210-a111-aa39294f98d8
+- pt-pt: seguinte
+  en: following
+  word_type: adjective
+  positive: seguinte
+  comparative: mais seguinte
+  superlative: o mais seguinte
+  key: 09800a27-848f-411b-8513-0b0f80ec9f90

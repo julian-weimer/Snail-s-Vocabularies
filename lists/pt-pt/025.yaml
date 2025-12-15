@@ -1,0 +1,326 @@
+- pt-pt: o erro
+  en: error
+  word_type: noun
+  plural_form: os erros
+  gender: masculine
+  key: 98cf6700-cafe-469d-ac1a-f16873929017
+- pt-pt: estadual
+  en: state (regional)
+  word_type: adjective
+  positive: estadual
+  comparative: mais estadual
+  superlative: o mais estadual
+  key: 4aadc289-f31c-4805-9494-f5c8d45f343f
+- pt-pt: igual
+  en: equal
+  word_type: adjective
+  positive: igual
+  comparative: mais igual
+  superlative: o mais igual
+  key: 34a0ece0-38db-44eb-afe5-3735d7a3dbad
+- pt-pt: o lançamento
+  en: launch
+  word_type: noun
+  plural_form: os lançamentos
+  gender: masculine
+  key: 97ddbc5d-cd0f-4c1d-a9b3-e243afe2fbf0
+- pt-pt: o militar
+  en: military (person)
+  word_type: noun
+  plural_form: os militares
+  gender: masculine
+  key: f24a0485-6c8c-43a0-8895-0f65763d27a0
+- pt-pt: a política
+  en: policy
+  word_type: noun
+  plural_form: as políticas
+  gender: feminine
+  key: 754dfa76-7d50-4cab-a5c5-a8a4e9ed6241
+- pt-pt: a praça
+  en: square
+  word_type: noun
+  plural_form: as praças
+  gender: feminine
+  key: 558726af-7123-4946-8f23-76f2f41b598d
+- pt-pt: a propriedade
+  en: property
+  word_type: noun
+  plural_form: as propriedades
+  gender: feminine
+  key: e33ac74f-ddf1-4561-a645-2e3e13744929
+- pt-pt: pré
+  en: pre
+  word_type: preposition
+  key: 277c9282-49a7-4011-b5a0-a71e0bf66be2
+- pt-pt: o rock
+  en: rock (music)
+  word_type: noun
+  gender: masculine
+  key: 78a1fe57-6966-45a4-965d-3c3840819305
+- pt-pt: o território
+  en: territory
+  word_type: noun
+  plural_form: os territórios
+  gender: masculine
+  key: b0ecd991-fb6e-44bb-9be9-78c9ecd89bcd
+- pt-pt: bastar
+  en: to be enough
+  word_type: verb
+  first_person_singular: eu basto
+  first_person_plural: nós bastamos
+  second_person_singular: tu bastas
+  second_person_plural: vós bastais
+  third_person_singular: ele/ela basta
+  third_person_plural: eles/elas bastam
+  key: 4be6a4f0-bfac-4c07-b358-0b7e0951953c
+- pt-pt: o casal
+  en: couple
+  word_type: noun
+  plural_form: os casais
+  gender: masculine
+  key: 7133ace0-9007-4927-a8f3-335f33c088a8
+- pt-pt: o congresso
+  en: congress
+  word_type: noun
+  plural_form: os congressos
+  gender: masculine
+  key: 1e76f879-c292-4d53-8cd0-9f60c42546ce
+- pt-pt: estranho
+  en: strange
+  word_type: adjective
+  positive: estranho
+  comparative: mais estranho
+  superlative: o mais estranho
+  key: f306c904-db2d-40b4-a1f5-3fe6a22b5a31
+- pt-pt: impossível
+  en: impossible
+  word_type: adjective
+  positive: impossível
+  comparative: mais impossível
+  superlative: o mais impossível
+  key: ed6052b3-7aff-43df-ab8b-d977a4a3ee75
+- pt-pt: infelizmente
+  en: unfortunately
+  word_type: adverb
+  key: 4ffcea07-01c3-4b33-93dc-8768db9b0411
+- pt-pt: inteiro
+  en: whole
+  word_type: adjective
+  positive: inteiro
+  comparative: mais inteiro
+  superlative: o mais inteiro
+  key: 99cf9bc2-b87a-43de-8813-a472a06384a0
+- pt-pt: o lixo
+  en: garbage
+  word_type: noun
+  plural_form: os lixos
+  gender: masculine
+  key: 81d98c0c-2558-43c5-ba5b-af8c99cfbe55
+- pt-pt: a matéria
+  en: matter
+  word_type: noun
+  plural_form: as matérias
+  gender: feminine
+  key: 5881f121-9976-45e1-8b0c-245256bcfc9e
+- pt-pt: a regra
+  en: rule
+  word_type: noun
+  plural_form: as regras
+  gender: feminine
+  key: 4e975888-f069-449c-9867-82cb875581e0
+- pt-pt: a responsabilidade
+  en: responsibility
+  word_type: noun
+  plural_form: as responsabilidades
+  gender: feminine
+  key: 3923e374-211d-40f9-a66e-d2b84b3fdaab
+- pt-pt: o telefone
+  en: telephone
+  word_type: noun
+  plural_form: os telefones
+  gender: masculine
+  key: ff3eaa4a-a6bf-4499-abf5-26222ff86b23
+- pt-pt: o tom
+  en: tone
+  word_type: noun
+  plural_form: os tons
+  gender: masculine
+  key: 2cb8576a-a773-450e-aa24-6d3a6da6d805
+- pt-pt: a troca
+  en: exchange
+  word_type: noun
+  plural_form: as trocas
+  gender: feminine
+  key: 049dac68-a372-4c9c-b5fd-45c7a5597701
+- pt-pt: a abertura
+  en: opening
+  word_type: noun
+  plural_form: as aberturas
+  gender: feminine
+  key: a7c383bb-b498-4789-8ee2-81c1fdd3c1cb
+- pt-pt: a análise
+  en: analysis
+  word_type: noun
+  plural_form: as análises
+  gender: feminine
+  key: e25f92e1-e5e0-4100-9a7d-733b33f2f9e1
+- pt-pt: breve
+  en: brief
+  word_type: adjective
+  positive: breve
+  comparative: mais breve
+  superlative: o mais breve
+  key: 15a5ff2a-0874-4c42-a21e-042acca2af75
+- pt-pt: o lixo
+  en: trash
+  word_type: noun
+  gender: masculine
+  key: 5d51f60b-c029-44d8-a648-5d78dfd25a83
+- pt-pt: a ciência
+  en: science
+  word_type: noun
+  plural_form: as ciências
+  gender: feminine
+  key: 640c620b-57b0-411a-be76-35fb6f7cee49
+- pt-pt: o comentário
+  en: comment
+  word_type: noun
+  plural_form: os comentários
+  gender: masculine
+  key: 83a2d1cd-b3b0-44df-8d06-dd78a1fde98b
+- pt-pt: considerar
+  en: to consider
+  word_type: verb
+  first_person_singular: considero
+  first_person_plural: consideramos
+  second_person_singular: consideras
+  second_person_plural: considerais
+  third_person_singular: considera
+  third_person_plural: consideram
+  key: 452959ab-d4d3-4894-85d4-5936782c60a1
+- pt-pt: o destino
+  en: destination
+  word_type: noun
+  plural_form: os destinos
+  gender: masculine
+  key: 0d97c949-cc1f-4eab-9d9f-79b132888a62
+- pt-pt: disponível
+  en: available
+  word_type: adjective
+  positive: disponível
+  comparative: mais disponível
+  superlative: o mais disponível
+  key: 6f458a96-95aa-4de4-a453-c9809a78f0a9
+- pt-pt: o efeito
+  en: effect
+  word_type: noun
+  plural_form: os efeitos
+  gender: masculine
+  key: e7164cda-6e4f-47d1-b9c2-69db0e07e9ed
+- pt-pt: global
+  en: global
+  word_type: adjective
+  positive: global
+  comparative: mais global
+  superlative: o mais global
+  key: dd11079b-39aa-48e2-b3b8-2b431b0cc03e
+- pt-pt: independente
+  en: independent
+  word_type: adjective
+  positive: independente
+  comparative: mais independente
+  superlative: o mais independente
+  key: 3069a902-1af3-4159-8593-8d8eb4b70b9b
+- pt-pt: a investigação
+  en: investigation
+  word_type: noun
+  plural_form: as investigações
+  gender: feminine
+  key: 9aad94eb-3f2f-4af7-bcfe-d53f298d8c67
+- pt-pt: o planeta
+  en: planet
+  word_type: noun
+  plural_form: os planetas
+  gender: masculine
+  key: 8aaead85-2cd4-42f3-a1d3-9e29d8d8e436
+- pt-pt: a questão
+  en: issue
+  word_type: noun
+  plural_form: as questões
+  gender: feminine
+  key: 71c1457e-f1a1-4a2a-85f6-ef9505e956cc
+- pt-pt: o tratamento
+  en: treatment
+  word_type: noun
+  plural_form: os tratamentos
+  gender: masculine
+  key: ad7d7dda-f3a6-49a9-93b9-ccc5bc83f0cc
+- pt-pt: o acidente
+  en: accident
+  word_type: noun
+  plural_form: os acidentes
+  gender: masculine
+  key: 39667bc9-6919-42fd-a9c8-cae815d709a6
+- pt-pt: a agência
+  en: agency
+  word_type: noun
+  plural_form: as agências
+  gender: feminine
+  key: 43b9426d-b3af-435c-b133-335e7b607cb9
+- pt-pt: aparecer
+  en: to appear
+  word_type: verb
+  first_person_singular: apareço
+  first_person_plural: aparecemos
+  second_person_singular: apareces
+  second_person_plural: apareceis
+  third_person_singular: aparece
+  third_person_plural: aparecem
+  key: 4dacdf0a-de4b-4dc9-8be5-0eb41b8c7d8f
+- pt-pt: o candidato
+  en: candidate
+  word_type: noun
+  plural_form: os candidatos
+  gender: masculine
+  key: c9f1f8f6-eaa2-431b-9134-60cdb11de88f
+- pt-pt: escolher
+  en: to choose
+  word_type: verb
+  first_person_singular: escolho
+  first_person_plural: escolhemos
+  second_person_singular: escolhes
+  second_person_plural: escolheis
+  third_person_singular: escolhe
+  third_person_plural: escolhem
+  key: 1c75b65d-fc4f-44c6-ab77-c06d08fe769d
+- pt-pt: francês
+  en: French
+  word_type: adjective
+  positive: francês
+  comparative: mais francês
+  superlative: o mais francês
+  key: af67c0b4-5217-4c28-85a7-d9ece0ef9ba3
+- pt-pt: lidar
+  en: to deal
+  word_type: verb
+  first_person_singular: lido
+  first_person_plural: lidamos
+  second_person_singular: lidas
+  second_person_plural: lidais
+  third_person_singular: lida
+  third_person_plural: lidam
+  key: cd70d87d-a0d0-470f-ab23-a697e1fccda1
+- pt-pt: parabéns
+  en: congratulations
+  word_type: other
+  key: a97a5c59-6a92-43ba-96ab-30a228e4e3ad
+- pt-pt: permitir
+  en: to allow
+  word_type: verb
+  first_person_singular: permito
+  first_person_plural: permitimos
+  second_person_singular: permites
+  second_person_plural: permitis
+  third_person_singular: permite
+  third_person_plural: permitem
+  key: 65f79bf4-d888-453f-a4cb-d517a530d5a9

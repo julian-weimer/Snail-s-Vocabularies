@@ -1,0 +1,331 @@
+- pt-pt: o diário
+  en: diary
+  word_type: noun
+  plural_form: os diários
+  gender: masculine
+  key: d2f033fe-60a7-4957-95e5-ae2f2c690f3c
+- pt-pt: a existência
+  en: existence
+  word_type: noun
+  plural_form: as existências
+  gender: feminine
+  key: bac2fa05-19e0-4f33-bc67-9e3fb5339e1a
+- pt-pt: o foco
+  en: focus
+  word_type: noun
+  plural_form: os focos
+  gender: masculine
+  key: d421955a-be97-4840-87a5-c6154438c2c1
+- pt-pt: geralmente
+  en: generally
+  word_type: adverb
+  key: 7ceb4b3a-4433-475b-82f1-219e9b23eaff
+- pt-pt: a ligação
+  en: link
+  word_type: noun
+  plural_form: as ligações
+  gender: feminine
+  key: 39cafb2d-bafd-4e6f-b539-da4a956d7f2e
+- pt-pt: melhorar
+  en: to improve
+  word_type: verb
+  first_person_singular: melhoro
+  first_person_plural: melhoramos
+  second_person_singular: melhoras
+  second_person_plural: melhorais
+  third_person_singular: melhora
+  third_person_plural: melhoram
+  key: 1cb0c020-29fa-4b8b-8584-120275d383a1
+- pt-pt: nascer
+  en: to be born
+  word_type: verb
+  first_person_singular: nasço
+  first_person_plural: nascemos
+  second_person_singular: nasces
+  second_person_plural: nasceis
+  third_person_singular: nasce
+  third_person_plural: nascem
+  key: 525d5aef-7434-459f-9795-c4e000ec917d
+- pt-pt: a opção
+  en: option
+  word_type: noun
+  plural_form: as opções
+  gender: feminine
+  key: fd363259-1ea9-4d4a-9475-8dc43d6ade3f
+- pt-pt: a passagem
+  en: passage
+  word_type: noun
+  plural_form: as passagens
+  gender: feminine
+  key: 701e4868-ffe0-4193-8109-ff81fc80e08f
+- pt-pt: perceber
+  en: to perceive
+  word_type: verb
+  first_person_singular: percebo
+  first_person_plural: percebemos
+  second_person_singular: percebes
+  second_person_plural: percebeis
+  third_person_singular: percebe
+  third_person_plural: percebem
+  key: 87ca5bb6-abf2-4cea-b975-8915dbcd1a03
+- pt-pt: a personagem
+  en: character
+  word_type: noun
+  plural_form: as personagens
+  gender: feminine
+  key: 25653ce9-edaa-488c-ab49-2331dba1e482
+- pt-pt: o príncipe
+  en: prince
+  word_type: noun
+  plural_form: os príncipes
+  gender: masculine
+  key: 32c5076e-2792-4d2a-a801-cd1ff1111f2e
+- pt-pt: o regime
+  en: regime
+  word_type: noun
+  plural_form: os regimes
+  gender: masculine
+  key: d1a3e71c-a8ae-4454-b388-3a549592f942
+- pt-pt: regional
+  en: regional
+  word_type: adjective
+  positive: regional
+  comparative: mais regional
+  superlative: o mais regional
+  key: 0a48b79f-b39c-431e-8ab1-65da5bfaa3a3
+- pt-pt: responder
+  en: to answer
+  word_type: verb
+  first_person_singular: respondo
+  first_person_plural: respondemos
+  second_person_singular: respondes
+  second_person_plural: respondeis
+  third_person_singular: responde
+  third_person_plural: respondem
+  key: 36efdd19-d355-4d02-a44d-0ebf2c90a0f1
+- pt-pt: afinal
+  en: after all
+  word_type: adverb
+  key: b0621f9a-9d37-4697-b5c5-f27b010941a6
+- pt-pt: alegre
+  en: cheerful
+  word_type: adjective
+  positive: alegre
+  comparative: mais alegre
+  superlative: o mais alegre
+  key: 894937fa-380e-4b68-b19d-2a671c9a5251
+- pt-pt: cair
+  en: to fall
+  word_type: verb
+  first_person_singular: caio
+  first_person_plural: caímos
+  second_person_singular: cais
+  second_person_plural: caís
+  third_person_singular: cai
+  third_person_plural: caem
+  key: 8875595b-277e-4003-966e-0158312af555
+- pt-pt: o campeonato
+  en: championship
+  word_type: noun
+  plural_form: os campeonatos
+  gender: masculine
+  key: 17f25580-3891-48a9-a9fa-703c76211655
+- pt-pt: o clima
+  en: climate
+  word_type: noun
+  plural_form: os climas
+  gender: masculine
+  key: 3e9f76d8-e7c5-4085-9006-3cfe8e81359e
+- pt-pt: completo
+  en: complete
+  word_type: adjective
+  positive: completo
+  comparative: mais completo
+  superlative: o mais completo
+  key: 5b15753a-93bf-41a9-97cb-5b19c78e81ff
+- pt-pt: o conceito
+  en: concept
+  word_type: noun
+  plural_form: os conceitos
+  gender: masculine
+  key: a26bf8f2-8cca-46c2-bf3c-61164d1bda31
+- pt-pt: a crítica
+  en: criticism
+  word_type: noun
+  plural_form: as críticas
+  gender: feminine
+  key: c185d1f8-4789-45a1-9765-8d194b0505c5
+- pt-pt: aquele
+  en: that (masculine singular)
+  word_type: pronoun
+  key: 322a7efa-ce72-454a-bc29-3a72647b6279
+- pt-pt: o detalhe
+  en: detail
+  word_type: noun
+  plural_form: os detalhes
+  gender: masculine
+  key: 1e67cd24-1eac-4e62-b89f-ae5afd733184
+- pt-pt: espanhol
+  en: Spanish
+  word_type: adjective
+  positive: espanhol
+  comparative: mais espanhol
+  superlative: o mais espanhol
+  key: 9ec2adaa-1047-49c0-a53e-99d48b438fc2
+- pt-pt: a fundação
+  en: foundation
+  word_type: noun
+  plural_form: as fundações
+  gender: feminine
+  key: a2d609bf-9670-479b-b86f-6576d7b49e83
+- pt-pt: gay
+  en: gay
+  word_type: adjective
+  positive: gay
+  comparative: mais gay
+  superlative: o mais gay
+  key: 103b2307-e59c-4c20-9544-9c730dbd02c8
+- pt-pt: o/a jornalista
+  en: journalist
+  word_type: noun
+  plural_form: os/as jornalistas
+  gender: masculine
+  key: f3b43803-6ae8-4a29-84b5-74992a6ae8e2
+- pt-pt: lançar
+  en: to launch
+  word_type: verb
+  first_person_singular: lanço
+  first_person_plural: lançamos
+  second_person_singular: lanças
+  second_person_plural: lançais
+  third_person_singular: lança
+  third_person_plural: lançam
+  key: b5344fe1-dd20-4db7-ac43-5d7e265f5d56
+- pt-pt: a mídia
+  en: media
+  word_type: noun
+  plural_form: as mídias
+  gender: feminine
+  key: 224b1be1-9dad-4364-b333-64285cf55076
+- pt-pt: a perda
+  en: loss
+  word_type: noun
+  plural_form: as perdas
+  gender: feminine
+  key: 18301564-3a33-4827-9799-e3160998832f
+- pt-pt: presente
+  en: present
+  word_type: adjective
+  positive: presente
+  comparative: mais presente
+  superlative: o mais presente
+  key: de6be32f-425e-4e6a-8671-3929420e4e28
+- pt-pt: a rosa
+  en: rose
+  word_type: noun
+  plural_form: as rosas
+  gender: feminine
+  key: 30029f96-db9d-4c08-8736-476e4156feae
+- pt-pt: o segundo
+  en: second (time)
+  word_type: noun
+  plural_form: os segundos
+  gender: masculine
+  key: 8ad2ad88-12d0-467f-80db-ee07a002f7f1
+- pt-pt: anunciar
+  en: to announce
+  word_type: verb
+  first_person_singular: anuncio
+  first_person_plural: anunciamos
+  second_person_singular: anuncias
+  second_person_plural: anunciais
+  third_person_singular: anuncia
+  third_person_plural: anunciam
+  key: 35488994-7dde-41b0-8857-cb76cd108329
+- pt-pt: aumentar
+  en: to increase
+  word_type: verb
+  first_person_singular: aumento
+  first_person_plural: aumentamos
+  second_person_singular: aumentas
+  second_person_plural: aumentais
+  third_person_singular: aumenta
+  third_person_plural: aumentam
+  key: d30b6ec3-baab-464c-9c01-eef7942739b8
+- pt-pt: a compra
+  en: purchase
+  word_type: noun
+  plural_form: as compras
+  gender: feminine
+  key: 7046104f-69bc-41fc-8f2c-09573f999ac8
+- pt-pt: conforme
+  en: according to
+  word_type: preposition
+  key: 9ac2f0c9-c974-4171-a39e-407460861638
+- pt-pt: o escritor
+  en: writer
+  word_type: noun
+  plural_form: os escritores
+  gender: masculine
+  key: b2980c89-c8b1-4b1a-9ea1-d5dbece720c3
+- pt-pt: a fronteira
+  en: border
+  word_type: noun
+  plural_form: as fronteiras
+  gender: feminine
+  key: 68afd810-79db-42f9-8713-d404e098377d
+- pt-pt: o funcionário
+  en: employee
+  word_type: noun
+  plural_form: os funcionários
+  gender: masculine
+  key: c04c1b74-60a8-4cb5-aee3-9e8801e1cbbc
+- pt-pt: garantir
+  en: to guarantee
+  word_type: verb
+  first_person_singular: garanto
+  first_person_plural: garantimos
+  second_person_singular: garantes
+  second_person_plural: garantis
+  third_person_singular: garante
+  third_person_plural: garantem
+  key: 0aef61cc-d610-47f2-96fa-91a10d1b4120
+- pt-pt: a literatura
+  en: literature
+  word_type: noun
+  plural_form: as literaturas
+  gender: feminine
+  key: 0c93fcc8-b588-4603-afbe-0cb593345e94
+- pt-pt: máximo
+  en: maximum
+  word_type: adjective
+  positive: máximo
+  comparative: mais máximo
+  superlative: o mais máximo
+  key: a377ef3a-6304-4758-8bb2-0001fde840ad
+- pt-pt: nele
+  en: in him
+  word_type: pronoun
+  key: a3945e64-7e32-43eb-8b90-23828b1577ad
+- pt-pt: a possibilidade
+  en: possibility
+  word_type: noun
+  plural_form: as possibilidades
+  gender: feminine
+  key: cb73fd1f-50c5-4fbd-8051-904a4ec687d3
+- pt-pt: a publicação
+  en: publication
+  word_type: noun
+  plural_form: as publicações
+  gender: feminine
+  key: 8936dfc1-82b7-4c97-be75-c23588fa4d53
+- pt-pt: recentemente
+  en: recently
+  word_type: adverb
+  key: 6a7fe490-b505-4257-8b28-5f40d0ab81a6
+- pt-pt: o secretário
+  en: secretary
+  word_type: noun
+  plural_form: os secretários
+  gender: masculine
+  key: c0bcc416-2c4d-42b4-9546-758276c2d9c9

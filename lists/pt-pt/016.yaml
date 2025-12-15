@@ -1,0 +1,306 @@
+- key: 735d6621-1d73-4cfd-a5d9-4b59ecd7e71b
+  en: president
+  pt-pt: o presidente
+  word_type: noun
+  gender: masculine
+  plural_form: os presidentes
+- key: d9ec382c-2238-4c65-9b26-b57df875287b
+  en: energy
+  pt-pt: a energia
+  word_type: noun
+  gender: feminine
+  plural_form: as energias
+- key: 1d35911e-d171-4891-a015-04e4200cd316
+  en: heat
+  pt-pt: o calor
+  word_type: noun
+  gender: masculine
+  plural_form: os calores
+- key: 0bcbaf35-61d0-42de-a40f-08597b1bd232
+  en: light (illumination)
+  pt-pt: a luz
+  word_type: noun
+  gender: feminine
+  plural_form: as luzes
+- key: 769ae8e3-463b-4abf-8307-ce91db5c7fc0
+  en: sound
+  pt-pt: o som
+  word_type: noun
+  gender: masculine
+  plural_form: os sons
+- key: 077c5f43-945e-4429-aa9c-9a421d4c7ead
+  en: temperature
+  pt-pt: a temperatura
+  word_type: noun
+  gender: feminine
+  plural_form: as temperaturas
+- key: 88a157af-6aa8-423f-bd84-c7b384ec3971
+  en: a
+  pt-pt: um/uma
+  word_type: other
+- key: e81fc203-4979-4a89-8e81-22f6bd57b7f0
+  en: the
+  pt-pt: o
+  word_type: other
+- key: 168ee8f6-613f-44df-95f3-34f3c9b470d1
+  en: of the
+  pt-pt: do
+  word_type: preposition
+- key: f25bdf83-e069-4e36-b577-ef084c3e41be
+  en: is
+  pt-pt: é
+  word_type: verb
+  first_person_singular: eu sou
+  first_person_plural: nós somos
+  second_person_singular: tu és
+  second_person_plural: vós sois
+  third_person_singular: ele/ela é
+  third_person_plural: eles/elas são
+- key: 1096ecc2-0f65-4a32-a83d-a7aa0a03404e
+  en: a/an
+  pt-pt: uma
+  word_type: other
+- key: 7c0a8462-41da-44dd-a355-4e4fe57901ea
+  en: in the
+  pt-pt: 'no'
+  word_type: preposition
+- key: 958bc06f-3a70-44fa-9ff4-cd96eb6e03b6
+  en: oneself
+  pt-pt: se
+  word_type: pronoun
+- key: 47a51d5c-c52e-45b8-a657-4e1d8d135a5e
+  en: by
+  pt-pt: por
+  word_type: preposition
+- key: 8cbad712-20cf-440e-a9ec-ce4fb9adb375
+  en: was
+  pt-pt: foi
+  word_type: verb
+  first_person_singular: eu sou
+  first_person_plural: nós somos
+  second_person_singular: tu és
+  second_person_plural: vós sois
+  third_person_singular: ele/ela é
+  third_person_plural: eles/elas são
+- key: be9e4f1f-e387-46b4-a1a8-801955e3f66b
+  en: to the
+  pt-pt: ao
+  word_type: preposition
+- key: 44276ad9-fd48-4679-971b-485325b0e94d
+  en: to be
+  pt-pt: ser
+  word_type: verb
+  first_person_singular: eu sou
+  first_person_plural: nós somos
+  second_person_singular: tu és
+  second_person_plural: vós sois
+  third_person_singular: ele/ela é
+  third_person_plural: eles/elas são
+- key: 760b6e66-47a2-4eee-9be9-079cb44ad7c0
+  en: his/her
+  pt-pt: sua
+  word_type: pronoun
+- key: 39002df4-9fbf-4582-9d0f-04a503542919
+  en: has
+  pt-pt: tem
+  word_type: verb
+  first_person_singular: eu tenho
+  first_person_plural: nós temos
+  second_person_singular: tu tens
+  second_person_plural: vós tendes
+  third_person_singular: ele/ela tem
+  third_person_plural: eles/elas têm
+- key: 2bb261d7-1de0-4fb0-9e0e-26aabd1b782f
+  en: are
+  pt-pt: são
+  word_type: verb
+  first_person_singular: eu sou
+  first_person_plural: nós somos
+  second_person_singular: tu és
+  second_person_plural: vós sois
+  third_person_singular: ele/ela é
+  third_person_plural: eles/elas são
+- key: 05cca093-7084-4449-9afe-df9b7ef51f88
+  en: us/in the
+  pt-pt: nós
+  word_type: pronoun
+- key: 9bda5b73-dd21-443a-a2c7-1b0deb6c38d6
+  en: by the
+  pt-pt: pelo
+  word_type: preposition
+- key: 52426e77-32fa-4b2b-8605-98451776e756
+  en: goes
+  pt-pt: vai
+  word_type: verb
+  first_person_singular: eu vou
+  first_person_plural: nós vamos
+  second_person_singular: tu vais
+  second_person_plural: vós ides
+  third_person_singular: ele/ela vai
+  third_person_plural: eles/elas vão
+- key: 0574bdd3-795e-4d3d-aa02-88ab7e9232f2
+  en: only
+  pt-pt: só
+  word_type: adverb
+- key: da87c100-d95b-44aa-be51-5d215e6f51d2
+  en: well
+  pt-pt: bem
+  word_type: adverb
+- key: 04a7a4b2-51c8-43e2-9670-0953a3303aca
+  en: can
+  pt-pt: pode
+  word_type: verb
+  first_person_singular: eu posso
+  first_person_plural: nós podemos
+  second_person_singular: tu podes
+  second_person_plural: vós podeis
+  third_person_singular: ele/ela pode
+  third_person_plural: eles/elas podem
+- key: 85f35480-9d50-4430-96d4-8ac136c8697f
+  en: my
+  pt-pt: minha
+  word_type: pronoun
+- key: cb5ef4b7-1503-4d7d-8566-6659ab1ab3d5
+  en: without
+  pt-pt: sem
+  word_type: preposition
+- pt-pt: a vida
+  en: life
+  word_type: noun
+  plural_form: as vidas
+  gender: feminine
+  key: 1f0ca085-6c38-4944-bcb2-3d973da5610d
+- pt-pt: eles
+  en: they
+  word_type: pronoun
+  key: 286ee4ef-1a47-4c01-b6a0-ead951078ca8
+- pt-pt: a casa
+  en: house
+  word_type: noun
+  plural_form: as casas
+  gender: feminine
+  key: 1c8ddf4c-3dc9-4420-a448-c0b13bdda5a1
+- pt-pt: saber
+  en: to know
+  word_type: verb
+  first_person_singular: sei
+  first_person_plural: sabemos
+  second_person_singular: sabes
+  second_person_plural: sabeis
+  third_person_singular: sabe
+  third_person_plural: sabem
+  key: 4e4b2f73-eb8f-47e8-9697-b884ee95fef1
+- pt-pt: nem
+  en: neither
+  word_type: conjunction
+  key: 4e4e1c19-42d4-4d26-bcca-3793c50ea081
+- pt-pt: o trabalho
+  en: work
+  word_type: noun
+  plural_form: os trabalhos
+  gender: masculine
+  key: f2a8c8d8-4967-41f2-af77-4f64b789fbe0
+- pt-pt: o estado
+  en: state
+  word_type: noun
+  plural_form: os estados
+  gender: masculine
+  key: f6dcaf8a-f30f-4215-9b65-5ec27da8a19a
+- pt-pt: a forma
+  en: form
+  word_type: noun
+  plural_form: as formas
+  gender: feminine
+  key: 6e52284c-b58f-41c9-a025-be611deb5698
+- pt-pt: para
+  en: for
+  word_type: preposition
+  key: 4e5a8432-3ddf-4de3-bf0a-e329c6f638bd
+- pt-pt: menos
+  en: less
+  word_type: adverb
+  positive: menos
+  comparative: menos ainda
+  superlative: o mínimo
+  key: 25c9c39f-9026-4af0-a4f2-a8c98c15c9fa
+- pt-pt: alguém
+  en: someone
+  word_type: pronoun
+  key: 63120656-83d9-4a5c-9ef1-7e1929b902e4
+- pt-pt: desde
+  en: since
+  word_type: preposition
+  key: bea265a7-b478-4d3a-9245-8db0d5736a69
+- pt-pt: falar
+  en: to speak
+  word_type: verb
+  first_person_singular: eu falo
+  first_person_plural: nós falamos
+  second_person_singular: tu falas
+  second_person_plural: vós falais
+  third_person_singular: ele/ela fala
+  third_person_plural: eles/elas falam
+  key: 569caf1b-c8a7-4be7-beb5-21916bac8f14
+- pt-pt: contra
+  en: against
+  word_type: preposition
+  key: 025e1a6f-71c0-4c92-91f9-a406d502ff3d
+- pt-pt: estar
+  en: to be (location/state)
+  word_type: verb
+  first_person_singular: eu estou
+  first_person_plural: nós estamos
+  second_person_singular: tu estás
+  second_person_plural: vós estais
+  third_person_singular: ele/ela está
+  third_person_plural: eles/elas estão
+  key: e40ed1d9-8448-4b50-9029-3994b1f61f5b
+- pt-pt: pouco
+  en: little
+  word_type: adverb
+  positive: pouco
+  comparative: menos
+  superlative: pouquíssimo
+  key: 917f621c-9e85-42c9-800a-aff5c33904c6
+- pt-pt: além
+  en: beyond
+  word_type: preposition
+  key: e93d1aa5-616e-4e1e-9c14-84db0412e11e
+- pt-pt: a noite
+  en: night
+  word_type: noun
+  plural_form: as noites
+  gender: feminine
+  key: a037041d-a8ae-4301-91ad-477cd6edebdf
+- pt-pt: o caso
+  en: case
+  word_type: noun
+  plural_form: os casos
+  gender: masculine
+  key: fd84d3d4-5c7d-46aa-bcd2-97e4c24ad82e
+- pt-pt: dever
+  en: to must
+  word_type: verb
+  first_person_singular: eu devo
+  first_person_plural: nós devemos
+  second_person_singular: tu deves
+  second_person_plural: vós deveis
+  third_person_singular: ele/ela deve
+  third_person_plural: eles/elas devem
+  key: 10ed5590-c909-48a0-8c11-e2619007185c
+- pt-pt: poder
+  en: to be able to
+  word_type: verb
+  first_person_singular: eu posso
+  first_person_plural: nós podemos
+  second_person_singular: tu podes
+  second_person_plural: vós podeis
+  third_person_singular: ele/ela pode
+  third_person_plural: eles/elas podem
+  key: 99ccd9a1-5017-49a8-82aa-daf8459a58d5
+- pt-pt: a vez
+  en: time (instance)
+  word_type: noun
+  plural_form: as vezes
+  gender: feminine
+  key: deb72b74-1a09-4682-9c20-c7342148182d

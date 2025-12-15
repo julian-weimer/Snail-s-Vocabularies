@@ -1,0 +1,343 @@
+- pt-pt: a tradução
+  en: translation
+  word_type: noun
+  plural_form: as traduções
+  gender: feminine
+  key: 5db555be-5098-4822-8982-19cc12d092e9
+- pt-pt: o valor
+  en: value
+  word_type: noun
+  plural_form: os valores
+  gender: masculine
+  key: 1fe88ba1-578b-4cc9-b002-07466dd27e1d
+- pt-pt: ah
+  en: ah
+  word_type: other
+  key: 751aee83-2044-4ec4-9bac-73cbe1a098c3
+- pt-pt: chamado
+  en: called
+  word_type: adjective
+  positive: chamado
+  comparative: mais chamado
+  superlative: o mais chamado
+  key: 3452c303-a25a-4ad4-8714-e3944ada8e06
+- pt-pt: daqui
+  en: from here
+  word_type: adverb
+  key: 764d1023-b737-4d4e-90cc-cce960b0ac63
+- pt-pt: a edição
+  en: edition
+  word_type: noun
+  plural_form: as edições
+  gender: feminine
+  key: 24a00785-785d-44f2-bfdc-253cb97e8a77
+- pt-pt: o encontro
+  en: meeting
+  word_type: noun
+  plural_form: os encontros
+  gender: masculine
+  key: 5a5f00d1-aae0-4139-acd2-311c39c5cad6
+- pt-pt: a luta
+  en: fight
+  word_type: noun
+  plural_form: as lutas
+  gender: feminine
+  key: 5ae9ca20-02d4-41e0-b474-c723d12a4186
+- pt-pt: a organização
+  en: organization
+  word_type: noun
+  plural_form: as organizações
+  gender: feminine
+  key: 94015581-9fba-4c33-b4f8-32d0570f5875
+- pt-pt: significar
+  en: to mean
+  word_type: verb
+  first_person_singular: eu significo
+  first_person_plural: nós significamos
+  second_person_singular: tu significas
+  second_person_plural: vós significais
+  third_person_singular: ele/ela significa
+  third_person_plural: eles/elas significam
+  key: 77310bc2-1ad5-4c1f-9211-0e805e8bd1ba
+- pt-pt: amar
+  en: to love
+  word_type: verb
+  first_person_singular: eu amo
+  first_person_plural: nós amamos
+  second_person_singular: tu amas
+  second_person_plural: vós amais
+  third_person_singular: ele/ela ama
+  third_person_plural: eles/elas amam
+  key: 0f2d7cfc-2371-438c-bbba-6665ac9cb1b6
+- pt-pt: o assunto
+  en: subject
+  word_type: noun
+  plural_form: os assuntos
+  gender: masculine
+  key: 42406cdd-4f64-46e0-9282-122620dfde97
+- pt-pt: central
+  en: central
+  word_type: adjective
+  positive: central
+  comparative: mais central
+  superlative: o mais central
+  key: 1191ece6-66b3-4dd8-b860-d5237a1adc22
+- pt-pt: comum
+  en: common
+  word_type: adjective
+  positive: comum
+  comparative: mais comum
+  superlative: o mais comum
+  key: daa0d73a-b975-40a5-8c4f-d59419276ae0
+- pt-pt: conseguir
+  en: to manage
+  word_type: verb
+  first_person_singular: eu consigo
+  first_person_plural: nós conseguimos
+  second_person_singular: tu consegues
+  second_person_plural: vós conseguis
+  third_person_singular: ele/ela consegue
+  third_person_plural: eles/elas conseguem
+  key: f52edd20-1462-422a-9831-e6a9be8118b2
+- pt-pt: haver
+  en: to be (there)
+  word_type: verb
+  first_person_singular: eu hei
+  first_person_plural: nós havemos
+  second_person_singular: tu hás
+  second_person_plural: vós haveis
+  third_person_singular: ele/ela há
+  third_person_plural: eles/elas hão
+  key: 0042ea50-8111-4b1f-b0ff-17fc63a4bc00
+- pt-pt: maior
+  en: bigger
+  word_type: adjective
+  positive: grande
+  comparative: maior
+  superlative: o maior
+  key: 38bb0492-5814-4d45-8324-cf5ba829ddfc
+- pt-pt: a tecnologia
+  en: technology
+  word_type: noun
+  plural_form: as tecnologias
+  gender: feminine
+  key: 2b062438-b88e-473f-88bf-962bcc17aa16
+- pt-pt: a época
+  en: era
+  word_type: noun
+  plural_form: as épocas
+  gender: feminine
+  key: fef88774-3428-4ad7-8637-7143a9283769
+- pt-pt: o artigo
+  en: article
+  word_type: noun
+  plural_form: os artigos
+  gender: masculine
+  key: a35ced37-cefd-4c00-a489-8fbd35e396f5
+- pt-pt: a comunidade
+  en: community
+  word_type: noun
+  plural_form: as comunidades
+  gender: feminine
+  key: 4817b383-31b8-42eb-b41c-18cc5f2f24aa
+- pt-pt: criar
+  en: to create
+  word_type: verb
+  first_person_singular: eu crio
+  first_person_plural: nós criamos
+  second_person_singular: tu crias
+  second_person_plural: vós criais
+  third_person_singular: ele/ela cria
+  third_person_plural: eles/elas criam
+  key: 15f032ab-03b2-4be9-9f38-d85136e70dab
+- pt-pt: longe
+  en: far
+  word_type: adverb
+  key: bb8fb5ec-eae7-4b25-99b6-730d1fc8fde9
+- pt-pt: a prova
+  en: proof
+  word_type: noun
+  plural_form: as provas
+  gender: feminine
+  key: 5c87ef28-eefe-4e97-95a8-fb47b681d5d2
+- pt-pt: a vontade
+  en: will
+  word_type: noun
+  plural_form: as vontades
+  gender: feminine
+  key: 7fa40222-6c76-49cf-8a88-014bcf0ec552
+- pt-pt: acima
+  en: above
+  word_type: adverb
+  key: 9206bf4c-493d-43a9-8603-75285c70a22e
+- pt-pt: atual
+  en: current
+  word_type: adjective
+  positive: atual
+  comparative: mais atual
+  superlative: o mais atual
+  key: c60346c0-6dfc-4d87-8c8e-3b6f77e616f2
+- pt-pt: civil
+  en: civil
+  word_type: adjective
+  positive: civil
+  comparative: mais civil
+  superlative: o mais civil
+  key: ae9f6d28-5ae8-446d-a48b-c2f5d72658ee
+- pt-pt: colocar
+  en: to place
+  word_type: verb
+  first_person_singular: eu coloco
+  first_person_plural: nós colocamos
+  second_person_singular: tu colocas
+  second_person_plural: vós colocais
+  third_person_singular: ele/ela coloca
+  third_person_plural: eles/elas colocam
+  key: 911eabc8-9bee-4744-b131-5d04d0760c11
+- pt-pt: errado
+  en: wrong
+  word_type: adjective
+  positive: errado
+  comparative: mais errado
+  superlative: o mais errado
+  key: 8ac11397-fcf6-4359-8e5c-782537de2d6e
+- pt-pt: incluindo
+  en: including
+  word_type: preposition
+  key: f264b58c-7540-4b58-b90c-3af5e80fa5f0
+- pt-pt: perder
+  en: to lose
+  word_type: verb
+  first_person_singular: eu perco
+  first_person_plural: nós perdemos
+  second_person_singular: tu perdes
+  second_person_plural: vós perdeis
+  third_person_singular: ele/ela perde
+  third_person_plural: eles/elas perdem
+  key: 461af3a9-efb5-4fa0-bc4e-0892826d29bc
+- pt-pt: a página
+  en: page
+  word_type: noun
+  plural_form: as páginas
+  gender: feminine
+  key: 03e1c0e8-1b10-401a-ac56-0c9bfa82f3e9
+- pt-pt: abaixo
+  en: below
+  word_type: adverb
+  key: 5b8a2253-05ab-4993-8648-9ef883e8958e
+- pt-pt: a participação
+  en: participation
+  word_type: noun
+  plural_form: as participações
+  gender: feminine
+  key: 3c3ba0b8-a3d8-482e-b7cb-da40b32c41df
+- pt-pt: a posição
+  en: position
+  word_type: noun
+  plural_form: as posições
+  gender: feminine
+  key: e12711be-d397-4650-a73c-007a61cbb59a
+- pt-pt: possuir
+  en: to possess
+  word_type: verb
+  first_person_singular: eu possuo
+  first_person_plural: nós possuímos
+  second_person_singular: tu possuis
+  second_person_plural: vós possuís
+  third_person_singular: ele/ela possui
+  third_person_plural: eles/elas possuem
+  key: c2914d13-e265-4433-a998-a61c900a8890
+- pt-pt: super
+  en: super
+  word_type: adjective
+  positive: super
+  comparative: mais super
+  superlative: o mais super
+  key: 5df0e441-3ef2-48dc-a3a0-f96c98c526be
+- pt-pt: continuar
+  en: to continue
+  word_type: verb
+  first_person_singular: eu continuo
+  first_person_plural: nós continuamos
+  second_person_singular: tu continuas
+  second_person_plural: vós continuais
+  third_person_singular: ele/ela continua
+  third_person_plural: eles/elas continuam
+  key: 5afd3e8c-1f0f-4eb7-a526-df4d33e57d89
+- pt-pt: a defesa
+  en: defense
+  word_type: noun
+  plural_form: as defesas
+  gender: feminine
+  key: 1ec26d06-0184-47f4-91a7-c7ce8411cd0d
+- pt-pt: online
+  en: online
+  word_type: adjective
+  positive: online
+  comparative: mais online
+  superlative: o mais online
+  key: 72fa45c5-d332-41c5-8979-c1f5e3aa34ae
+- pt-pt: original
+  en: original
+  word_type: adjective
+  positive: original
+  comparative: mais original
+  superlative: o mais original
+  key: 47a8ed16-b8dc-4086-b03a-08d86271d772
+- pt-pt: simples
+  en: simple
+  word_type: adjective
+  positive: simples
+  comparative: mais simples
+  superlative: o mais simples
+  key: 6f9c455d-fe55-469a-9d49-a168e124c363
+- pt-pt: a versão
+  en: version
+  word_type: noun
+  plural_form: as versões
+  gender: feminine
+  key: d7a25245-04a3-4942-a1f3-c61a41f61388
+- pt-pt: a vitória
+  en: victory
+  word_type: noun
+  plural_form: as vitórias
+  gender: feminine
+  key: 2e397ab9-1dfd-4f4b-bc23-8038692b9191
+- pt-pt: o canal
+  en: channel
+  word_type: noun
+  plural_form: os canais
+  gender: masculine
+  key: 18994765-fdc5-433d-a43c-6033cb7ed004
+- pt-pt: a comunicação
+  en: communication
+  word_type: noun
+  plural_form: as comunicações
+  gender: feminine
+  key: 041319e0-b698-4904-aa5d-4c0a1ab2c829
+- pt-pt: o ministério
+  en: ministry
+  word_type: noun
+  plural_form: os ministérios
+  gender: masculine
+  key: 42600e63-be1f-46f8-84c8-2dc5856693be
+- pt-pt: morrer
+  en: to die
+  word_type: verb
+  first_person_singular: eu morro
+  first_person_plural: nós morremos
+  second_person_singular: tu morres
+  second_person_plural: vós morreis
+  third_person_singular: ele/ela morre
+  third_person_plural: eles/elas morrem
+  key: ed681d0c-e51d-4378-b073-eaeedfc5b5c7
+- pt-pt: pegar
+  en: to catch
+  word_type: verb
+  first_person_singular: eu pego
+  first_person_plural: nós pegamos
+  second_person_singular: tu pegas
+  second_person_plural: vós pegais
+  third_person_singular: ele/ela pega
+  third_person_plural: eles/elas pegam
+  key: 737997d2-b4dc-4118-b7e8-bf6008ce1724
