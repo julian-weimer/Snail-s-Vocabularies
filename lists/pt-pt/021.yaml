@@ -1,0 +1,348 @@
+- pt-pt: a comunidade
+  en: community
+  word_type: noun
+  gender: feminine
+  plural_form: as comunidades
+  key: 43d2dc90-3aef-4fdb-b3ab-9b977b706ed6
+- pt-pt: criar
+  en: to create
+  word_type: verb
+  first_person_singular: eu crio
+  second_person_singular: tu crias
+  third_person_singular: ele/ela cria
+  first_person_plural: nós criamos
+  second_person_plural: vós criais
+  third_person_plural: eles/elas criam
+  key: 52aba1ff-6587-41ff-bf9c-fc9839f37c7a
+- pt-pt: longe
+  en: far
+  word_type: adverb
+  key: 86baf326-5794-4bc3-9d56-9e58eac37a2d
+- pt-pt: a prova
+  en: proof
+  word_type: noun
+  gender: feminine
+  plural_form: as provas
+  key: 16593220-49c6-4993-a1a3-f1482e1e02fd
+- pt-pt: a vontade
+  en: will (desire)
+  word_type: noun
+  gender: feminine
+  plural_form: as vontades
+  key: 71937f11-fd53-4025-b367-f7e59029a421
+- pt-pt: acima
+  en: above
+  word_type: adverb
+  key: 50091b87-1cea-4382-a69f-334f8c652581
+- pt-pt: atual
+  en: current
+  word_type: adjective
+  positive: atual
+  comparative: mais atual
+  superlative: o mais atual
+  key: c0b81629-9d5b-470a-afaf-729a28c7aebe
+- pt-pt: civil
+  en: civil
+  word_type: adjective
+  positive: civil
+  comparative: mais civil
+  superlative: o mais civil
+  key: 8a2a8d46-aa11-403d-800b-0697ef4e665b
+- pt-pt: colocar
+  en: to place
+  word_type: verb
+  first_person_singular: eu coloco
+  second_person_singular: tu colocas
+  third_person_singular: ele/ela coloca
+  first_person_plural: nós colocamos
+  second_person_plural: vós colocais
+  third_person_plural: eles/elas colocam
+  key: f0c1cc6e-42fa-4f64-92c6-fe34bfe3a8c5
+- pt-pt: errado
+  en: wrong
+  word_type: adjective
+  positive: errado
+  comparative: mais errado
+  superlative: o mais errado
+  key: cf780a7e-d34b-45c9-8ae5-930a89c720d3
+- pt-pt: incluir
+  en: to include
+  word_type: verb
+  first_person_singular: eu incluo
+  second_person_singular: tu incluis
+  third_person_singular: ele/ela inclui
+  first_person_plural: nós incluímos
+  second_person_plural: vós incluís
+  third_person_plural: eles/elas incluem
+  key: 61f4ccda-6765-4df9-9d74-637f85b9bdc2
+- pt-pt: a obra
+  en: work (artistic or literary)
+  word_type: noun
+  gender: feminine
+  plural_form: as obras
+  key: 16f94aac-8f9a-46c9-be87-661cd0fa53cc
+- pt-pt: perder
+  en: to lose
+  word_type: verb
+  first_person_singular: eu perco
+  second_person_singular: tu perdes
+  third_person_singular: ele/ela perde
+  first_person_plural: nós perdemos
+  second_person_plural: vós perdeis
+  third_person_plural: eles/elas perdem
+  key: 6ae7fd0c-b2c2-45d9-930e-bfc9fff2f948
+- pt-pt: a página
+  en: page
+  word_type: noun
+  gender: feminine
+  plural_form: as páginas
+  key: 1b5b6c37-30e8-4420-bb70-37117658abe1
+- pt-pt: somente
+  en: only
+  word_type: adverb
+  key: 53358d5f-5735-4876-bc13-113ecc8a3cf5
+- pt-pt: abaixo
+  en: below
+  word_type: adverb
+  key: 45a7ac2d-a9bb-4e82-b42d-b596d4a289de
+- pt-pt: conhecer
+  en: to know (a person or place)
+  word_type: verb
+  first_person_singular: eu conheço
+  second_person_singular: tu conheces
+  third_person_singular: ele/ela conhece
+  first_person_plural: nós conhecemos
+  second_person_plural: vós conheceis
+  third_person_plural: eles/elas conhecem
+  key: fa23c49a-5ec1-413b-b440-39e0c3602463
+- pt-pt: a participação
+  en: participation
+  word_type: noun
+  gender: feminine
+  plural_form: as participações
+  key: f8cfa6c3-83cd-46d4-985d-3401362bc0c5
+- pt-pt: pedir
+  en: to ask (for something)
+  word_type: verb
+  first_person_singular: eu peço
+  second_person_singular: tu pedes
+  third_person_singular: ele/ela pede
+  first_person_plural: nós pedimos
+  second_person_plural: vós pedis
+  third_person_plural: eles/elas pedem
+  key: dc4f0502-fa45-49f9-96a1-d56c263bd46e
+- pt-pt: a posição
+  en: position
+  word_type: noun
+  gender: feminine
+  plural_form: as posições
+  key: 78dad648-c48a-4785-b2b7-9b58f978e84a
+- pt-pt: possuir
+  en: to possess
+  word_type: verb
+  first_person_singular: eu possuo
+  second_person_singular: tu possuis
+  third_person_singular: ele/ela possui
+  first_person_plural: nós possuímos
+  second_person_plural: vós possuís
+  third_person_plural: eles/elas possuem
+  key: c33f54c4-cce5-462b-9843-93831acd4078
+- pt-pt: super
+  en: super
+  word_type: adverb
+  key: 8194a4d8-387c-4c71-b8bb-d1aa4dd0d1b1
+- pt-pt: continuar
+  en: to continue
+  word_type: verb
+  first_person_singular: eu continuo
+  second_person_singular: tu continuas
+  third_person_singular: ele/ela continua
+  first_person_plural: nós continuamos
+  second_person_plural: vós continuais
+  third_person_plural: eles/elas continuam
+  key: d7b54cd0-f4cb-408e-909e-f719588295ae
+- pt-pt: a defesa
+  en: defense
+  word_type: noun
+  gender: feminine
+  plural_form: as defesas
+  key: 7f5f0074-07fe-4d3c-b30e-db364435907b
+- pt-pt: online
+  en: online
+  word_type: adjective
+  positive: online
+  comparative: mais online
+  superlative: o mais online
+  key: 6f50d267-ca10-4595-bf7a-c4b2fe51d49b
+- pt-pt: original
+  en: original
+  word_type: adjective
+  positive: original
+  comparative: mais original
+  superlative: o mais original
+  key: 34cc2053-dd24-4add-853f-8d82d4c8a280
+- pt-pt: simples
+  en: simple
+  word_type: adjective
+  positive: simples
+  comparative: mais simples
+  superlative: o mais simples
+  key: 9aacd9be-c078-46b9-beef-abcd5b0dd268
+- pt-pt: a versão
+  en: version
+  word_type: noun
+  gender: feminine
+  plural_form: as versões
+  key: 948fb827-e8e2-4ad2-a695-b1d077f4cb60
+- pt-pt: a vitória
+  en: victory
+  word_type: noun
+  gender: feminine
+  plural_form: as vitórias
+  key: ddb7b308-cbb1-4cbd-ae14-4d6b7c4a5828
+- pt-pt: o canal
+  en: channel
+  word_type: noun
+  gender: masculine
+  plural_form: os canais
+  key: 8080f247-33a3-44ae-ae60-c46fefa216ed
+- pt-pt: a comunicação
+  en: communication
+  word_type: noun
+  gender: feminine
+  plural_form: as comunicações
+  key: 069a8489-9f27-42bb-bc6b-7d911cd842aa
+- pt-pt: o ministério
+  en: ministry
+  word_type: noun
+  gender: masculine
+  plural_form: os ministérios
+  key: b0ef8152-b131-4d90-b186-a7737572b576
+- pt-pt: morrer
+  en: to die
+  word_type: verb
+  first_person_singular: eu morro
+  second_person_singular: tu morres
+  third_person_singular: ele/ela morre
+  first_person_plural: nós morremos
+  second_person_plural: vós morreis
+  third_person_plural: eles/elas morrem
+  key: f3d84de4-ab5a-4108-9bee-53627e512691
+- pt-pt: pegar
+  en: to grab
+  word_type: verb
+  first_person_singular: eu pego
+  second_person_singular: tu pegas
+  third_person_singular: ele/ela pega
+  first_person_plural: nós pegamos
+  second_person_plural: vós pegais
+  third_person_plural: eles/elas pegam
+  key: 848e0947-23d8-4cb9-9c72-2626b947d888
+- pt-pt: pior
+  en: worse
+  word_type: adjective
+  positive: mau
+  comparative: pior
+  superlative: o pior
+  key: 7be90681-b8f1-4da2-9874-81f7962e073a
+- pt-pt: a campanha
+  en: campaign
+  word_type: noun
+  gender: feminine
+  plural_form: as campanhas
+  key: ba2a78e7-56e5-4b2d-b40e-a487986fc9e2
+- pt-pt: o chefe
+  en: boss
+  word_type: noun
+  gender: masculine
+  plural_form: os chefes
+  key: 6b77c11c-efe9-4912-ba6d-705ba03eb01d
+- pt-pt: conhecido
+  en: known
+  word_type: adjective
+  positive: conhecido
+  comparative: mais conhecido
+  superlative: o mais conhecido
+  key: 062c6a45-5706-4a4a-a031-c93120368361
+- pt-pt: entender
+  en: to understand
+  word_type: verb
+  first_person_singular: eu entendo
+  second_person_singular: tu entendes
+  third_person_singular: ele/ela entende
+  first_person_plural: nós entendemos
+  second_person_plural: vós entendeis
+  third_person_plural: eles/elas entendem
+  key: 8cf22b84-1410-4591-800a-7cac495d40b3
+- pt-pt: o ministro
+  en: minister
+  word_type: noun
+  gender: masculine
+  plural_form: os ministros
+  key: 4431ed42-f643-4bff-877a-9b155d6ef401
+- pt-pt: tornar
+  en: to become
+  word_type: verb
+  first_person_singular: eu torno
+  second_person_singular: tu tornas
+  third_person_singular: ele/ela torna
+  first_person_plural: nós tornamos
+  second_person_plural: vós tornais
+  third_person_plural: eles/elas tornam
+  key: c502232b-eaaa-48c1-b4dc-9e9e4d603317
+- pt-pt: tratar
+  en: to treat
+  word_type: verb
+  first_person_singular: eu trato
+  second_person_singular: tu tratas
+  third_person_singular: ele/ela trata
+  first_person_plural: nós tratamos
+  second_person_plural: vós tratais
+  third_person_plural: eles/elas tratam
+  key: 01372e9e-f9b8-4f0d-aa35-c60f0c70836e
+- pt-pt: a busca
+  en: search (quest)
+  word_type: noun
+  gender: feminine
+  plural_form: as buscas
+  key: 79189da0-89d4-4e63-b697-8e1fe711ad9c
+- pt-pt: a criação
+  en: creation
+  word_type: noun
+  gender: feminine
+  plural_form: as criações
+  key: 07c087cb-5a3d-46b3-a781-394b2120428c
+- pt-pt: a pesquisa
+  en: research
+  word_type: noun
+  gender: feminine
+  plural_form: as pesquisas
+  key: 25f0249b-2cf6-4a5c-ba99-f1415c1d632d
+- pt-pt: o recurso
+  en: resource
+  word_type: noun
+  gender: masculine
+  plural_form: os recursos
+  key: 2cf9ac62-4158-492c-bf29-05506c1f3961
+- pt-pt: a república
+  en: republic
+  word_type: noun
+  gender: feminine
+  plural_form: as repúblicas
+  key: 257e37d2-20f7-4171-ba2d-536ea5085640
+- pt-pt: ti
+  en: you (oblique)
+  word_type: pronoun
+  key: 3e0f69b3-1bb5-4138-a496-8c9355acba32
+- pt-pt: o ambiente
+  en: environment
+  word_type: noun
+  gender: masculine
+  plural_form: os ambientes
+  key: 711414d1-e8fc-45af-8e4a-8652af49de06
+- pt-pt: a chamada
+  en: call
+  word_type: noun
+  gender: feminine
+  plural_form: as chamadas
+  key: e29f0174-7b06-4b41-9f7d-a88c22060dad

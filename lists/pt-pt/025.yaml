@@ -1,0 +1,322 @@
+- pt-pt: completamente
+  en: completely
+  word_type: adverb
+  key: b9885e26-211c-49c5-b972-1975eb10d181
+- pt-pt: a função
+  en: function
+  word_type: noun
+  plural_form: as funções
+  gender: feminine
+  key: e63c4643-ccc5-44db-84bd-35f5c67d2039
+- pt-pt: participar
+  en: to participate
+  word_type: verb
+  first_person_singular: eu participo
+  first_person_plural: nós participamos
+  second_person_singular: tu participas
+  second_person_plural: vós participais
+  third_person_singular: ele/ela participa
+  third_person_plural: eles/elas participam
+  key: 7645796d-dbdf-4a79-9e84-d4c21ec59d96
+- pt-pt: a pressão
+  en: pressure
+  word_type: noun
+  plural_form: as pressões
+  gender: feminine
+  key: 69bd0007-4d43-4e2d-a612-18936f42945b
+- pt-pt: procurar
+  en: to search
+  word_type: verb
+  first_person_singular: eu procuro
+  first_person_plural: nós procuramos
+  second_person_singular: tu procuras
+  second_person_plural: vós procurais
+  third_person_singular: ele/ela procura
+  third_person_plural: eles/elas procuram
+  key: 9ba428e2-0bd0-46f4-9595-6b108f6e983f
+- pt-pt: publicar
+  en: to publish
+  word_type: verb
+  first_person_singular: eu publico
+  first_person_plural: nós publicamos
+  second_person_singular: tu publicas
+  second_person_plural: vós publicais
+  third_person_singular: ele/ela publica
+  third_person_plural: eles/elas publicam
+  key: 8af32d08-3fdf-4059-ae36-a601ddc06f6e
+- pt-pt: totalmente
+  en: totally
+  word_type: adverb
+  key: 5a9fbd4c-ab6a-4d52-a866-7686e0dce251
+- pt-pt: o contacto
+  en: contact
+  word_type: noun
+  plural_form: os contactos
+  gender: masculine
+  key: 16be1900-0bbf-4fa5-b4a7-42fd086dc3bd
+- pt-pt: o crescimento
+  en: growth
+  word_type: noun
+  plural_form: os crescimentos
+  gender: masculine
+  key: 72617450-e714-4a6b-9de0-47ebb6df3173
+- pt-pt: a crise
+  en: crisis
+  word_type: noun
+  plural_form: as crises
+  gender: feminine
+  key: b93e1b84-2357-4132-952f-e683ef02c46f
+- pt-pt: a direita
+  en: right (direction)
+  word_type: noun
+  plural_form: as direitas
+  gender: feminine
+  key: 9fee12be-1717-4fbf-a0ea-4c671b0ed106
+- pt-pt: entretanto
+  en: meanwhile
+  word_type: adverb
+  key: f520c7d0-1294-4bf7-a467-b45042c0d17b
+- pt-pt: evitar
+  en: to avoid
+  word_type: verb
+  first_person_singular: eu evito
+  first_person_plural: nós evitamos
+  second_person_singular: tu evitas
+  second_person_plural: vós evitais
+  third_person_singular: ele/ela evita
+  third_person_plural: eles/elas evitam
+  key: e4d54445-e073-4975-b81a-e42f54be24a0
+- pt-pt: o guarda
+  en: guard
+  word_type: noun
+  gender: masculine
+  plural_form: os guardas
+  key: db5739ca-04c2-4b05-883e-56beea463d76
+- pt-pt: histórico
+  en: historic
+  word_type: adjective
+  positive: histórico
+  comparative: mais histórico
+  superlative: o mais histórico
+  key: 1698d370-63ec-4767-b1fc-76ec87ec941c
+- pt-pt: a indústria
+  en: industry
+  word_type: noun
+  gender: feminine
+  plural_form: as indústrias
+  key: d20a974f-8ded-4d2a-b235-f2cac2c94fa8
+- pt-pt: a proteção
+  en: protection
+  word_type: noun
+  gender: feminine
+  plural_form: as proteções
+  key: dd8a04e2-d777-41be-8417-1830038f8182
+- pt-pt: sozinho
+  en: alone
+  word_type: adjective
+  positive: sozinho
+  comparative: mais sozinho
+  superlative: o mais sozinho
+  key: 337a1fe4-7f0c-4d44-b217-1786091b9664
+- pt-pt: a unidade
+  en: unit
+  word_type: noun
+  gender: feminine
+  plural_form: as unidades
+  key: f69afaa0-ae51-4dc9-9815-62156d611576
+- pt-pt: a vila
+  en: town
+  word_type: noun
+  gender: feminine
+  plural_form: as vilas
+  key: b82b14b2-8fa0-4d91-95bf-17dd1952d56f
+- pt-pt: a aula
+  en: class (lesson)
+  word_type: noun
+  gender: feminine
+  plural_form: as aulas
+  key: 6a666f5c-6030-44d3-9ca5-0e386da3e95d
+- pt-pt: conversar
+  en: to converse
+  word_type: verb
+  first_person_singular: eu converso
+  first_person_plural: nós conversamos
+  second_person_singular: tu conversas
+  second_person_plural: vós conversais
+  third_person_singular: ele/ela conversa
+  third_person_plural: eles/elas conversam
+  key: d57d3bb0-255e-40c8-bf83-61a6ebf5cda8
+- pt-pt: o deputado
+  en: deputy
+  word_type: noun
+  gender: masculine
+  plural_form: os deputados
+  key: 428d8d2f-5f17-44b0-8253-7097e85940d1
+- pt-pt: diante
+  en: in front of
+  word_type: preposition
+  key: 1365a574-9a5c-4ad9-bcf6-3fe120797c63
+- pt-pt: o espírito
+  en: spirit
+  word_type: noun
+  gender: masculine
+  plural_form: os espíritos
+  key: d53609c0-b171-4618-8da4-f8def139298e
+- pt-pt: a estrada
+  en: road
+  word_type: noun
+  gender: feminine
+  plural_form: as estradas
+  key: def208af-c209-45a3-8ffa-334e27f8c20a
+- pt-pt: a geração
+  en: generation
+  word_type: noun
+  gender: feminine
+  plural_form: as gerações
+  key: ebc4896c-0f7e-4d18-a231-0eb67ac3b2a3
+- pt-pt: o governador
+  en: governor
+  word_type: noun
+  gender: masculine
+  plural_form: os governadores
+  key: 1c680bf8-3807-4d49-b1a8-95d33e59d895
+- pt-pt: a imprensa
+  en: press (media)
+  word_type: noun
+  gender: feminine
+  plural_form: as imprensas
+  key: 1a10c052-cb18-4ed2-b3eb-9ca8436aeda9
+- pt-pt: a saída
+  en: exit
+  word_type: noun
+  gender: feminine
+  plural_form: as saídas
+  key: b25f9496-0d67-4656-80b6-efdf454d29b7
+- pt-pt: a alma
+  en: soul
+  word_type: noun
+  gender: feminine
+  plural_form: as almas
+  key: afd92d5b-c022-48f1-b99e-c7b5e8f60dc0
+- pt-pt: o/a artista
+  en: artist
+  word_type: noun
+  gender: masculine
+  plural_form: os/as artistas
+  key: f36647f5-293e-4a03-b7de-7bcb67b17fb4
+- pt-pt: o erro
+  en: error
+  word_type: noun
+  gender: masculine
+  plural_form: os erros
+  key: 9dd65f25-8419-43b0-9feb-10356f735267
+- pt-pt: igual
+  en: equal
+  word_type: adjective
+  positive: igual
+  comparative: mais igual
+  superlative: o mais igual
+  key: 2a28e287-9c74-43a5-be90-8f9d1593cc77
+- pt-pt: o lançamento
+  en: launch
+  word_type: noun
+  gender: masculine
+  plural_form: os lançamentos
+  key: 02b1fb7c-7fa8-4076-9c1b-178a0cabf743
+- pt-pt: o/a militar
+  en: military (person)
+  word_type: noun
+  gender: masculine
+  plural_form: os/as militares
+  key: 9f6068a5-f1ee-4544-87bd-8cc2da3d4565
+- pt-pt: a praça
+  en: square (plaza)
+  word_type: noun
+  gender: feminine
+  plural_form: as praças
+  key: adaa0ae8-bed9-4cce-8543-3f5b6dd6711d
+- pt-pt: a propriedade
+  en: property
+  word_type: noun
+  gender: feminine
+  plural_form: as propriedades
+  key: a9aec821-7807-43fd-a2f1-79e3b994423d
+- pt-pt: o rock
+  en: rock (music)
+  word_type: noun
+  gender: masculine
+  plural_form: os rocks
+  key: b758bbaa-4bbb-4dc9-9e8e-fb1266cc9251
+- pt-pt: o território
+  en: territory
+  word_type: noun
+  gender: masculine
+  plural_form: os territórios
+  key: 267395ca-a05e-4ce6-839f-9fe759049735
+- pt-pt: antigo
+  en: old (ancient)
+  word_type: adjective
+  positive: antigo
+  comparative: mais antigo
+  superlative: o mais antigo
+  key: 472107a0-3c0c-45e1-82e8-02360812d7ec
+- pt-pt: bastar
+  en: to suffice
+  word_type: verb
+  first_person_singular: eu basto
+  second_person_singular: tu bastas
+  third_person_singular: ele/ela basta
+  first_person_plural: nós bastamos
+  second_person_plural: vós bastais
+  third_person_plural: eles/elas bastam
+  key: db2fd1b0-10b5-4e3f-b0c6-7e5184da80b2
+- pt-pt: o casal
+  en: couple
+  word_type: noun
+  gender: masculine
+  plural_form: os casais
+  key: 3630cd56-a955-4001-a002-f6c0052cfd7b
+- pt-pt: o congresso
+  en: congress
+  word_type: noun
+  gender: masculine
+  plural_form: os congressos
+  key: 5a2ff159-e0b5-4666-bcc3-41165d8f5e55
+- pt-pt: estranho
+  en: strange
+  word_type: adjective
+  positive: estranho
+  comparative: mais estranho
+  superlative: o mais estranho
+  key: 590377ca-b2b7-491f-b207-c5eb6deb8d27
+- pt-pt: o general
+  en: general (military)
+  word_type: noun
+  gender: masculine
+  plural_form: os generais
+  key: fbe44ee6-84b3-44ec-9b28-f9365b39b2f3
+- pt-pt: impossível
+  en: impossible
+  word_type: adjective
+  positive: impossível
+  comparative: mais impossível
+  superlative: o mais impossível
+  key: a86d179b-7049-4946-8231-451ed4f9d08d
+- pt-pt: infelizmente
+  en: unfortunately
+  word_type: adverb
+  key: 742aeba5-7a78-4294-a5fa-f5d456ec441b
+- pt-pt: inteiro
+  en: entire
+  word_type: adjective
+  positive: inteiro
+  comparative: mais inteiro
+  superlative: o mais inteiro
+  key: 8c6e8d17-e293-46fb-9199-de455f08bfe1
+- pt-pt: leve
+  en: light (not heavy)
+  word_type: adjective
+  positive: leve
+  comparative: mais leve
+  superlative: o mais leve
+  key: 5fab027a-baf6-40d6-ac7b-647c68485189

@@ -1,0 +1,240 @@
+- en: side
+  pt-pt: o lado
+  word_type: noun
+  plural_form: os lados
+  gender: masculine
+  key: 33b61dc4-7e81-4fe4-a50d-921928a5f17b
+- en: size
+  pt-pt: o tamanho
+  word_type: noun
+  plural_form: os tamanhos
+  gender: masculine
+  key: 5d75c6df-ae88-4fc6-88fe-03a92e60c16f
+- en: shape
+  pt-pt: a forma
+  word_type: noun
+  gender: feminine
+  plural_form: as formas
+  key: 7a583b29-ac88-4268-849e-a8cdc9042484
+- en: line
+  pt-pt: a linha
+  word_type: noun
+  gender: feminine
+  plural_form: as linhas
+  key: 276a22b8-6c12-43ac-ab52-b7579aa64547
+- en: age
+  pt-pt: a idade
+  word_type: noun
+  gender: feminine
+  plural_form: as idades
+  key: dcb337e1-2acc-438c-8ecf-b6025cac433e
+- en: this
+  pt-pt: este
+  word_type: pronoun
+  key: d593a2ec-809f-4539-a8fc-f3c39cad361e
+- en: that
+  pt-pt: esse
+  word_type: pronoun
+  key: 10f72b32-1343-419e-b243-f2566799d616
+- en: these
+  pt-pt: estes
+  word_type: pronoun
+  key: 51aa4ef1-f25a-4b1f-8ca1-1706c698fbf8
+- en: those
+  pt-pt: esses
+  word_type: pronoun
+  key: 343ae9fd-4aa6-475d-8618-8219f782816d
+- en: as
+  pt-pt: como
+  word_type: conjunction
+  key: 53963154-130d-4f75-8350-d32082904710
+- en: all
+  pt-pt: todos
+  word_type: pronoun
+  key: 42124ce3-959a-430f-b459-3a5acf5598c5
+- en: any
+  pt-pt: qualquer
+  word_type: pronoun
+  key: 201c1913-aa53-47cd-b50c-a04093928e3f
+- en: some
+  pt-pt: alguns
+  word_type: pronoun
+  key: faf62219-0d14-4c87-bab2-fb3712b11842
+- en: every
+  pt-pt: cada
+  word_type: pronoun
+  key: b88e8912-2d17-435a-b7f5-408ba1bbc4d2
+- en: many
+  pt-pt: muitos
+  word_type: pronoun
+  key: 520c702c-0bf8-4f4d-89bf-4fb4361bbc44
+- en: few
+  pt-pt: poucos
+  word_type: pronoun
+  key: 7796f787-2254-4dbd-af5f-71ce5b65a040
+- en: more
+  pt-pt: mais
+  word_type: adverb
+  key: 284de8bc-5431-4e97-a7b6-517e461501da
+- en: much
+  pt-pt: muito
+  word_type: adverb
+  key: 3317d2ac-e6d6-409b-873b-f8df29de3b73
+- en: both
+  pt-pt: ambos
+  word_type: pronoun
+  key: c1157f79-801f-425c-a359-308d8bcf11a2
+- en: other
+  pt-pt: outro
+  word_type: pronoun
+  key: 508c79ab-f790-4f4c-9647-75d736991555
+- en: also
+  pt-pt: também
+  word_type: adverb
+  key: f95517ef-afb3-4f11-b231-75dfdbb72a88
+- en: just
+  pt-pt: apenas
+  word_type: adverb
+  key: 06626a2b-efcf-46dd-b021-8723e0f228f5
+- en: almost
+  pt-pt: quase
+  word_type: adverb
+  key: 2b0e457a-5ffa-4401-ae10-ab610932b967
+- en: really
+  pt-pt: realmente
+  word_type: adverb
+  key: dbba3da5-08e3-4a4f-bf81-0f6598b7948e
+- en: maybe
+  pt-pt: talvez
+  word_type: adverb
+  key: 6c326f28-c675-4fc3-bf15-a9c12d05c36c
+- en: probably
+  pt-pt: provavelmente
+  word_type: adverb
+  key: 09728de2-83aa-4e26-a627-afd98ff3b034
+- en: especially
+  pt-pt: especialmente
+  word_type: adverb
+  key: e5e60cac-d2a7-4861-a6ca-cdfe88275b9b
+- en: exactly
+  pt-pt: exatamente
+  word_type: adverb
+  key: 084018d9-f74d-4623-97da-17bd7b726b31
+- en: together
+  pt-pt: juntos
+  word_type: adverb
+  key: 0b927af3-fec3-4ac2-9a5b-272ddc2740f3
+- en: enough
+  pt-pt: suficiente
+  word_type: adverb
+  key: 17860798-4a14-4f75-a157-7f303553fb68
+- en: quite
+  pt-pt: bastante
+  word_type: adverb
+  key: 888bb1bf-64fe-48e5-b9de-a90a154c7193
+- en: gold
+  pt-pt: o ouro
+  word_type: noun
+  gender: masculine
+  plural_form: os ouros
+  key: 9fc116e1-ff68-48ba-a5a6-328022bfdf4a
+- en: iron
+  pt-pt: o ferro
+  word_type: noun
+  gender: masculine
+  plural_form: os ferros
+  key: f70e6fb8-bdd7-4ee7-90d6-b28722083e5b
+- en: silver
+  pt-pt: a prata
+  word_type: noun
+  gender: feminine
+  plural_form: as pratas
+  key: e0e188f0-a27d-49a3-a425-bb8cf8bb5612
+- en: plastic
+  pt-pt: o plástico
+  word_type: noun
+  gender: masculine
+  plural_form: os plásticos
+  key: eb2076a9-b6ff-4f22-a994-e0250cb1092b
+- en: wood
+  pt-pt: a madeira
+  word_type: noun
+  gender: feminine
+  plural_form: as madeiras
+  key: 39ea136b-fbaf-422c-aa20-816e487cf8d8
+- en: stone
+  pt-pt: a pedra
+  word_type: noun
+  gender: feminine
+  plural_form: as pedras
+  key: ddb1052d-f3d3-4bb0-b939-a5ad7a54ae5a
+- en: metal
+  pt-pt: o metal
+  word_type: noun
+  gender: masculine
+  plural_form: os metais
+  key: 12c7a26b-e2f5-4def-92fd-98368c7a5a2b
+- en: cloth
+  pt-pt: o tecido
+  word_type: noun
+  gender: masculine
+  plural_form: os tecidos
+  key: 82bf8ac4-ebd9-46ff-8136-def283c600e1
+- en: leather
+  pt-pt: o couro
+  word_type: noun
+  gender: masculine
+  plural_form: os couros
+  key: 467281d2-3bae-4718-82b6-f1b30abea5e6
+- en: glass (material)
+  pt-pt: o vidro
+  word_type: noun
+  gender: masculine
+  plural_form: os vidros
+  key: 7040419c-a9c2-4bd7-a428-67dabfebc1de
+- en: to compare
+  pt-pt: comparar
+  word_type: verb
+  first_person_singular: eu comparo
+  second_person_singular: tu comparas
+  third_person_singular: ele/ela compara
+  first_person_plural: nós comparamos
+  second_person_plural: vós comparais
+  third_person_plural: eles/elas comparam
+  key: c829be79-08c7-4699-886d-8f4bdccd2e65
+- en: comparison
+  pt-pt: a comparação
+  word_type: noun
+  gender: feminine
+  plural_form: as comparações
+  key: 404142de-6434-403f-90cf-b6807b00261a
+- en: reason
+  pt-pt: a razão
+  word_type: noun
+  gender: feminine
+  plural_form: as razões
+  key: 79d05eeb-4221-4260-9a72-26c1bed99f08
+- en: what
+  pt-pt: o que
+  word_type: pronoun
+  key: 115883f4-4e40-4ec9-b65e-48c17b72e90e
+- en: who
+  pt-pt: quem
+  word_type: pronoun
+  key: 740eaa38-75d2-4dbf-9d27-262b480d7992
+- en: which
+  pt-pt: qual
+  word_type: pronoun
+  key: bd014571-c858-4751-b50d-d754fa5d6af8
+- en: why
+  pt-pt: porquê
+  word_type: adverb
+  key: b3a38591-b450-468e-ae84-234c5f8cd183
+- en: where
+  pt-pt: onde
+  word_type: adverb
+  key: aa240a01-18cb-45cc-a0af-c170617225a4
+- en: whose
+  pt-pt: de quem
+  word_type: pronoun
+  key: 1c1c8616-5aee-49d5-8310-cf1eaf89c0a2

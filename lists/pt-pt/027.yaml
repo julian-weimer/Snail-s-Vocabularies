@@ -1,0 +1,318 @@
+- pt-pt: o prefeito
+  en: mayor
+  word_type: noun
+  gender: masculine
+  plural_form: os prefeitos
+  key: a3249105-429f-4b7f-9a38-53bfc9a04045
+- pt-pt: o profissional
+  en: professional
+  word_type: noun
+  gender: masculine
+  plural_form: os profissionais
+  key: 18bc63a1-38e1-43d2-a5fc-78a0c46f4f7e
+- pt-pt: pós
+  en: post
+  word_type: other
+  key: 77cb8760-c205-4676-a9ff-c84518beaf9d
+- pt-pt: a quantidade
+  en: quantity
+  word_type: noun
+  gender: feminine
+  plural_form: as quantidades
+  key: 48ed4f2e-18b5-4ee5-a85d-18cba83320f5
+- pt-pt: o redor
+  en: surroundings
+  word_type: noun
+  gender: masculine
+  plural_form: os redores
+  key: 57287381-e275-49ae-9f78-b529621f26d7
+- pt-pt: a roupa
+  en: clothing
+  word_type: noun
+  gender: feminine
+  plural_form: as roupas
+  key: f1c5a157-c76e-4a8d-ad01-d23c77018aeb
+- pt-pt: a solução
+  en: solution
+  word_type: noun
+  gender: feminine
+  plural_form: as soluções
+  key: ab42fd8c-5bb0-4313-8ab9-aef71d1b21fd
+- pt-pt: a vítima
+  en: victim
+  word_type: noun
+  gender: feminine
+  plural_form: as vítimas
+  key: e1ed8a19-4943-4a09-a105-c84b729311d7
+- pt-pt: a votação
+  en: vote (act of voting)
+  word_type: noun
+  gender: feminine
+  plural_form: as votações
+  key: 549e6e5a-946f-4f04-a165-286c22992da4
+- pt-pt: afirmar
+  en: to affirm
+  word_type: verb
+  first_person_singular: eu afirmo
+  second_person_singular: tu afirmas
+  third_person_singular: ele/ela afirma
+  first_person_plural: nós afirmamos
+  second_person_plural: vós afirmais
+  third_person_plural: eles/elas afirmam
+  key: b6a7e52f-58d2-4e07-b91f-a2a9a868a34d
+- pt-pt: o alvo
+  en: target
+  word_type: noun
+  gender: masculine
+  plural_form: os alvos
+  key: 0605eb95-1594-4b5f-879f-40d33d57e461
+- pt-pt: o banho
+  en: bath
+  word_type: noun
+  gender: masculine
+  plural_form: os banhos
+  key: 3217bb25-bb82-4176-9c19-9d801298d25b
+- pt-pt: a batalha
+  en: battle
+  word_type: noun
+  gender: feminine
+  plural_form: as batalhas
+  key: 05aba8a0-fac0-4d4c-8a46-269586a1d5d9
+- pt-pt: o combate
+  en: combat
+  word_type: noun
+  gender: masculine
+  plural_form: os combates
+  key: a489f927-4881-4acf-b1b0-7e3c71f9e862
+- pt-pt: o comércio
+  en: trade (commerce)
+  word_type: noun
+  gender: masculine
+  plural_form: os comércios
+  key: a765674c-322f-4265-87da-a75bd58e1ced
+- pt-pt: daí
+  en: from there
+  word_type: adverb
+  key: 6e31ca41-2d0d-4b21-ae2e-3ef23a43c7ca
+- pt-pt: as drogas
+  en: drug
+  word_type: noun
+  gender: feminine
+  plural_form: as drogas
+  key: b6563136-0136-49f8-a91f-1f637f674530
+- pt-pt: enorme
+  en: enormous
+  word_type: adjective
+  positive: enorme
+  comparative: mais enorme
+  superlative: o mais enorme
+  key: 23ff3649-0061-4c9d-9604-a5ac1228bb6d
+- pt-pt: a face
+  en: face
+  word_type: noun
+  gender: feminine
+  plural_form: as faces
+  key: a5dc75b1-6a55-4843-a394-59360ca35032
+- pt-pt: a física
+  en: physics
+  word_type: noun
+  gender: feminine
+  key: 5a05cc74-04f9-45b0-ab0e-f9fb1497b3aa
+- pt-pt: a graça
+  en: grace
+  word_type: noun
+  gender: feminine
+  plural_form: as graças
+  key: 061d3f3f-5314-4581-a338-b43ff1414a44
+- pt-pt: a instituição
+  en: institution
+  word_type: noun
+  gender: feminine
+  plural_form: as instituições
+  key: f6cbbac3-3241-4937-9ccb-98eb2ae86ef5
+- pt-pt: particular
+  en: particular
+  word_type: adjective
+  positive: particular
+  comparative: mais particular
+  superlative: o mais particular
+  key: 903577ad-de8f-4a51-b043-c73cd098dad5
+- pt-pt: a partida
+  en: departure
+  word_type: noun
+  gender: feminine
+  plural_form: as partidas
+  key: 8055dae8-1cd9-4c1c-a59c-e10261f0becd
+- pt-pt: seguro
+  en: safe
+  word_type: adjective
+  positive: seguro
+  comparative: mais seguro
+  superlative: o mais seguro
+  key: a955cf64-b278-4d92-af68-6b8c19985ff2
+- pt-pt: o silêncio
+  en: silence
+  word_type: noun
+  gender: masculine
+  plural_form: os silêncios
+  key: cfb324d1-83c8-4eae-8945-557e7efb1143
+- pt-pt: técnico
+  en: technical
+  word_type: adjective
+  positive: técnico
+  comparative: mais técnico
+  superlative: o mais técnico
+  key: e8968416-4bb9-49c0-8ae8-e6e59ececc37
+- pt-pt: a violência
+  en: violence
+  word_type: noun
+  gender: feminine
+  key: f42edaaf-0bde-43c6-811d-40388fcf3026
+- pt-pt: ótimo
+  en: great (excellent)
+  word_type: adjective
+  positive: ótimo
+  comparative: mais ótimo
+  superlative: o mais ótimo
+  key: 226f22de-9e5d-44f0-8768-2a0b9089166a
+- pt-pt: adorar
+  en: to adore
+  word_type: verb
+  first_person_singular: eu adoro
+  second_person_singular: tu adoras
+  third_person_singular: ele/ela adora
+  first_person_plural: nós adoramos
+  second_person_plural: vós adorais
+  third_person_plural: eles/elas adoram
+  key: 7ab524d5-18ab-4beb-96a1-8c130562bd68
+- pt-pt: o auto
+  en: writ (legal document)
+  word_type: noun
+  gender: masculine
+  plural_form: os autos
+  key: 3fcdc679-1445-4482-9c20-c8ce69899ae5
+- pt-pt: o comando
+  en: command
+  word_type: noun
+  gender: masculine
+  plural_form: os comandos
+  key: 0356ce8b-c867-4515-b7e7-58b0ca861c8d
+- pt-pt: o destaque
+  en: highlight
+  word_type: noun
+  gender: masculine
+  plural_form: os destaques
+  key: e2499a97-a6c7-4cfa-8553-9dec42a6e86d
+- pt-pt: ideia
+  en: idea
+  word_type: noun
+  gender: feminine
+  plural_form: ideias
+  key: 747832f6-0029-4685-a598-cb9bdf210143
+- pt-pt: a ligação
+  en: connection
+  word_type: noun
+  gender: feminine
+  plural_form: ligações
+  key: 0d67ffab-443b-459f-a830-c2f166d23a60
+- pt-pt: o menino
+  en: boy
+  word_type: noun
+  gender: masculine
+  plural_form: meninos
+  key: 91d990cd-8535-4154-91b4-72e076b6cdf3
+- pt-pt: nisso
+  en: in that
+  word_type: other
+  key: 26961719-5288-426a-881f-8f0bd1d09608
+- pt-pt: o oficial
+  en: official
+  word_type: noun
+  gender: masculine
+  plural_form: oficiais
+  key: 4e61a520-8af4-4226-9f99-98ad15a2652e
+- pt-pt: proteger
+  en: to protect
+  word_type: verb
+  first_person_singular: eu protejo
+  second_person_singular: tu proteges
+  third_person_singular: ele/ela protege
+  first_person_plural: nós protegemos
+  second_person_plural: vós protegeis
+  third_person_plural: eles/elas protegem
+  key: c7a571e2-7cee-4078-bff9-b9c2e68f028e
+- pt-pt: a referência
+  en: reference
+  word_type: noun
+  gender: feminine
+  plural_form: referências
+  key: 00180c64-bf7d-4daf-8c08-b60aef625084
+- pt-pt: a serra
+  en: mountain range
+  word_type: noun
+  gender: feminine
+  plural_form: serras
+  key: 09f0ea9f-cba7-455f-8f23-0dd7799216a2
+- pt-pt: o solo
+  en: soil
+  word_type: noun
+  gender: masculine
+  plural_form: solos
+  key: 9fd1d0fc-c463-438a-ac64-74a39bcc7f1a
+- pt-pt: tradicional
+  en: traditional
+  word_type: adjective
+  positive: tradicional
+  comparative: mais tradicional
+  superlative: o mais tradicional
+  key: d3913297-95d8-4961-b541-4536567a978a
+- pt-pt: assistir
+  en: to watch
+  word_type: verb
+  first_person_singular: eu assisto
+  second_person_singular: tu assistes
+  third_person_singular: ele/ela assiste
+  first_person_plural: nós assistimos
+  second_person_plural: vós assistis
+  third_person_plural: eles/elas assistem
+  key: d7f3f3d8-5b09-4b9e-b48f-476e020e36ac
+- pt-pt: o cargo
+  en: position (role)
+  word_type: noun
+  gender: masculine
+  plural_form: cargos
+  key: cc994ff0-850b-4b9c-94bb-9c588470b682
+- pt-pt: descobrir
+  en: to discover
+  word_type: verb
+  first_person_singular: eu descubro
+  second_person_singular: tu descobres
+  third_person_singular: ele/ela descobre
+  first_person_plural: nós descobrimos
+  second_person_plural: vós descobris
+  third_person_plural: eles/elas descobrem
+  key: 153397f2-5f45-46fd-9727-a63b80cf9185
+- pt-pt: o horário
+  en: schedule
+  word_type: noun
+  gender: masculine
+  plural_form: horários
+  key: 79eb5500-f013-4245-b616-c6c011847d1d
+- pt-pt: o mestre
+  en: master
+  word_type: noun
+  gender: masculine
+  plural_form: mestres
+  key: fb5e4f26-27e7-4814-bc1b-5368a1bfce9c
+- pt-pt: o padrão
+  en: standard
+  word_type: noun
+  gender: masculine
+  plural_form: padrões
+  key: cfc4f7e0-b5f8-4358-b558-16536ba4c270
+- pt-pt: o prazer
+  en: pleasure
+  word_type: noun
+  gender: masculine
+  plural_form: prazeres
+  key: 520b8c7b-c3ee-43d9-bd72-774059dceaf3

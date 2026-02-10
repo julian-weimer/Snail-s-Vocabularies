@@ -1,0 +1,317 @@
+- pt-pt: o objetivo
+  en: objective
+  word_type: noun
+  gender: masculine
+  plural_form: os objetivos
+  key: 61bd5482-353d-478b-8e12-f1ed22c67eb2
+- pt-pt: o partido
+  en: party (political)
+  word_type: noun
+  gender: masculine
+  plural_form: os partidos
+  key: 654ac19c-5783-4fae-a478-d9c8586c16af
+- pt-pt: o sucesso
+  en: success
+  word_type: noun
+  gender: masculine
+  plural_form: os sucessos
+  key: 859bfa25-ba8a-4659-bba9-5b0267a8b214
+- pt-pt: o vale
+  en: valley
+  word_type: noun
+  gender: masculine
+  plural_form: os vales
+  key: 2ac80fa7-5445-49ba-bff2-3442afb47f02
+- pt-pt: o capital
+  en: capital (finance)
+  word_type: noun
+  gender: masculine
+  plural_form: os capitais
+  key: 8d2b3c7c-450d-44fb-b4dd-98e7f1ea0c5d
+- pt-pt: cima
+  en: above (on top)
+  word_type: adverb
+  key: 791e072b-b193-4d18-b6b8-dba98013c4ef
+- pt-pt: a justiça
+  en: justice
+  word_type: noun
+  gender: feminine
+  plural_form: as justiças
+  key: 71aab93e-e13f-47b8-a934-a8d46d5d2ef6
+- pt-pt: o membro
+  en: member
+  word_type: noun
+  gender: masculine
+  plural_form: os membros
+  key: e20ae72f-adef-4711-9692-a1b313bd42f8
+- pt-pt: mundial
+  en: worldwide
+  word_type: adjective
+  positive: mundial
+  comparative: mais mundial
+  superlative: mais mundial
+  key: e5ee0f4d-41d7-47ce-935a-980a8c2ea70c
+- pt-pt: o presente
+  en: present (gift)
+  word_type: noun
+  gender: masculine
+  plural_form: os presentes
+  key: bf55c183-e542-49f3-9512-df74d3e9f584
+- pt-pt: seguir
+  en: to follow
+  word_type: verb
+  first_person_singular: eu sigo
+  first_person_plural: nós seguimos
+  second_person_singular: tu segues
+  second_person_plural: vós seguis
+  third_person_singular: ele/ela segue
+  third_person_plural: eles/elas seguem
+  key: 9ac49786-41f3-4fb3-ae2d-10d8750ee3d7
+- pt-pt: ali
+  en: there (over there)
+  word_type: adverb
+  key: ba261d63-e2c2-4a3a-bdaa-3e60359143f9
+- pt-pt: a ação
+  en: action
+  word_type: noun
+  gender: feminine
+  plural_form: as ações
+  key: 8e17e0eb-6773-4075-b1a3-f59a1c16d78e
+- pt-pt: a copa
+  en: cup (trophy)
+  word_type: noun
+  gender: feminine
+  plural_form: as copas
+  key: f1e7dc69-7832-4103-829f-f618fbd551cd
+- pt-pt: militar
+  en: military
+  word_type: adjective
+  positive: militar
+  comparative: mais militar
+  superlative: mais militar
+  key: 4a837265-ebe1-413b-aef1-bcc8afd5ab5c
+- pt-pt: o modo
+  en: mode
+  word_type: noun
+  gender: masculine
+  plural_form: os modos
+  key: ff602153-ab6c-4d87-a38b-d39eec1e4b68
+- pt-pt: o movimento
+  en: movement
+  word_type: noun
+  gender: masculine
+  plural_form: os movimentos
+  key: bc416c81-b6cf-4266-9a35-a10a65bd73c5
+- pt-pt: a ordem
+  en: order
+  word_type: noun
+  gender: feminine
+  plural_form: as ordens
+  key: 44f14b2d-dcfe-4795-b540-5f25642fb971
+- pt-pt: próximo
+  en: next
+  word_type: adjective
+  positive: próximo
+  comparative: mais próximo
+  superlative: mais próximo
+  key: 687741bf-f712-4eeb-ad4c-a4be91d26ba7
+- pt-pt: a construção
+  en: construction
+  word_type: noun
+  gender: feminine
+  plural_form: as construções
+  key: d94d6a1c-2a8c-4678-aa3f-0adda0a24df8
+- pt-pt: obrigado
+  en: thank you
+  word_type: other
+  key: 5c62e3a9-49e5-4bbe-8d38-47a016fa57d8
+- pt-pt: o visto
+  en: visa
+  word_type: noun
+  plural_form: os vistos
+  gender: masculine
+  key: f1516e09-1f7a-405d-9103-dea29f434a35
+- pt-pt: o resultado
+  en: result
+  word_type: noun
+  plural_form: os resultados
+  gender: masculine
+  key: f0e76f83-beb0-458c-874b-5c3bdfb858f2
+- pt-pt: a sala
+  en: room
+  word_type: noun
+  plural_form: as salas
+  gender: feminine
+  key: 1f6cf1e2-6276-4d08-98fc-f2c8c2f0063b
+- pt-pt: a tradução
+  en: translation
+  word_type: noun
+  plural_form: as traduções
+  gender: feminine
+  key: 8059415e-b602-44f9-bfc4-e34e0eb4aa8d
+- pt-pt: o valor
+  en: value
+  word_type: noun
+  plural_form: os valores
+  gender: masculine
+  key: 436a9a07-24ee-4576-a7a9-1d8a4c1c8814
+- pt-pt: a edição
+  en: edition
+  word_type: noun
+  plural_form: as edições
+  gender: feminine
+  key: 6efed488-7799-495d-972e-f16a1d02c5c2
+- pt-pt: o encontro
+  en: meeting
+  word_type: noun
+  plural_form: os encontros
+  gender: masculine
+  key: 628e8543-2931-4458-966e-e233c6585855
+- pt-pt: a luta
+  en: fight
+  word_type: noun
+  plural_form: as lutas
+  gender: feminine
+  key: 27442554-14eb-40df-8169-104911351ba9
+- pt-pt: a organização
+  en: organization
+  word_type: noun
+  plural_form: as organizações
+  gender: feminine
+  key: 89d626fc-889b-4e35-8f2a-498128b05ed7
+- pt-pt: a pergunta
+  en: question
+  word_type: noun
+  plural_form: as perguntas
+  gender: feminine
+  key: aa188c40-0df6-4f8e-a552-304c8a6ea851
+- pt-pt: o assunto
+  en: subject
+  word_type: noun
+  plural_form: os assuntos
+  gender: masculine
+  key: 3953000f-af41-4ccb-a139-9dca798e1fda
+- pt-pt: o jeito
+  en: way
+  word_type: noun
+  plural_form: os jeitos
+  gender: masculine
+  key: 509af6a7-7113-4778-b607-ac4fff9f7a3c
+- pt-pt: a pública
+  en: public (institution)
+  word_type: noun
+  plural_form: as públicas
+  gender: feminine
+  key: c91d6927-e7d2-4ddd-8a3a-e854167a4808
+- pt-pt: ah
+  en: ah
+  word_type: other
+  key: 02b4a7a0-994e-4004-a614-0086f9b5ef73
+- pt-pt: daqui
+  en: from here
+  word_type: adverb
+  key: c941fe39-bbae-417b-bcb6-7b98da813350
+- pt-pt: principalmente
+  en: mainly
+  word_type: adverb
+  key: 9783b4dd-5e14-46ea-9c9c-0bb7d264df66
+- pt-pt: acreditar
+  en: to believe
+  word_type: verb
+  first_person_singular: eu acredito
+  second_person_singular: tu acreditas
+  third_person_singular: ele/ela acredita
+  first_person_plural: nós acreditamos
+  second_person_plural: vós acreditais
+  third_person_plural: eles/elas acreditam
+  key: 7d163ec4-8bb7-4646-b536-9c4122cc7c7a
+- pt-pt: tirar
+  en: to take (out)
+  word_type: verb
+  first_person_singular: eu tiro
+  second_person_singular: tu tiras
+  third_person_singular: ele/ela tira
+  first_person_plural: nós tiramos
+  second_person_plural: vós tirais
+  third_person_plural: eles/elas tiram
+  key: 47c905b0-458b-4ecf-9408-4aa209379969
+- pt-pt: amar
+  en: to love
+  word_type: verb
+  first_person_singular: eu amo
+  second_person_singular: tu amas
+  third_person_singular: ele/ela ama
+  first_person_plural: nós amamos
+  second_person_plural: vós amais
+  third_person_plural: eles/elas amam
+  key: be2bbbe9-066a-4a66-b5e1-8e8e3bab0c28
+- pt-pt: conseguir
+  en: to manage (to achieve)
+  word_type: verb
+  first_person_singular: eu consigo
+  second_person_singular: tu consegues
+  third_person_singular: ele/ela consegue
+  first_person_plural: nós conseguimos
+  second_person_plural: vós conseguis
+  third_person_plural: eles/elas conseguem
+  key: c9cb480e-6940-4beb-95df-6d56c9ef6228
+- pt-pt: significar
+  en: to mean
+  word_type: verb
+  first_person_singular: eu significo
+  second_person_singular: tu significas
+  third_person_singular: ele/ela significa
+  first_person_plural: nós significamos
+  second_person_plural: vós significais
+  third_person_plural: eles/elas significam
+  key: 6bebe904-5f09-405e-85e4-fe34f54a423d
+- pt-pt: seguinte
+  en: following
+  word_type: adjective
+  positive: seguinte
+  comparative: mais seguinte
+  superlative: o/a mais seguinte
+  key: d4aba019-b0d8-4297-88a4-d66528adfc2e
+- pt-pt: central
+  en: central
+  word_type: adjective
+  positive: central
+  comparative: mais central
+  superlative: o/a mais central
+  key: 089af2c9-d517-464e-9713-cc4369b7a78e
+- pt-pt: comum
+  en: common
+  word_type: adjective
+  positive: comum
+  comparative: mais comum
+  superlative: o/a mais comum
+  key: a4b05bcf-f481-4016-a616-f4bd77719969
+- pt-pt: maior
+  en: greater
+  word_type: adjective
+  positive: grande
+  comparative: maior
+  superlative: o/a maior
+  key: 7200c04a-d07f-4305-8479-62dd0b74fcbd
+- pt-pt: tua
+  en: your (singular feminine)
+  word_type: pronoun
+  key: 4c672b6b-8590-414e-9637-f977ad009729
+- pt-pt: a tecnologia
+  en: technology
+  word_type: noun
+  gender: feminine
+  plural_form: as tecnologias
+  key: 61677297-5c1a-426d-8d14-fb1f43c91b72
+- pt-pt: a época
+  en: era
+  word_type: noun
+  gender: feminine
+  plural_form: as épocas
+  key: f903dcba-e043-4e33-a874-f1c74ee43639
+- pt-pt: o artigo
+  en: article
+  word_type: noun
+  gender: masculine
+  plural_form: os artigos
+  key: 29dfc958-8874-41b1-9b27-00c74e9032c9

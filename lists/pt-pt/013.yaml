@@ -1,0 +1,310 @@
+- pt-pt: olá
+  en: hello
+  word_type: other
+  key: 2f95afa3-4969-4dc3-80ec-fdf311cb36b0
+- pt-pt: o controlo
+  en: control
+  word_type: noun
+  plural_form: os controlos
+  gender: masculine
+  key: bff751b4-8691-4fc1-bd3a-44c20890b26a
+- en: bed
+  pt-pt: a cama
+  word_type: noun
+  gender: feminine
+  plural_form: as camas
+  key: 745bac49-0a4a-431d-ba75-bd23cd72c86e
+- en: table
+  pt-pt: a mesa
+  word_type: noun
+  gender: feminine
+  plural_form: as mesas
+  key: 961c204f-3a8d-4987-aba3-acb57510b729
+- en: chair
+  pt-pt: a cadeira
+  word_type: noun
+  gender: feminine
+  plural_form: as cadeiras
+  key: ac7daba9-8874-4491-b1be-9f11d515bba8
+- en: desk
+  pt-pt: a secretária
+  word_type: noun
+  gender: feminine
+  plural_form: as secretárias
+  key: e3908cb2-65bd-4bf4-bb8e-9ce32803c639
+- en: cup
+  pt-pt: a chávena
+  word_type: noun
+  gender: feminine
+  plural_form: as chávenas
+  key: a4f95115-8cdb-4b13-ab06-c324774f1440
+- en: plate
+  pt-pt: o prato
+  word_type: noun
+  gender: masculine
+  plural_form: os pratos
+  key: 5e0c5b90-0042-454b-94fb-aead9cc513f2
+- en: bowl
+  pt-pt: a tigela
+  word_type: noun
+  gender: feminine
+  plural_form: as tigelas
+  key: f86c5f0c-a52b-40e4-b0b4-2f2a3faceace
+- en: glass (cup)
+  pt-pt: o copo
+  word_type: noun
+  gender: masculine
+  plural_form: os copos
+  key: e4d15c1b-b9cb-4722-8751-c8b927d178ec
+- en: spoon
+  pt-pt: a colher
+  word_type: noun
+  gender: feminine
+  plural_form: as colheres
+  key: c2ccbbe0-28bd-4037-9336-5b433982f2d5
+- en: fork
+  pt-pt: o garfo
+  word_type: noun
+  gender: masculine
+  plural_form: os garfos
+  key: 467d030c-ea59-4207-b410-fd5cb09e3d16
+- en: knife
+  pt-pt: a faca
+  word_type: noun
+  gender: feminine
+  plural_form: as facas
+  key: 275012ac-1544-4656-a056-691c7fd523a5
+- en: pot
+  pt-pt: a panela
+  word_type: noun
+  gender: feminine
+  plural_form: as panelas
+  key: 5594bdbb-beb6-491a-8f33-bcec8accff42
+- en: pen
+  pt-pt: a caneta
+  word_type: noun
+  gender: feminine
+  plural_form: as canetas
+  key: 8d8ec4fc-51c9-4dbe-82c4-80f855547c8a
+- en: pencil
+  pt-pt: o lápis
+  word_type: noun
+  gender: masculine
+  plural_form: os lápis
+  key: 25e5ca7f-6da0-48a9-a40d-33c312e060a2
+- en: paper
+  pt-pt: o papel
+  word_type: noun
+  gender: masculine
+  plural_form: os papéis
+  key: 0f076bdf-c14f-43fe-8546-62b3853fe702
+- en: box
+  pt-pt: a caixa
+  word_type: noun
+  gender: feminine
+  plural_form: as caixas
+  key: 205183ff-c1ef-40a9-8845-9a15f434b62a
+- en: bottle
+  pt-pt: a garrafa
+  word_type: noun
+  gender: feminine
+  plural_form: as garrafas
+  key: fed20a1f-0b81-4f29-b1b6-38d4870aa8a5
+- en: key
+  pt-pt: a chave
+  word_type: noun
+  gender: feminine
+  plural_form: as chaves
+  key: 461a46bd-dccb-4eb1-ba53-94e67230bac6
+- en: soap
+  pt-pt: o sabão
+  word_type: noun
+  gender: masculine
+  plural_form: os sabões
+  key: 567d92c5-46eb-48a9-9a5a-8d06a936ba35
+- en: garden
+  pt-pt: o jardim
+  word_type: noun
+  gender: masculine
+  plural_form: os jardins
+  key: 28eadd0f-8779-47e9-a551-9d93d1d9a620
+- en: yard
+  pt-pt: o quintal
+  word_type: noun
+  gender: masculine
+  plural_form: os quintais
+  key: cb5e4c5d-34cf-44b3-8602-742c15363c52
+- en: shoe
+  pt-pt: o sapato
+  word_type: noun
+  gender: masculine
+  plural_form: os sapatos
+  key: 08e905a3-c6cc-48db-a22a-30b06f6d25ce
+- en: shirt
+  pt-pt: a camisa
+  word_type: noun
+  gender: feminine
+  plural_form: as camisas
+  key: 3251eb21-efdf-4dcb-a414-7682b67d71c2
+- en: pants
+  pt-pt: as calças
+  word_type: noun
+  gender: feminine
+  plural_form: as calças
+  key: e111b9ff-f2a1-43d4-9291-23b2f44cde63
+- en: coat
+  pt-pt: o casaco
+  word_type: noun
+  gender: masculine
+  plural_form: os casacos
+  key: 222e5c63-a8f1-42ce-8532-f86dcc0e6d04
+- en: hat
+  pt-pt: o chapéu
+  word_type: noun
+  gender: masculine
+  plural_form: os chapéus
+  key: f3a75fa9-a397-4df7-9d69-4371d335d171
+- en: dress
+  pt-pt: o vestido
+  word_type: noun
+  gender: masculine
+  plural_form: os vestidos
+  key: 2ea930c9-d857-49dd-9797-941a10ee344b
+- en: sock
+  pt-pt: a meia
+  word_type: noun
+  gender: feminine
+  plural_form: as meias
+  key: ec13fffb-5689-499c-9c07-257678b7b421
+- en: sweater
+  pt-pt: a camisola
+  word_type: noun
+  gender: feminine
+  plural_form: as camisolas
+  key: b3280ec0-f173-4b75-9fa3-06f3f9f19769
+- en: skirt
+  pt-pt: a saia
+  word_type: noun
+  gender: feminine
+  plural_form: as saias
+  key: aee25ad6-6816-4708-ae50-9f14361d3701
+- en: bag
+  pt-pt: o saco
+  word_type: noun
+  gender: masculine
+  plural_form: os sacos
+  key: 03739961-c9de-429f-92e1-017b81806313
+- en: job
+  pt-pt: o trabalho
+  word_type: noun
+  gender: masculine
+  plural_form: os trabalhos
+  key: ad7f6e2d-1d41-433e-8102-54c80af2d368
+- en: worker
+  pt-pt: o trabalhador
+  word_type: noun
+  gender: masculine
+  plural_form: os trabalhadores
+  key: b031eb1c-4fee-4ea7-a70d-85d1e618440e
+- en: farmer
+  pt-pt: o agricultor
+  word_type: noun
+  gender: masculine
+  plural_form: os agricultores
+  key: fb3a5eaa-13cf-4a6b-8b8f-1422713d6aab
+- en: engineer
+  pt-pt: o engenheiro
+  word_type: noun
+  gender: masculine
+  plural_form: os engenheiros
+  key: 6dd42e29-1c68-44d1-9f94-dca9b6cf95fa
+- en: lawyer
+  pt-pt: o advogado
+  word_type: noun
+  gender: masculine
+  plural_form: os advogados
+  key: 10b0da87-2396-461a-a03a-a50bded29776
+- en: cook (person)
+  pt-pt: o cozinheiro
+  word_type: noun
+  gender: masculine
+  plural_form: os cozinheiros
+  key: 55cd4cbb-ab64-4b98-9de7-926af5b41237
+- en: driver
+  pt-pt: o condutor
+  word_type: noun
+  gender: masculine
+  plural_form: os condutores
+  key: e3bc46c3-d0e4-44a0-96bf-57aadc97e099
+- en: manager
+  pt-pt: o gestor
+  word_type: noun
+  gender: masculine
+  plural_form: os gestores
+  key: 2522ba7a-820d-4c1d-8b20-04df3d8a048f
+- en: builder
+  pt-pt: o construtor
+  word_type: noun
+  gender: masculine
+  plural_form: os construtores
+  key: 4e95cc79-187f-484b-a988-fb0f98b807ee
+- en: address
+  pt-pt: o endereço
+  word_type: noun
+  gender: masculine
+  plural_form: os endereços
+  key: 27541406-4baa-4c13-8be0-db11bf55693e
+- en: advice
+  pt-pt: o conselho
+  word_type: noun
+  gender: masculine
+  plural_form: os conselhos
+  key: 1ca6a640-3556-4eee-b591-a5fabaf3be00
+- en: to call
+  pt-pt: chamar
+  word_type: verb
+  first_person_singular: eu chamo
+  second_person_singular: tu chamas
+  third_person_singular: ele/ela chama
+  first_person_plural: nós chamamos
+  second_person_plural: vós chamais
+  third_person_plural: eles/elas chamam
+  key: 24c6c438-3b8b-46bb-9b1e-9b76f14eceef
+- en: card
+  pt-pt: o cartão
+  word_type: noun
+  gender: masculine
+  plural_form: os cartões
+  key: b797082c-b47f-4f9a-be23-f7d860cecc49
+- en: to describe
+  pt-pt: descrever
+  word_type: verb
+  first_person_singular: eu descrevo
+  second_person_singular: tu descreves
+  third_person_singular: ele/ela descreve
+  first_person_plural: nós descrevemos
+  second_person_plural: vós descreveis
+  third_person_plural: eles/elas descrevem
+  key: 4cde8666-9376-45cc-9b65-fea5bf037aa8
+- en: description
+  pt-pt: a descrição
+  word_type: noun
+  gender: feminine
+  plural_form: as descrições
+  key: 1c5187fb-be7b-4f31-83aa-50cd178c649d
+- en: to explain
+  pt-pt: explicar
+  word_type: verb
+  first_person_singular: eu explico
+  second_person_singular: tu explicas
+  third_person_singular: ele/ela explica
+  first_person_plural: nós explicamos
+  second_person_plural: vós explicais
+  third_person_plural: eles/elas explicam
+  key: a40d3e6d-65fe-45e5-a860-c54a28be9027
+- en: information
+  pt-pt: a informação
+  word_type: noun
+  gender: feminine
+  plural_form: as informações
+  key: c79b1a7b-8624-435d-bc94-57b4fe1d884e

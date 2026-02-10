@@ -1,0 +1,230 @@
+- pt-pt: Olá!
+  en: Hello!
+  word_type: other
+  key: ab762aaf-f69d-4611-856c-462392fe4eb5
+- pt-pt: Adeus!
+  en: Goodbye!
+  word_type: other
+  key: 16600772-f799-49d3-8fcf-0f1dd7af0df7
+- pt-pt: Bem-vindo!
+  en: Welcome!
+  word_type: other
+  key: e6b9ac24-d397-485c-a0a3-3a937a5d3cc0
+- pt-pt: por favor
+  en: please
+  word_type: other
+  key: 013c0853-f46a-49eb-b882-f7befdf93b7f
+- pt-pt: desculpe
+  en: sorry
+  word_type: other
+  key: be4f37cf-65f4-41f9-9fbc-e7e05460922d
+- pt-pt: sim
+  en: yes
+  word_type: other
+  key: df38e624-c5a8-4842-8387-b25e6993f488
+- pt-pt: não
+  en: no
+  word_type: other
+  key: 00e87d3a-f0c0-4058-91dd-9aa1e8eb55f3
+- pt-pt: dizer
+  en: to say
+  word_type: verb
+  first_person_singular: eu digo
+  second_person_singular: tu dizes
+  third_person_singular: ele/ela diz
+  first_person_plural: nós dizemos
+  second_person_plural: vós dizeis
+  third_person_plural: eles/elas dizem
+  key: fea437b5-55d0-4be5-9bf1-e3caea99def0
+- pt-pt: contar
+  en: to tell
+  word_type: verb
+  first_person_singular: eu conto
+  second_person_singular: tu contas
+  third_person_singular: ele/ela conta
+  first_person_plural: nós contamos
+  second_person_plural: vós contais
+  third_person_plural: eles/elas contam
+  key: a8a9b4d2-267b-44a0-bff3-5f3cb200b011
+- pt-pt: perguntar
+  en: to ask
+  word_type: verb
+  first_person_singular: eu pergunto
+  second_person_singular: tu perguntas
+  third_person_singular: ele/ela pergunta
+  first_person_plural: nós perguntamos
+  second_person_plural: vós perguntais
+  third_person_plural: eles/elas perguntam
+  key: 8921a5ea-0548-4667-8929-9154335f1b8f
+- pt-pt: apresentar
+  en: to introduce
+  word_type: verb
+  first_person_singular: eu apresento
+  second_person_singular: tu apresentas
+  third_person_singular: ele/ela apresenta
+  first_person_plural: nós apresentamos
+  second_person_plural: vós apresentais
+  third_person_plural: eles/elas apresentam
+  key: 977bba3e-6c21-4dc8-99c8-e5b114ff3922
+- pt-pt: a conversa
+  en: conversation
+  word_type: noun
+  gender: feminine
+  plural_form: as conversas
+  key: f1b9ff1e-8de9-4200-9efe-82871da9e48e
+- pt-pt: a questão
+  en: question
+  word_type: noun
+  gender: feminine
+  plural_form: as questões
+  key: 328132b1-25d6-4f39-ab7e-c2a931e93651
+- pt-pt: a resposta
+  en: answer
+  word_type: noun
+  gender: feminine
+  plural_form: as respostas
+  key: 95c7036c-8495-4b59-b1f0-bfa55faa6572
+- pt-pt: ele
+  en: he
+  word_type: pronoun
+  key: 326fdcc4-cd11-4c43-b2e6-afd509f5a79f
+- pt-pt: seu
+  en: his
+  word_type: pronoun
+  key: 5077a6e3-b01a-4054-813f-0f0de7b75cf0
+- pt-pt: eu
+  en: I
+  word_type: pronoun
+  key: 9c1a7b2c-f518-440a-b359-d2b7205c5e96
+- pt-pt: me
+  en: me
+  word_type: pronoun
+  key: 1c3522f2-265c-40fe-a32c-499d69d57263
+- pt-pt: meu
+  en: mine
+  word_type: pronoun
+  key: 21dd0c0b-a709-40ae-969f-88645b1eca37
+- pt-pt: eu mesmo
+  en: myself
+  word_type: pronoun
+  key: 34a7947b-c378-4ed6-93b5-72094026c209
+- pt-pt: nosso
+  en: our
+  word_type: pronoun
+  key: 2fb06e1e-edd1-4e59-bf96-56599b0d1dde
+- pt-pt: ela
+  en: she
+  word_type: pronoun
+  key: ffae532c-94a6-4e14-8ef1-5c461f8f17c9
+- pt-pt: nós
+  en: us
+  word_type: pronoun
+  key: aaa79269-5828-4049-9d80-c0167509c633
+- pt-pt: tu
+  en: you
+  word_type: pronoun
+  key: 3fb27f69-47e5-4ee5-8659-355b41597cda
+- pt-pt: teu
+  en: your
+  word_type: pronoun
+  key: 2c23343e-c5b2-4676-a0f4-e2e6350c9c77
+- pt-pt: tu mesmo
+  en: yourself
+  word_type: pronoun
+  key: 20fcc5b7-9471-4c0e-a148-60ec4c1f3bd7
+- pt-pt: um
+  en: one
+  word_type: other
+  key: 1cab5226-c23c-4ac7-a20e-d64fd9d715fa
+- pt-pt: dois
+  en: two
+  word_type: other
+  key: d7e102d0-5e53-406a-becb-57c81513fe12
+- pt-pt: três
+  en: three
+  word_type: other
+  key: 064a08ab-c584-41eb-8d39-7952fd7f9e66
+- pt-pt: quatro
+  en: four
+  word_type: other
+  key: c605989e-3a32-410a-978b-3adb7cb545f0
+- pt-pt: cinco
+  en: five
+  word_type: other
+  key: 37d02c31-118f-435f-a638-702ec0f8618c
+- pt-pt: seis
+  en: six
+  word_type: other
+  key: abdff5b0-7d15-4758-b6e6-9e648abd3dbe
+- pt-pt: sete
+  en: seven
+  word_type: other
+  key: fc178c09-c7b9-4898-85e1-fb04f79f603e
+- pt-pt: oito
+  en: eight
+  word_type: other
+  key: d87af541-226d-4ab9-bcbc-079c599a4470
+- pt-pt: nove
+  en: nine
+  word_type: other
+  key: 8c540034-4100-46ea-91ec-9ff23f04a9b6
+- pt-pt: dez
+  en: ten
+  word_type: other
+  key: 53d4288c-2b6f-471f-9528-2fc04f43ada6
+- pt-pt: onze
+  en: eleven
+  word_type: other
+  key: 7f199861-3f15-42cc-858b-6c44463fbc84
+- pt-pt: doze
+  en: twelve
+  word_type: other
+  key: 7ddd399d-aa73-4f75-a275-d887b2b5c99a
+- pt-pt: treze
+  en: thirteen
+  word_type: other
+  key: c25f51c3-432b-4939-a88d-b7f4e14606e0
+- pt-pt: catorze
+  en: fourteen
+  word_type: other
+  key: 159be1b0-3e31-4198-b13f-ae194f1488f6
+- pt-pt: quinze
+  en: fifteen
+  word_type: other
+  key: 8aee2137-00f2-472c-afb1-6a6978ffcd54
+- pt-pt: dezasseis
+  en: sixteen
+  word_type: other
+  key: bc1e8a9d-9600-49bc-ba79-329ecf72ff2f
+- pt-pt: dezassete
+  en: seventeen
+  word_type: other
+  key: e5138163-4b97-4848-991b-8f41138693cf
+- pt-pt: dezoito
+  en: eighteen
+  word_type: other
+  key: a151b0b0-ffba-49b3-8584-fbcb4050b4a9
+- pt-pt: dezanove
+  en: nineteen
+  word_type: other
+  key: 133c20bf-993b-4e8e-8c0e-88caa7424edb
+- pt-pt: vinte
+  en: twenty
+  word_type: other
+  key: 87844650-d7c5-4250-8109-e077c4db6441
+- pt-pt: trinta
+  en: thirty
+  word_type: other
+  key: 7ca0e77e-b1aa-4c0e-ba33-0159cf0f1b1d
+- pt-pt: quarenta
+  en: forty
+  word_type: other
+  key: 7255117a-fec4-4d5e-a9a9-5cdeaa5049dc
+- pt-pt: cinquenta
+  en: fifty
+  word_type: other
+  key: bdc684ef-df92-4789-88ba-07331055c8d0
+- pt-pt: sessenta
+  en: sixty
+  word_type: other
+  key: 130d23e5-8e6e-470a-9bfb-6e924cf30a28

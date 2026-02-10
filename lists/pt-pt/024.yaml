@@ -1,0 +1,308 @@
+- pt-pt: incrível
+  en: incredible
+  word_type: adjective
+  positive: incrível
+  comparative: mais incrível
+  superlative: o mais incrível
+  key: 32b3e4b3-6395-45ac-8c7a-2ab441465dfd
+- pt-pt: a natureza
+  en: nature
+  word_type: noun
+  plural_form: as naturezas
+  gender: feminine
+  key: 2a72f166-da51-484b-9619-ea64911e8a6d
+- pt-pt: a visão
+  en: vision
+  word_type: noun
+  plural_form: as visões
+  gender: feminine
+  key: 0bc672b6-41f5-4ceb-b6d9-a5ae2ed78c24
+- pt-pt: o aluno
+  en: student
+  word_type: noun
+  plural_form: os alunos
+  gender: masculine
+  key: fdaf5341-047f-4b7f-a391-754cf32f5e1d
+- pt-pt: a capacidade
+  en: capacity
+  word_type: noun
+  plural_form: as capacidades
+  gender: feminine
+  key: 3e20f5b2-d891-4ea1-abcd-e56776fa4636
+- pt-pt: capaz
+  en: capable
+  word_type: adjective
+  positive: capaz
+  comparative: mais capaz
+  superlative: o mais capaz
+  key: 669e0b8d-d46d-46e2-9fd4-1997bb16664a
+- pt-pt: o conjunto
+  en: set (group)
+  word_type: noun
+  plural_form: os conjuntos
+  gender: masculine
+  key: f32a4337-3685-4650-add1-a883db8af30c
+- pt-pt: a fome
+  en: hunger
+  word_type: noun
+  plural_form: as fomes
+  gender: feminine
+  key: 9d53c7e5-ccdd-4217-a91e-fab6b7e7c952
+- pt-pt: inclusive
+  en: including
+  word_type: adverb
+  key: baaae8db-c991-48e9-8254-b16e8e8e8507
+- pt-pt: o leste
+  en: east
+  word_type: noun
+  plural_form: os lestes
+  gender: masculine
+  key: ffa6591f-041a-4d33-af31-9312a7d491d4
+- pt-pt: matar
+  en: to kill
+  word_type: verb
+  first_person_singular: eu mato
+  second_person_singular: tu matas
+  third_person_singular: ele/ela mata
+  first_person_plural: nós matamos
+  second_person_plural: vós matais
+  third_person_plural: eles/elas matam
+  key: a80c0c39-e73b-495d-829a-ac943d3c0ede
+- pt-pt: a proposta
+  en: proposal
+  word_type: noun
+  plural_form: as propostas
+  gender: feminine
+  key: b46a5630-526f-4f0f-bcb1-39b6640d2222
+- pt-pt: a reunião
+  en: meeting
+  word_type: noun
+  plural_form: as reuniões
+  gender: feminine
+  key: 4602f127-94c4-4e13-af8f-a29108ff8058
+- pt-pt: o transporte
+  en: transport
+  word_type: noun
+  gender: masculine
+  plural_form: os transportes
+  key: b737e5f4-589b-4da7-8628-a9e1a20b506c
+- pt-pt: a cor
+  en: colour
+  word_type: noun
+  gender: feminine
+  plural_form: as cores
+  key: 1fd6c6e1-c143-4fe8-8887-9cb740619684
+- pt-pt: a culpa
+  en: fault
+  word_type: noun
+  gender: feminine
+  plural_form: as culpas
+  key: 8b12284b-a6a5-4ce1-a792-93d6a6ae82d9
+- pt-pt: o departamento
+  en: department
+  word_type: noun
+  gender: masculine
+  plural_form: os departamentos
+  key: dc13d008-a51a-46be-80f7-879a293ad7b7
+- pt-pt: as eleições
+  en: election
+  word_type: noun
+  gender: feminine
+  plural_form: as eleições
+  key: fe2f1180-cd56-4bf0-8ac9-cc89ba761acc
+- pt-pt: o emprego
+  en: job
+  word_type: noun
+  gender: masculine
+  plural_form: os empregos
+  key: 8c928f20-929e-42c3-a20c-a09a8bc98a07
+- pt-pt: a estrutura
+  en: structure
+  word_type: noun
+  gender: feminine
+  plural_form: as estruturas
+  key: c1afd008-c6e1-4328-b0eb-f1f3139ebd7a
+- pt-pt: a importância
+  en: importance
+  word_type: noun
+  gender: feminine
+  plural_form: as importâncias
+  key: ea64ac01-1acb-4ba0-b11e-9f29f687e954
+- pt-pt: interessante
+  en: interesting
+  word_type: adjective
+  positive: interessante
+  comparative: mais interessante
+  superlative: o/a mais interessante
+  key: f27b9a22-f516-4137-b69a-cc4249b00cd3
+- pt-pt: a operação
+  en: operation
+  word_type: noun
+  gender: feminine
+  plural_form: as operações
+  key: 856bd387-7991-44e1-99cc-13ae076e86c4
+- pt-pt: a origem
+  en: origin
+  word_type: noun
+  gender: feminine
+  plural_form: as origens
+  key: 602f048e-f95a-4306-97f7-82d93818a866
+- pt-pt: o risco
+  en: risk
+  word_type: noun
+  gender: masculine
+  plural_form: os riscos
+  key: 19c230d3-a49c-4c4d-8624-148005909600
+- pt-pt: santo
+  en: holy
+  word_type: adjective
+  positive: santo
+  comparative: mais santo
+  superlative: o/a mais santo/a
+  key: 6edb241b-f4fd-4b16-8b32-363b4ab26f98
+- pt-pt: a temporada
+  en: season
+  word_type: noun
+  gender: feminine
+  plural_form: as temporadas
+  key: 31a2d694-89db-4362-8458-7538886925e7
+- pt-pt: ai
+  en: there
+  word_type: adverb
+  key: 88fa3afe-e760-4271-893f-7da023fbf9ae
+- pt-pt: a beleza
+  en: beauty
+  word_type: noun
+  gender: feminine
+  plural_form: as belezas
+  key: 5edfde37-71e3-4658-98d0-8de76faf219d
+- pt-pt: o cabo
+  en: cape (geography)
+  word_type: noun
+  gender: masculine
+  plural_form: os cabos
+  key: a060f272-baca-4d78-9cda-45776297c0f6
+- pt-pt: lhes
+  en: to them
+  word_type: pronoun
+  key: a4c28f39-2081-4a19-8471-355af7b71ea2
+- pt-pt: a necessidade
+  en: necessity
+  word_type: noun
+  gender: feminine
+  plural_form: as necessidades
+  key: 88cafa8b-ebde-4d8b-bdf5-0e5121897d46
+- pt-pt: a quinta
+  en: farm
+  word_type: noun
+  gender: feminine
+  plural_form: as quintas
+  key: f86a70a6-af10-488d-b692-37e10ab83bc9
+- pt-pt: o século
+  en: century
+  word_type: noun
+  gender: masculine
+  plural_form: os séculos
+  key: 5d9340c2-a8a4-4ba4-8274-72fa23f0fb0a
+- pt-pt: anterior
+  en: previous
+  word_type: adjective
+  positive: anterior
+  comparative: mais anterior
+  superlative: o/a mais anterior
+  key: 3053d08d-0abf-4da1-88cc-9562c7857d9e
+- pt-pt: belo
+  en: beautiful
+  word_type: adjective
+  positive: belo
+  comparative: mais belo
+  superlative: o/a mais belo/a
+  key: 4aa776eb-1962-4cff-8f8e-8f026f29fb8b
+- pt-pt: o cinema
+  en: cinema
+  word_type: noun
+  gender: masculine
+  plural_form: os cinemas
+  key: ce288c69-0e4b-4a46-b4e0-a9019adcf83b
+- pt-pt: o criado
+  en: servant
+  word_type: noun
+  gender: masculine
+  plural_form: os criados
+  key: 3dea3d93-cfc5-4ded-95c3-6c94b0d46ff7
+- pt-pt: a fé
+  en: faith
+  word_type: noun
+  plural_form: as fés
+  gender: feminine
+  key: 2396622b-ac14-4bb7-b7ea-7705af412918
+- pt-pt: o material
+  en: material
+  word_type: noun
+  plural_form: os materiais
+  gender: masculine
+  key: 749b6c1f-f6fe-4b3a-a9d7-1b294256ad47
+- pt-pt: necessário
+  en: necessary
+  word_type: adjective
+  positive: necessário
+  comparative: mais necessário
+  superlative: o mais necessário
+  key: aa272ecd-f8c5-47d1-b9c2-788643ca5576
+- pt-pt: perfeito
+  en: perfect
+  word_type: adjective
+  positive: perfeito
+  comparative: mais perfeito
+  superlative: o mais perfeito
+  key: 2f2bcd01-dba8-4632-aaca-f239918bdf0b
+- pt-pt: a porra
+  en: damn (exclamation)
+  word_type: other
+  key: 72514032-108a-4cf1-b6fc-631c1cc27f9a
+- pt-pt: a prática
+  en: practice
+  word_type: noun
+  plural_form: as práticas
+  gender: feminine
+  key: 13373dec-5411-4bf8-a2d6-03e7f620b230
+- pt-pt: realizar
+  en: to carry out
+  word_type: verb
+  first_person_singular: eu realizo
+  first_person_plural: nós realizamos
+  second_person_singular: tu realizas
+  second_person_plural: vós realizais
+  third_person_singular: ele/ela realiza
+  third_person_plural: eles/elas realizam
+  key: 7c9aff19-8ffc-4f4f-9050-022c5d433bb0
+- pt-pt: a sede
+  en: sede (headquarters)
+  word_type: noun
+  plural_form: as sedes
+  gender: feminine
+  key: bfdc459b-8526-4600-b776-77ee78e36156
+- pt-pt: a administração
+  en: administration
+  word_type: noun
+  plural_form: as administrações
+  gender: feminine
+  key: 34c7288c-9c59-45ee-81c7-733e2f930388
+- pt-pt: a carreira
+  en: career
+  word_type: noun
+  plural_form: as carreiras
+  gender: feminine
+  key: a4c114b8-b483-40ad-8539-da511cdfff8b
+- pt-pt: a cena
+  en: scene
+  word_type: noun
+  plural_form: as cenas
+  gender: feminine
+  key: 7729f08d-58ad-464d-9e8c-fb1732e60b29
+- pt-pt: o chão
+  en: floor
+  word_type: noun
+  plural_form: os chãos
+  gender: masculine
+  key: f83b071b-b14f-4c07-a966-ebe628c8c163

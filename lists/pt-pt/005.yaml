@@ -1,0 +1,240 @@
+- pt-pt: o utilizador
+  en: user
+  word_type: noun
+  plural_form: os utilizadores
+  gender: masculine
+  key: 829fe699-2fc3-4986-ac72-c532360527ea
+- en: front
+  pt-pt: a frente
+  word_type: noun
+  gender: feminine
+  plural_form: as frentes
+  key: d5663bfc-ac62-4825-80df-ba4f5d71f062
+- en: inside
+  pt-pt: dentro
+  word_type: adverb
+  key: fac6ad1f-a223-488d-96f3-b71a91988873
+- en: outside
+  pt-pt: fora
+  word_type: adverb
+  key: 3612ceb2-c98b-4107-ace9-adae399ab489
+- en: through
+  pt-pt: através de
+  word_type: preposition
+  key: 7e3b7889-6274-4acb-aac8-5078d20c0a01
+- en: across
+  pt-pt: do outro lado
+  word_type: preposition
+  key: 5b737bdc-7520-42de-9a6d-4cf571f0eea4
+- en: between
+  pt-pt: entre
+  word_type: preposition
+  key: 50a1e94d-bef8-429c-b40d-9c716741b09c
+- en: around
+  pt-pt: em torno de
+  word_type: preposition
+  key: 578883a9-b959-4715-91e8-e92594c4a3ad
+- en: moment
+  pt-pt: o momento
+  word_type: noun
+  plural_form: os momentos
+  gender: masculine
+  key: 00b44396-58f7-43ce-a527-bc6eb53d854f
+- en: minute
+  pt-pt: o minuto
+  word_type: noun
+  plural_form: os minutos
+  gender: masculine
+  key: 90f22015-b1cd-4daa-a7fc-accc4f5dfb19
+- en: day
+  pt-pt: o dia
+  word_type: noun
+  plural_form: os dias
+  gender: masculine
+  key: af6b7813-16d7-4fdb-9054-8346e8b1112d
+- en: morning
+  pt-pt: a manhã
+  word_type: noun
+  plural_form: as manhãs
+  gender: feminine
+  key: bccf4f47-f43e-4837-96ef-d04a101e9cde
+- en: afternoon
+  pt-pt: a tarde
+  word_type: noun
+  plural_form: as tardes
+  gender: feminine
+  key: de00232e-24a3-45cb-b324-8947d8e5e8e6
+- en: evening
+  pt-pt: a noite
+  word_type: noun
+  plural_form: as noites
+  gender: feminine
+  key: 67a5d718-5fcc-44dd-8287-65d3db42a987
+- en: midnight
+  pt-pt: a meia-noite
+  word_type: noun
+  plural_form: as meias-noites
+  gender: feminine
+  key: 2ee99595-e1e8-4ac9-9e67-019fc3c30e2f
+- en: tonight
+  pt-pt: esta noite
+  word_type: adverb
+  key: dd8d4525-21fe-457d-a42d-5caf786d13bb
+- en: period
+  pt-pt: o período
+  word_type: noun
+  plural_form: os períodos
+  gender: masculine
+  key: 88658303-13b1-4f9c-96a6-38918936cc70
+- en: time
+  pt-pt: o tempo
+  word_type: noun
+  plural_form: os tempos
+  gender: masculine
+  key: 47ce8a08-e30d-44b6-9aaf-6bb1aa80281e
+- en: clock
+  pt-pt: o relógio
+  word_type: noun
+  plural_form: os relógios
+  gender: masculine
+  key: bfe7b6e4-5624-4a08-9d2a-094bb0db9a6b
+- en: hour
+  pt-pt: a hora
+  word_type: noun
+  plural_form: as horas
+  gender: feminine
+  key: 0e65040e-af9c-445c-a1ac-1819cd9c0ba7
+- en: today
+  pt-pt: hoje
+  word_type: adverb
+  key: 3c55f63a-8c13-4752-acb9-24a2ca439e09
+- en: tomorrow
+  pt-pt: amanhã
+  word_type: adverb
+  key: a2a51206-f1dc-4494-818f-31958a8679b4
+- en: yesterday
+  pt-pt: ontem
+  word_type: adverb
+  key: 9844e7b7-ff5b-45a3-996c-e9ab86d873d6
+- en: now
+  pt-pt: agora
+  word_type: adverb
+  key: 287bd7d7-ba62-46c8-b060-099d40a0fee0
+- en: then
+  pt-pt: depois
+  word_type: adverb
+  key: 59ba96d9-afe4-4a1e-8378-56eb2d71230f
+- en: past
+  pt-pt: o passado
+  word_type: noun
+  plural_form: os passados
+  gender: masculine
+  key: a6f7979a-4076-40c2-b342-d526fd2f5230
+- en: future
+  pt-pt: o futuro
+  word_type: noun
+  plural_form: os futuros
+  gender: masculine
+  key: aa0ca033-2536-4b16-8c70-d5cc3739e989
+- en: before
+  pt-pt: antes de
+  word_type: preposition
+  key: 5d7e0a80-4083-4da3-9f93-66955abf96a2
+- en: after
+  pt-pt: após
+  word_type: preposition
+  key: f666c6ee-34c0-4f29-936b-547f1f185625
+- en: later
+  pt-pt: mais tarde
+  word_type: adverb
+  key: 1a063b86-f7ca-40e1-9bd4-e401be0ce176
+- en: soon
+  pt-pt: em breve
+  word_type: adverb
+  key: 1e4c4152-9c18-4dcf-b8a8-a5c842123deb
+- en: early
+  pt-pt: cedo
+  word_type: adverb
+  key: 57ded418-5e8f-448d-9f70-e5ac68482294
+- en: beginning
+  pt-pt: o começo
+  word_type: noun
+  plural_form: os começos
+  gender: masculine
+  key: 0f522d9b-9c38-46fe-bf60-e6474323cf6d
+- en: during
+  pt-pt: durante
+  word_type: preposition
+  key: be1a58ac-f0c8-447a-9c23-8b26e229c3e9
+- en: till
+  pt-pt: até
+  word_type: preposition
+  key: a95e9ba8-f28a-4e22-ade9-137e132fe6a5
+- en: always
+  pt-pt: sempre
+  word_type: adverb
+  key: 4e65410a-83f0-4bea-b2c1-90a3a2ddd198
+- en: never
+  pt-pt: nunca
+  word_type: adverb
+  key: 31e592a7-8e9d-4765-a071-88a59b0a3394
+- en: often
+  pt-pt: frequentemente
+  word_type: adverb
+  key: 180f0594-1f61-499c-b4d0-cc20d9fd36fb
+- en: sometimes
+  pt-pt: às vezes
+  word_type: adverb
+  key: 4a69c8ca-64d9-480d-aa01-90bdfcd010c3
+- en: once
+  pt-pt: uma vez
+  word_type: adverb
+  key: e458dd6b-5df3-4efb-b111-19620c055468
+- en: usually
+  pt-pt: normalmente
+  word_type: adverb
+  key: ca281705-505d-46a4-8ee8-eb0b941eb87b
+- en: ever
+  pt-pt: alguma vez
+  word_type: adverb
+  key: 62c43f6a-cf67-4670-b040-3d3f5199cc0a
+- en: already
+  pt-pt: já
+  word_type: adverb
+  key: 5ca607c5-e553-4836-9e10-82ea866595df
+- en: still
+  pt-pt: ainda
+  word_type: adverb
+  key: 7510b378-bd60-4f72-b51a-b91647ec175b
+- en: again
+  pt-pt: novamente
+  word_type: adverb
+  key: f536b5c2-431f-4838-8fde-990b10876713
+- en: when
+  pt-pt: quando
+  word_type: adverb
+  key: 6ab47a3d-f25e-4dbf-bcb0-afa25dec8722
+- en: distance
+  pt-pt: a distância
+  word_type: noun
+  plural_form: as distâncias
+  gender: feminine
+  key: 03d61920-f09d-4b72-98dc-6958f0b7eaf3
+- en: centimeter
+  pt-pt: o centímetro
+  word_type: noun
+  plural_form: os centímetros
+  gender: masculine
+  key: 30776252-4b4f-4f5d-86c5-ebf5f211c3d3
+- en: inch
+  pt-pt: a polegada
+  word_type: noun
+  plural_form: as polegadas
+  gender: feminine
+  key: 6f45b653-92b9-4f3f-948f-5c04b11ce779
+- en: meter
+  pt-pt: o metro
+  word_type: noun
+  plural_form: os metros
+  gender: masculine
+  key: bd8713bc-53d0-4d67-9078-95ed8c4d70fc

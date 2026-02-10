@@ -1,0 +1,500 @@
+- en: to have
+  pt-pt: ter
+  word_type: verb
+  first_person_singular: eu tenho
+  second_person_singular: tu tens
+  third_person_singular: ele/ela tem
+  first_person_plural: nós temos
+  second_person_plural: vós tendes
+  third_person_plural: eles/elas têm
+  key: bbf78b95-15c4-4911-885c-abf22df726f9
+- en: to do
+  pt-pt: fazer
+  word_type: verb
+  first_person_singular: eu faço
+  second_person_singular: tu fazes
+  third_person_singular: ele/ela faz
+  first_person_plural: nós fazemos
+  second_person_plural: vós fazeis
+  third_person_plural: eles/elas fazem
+  key: d085f9c8-2010-476c-85c8-4f5e6c3db29c
+- en: can
+  pt-pt: poder
+  word_type: verb
+  first_person_singular: eu posso
+  second_person_singular: tu podes
+  third_person_singular: ele/ela pode
+  first_person_plural: nós podemos
+  second_person_plural: vós podeis
+  third_person_plural: eles/elas podem
+  key: 10ed1b94-06ad-44a1-9cb6-e3bdc2057a8d
+- en: should
+  pt-pt: dever
+  word_type: verb
+  first_person_singular: eu devo
+  second_person_singular: tu deves
+  third_person_singular: ele/ela deve
+  first_person_plural: nós devemos
+  second_person_plural: vós deveis
+  third_person_plural: eles/elas devem
+  key: c46d48b1-ddb4-4226-a24d-302f472067ea
+- en: to go
+  pt-pt: ir
+  word_type: verb
+  first_person_singular: eu vou
+  second_person_singular: tu vais
+  third_person_singular: ele/ela vai
+  first_person_plural: nós vamos
+  second_person_plural: vós ides
+  third_person_plural: eles/elas vão
+  key: 8cd19e76-8175-4698-bbec-7a359bf09da3
+- en: to come
+  pt-pt: vir
+  word_type: verb
+  first_person_singular: eu venho
+  second_person_singular: tu vens
+  third_person_singular: ele/ela vem
+  first_person_plural: nós vimos
+  second_person_plural: vós vindes
+  third_person_plural: eles/elas vêm
+  key: 0b080db1-1a45-4e9f-83fc-14aedfa85a42
+- en: to get (something)
+  pt-pt: obter
+  word_type: verb
+  first_person_singular: eu obtenho
+  second_person_singular: tu obténs
+  third_person_singular: ele/ela obtém
+  first_person_plural: nós obtemos
+  second_person_plural: vós obtedes
+  third_person_plural: eles/elas obtêm
+  key: 21b8bde7-1997-43bc-917e-98e2a5f9c89a
+- en: to take
+  pt-pt: tomar
+  word_type: verb
+  first_person_singular: eu tomo
+  second_person_singular: tu tomas
+  third_person_singular: ele/ela toma
+  first_person_plural: nós tomamos
+  second_person_plural: vós tomais
+  third_person_plural: eles/elas tomam
+  key: 4fc3efe2-d3ae-4753-8acc-1bc6d79109b5
+- en: to see
+  pt-pt: ver
+  word_type: verb
+  first_person_singular: eu vejo
+  second_person_singular: tu vês
+  third_person_singular: ele/ela vê
+  first_person_plural: nós vemos
+  second_person_plural: vós vedes
+  third_person_plural: eles/elas veem
+  key: 24bf0d71-c36e-4102-9eba-a8f503891580
+- en: to give
+  pt-pt: dar
+  word_type: verb
+  first_person_singular: eu dou
+  second_person_singular: tu dás
+  third_person_singular: ele/ela dá
+  first_person_plural: nós damos
+  second_person_plural: vós dais
+  third_person_plural: eles/elas dão
+  key: 82cfd4c9-2016-4912-93a5-6688168a349c
+- en: to eat
+  pt-pt: comer
+  word_type: verb
+  first_person_singular: eu como
+  second_person_singular: tu comes
+  third_person_singular: ele/ela come
+  first_person_plural: nós comemos
+  second_person_plural: vós comeis
+  third_person_plural: eles/elas comem
+  key: 8e217d35-9571-4216-8180-4dfa81407783
+- en: to drink
+  pt-pt: beber
+  word_type: verb
+  first_person_singular: eu bebo
+  second_person_singular: tu bebes
+  third_person_singular: ele/ela bebe
+  first_person_plural: nós bebemos
+  second_person_plural: vós bebeis
+  third_person_plural: eles/elas bebem
+  key: 7d4bd979-2534-487f-8c1c-e62ce146711b
+- en: to run
+  pt-pt: correr
+  word_type: verb
+  first_person_singular: eu corro
+  second_person_singular: tu corres
+  third_person_singular: ele/ela corre
+  first_person_plural: nós corremos
+  second_person_plural: vós correis
+  third_person_plural: eles/elas correm
+  key: 1b018e7c-f2f1-4bab-942d-fb3a881da404
+- en: to walk
+  pt-pt: caminhar
+  word_type: verb
+  first_person_singular: eu caminho
+  second_person_singular: tu caminhas
+  third_person_singular: ele/ela caminha
+  first_person_plural: nós caminhamos
+  second_person_plural: vós caminhais
+  third_person_plural: eles/elas caminham
+  key: 02ad7d8c-01d2-41b0-8d58-a5a12ff2d8e0
+- en: to sit
+  pt-pt: sentar-se
+  word_type: verb
+  first_person_singular: eu sento-me
+  second_person_singular: tu sentas-te
+  third_person_singular: ele/ela senta-se
+  first_person_plural: nós sentamo-nos
+  second_person_plural: vós sentais-vos
+  third_person_plural: eles/elas sentam-se
+  key: d7d68233-a329-4076-aaa4-704c3f7d58fa
+- en: to stand
+  pt-pt: estar de pé
+  word_type: verb
+  first_person_singular: eu estou de pé
+  second_person_singular: tu estás de pé
+  third_person_singular: ele/ela está de pé
+  first_person_plural: nós estamos de pé
+  second_person_plural: vós estais de pé
+  third_person_plural: eles/elas estão de pé
+  key: 2044c6f6-c3dc-45b8-8ba3-206c124dda6c
+- en: to sleep
+  pt-pt: dormir
+  word_type: verb
+  first_person_singular: eu durmo
+  second_person_singular: tu dormes
+  third_person_singular: ele/ela dorme
+  first_person_plural: nós dormimos
+  second_person_plural: vós dormis
+  third_person_plural: eles/elas dormem
+  key: 26bbc1b6-950f-41fd-b194-1ce346bd8fcf
+- en: to wake
+  pt-pt: acordar
+  word_type: verb
+  first_person_singular: eu acordo
+  second_person_singular: tu acordas
+  third_person_singular: ele/ela acorda
+  first_person_plural: nós acordamos
+  second_person_plural: vós acordais
+  third_person_plural: eles/elas acordam
+  key: b2acd941-2c8c-4177-9549-dfed0689fb6b
+- en: to look
+  pt-pt: olhar
+  word_type: verb
+  first_person_singular: eu olho
+  second_person_singular: tu olhas
+  third_person_singular: ele/ela olha
+  first_person_plural: nós olhamos
+  second_person_plural: vós olhais
+  third_person_plural: eles/elas olham
+  key: d256c5b0-9553-4a60-a244-5a1b7a8161c8
+- en: to find
+  pt-pt: encontrar
+  word_type: verb
+  first_person_singular: eu encontro
+  second_person_singular: tu encontras
+  third_person_singular: ele/ela encontra
+  first_person_plural: nós encontramos
+  second_person_plural: vós encontrais
+  third_person_plural: eles/elas encontram
+  key: 8d60a6a4-4d4d-437a-affd-63111ccf3895
+- en: to put
+  pt-pt: pôr
+  word_type: verb
+  first_person_singular: eu ponho
+  second_person_singular: tu pões
+  third_person_singular: ele/ela põe
+  first_person_plural: nós pomos
+  second_person_plural: vós pondes
+  third_person_plural: eles/elas põem
+  key: 0996b0e2-5404-4098-b829-c88f0f25a79e
+- en: to want
+  pt-pt: querer
+  word_type: verb
+  first_person_singular: eu quero
+  second_person_singular: tu queres
+  third_person_singular: ele/ela quer
+  first_person_plural: nós queremos
+  second_person_plural: vós quereis
+  third_person_plural: eles/elas querem
+  key: 11b12845-3fc5-433c-9ee0-27c93058949e
+- en: to need
+  pt-pt: precisar
+  word_type: verb
+  first_person_singular: eu preciso
+  second_person_singular: tu precisas
+  third_person_singular: ele/ela precisa
+  first_person_plural: nós precisamos
+  second_person_plural: vós precisais
+  third_person_plural: eles/elas precisam
+  key: 7f35d4a0-d0c2-4857-96db-d149cf8a48fc
+- en: to like
+  pt-pt: gostar
+  word_type: verb
+  first_person_singular: eu gosto
+  second_person_singular: tu gostas
+  third_person_singular: ele/ela gosta
+  first_person_plural: nós gostamos
+  second_person_plural: vós gostais
+  third_person_plural: eles/elas gostam
+  key: 087f28a8-8b87-4b90-8c34-89310a283af0
+- en: to know (facts)
+  pt-pt: saber
+  word_type: verb
+  first_person_singular: eu sei
+  second_person_singular: tu sabes
+  third_person_singular: ele/ela sabe
+  first_person_plural: nós sabemos
+  second_person_plural: vós sabeis
+  third_person_plural: eles/elas sabem
+  key: e04dd950-737b-4a04-8563-6b8df0a92930
+- en: to think
+  pt-pt: pensar
+  word_type: verb
+  first_person_singular: eu penso
+  second_person_singular: tu pensas
+  third_person_singular: ele/ela pensa
+  first_person_plural: nós pensamos
+  second_person_plural: vós pensais
+  third_person_plural: eles/elas pensam
+  key: 5b20d999-bd59-4c7a-9dcc-7ee8bbc9319a
+- en: to help
+  pt-pt: ajudar
+  word_type: verb
+  first_person_singular: eu ajudo
+  second_person_singular: tu ajudas
+  third_person_singular: ele/ela ajuda
+  first_person_plural: nós ajudamos
+  second_person_plural: vós ajudais
+  third_person_plural: eles/elas ajudam
+  key: fe8662e0-95e7-4c4e-9ab0-8705743a33cc
+- en: to wait
+  pt-pt: esperar
+  word_type: verb
+  first_person_singular: eu espero
+  second_person_singular: tu esperas
+  third_person_singular: ele/ela espera
+  first_person_plural: nós esperamos
+  second_person_plural: vós esperais
+  third_person_plural: eles/elas esperam
+  key: 6c27dfe2-d636-4828-9e36-51701fbea3e3
+- en: to open
+  pt-pt: abrir
+  word_type: verb
+  first_person_singular: eu abro
+  second_person_singular: tu abres
+  third_person_singular: ele/ela abre
+  first_person_plural: nós abrimos
+  second_person_plural: vós abris
+  third_person_plural: eles/elas abrem
+  key: 70be15de-97c7-449f-8e69-06f457288be4
+- en: to close
+  pt-pt: fechar
+  word_type: verb
+  first_person_singular: eu fecho
+  second_person_singular: tu fechas
+  third_person_singular: ele/ela fecha
+  first_person_plural: nós fechamos
+  second_person_plural: vós fechais
+  third_person_plural: eles/elas fecham
+  key: b302332f-2080-4bd6-b1e8-8d746e8ab371
+- en: to use
+  pt-pt: usar
+  word_type: verb
+  first_person_singular: eu uso
+  second_person_singular: tu usas
+  third_person_singular: ele/ela usa
+  first_person_plural: nós usamos
+  second_person_plural: vós usais
+  third_person_plural: eles/elas usam
+  key: 5ac66a2f-87a6-4420-8338-1fd2f140ad76
+- en: to live
+  pt-pt: viver
+  word_type: verb
+  first_person_singular: eu vivo
+  second_person_singular: tu vives
+  third_person_singular: ele/ela vive
+  first_person_plural: nós vivemos
+  second_person_plural: vós viveis
+  third_person_plural: eles/elas vivem
+  key: b93da9e1-1c56-4dbc-a902-3d797cb2edee
+- en: to stay
+  pt-pt: ficar
+  word_type: verb
+  first_person_singular: eu fico
+  second_person_singular: tu ficas
+  third_person_singular: ele/ela fica
+  first_person_plural: nós ficamos
+  second_person_plural: vós ficais
+  third_person_plural: eles/elas ficam
+  key: 16092f04-1a2a-4a7c-916c-3261eb788509
+- en: to leave
+  pt-pt: partir
+  word_type: verb
+  first_person_singular: eu parto
+  second_person_singular: tu partes
+  third_person_singular: ele/ela parte
+  first_person_plural: nós partimos
+  second_person_plural: vós partis
+  third_person_plural: eles/elas partem
+  key: e2f6ea6d-a9d7-4df1-a348-7f79fa2a42c3
+- en: to arrive
+  pt-pt: chegar
+  word_type: verb
+  first_person_singular: eu chego
+  second_person_singular: tu chegas
+  third_person_singular: ele/ela chega
+  first_person_plural: nós chegamos
+  second_person_plural: vós chegais
+  third_person_plural: eles/elas chegam
+  key: ff4b2a5d-ab4f-45a9-800d-d6de6db43294
+- en: to try
+  pt-pt: tentar
+  word_type: verb
+  first_person_singular: eu tento
+  second_person_singular: tu tentas
+  third_person_singular: ele/ela tenta
+  first_person_plural: nós tentamos
+  second_person_plural: vós tentais
+  third_person_plural: eles/elas tentam
+  key: cfea194f-1761-4f5b-a15a-e0480bc9a01b
+- en: to happen
+  pt-pt: acontecer
+  word_type: verb
+  first_person_singular: eu aconteço
+  second_person_singular: tu aconteces
+  third_person_singular: ele/ela acontece
+  first_person_plural: nós acontecemos
+  second_person_plural: vós aconteceis
+  third_person_plural: eles/elas acontecem
+  key: 1a14c82f-ff7a-4476-926f-001ef26a4e9e
+- en: to show
+  pt-pt: mostrar
+  word_type: verb
+  first_person_singular: eu mostro
+  second_person_singular: tu mostras
+  third_person_singular: ele/ela mostra
+  first_person_plural: nós mostramos
+  second_person_plural: vós mostrais
+  third_person_plural: eles/elas mostram
+  key: aaeba795-f806-4c31-b56f-f0c98433be8b
+- en: to turn
+  pt-pt: virar
+  word_type: verb
+  first_person_singular: eu viro
+  second_person_singular: tu viras
+  third_person_singular: ele/ela vira
+  first_person_plural: nós viramos
+  second_person_plural: vós virais
+  third_person_plural: eles/elas viram
+  key: 6f4ff069-ff82-4ebd-8bd5-9f70f215e0c5
+- en: to move
+  pt-pt: mover
+  word_type: verb
+  first_person_singular: eu movo
+  second_person_singular: tu moves
+  third_person_singular: ele/ela move
+  first_person_plural: nós movemos
+  second_person_plural: vós moveis
+  third_person_plural: eles/elas movem
+  key: e651357b-311d-4581-a1c7-7dab8209f95d
+- en: to bring
+  pt-pt: trazer
+  word_type: verb
+  first_person_singular: eu trago
+  second_person_singular: tu trazes
+  third_person_singular: ele/ela traz
+  first_person_plural: nós trazemos
+  second_person_plural: vós trazeis
+  third_person_plural: eles/elas trazem
+  key: 95de18dd-e970-4f5b-83ff-90d53cf8c172
+- en: to feel
+  pt-pt: sentir
+  word_type: verb
+  first_person_singular: eu sinto
+  second_person_singular: tu sentes
+  third_person_singular: ele/ela sente
+  first_person_plural: nós sentimos
+  second_person_plural: vós sentis
+  third_person_plural: eles/elas sentem
+  key: 96372f5c-1595-43e1-9a2e-d9c3203ea925
+- en: to touch
+  pt-pt: tocar
+  word_type: verb
+  first_person_singular: eu toco
+  second_person_singular: tu tocas
+  third_person_singular: ele/ela toca
+  first_person_plural: nós tocamos
+  second_person_plural: vós tocais
+  third_person_plural: eles/elas tocam
+  key: 8b83d59a-fefe-422e-929b-5791383cfbff
+- en: to listen
+  pt-pt: ouvir
+  word_type: verb
+  first_person_singular: eu ouço
+  second_person_singular: tu ouves
+  third_person_singular: ele/ela ouve
+  first_person_plural: nós ouvimos
+  second_person_plural: vós ouvis
+  third_person_plural: eles/elas ouvem
+  key: ea483841-1185-4671-a270-01b787e79ed1
+- en: to read
+  pt-pt: ler
+  word_type: verb
+  first_person_singular: eu leio
+  second_person_singular: tu lês
+  third_person_singular: ele/ela lê
+  first_person_plural: nós lemos
+  second_person_plural: vós ledes
+  third_person_plural: eles/elas leem
+  key: fa1a8a8a-c231-41dd-9d26-14cbdfe30998
+- en: to write
+  pt-pt: escrever
+  word_type: verb
+  first_person_singular: eu escrevo
+  second_person_singular: tu escreves
+  third_person_singular: ele/ela escreve
+  first_person_plural: nós escrevemos
+  second_person_plural: vós escreveis
+  third_person_plural: eles/elas escrevem
+  key: 7fbf8374-1071-4ded-b783-a48e2c82e3dc
+- en: to wash
+  pt-pt: lavar
+  word_type: verb
+  first_person_singular: eu lavo
+  second_person_singular: tu lavas
+  third_person_singular: ele/ela lava
+  first_person_plural: nós lavamos
+  second_person_plural: vós lavais
+  third_person_plural: eles/elas lavam
+  key: 816e8c8f-e270-4d65-8ea1-7072d6181ce5
+- en: to cook
+  pt-pt: cozinhar
+  word_type: verb
+  first_person_singular: eu cozinho
+  second_person_singular: tu cozinhas
+  third_person_singular: ele/ela cozinha
+  first_person_plural: nós cozinhamos
+  second_person_plural: vós cozinhais
+  third_person_plural: eles/elas cozinham
+  key: cf56bb74-3a99-481d-b11f-4bcf1220c6d1
+- en: to cut
+  pt-pt: cortar
+  word_type: verb
+  first_person_singular: eu corto
+  second_person_singular: tu cortas
+  third_person_singular: ele/ela corta
+  first_person_plural: nós cortamos
+  second_person_plural: vós cortais
+  third_person_plural: eles/elas cortam
+  key: 8dd3f5bf-407c-4e75-b03e-bbe7b8f06019
+- en: to carry
+  pt-pt: carregar
+  word_type: verb
+  first_person_singular: eu carrego
+  second_person_singular: tu carregas
+  third_person_singular: ele/ela carrega
+  first_person_plural: nós carregamos
+  second_person_plural: vós carregais
+  third_person_plural: eles/elas carregam
+  key: 6f637c2b-0a4c-400c-a5ab-5ede544d5165

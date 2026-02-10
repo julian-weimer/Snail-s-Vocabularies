@@ -1,0 +1,299 @@
+- en: disease
+  pt-pt: a doença
+  word_type: noun
+  gender: feminine
+  plural_form: as doenças
+  key: f1802d5c-4686-404c-aa97-b297817a332f
+- en: doctor
+  pt-pt: o médico
+  word_type: noun
+  gender: masculine
+  plural_form: os médicos
+  key: 4f35d7d2-a81d-4c28-afda-719f4d1472af
+- en: drug (medicine)
+  pt-pt: o medicamento
+  word_type: noun
+  gender: masculine
+  plural_form: os medicamentos
+  key: ae059360-4cab-413a-bc40-d0a73488db75
+- en: exercise
+  pt-pt: o exercício
+  word_type: noun
+  gender: masculine
+  plural_form: os exercícios
+  key: 1d193293-c2ff-4704-8732-3bb1a96da379
+- en: gym
+  pt-pt: o ginásio
+  word_type: noun
+  gender: masculine
+  plural_form: os ginásios
+  key: 3d41a073-f9e6-478c-b0a2-8028707367ac
+- en: health
+  pt-pt: a saúde
+  word_type: noun
+  gender: feminine
+  key: 737c512b-3a47-4754-a29f-e4183aa3cfc0
+- en: injury
+  pt-pt: a lesão
+  word_type: noun
+  gender: feminine
+  plural_form: as lesões
+  key: 1c3ba5da-3b91-4bff-a3f4-eb96217abe54
+- en: medicine
+  pt-pt: a medicina
+  word_type: noun
+  gender: feminine
+  plural_form: as medicinas
+  key: ab72a54a-0d05-4b39-a8e3-6c4143336730
+- en: nurse
+  pt-pt: a enfermeira
+  word_type: noun
+  gender: feminine
+  plural_form: as enfermeiras
+  key: 55e99f25-d573-495a-9d55-a2d508617b8e
+- en: pain
+  pt-pt: a dor
+  word_type: noun
+  gender: feminine
+  plural_form: as dores
+  key: 94a56e95-c29d-4c5f-993f-f9eacde584b8
+- en: patient
+  pt-pt: o paciente
+  word_type: noun
+  gender: masculine
+  plural_form: os pacientes
+  key: 7737a73a-2f6a-4c36-a6a4-e808751bd464
+- en: poison
+  pt-pt: o veneno
+  word_type: noun
+  gender: masculine
+  plural_form: os venenos
+  key: 4eb16ca2-d9ea-431a-9471-28f538b6571b
+- en: aunt
+  pt-pt: a tia
+  word_type: noun
+  gender: feminine
+  plural_form: as tias
+  key: 27245861-6740-4593-8856-d296c46066df
+- en: brother
+  pt-pt: o irmão
+  word_type: noun
+  gender: masculine
+  plural_form: os irmãos
+  key: a96d3fb3-8e79-4a95-887c-da8e12ed291b
+- en: cousin
+  pt-pt: o primo
+  word_type: noun
+  gender: masculine
+  plural_form: os primos
+  key: daaf5686-4569-45a0-9202-7981accae20f
+- en: dad
+  pt-pt: o pai
+  word_type: noun
+  gender: masculine
+  plural_form: os pais
+  key: 3cfda3b4-5a06-4e76-a572-cd8aedafeef2
+- en: daughter
+  pt-pt: a filha
+  word_type: noun
+  gender: feminine
+  plural_form: as filhas
+  key: 6800c354-2fe5-44c0-8674-1c00936909b1
+- en: grandfather
+  pt-pt: o avô
+  word_type: noun
+  gender: masculine
+  plural_form: os avôs
+  key: 05faf592-cb82-46f2-a5dc-c257a14d5cb2
+- en: grandmother
+  pt-pt: a avó
+  word_type: noun
+  gender: feminine
+  plural_form: as avós
+  key: 187a06b1-b46a-4e76-98a0-2370a95c8e65
+- en: husband
+  pt-pt: o marido
+  word_type: noun
+  gender: masculine
+  plural_form: os maridos
+  key: 8cacc72e-9d6e-4888-940e-d3991f2a6987
+- en: mother
+  pt-pt: a mãe
+  word_type: noun
+  gender: feminine
+  plural_form: as mães
+  key: 166886a5-b325-427e-889d-3ef28cd77e77
+- en: parent
+  pt-pt: o progenitor
+  word_type: noun
+  gender: masculine
+  plural_form: os progenitores
+  key: 11373c9d-8dab-4c20-92d5-1686830d90a7
+- en: sister
+  pt-pt: a irmã
+  word_type: noun
+  gender: feminine
+  plural_form: as irmãs
+  key: 846723df-9d1c-4748-af77-0b9b4fa56da1
+- en: son
+  pt-pt: o filho
+  word_type: noun
+  gender: masculine
+  plural_form: os filhos
+  key: b2c62390-0512-4066-a8b3-fc6f285f57f0
+- en: uncle
+  pt-pt: o tio
+  word_type: noun
+  gender: masculine
+  plural_form: os tios
+  key: 1e4b4fa1-7b32-496c-922a-401fb8d4f657
+- en: wife
+  pt-pt: a esposa
+  word_type: noun
+  gender: feminine
+  plural_form: as esposas
+  key: 24ef6d47-13c7-47b2-9647-4dfb071871e8
+- en: adult
+  pt-pt: o adulto
+  word_type: noun
+  gender: masculine
+  plural_form: os adultos
+  key: 50731132-3d08-4f98-849c-aa96c6764265
+- en: baby
+  pt-pt: o bebé
+  word_type: noun
+  gender: masculine
+  plural_form: os bebés
+  key: c47bd68e-884c-4c37-915c-6d48f9cefe44
+- en: boy
+  pt-pt: o rapaz
+  word_type: noun
+  gender: masculine
+  plural_form: os rapazes
+  key: 85ed7d0f-0c26-4938-b703-d574cc19c31d
+- en: child
+  pt-pt: a criança
+  word_type: noun
+  gender: feminine
+  plural_form: as crianças
+  key: d1e642bc-65ea-4c02-8807-13f066da2766
+- en: man
+  pt-pt: o homem
+  word_type: noun
+  gender: masculine
+  plural_form: os homens
+  key: 4c8a9ce1-3f88-40dc-a3bf-1f4e6a258663
+- en: people
+  pt-pt: o povo
+  word_type: noun
+  gender: masculine
+  plural_form: os povos
+  key: 24aa1658-2650-4424-b700-7cb9d34b8474
+- en: person
+  pt-pt: a pessoa
+  word_type: noun
+  gender: feminine
+  plural_form: as pessoas
+  key: 5993ca7a-b514-4f80-b70d-f67e31f9e64f
+- en: woman
+  pt-pt: a mulher
+  word_type: noun
+  gender: feminine
+  plural_form: as mulheres
+  key: 555a4fb6-4250-4c0e-9145-41af4524a318
+- en: boyfriend
+  pt-pt: o namorado
+  word_type: noun
+  gender: masculine
+  plural_form: os namorados
+  key: 13bb30af-0f26-4829-ad9c-34949c751b8d
+- en: girlfriend
+  pt-pt: a namorada
+  word_type: noun
+  gender: feminine
+  plural_form: as namoradas
+  key: a6b03f4b-43d5-435e-9837-0435dc8e9dd1
+- en: marriage
+  pt-pt: o casamento
+  word_type: noun
+  gender: masculine
+  plural_form: os casamentos
+  key: ce0822a3-37fd-40a9-b380-d3566ad5af24
+- en: neighbor
+  pt-pt: o vizinho
+  word_type: noun
+  gender: masculine
+  plural_form: os vizinhos
+  key: ff5679a6-ffd2-4ad6-8114-4bbc847fe246
+- en: partner
+  pt-pt: o parceiro
+  word_type: noun
+  gender: masculine
+  plural_form: os parceiros
+  key: 99bda50d-65f5-4111-b2f8-a6210a7b11f9
+- en: relationship
+  pt-pt: a relação
+  word_type: noun
+  gender: feminine
+  plural_form: as relações
+  key: 3e3e49d3-201f-4c44-b8fe-17a68bd7f9ee
+- en: cat
+  pt-pt: o gato
+  word_type: noun
+  gender: masculine
+  plural_form: os gatos
+  key: 0392ef56-aecd-4fab-995a-17b1872e0295
+- en: cow
+  pt-pt: a vaca
+  word_type: noun
+  gender: feminine
+  plural_form: as vacas
+  key: 04872972-9728-41db-aa48-1ded8986bd1f
+- en: dog
+  pt-pt: o cão
+  word_type: noun
+  gender: masculine
+  plural_form: os cães
+  key: c3513442-4f7d-4bde-9f2c-c34302c367fc
+- en: horse
+  pt-pt: o cavalo
+  word_type: noun
+  gender: masculine
+  plural_form: os cavalos
+  key: bb63ccbb-20d1-4fa2-a52b-cf1986f1d264
+- en: mouse
+  pt-pt: o rato
+  word_type: noun
+  gender: masculine
+  plural_form: os ratos
+  key: aba8f883-fbbd-4528-b410-dacbb1dd3fdd
+- en: pig
+  pt-pt: o porco
+  word_type: noun
+  gender: masculine
+  plural_form: os porcos
+  key: c70cbfa5-632b-4200-9ac9-67419aae0ef1
+- en: sheep
+  pt-pt: a ovelha
+  word_type: noun
+  gender: feminine
+  plural_form: as ovelhas
+  key: 4568bb83-b558-4f18-b7fe-a2f5de434a41
+- en: bee
+  pt-pt: a abelha
+  word_type: noun
+  gender: feminine
+  plural_form: as abelhas
+  key: c3ee14da-037a-4c08-bd5b-777887c864df
+- en: bird
+  pt-pt: o pássaro
+  word_type: noun
+  gender: masculine
+  plural_form: os pássaros
+  key: b2f06654-e96f-4ccf-9f6b-274eadb7bc4d
+- en: fish
+  pt-pt: o peixe
+  word_type: noun
+  gender: masculine
+  plural_form: os peixes
+  key: bf16f3ee-029e-4af8-9dc2-073acd29e806
