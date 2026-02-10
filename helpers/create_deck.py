@@ -169,25 +169,29 @@ def create_deck(
                 image_field,
                 gender_snippet,
                 plural_form or "",
-                word_object.get("positive", "") if word_type == "adjective" else "",
-                word_object.get("comparative", "") if word_type == "adjective" else "",
-                word_object.get("superlative", "") if word_type == "adjective" else "",
-                word_object.get("first_person_singular", "")
+                (word_object.get("positive") or "") if word_type == "adjective" else "",
+                (word_object.get("comparative") or "")
+                if word_type == "adjective"
+                else "",
+                (word_object.get("superlative") or "")
+                if word_type == "adjective"
+                else "",
+                (word_object.get("first_person_singular") or "")
                 if word_type == "verb"
                 else "",
-                word_object.get("first_person_plural", "")
+                (word_object.get("first_person_plural") or "")
                 if word_type == "verb"
                 else "",
-                word_object.get("second_person_singular", "")
+                (word_object.get("second_person_singular") or "")
                 if word_type == "verb"
                 else "",
-                word_object.get("second_person_plural", "")
+                (word_object.get("second_person_plural") or "")
                 if word_type == "verb"
                 else "",
-                word_object.get("third_person_singular", "")
+                (word_object.get("third_person_singular") or "")
                 if word_type == "verb"
                 else "",
-                word_object.get("third_person_plural", "")
+                (word_object.get("third_person_plural") or "")
                 if word_type == "verb"
                 else "",
                 image_source_snippet,
