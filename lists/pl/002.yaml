@@ -75,15 +75,14 @@
   pl: ćwierć
   word_type: noun
   gender: feminine
-  plural_form: ćwierci
   key: 337ba58d-2e8c-4d5a-afb0-fb5eec4599b6
-- en: number
+- en: number (value)
   pl: liczba
   word_type: noun
   gender: feminine
   plural_form: liczby
   key: 3afe4684-cf07-4034-a79c-6a14dcf8a423
-- en: amount
+- en: amount (money)
   pl: kwota
   word_type: noun
   gender: feminine
@@ -93,7 +92,6 @@
   pl: dodawanie
   word_type: noun
   gender: neuter
-  plural_form: dodawania
   key: 278374b9-8f11-4355-8968-63d349efc6b2
 - en: division (math)
   pl: dzielenie
@@ -171,73 +169,61 @@
   pl: styczeń
   word_type: noun
   gender: masculine
-  plural_form: stycznia
   key: 9ad35169-8348-4ce6-a04a-d7d2ba8e919e
 - en: February
   pl: luty
   word_type: noun
   gender: masculine
-  plural_form: lutego
   key: ddea0de8-cce9-423b-882c-0a4194750bf2
 - en: March
   pl: marzec
   word_type: noun
   gender: masculine
-  plural_form: marca
   key: bdcf5040-aad6-4bcc-865e-fcde4c3d5863
 - en: April
   pl: kwiecień
   word_type: noun
   gender: masculine
-  plural_form: kwietnia
   key: 40356b94-7182-4eca-8993-ef27125950ed
 - en: May
   pl: maj
   word_type: noun
   gender: masculine
-  plural_form: maja
   key: 195df799-32e2-498f-a661-046ab9f19e0f
 - en: June
   pl: czerwiec
   word_type: noun
   gender: masculine
-  plural_form: czerwca
   key: 554b4106-285a-43ac-ab77-2f0de3bf9320
 - en: July
   pl: lipiec
   word_type: noun
   gender: masculine
-  plural_form: lipca
   key: b7dd37f5-8e94-44f8-bd57-acb7a96867c5
 - en: August
   pl: sierpień
   word_type: noun
   gender: masculine
-  plural_form: sierpnia
   key: 67f87183-9bac-4b3f-b641-891fb3f33411
 - en: September
   pl: wrzesień
   word_type: noun
   gender: masculine
-  plural_form: września
   key: c04f5237-4f1a-4594-b463-82f4e906c7bb
 - en: October
   pl: październik
   word_type: noun
   gender: masculine
-  plural_form: października
   key: c774cee7-c703-4ac9-be11-f3ccab4886aa
 - en: November
   pl: listopad
   word_type: noun
   gender: masculine
-  plural_form: listopada
   key: 11432034-ad69-4e5a-8425-6672f4bf9620
 - en: December
   pl: grudzień
   word_type: noun
   gender: masculine
-  plural_form: grudnia
   key: 50ba5ab5-0d0f-41d2-a023-0329fee14669
 - en: spring (season)
   pl: wiosna
