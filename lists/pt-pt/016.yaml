@@ -1,0 +1,284 @@
+- en: hell
+  pt-pt: o inferno
+  word_type: noun
+  gender: masculine
+  plural_form: os infernos
+  key: 7264e372-df0d-449b-bf4f-cf8dbaf1d002
+- en: to pray
+  pt-pt: rezar
+  word_type: verb
+  first_person_singular: eu rezo
+  second_person_singular: tu rezas
+  third_person_singular: ele/ela reza
+  first_person_plural: nós rezamos
+  second_person_plural: vós rezais
+  third_person_plural: eles/elas rezam
+  key: 273b42d9-1375-4ced-ab9c-303b194458e0
+- en: priest
+  pt-pt: o padre
+  word_type: noun
+  plural_form: os padres
+  gender: masculine
+  key: ae2ec240-92c9-4c85-bc58-c843ad4b6bbd
+- en: religion
+  pt-pt: a religião
+  word_type: noun
+  plural_form: as religiões
+  gender: feminine
+  key: 895691c2-a55a-4a19-9256-eca75b101ab9
+- en: government
+  pt-pt: o governo
+  word_type: noun
+  plural_form: os governos
+  gender: masculine
+  key: a3a9cccf-ef91-4dd1-aee2-d04e9f41984d
+- en: president
+  pt-pt: o presidente
+  word_type: noun
+  plural_form: os presidentes
+  gender: masculine
+  key: a735acfa-793b-44e7-89b2-21818f878fc5
+- en: energy
+  pt-pt: a energia
+  word_type: noun
+  plural_form: as energias
+  gender: feminine
+  key: af379418-6b1d-42b2-ad4a-240bac98bff8
+- en: heat
+  pt-pt: o calor
+  word_type: noun
+  plural_form: os calores
+  gender: masculine
+  key: 7902d148-2fbf-49d9-ba05-9ebe06869d0f
+- en: light (illumination)
+  pt-pt: a luz
+  word_type: noun
+  plural_form: as luzes
+  gender: feminine
+  key: d2290584-24f4-4baf-9de7-90761439ea8a
+- en: sound
+  pt-pt: o som
+  word_type: noun
+  plural_form: os sons
+  gender: masculine
+  key: 81eeeead-d65b-40bb-90e5-a639bc26f9fc
+- en: temperature
+  pt-pt: a temperatura
+  word_type: noun
+  plural_form: as temperaturas
+  gender: feminine
+  key: 05282cef-c132-422e-990d-5188dd0a8e00
+- en: the (feminine article)
+  pt-pt: a
+  word_type: other
+  key: 4dfa2d93-6d5d-4bfa-a83c-14fb480f2357
+- en: the (masculine article)
+  pt-pt: o
+  word_type: other
+  key: 835c03ad-5dfb-46ae-b0b4-df1c27a288e2
+- en: that / which / who
+  pt-pt: que
+  word_type: other
+  key: 14ce38d2-dd93-4985-8c04-f30fdcb57f8f
+- en: of the (masculine)
+  pt-pt: do
+  word_type: other
+  key: 58373c4d-7f8b-447d-9f4e-ceb7e648dc8d
+- en: of the (feminine)
+  pt-pt: da
+  word_type: other
+  key: 3b4af3a2-e27d-486b-ae8a-20f8081ae6b1
+- en: is (to be)
+  pt-pt: é
+  word_type: verb
+  first_person_singular: eu sou
+  second_person_singular: tu és
+  third_person_singular: ele/ela é
+  first_person_plural: nós somos
+  second_person_plural: vós sois
+  third_person_plural: eles/elas são
+  key: 3a36362e-2760-464b-9f89-4f04a14d5439
+- en: a / an (feminine article)
+  pt-pt: uma
+  word_type: other
+  key: cf1fa29f-cbe1-42a5-951d-408f7b8c5341
+- en: in the (masculine)
+  pt-pt: no
+  word_type: other
+  key: dc4a74e5-7f05-4817-9398-d39e4abf9c5d
+- en: if / oneself
+  pt-pt: se
+  word_type: other
+  key: 1f17f84c-f612-4477-8bdd-50ae0e6f52e1
+- en: in the (feminine)
+  pt-pt: na
+  word_type: other
+  key: 3f65d707-75cb-4c7c-a39e-8209dbd96fd4
+- en: by / for / through
+  pt-pt: por
+  word_type: preposition
+  key: a4c1f041-ffe3-40c9-a8b1-000eee1710bf
+- en: the (masculine plural)
+  pt-pt: os
+  word_type: other
+  key: 6bbd23d4-c04b-4d1f-803d-3c3aeb461b6c
+- en: the (feminine plural)
+  pt-pt: as
+  word_type: other
+  key: 84e7125b-ce64-489b-91a1-3df57ac672ee
+- en: of the (masculine plural)
+  pt-pt: dos
+  word_type: other
+  key: 34692029-61a2-4fb6-bf74-379fb2e27ef2
+- en: was / went
+  pt-pt: foi
+  word_type: verb
+  first_person_singular: eu fui
+  second_person_singular: tu foste
+  third_person_singular: ele/ela foi
+  first_person_plural: nós fomos
+  second_person_plural: vós fostes
+  third_person_plural: eles/elas foram
+  key: 23b153a2-e50b-4495-b3fe-40d445547156
+- en: to the (masculine)
+  pt-pt: ao
+  word_type: other
+  key: a99598e7-e6eb-474a-9bd8-d8cc5ccf19bb
+- en: you (formal)
+  pt-pt: você
+  word_type: pronoun
+  key: 4e6de84d-7dfb-4bc7-bac7-a508a366b906
+- en: to be
+  pt-pt: ser
+  word_type: verb
+  first_person_singular: eu sou
+  second_person_singular: tu és
+  third_person_singular: ele/ela é
+  first_person_plural: nós somos
+  second_person_plural: vós sois
+  third_person_plural: eles/elas são
+  key: 28dd4e60-5fe9-431e-8997-f2da407757f4
+- en: your / her / his (feminine)
+  pt-pt: sua
+  word_type: other
+  key: d7503f06-c717-4a9b-b890-04210c4c735a
+- en: has / have
+  pt-pt: tem
+  word_type: verb
+  first_person_singular: eu tenho
+  second_person_singular: tu tens
+  third_person_singular: ele/ela tem
+  first_person_plural: nós temos
+  second_person_plural: vós tendes
+  third_person_plural: eles/elas têm
+  key: d46ac6a5-64de-49b7-94c2-067adf161276
+- en: are (to be, plural)
+  pt-pt: são
+  word_type: verb
+  first_person_singular: eu sou
+  second_person_singular: tu és
+  third_person_singular: ele/ela é
+  first_person_plural: nós somos
+  second_person_plural: vós sois
+  third_person_plural: eles/elas são
+  key: 7d5ba5e6-c59b-4e05-8b2a-7db9073a1357
+- en: of the (feminine plural)
+  pt-pt: das
+  word_type: other
+  key: 61c26613-0c2e-4b04-809c-61accb9cf4f5
+- en: to the (feminine)
+  pt-pt: à
+  word_type: other
+  key: 42c7bfcc-6303-4729-b61a-c17c797d169d
+- en: that / this (neuter)
+  pt-pt: isso
+  word_type: pronoun
+  key: 502df35d-9930-47bc-906f-68900f5c06bf
+- en: in the (masculine plural) / us
+  pt-pt: nos
+  word_type: other
+  key: 44ac127b-f277-4931-af4d-c318a2c57361
+- en: is (to be, location/state)
+  pt-pt: está
+  word_type: verb
+  first_person_singular: eu estou
+  second_person_singular: tu estás
+  third_person_singular: ele/ela está
+  first_person_plural: nós estamos
+  second_person_plural: vós estais
+  third_person_plural: eles/elas estão
+  key: 7538bee0-9260-4080-8e77-91f4db77d584
+- en: by the (masculine)
+  pt-pt: pelo
+  word_type: other
+  key: 8ab5587a-2f8a-429e-bc15-140f9a50de21
+- en: goes / will go
+  pt-pt: vai
+  word_type: verb
+  first_person_singular: eu vou
+  second_person_singular: tu vais
+  third_person_singular: ele/ela vai
+  first_person_plural: nós vamos
+  second_person_plural: vós ides
+  third_person_plural: eles/elas vão
+  key: 8ae246ad-c686-4557-88d9-8843ff8fa31c
+- en: only / alone
+  pt-pt: só
+  word_type: adverb
+  key: b9421e1b-bad9-40ae-8abd-2e7adde947f4
+- en: by the (feminine)
+  pt-pt: pela
+  word_type: other
+  key: 1ffc7ff0-3ef7-4846-b5a0-3f0ca60b1b9a
+- en: well / good
+  pt-pt: bem
+  word_type: adverb
+  key: 1c3fe0c0-f4ca-4b89-8a23-e56a9576c4c3
+- en: can / may
+  pt-pt: pode
+  word_type: verb
+  first_person_singular: eu posso
+  second_person_singular: tu podes
+  third_person_singular: ele/ela pode
+  first_person_plural: nós podemos
+  second_person_plural: vós podeis
+  third_person_plural: eles/elas podem
+  key: 3addbd11-2f73-48a7-90f6-4c9a8cddeb18
+- en: people
+  pt-pt: as pessoas
+  word_type: noun
+  plural_form: as pessoas
+  gender: feminine
+  key: e1852673-657c-41eb-9a24-a42d3bc3f775
+- en: you (object pronoun)
+  pt-pt: te
+  word_type: pronoun
+  key: 7d68e826-5787-4e86-8832-d8ed9c3a9c6c
+- en: my (feminine)
+  pt-pt: minha
+  word_type: other
+  key: 194ba255-03d9-4389-b76e-678398639176
+- en: without
+  pt-pt: sem
+  word_type: preposition
+  key: 7859b834-79fa-4c0a-9f9d-7f0111104152
+- en: was / were (imperfect)
+  pt-pt: era
+  word_type: verb
+  first_person_singular: eu era
+  second_person_singular: tu eras
+  third_person_singular: ele/ela era
+  first_person_plural: nós éramos
+  second_person_plural: vós éreis
+  third_person_plural: eles/elas eram
+  key: ae54dfdb-d25a-4b62-97f8-3a8ca6989df1
+- en: your / his / her (masculine plural)
+  pt-pt: seus
+  word_type: other
+  key: 8affbc54-1905-4cd9-bce4-844234a1bd75
+- pt-pt: a vida
+  en: life
+  word_type: noun
+  gender: feminine
+  plural_form: as vidas
+  key: 6a757636-7792-4aee-a0d4-51485b442e51

@@ -1,0 +1,296 @@
+- pt-pt: presente
+  en: present (current)
+  word_type: adjective
+  positive: presente
+  comparative: mais presente
+  superlative: o mais presente
+  key: 48180023-0ac9-451a-a4d6-628293562741
+- pt-pt: rosa
+  en: pink
+  word_type: adjective
+  positive: rosa
+  comparative: mais rosa
+  superlative: o mais rosa
+  key: 57e0145d-8fe8-4598-b1d7-8d2532da55b5
+- pt-pt: recentemente
+  en: recently
+  word_type: adverb
+  key: dc772024-af61-4435-968d-bd8c65ddae75
+- pt-pt: conforme
+  en: according to
+  word_type: preposition
+  key: fa3c275a-a76e-4759-9188-f4f04d0a59ab
+- pt-pt: nele
+  en: in it (in him)
+  word_type: pronoun
+  key: 25ff44b8-0488-41fe-b718-0d666f52a902
+- pt-pt: o secretário
+  en: secretary
+  word_type: noun
+  plural_form: os secretários
+  gender: masculine
+  key: 6f75ff47-77ff-478a-83c4-457f39c09fda
+- pt-pt: a taxa
+  en: rate (fee)
+  word_type: noun
+  plural_form: as taxas
+  gender: feminine
+  key: a927fb2c-9fcc-4c57-83e7-a454ad47cc86
+- pt-pt: o teatro
+  en: theatre
+  word_type: noun
+  plural_form: os teatros
+  gender: masculine
+  key: 64604383-bfc6-48d6-ad4e-435d6fd94364
+- pt-pt: o universo
+  en: universe
+  word_type: noun
+  plural_form: os universos
+  gender: masculine
+  key: adaa1608-647c-4152-9d2f-c82c9452cad3
+- pt-pt: usado
+  en: used
+  word_type: adjective
+  positive: usado
+  comparative: mais usado
+  superlative: o mais usado
+  key: d8b0dd8c-95ed-47c9-99a5-9f8e0e88262e
+- pt-pt: o álbum
+  en: album
+  word_type: noun
+  plural_form: os álbuns
+  gender: masculine
+  key: 72e2a262-b87a-442b-a9fe-0c879362b38d
+- pt-pt: certamente
+  en: certainly
+  word_type: adverb
+  key: 4f852dd6-dae6-47ab-a8ce-12741d5b17e5
+- pt-pt: a coragem
+  en: courage
+  word_type: noun
+  plural_form: as coragens
+  gender: feminine
+  key: 828a43da-222a-44b0-af51-3b8de24546f3
+- pt-pt: a cruz
+  en: cross
+  word_type: noun
+  plural_form: as cruzes
+  gender: feminine
+  key: d300261c-8392-4afd-9d2a-86915f92086e
+- pt-pt: o cancro
+  en: cancer
+  word_type: noun
+  plural_form: os cancros
+  gender: masculine
+  key: 6c9be5aa-103d-417c-ac0f-11beace1dfc0
+- pt-pt: o elemento
+  en: element
+  word_type: noun
+  plural_form: os elementos
+  gender: masculine
+  key: 915869db-237a-412b-b1d0-451ea99261eb
+- pt-pt: engraçado
+  en: funny
+  word_type: adjective
+  positive: engraçado
+  comparative: mais engraçado
+  superlative: o mais engraçado
+  key: 94941c87-1075-4530-8bb7-0962a0d5586f
+- pt-pt: a expressão
+  en: expression
+  word_type: noun
+  plural_form: as expressões
+  gender: feminine
+  key: d2b11e05-2f9d-410c-8a8e-31b158396111
+- pt-pt: o género
+  en: gender
+  word_type: noun
+  plural_form: os géneros
+  gender: masculine
+  key: f92e71e6-b5b1-4bfb-9441-b29d75f8eb5a
+- pt-pt: a lua
+  en: moon
+  word_type: noun
+  plural_form: as luas
+  gender: feminine
+  key: 5757f23b-6af6-4ba6-8314-0d20416ad7ca
+- pt-pt: o milhar
+  en: thousand
+  word_type: noun
+  plural_form: os milhares
+  gender: masculine
+  key: d5737cd0-4f9d-4485-8b76-368443d2f765
+- pt-pt: a plataforma
+  en: platform
+  word_type: noun
+  plural_form: as plataformas
+  gender: feminine
+  key: f106931a-8b1b-430c-97f7-3c4f6101d109
+- pt-pt: a queda
+  en: fall
+  word_type: noun
+  plural_form: as quedas
+  gender: feminine
+  key: a1910650-5b4a-4a33-86be-ee9530b5c19f
+- pt-pt: o relacionamento
+  en: relationship
+  word_type: noun
+  plural_form: os relacionamentos
+  gender: masculine
+  key: 85b901b3-d5f3-4a9b-8222-1a0541e3933c
+- pt-pt: a resistência
+  en: resistance
+  word_type: noun
+  plural_form: as resistências
+  gender: feminine
+  key: 7b9807f0-b1f3-430d-bd41-3db1a12ee93b
+- pt-pt: a revolução
+  en: revolution
+  word_type: noun
+  plural_form: as revoluções
+  gender: feminine
+  key: dcef2d66-3995-4cc0-9e53-25ebf1d09978
+- pt-pt: o sector
+  en: sector
+  word_type: noun
+  plural_form: os sectores
+  gender: masculine
+  key: 44a5830b-0484-43b4-b097-b5a4c7c0ebf5
+- pt-pt: sexual
+  en: sexual
+  word_type: adjective
+  positive: sexual
+  comparative: mais sexual
+  superlative: o mais sexual
+  key: 335fe5e5-b380-45ae-a2b6-b882ad810553
+- pt-pt: o agente
+  en: agent
+  word_type: noun
+  plural_form: os agentes
+  gender: masculine
+  key: 49b7254a-8670-4ac9-9494-758cd30d5939
+- pt-pt: o campeão
+  en: champion
+  word_type: noun
+  plural_form: os campeões
+  gender: masculine
+  key: 81250c55-a6a9-4791-8c62-f823f57f604d
+- pt-pt: o contexto
+  en: context
+  word_type: noun
+  plural_form: os contextos
+  gender: masculine
+  key: c4c7cbbb-94c2-425a-9ca7-4c6a0ff25197
+- pt-pt: cujo
+  en: whose
+  word_type: pronoun
+  key: f0748f4f-6fef-4ccf-b8ed-9f0e9d00f56f
+- pt-pt: dentre
+  en: among
+  word_type: preposition
+  key: 7cc3b4ac-1085-40a3-b9c4-da99fa7d0962
+- pt-pt: o desafio
+  en: challenge
+  word_type: noun
+  plural_form: os desafios
+  gender: masculine
+  key: 7c09af40-53f4-4da9-96a4-1d4b5455854b
+- pt-pt: eleitoral
+  en: electoral
+  word_type: adjective
+  positive: eleitoral
+  comparative: mais eleitoral
+  superlative: o mais eleitoral
+  key: a23cde16-8c89-4351-b993-943116a3f5a6
+- pt-pt: a eleição
+  en: election
+  word_type: noun
+  plural_form: as eleições
+  gender: feminine
+  key: 4574a6b9-e5d7-4a7f-bffb-0092bf86d0a5
+- pt-pt: a identidade
+  en: identity
+  word_type: noun
+  plural_form: as identidades
+  gender: feminine
+  key: 75e1de85-ae3e-460d-8a78-1ed7f542c338
+- pt-pt: imediatamente
+  en: immediately
+  word_type: adverb
+  key: 375189fe-79c0-490c-9476-a586f1816f4d
+- pt-pt: louco
+  en: crazy
+  word_type: adjective
+  positive: louco
+  comparative: mais louco
+  superlative: o mais louco
+  key: 47270cf9-6e01-47c3-a49f-659e19b3fbc5
+- pt-pt: o oeste
+  en: west
+  word_type: noun
+  gender: masculine
+  key: f0221052-faeb-4aec-a610-40685f026df9
+- pt-pt: o software
+  en: software
+  word_type: noun
+  gender: masculine
+  key: c1bf2856-66ce-462a-b6df-59f3dcc6f0d7
+- pt-pt: a tentativa
+  en: attempt
+  word_type: noun
+  plural_form: as tentativas
+  gender: feminine
+  key: 3f0072f6-0674-48e6-9998-47957c6cf9c1
+- pt-pt: a teoria
+  en: theory
+  word_type: noun
+  plural_form: as teorias
+  gender: feminine
+  key: 3123511c-1711-4b9c-905c-529167055350
+- pt-pt: a técnica
+  en: technique
+  word_type: noun
+  plural_form: as técnicas
+  gender: feminine
+  key: 3c4f00e0-dfe8-46b7-b782-fb8491279805
+- pt-pt: a academia
+  en: academy
+  word_type: noun
+  plural_form: as academias
+  gender: feminine
+  key: 2b517b5b-6fed-4f32-b36e-5573786b7ee5
+- pt-pt: a característica
+  en: characteristic
+  word_type: noun
+  plural_form: as características
+  gender: feminine
+  key: a21f8c5c-0f1d-4eb0-a6dd-87eba7099a2c
+- pt-pt: a competição
+  en: competition
+  word_type: noun
+  plural_form: as competições
+  gender: feminine
+  key: 1185fdb6-340c-476d-aab1-451d4c63e97d
+- pt-pt: a consciência
+  en: conscience
+  word_type: noun
+  plural_form: as consciências
+  gender: feminine
+  key: ab3828fe-5f62-43a0-b244-eb4465ff52e1
+- pt-pt: direto
+  en: direct
+  word_type: adjective
+  positive: direto
+  comparative: mais direto
+  superlative: o mais direto
+  key: 9a8c24f6-6fe6-4684-ad85-2d57b379c2aa
+- pt-pt: esquecer
+  en: to forget
+  word_type: verb
+  first_person_singular: eu esqueço
+  second_person_singular: tu esqueces
+  third_person_singular: ele/ela esquece
+  first_person_plural: nós esquecemos
+  second_person_plural: vós esqueceis
+  third_person_plural: eles/elas esquecem
+  key: e468e2c9-69ed-4f68-9f01-01b48b0fe12f

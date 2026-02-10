@@ -1,0 +1,299 @@
+- en: kilometer
+  pt-pt: o quilómetro
+  word_type: noun
+  plural_form: os quilómetros
+  gender: masculine
+  key: e5bbd517-0337-472e-97ee-cd867af0358e
+- en: mile
+  pt-pt: a milha
+  word_type: noun
+  plural_form: as milhas
+  gender: feminine
+  key: 7f63fd2b-706a-40da-be63-184e4da641f8
+- en: weight
+  pt-pt: o peso
+  word_type: noun
+  plural_form: os pesos
+  gender: masculine
+  key: 785dacfd-f92e-4d56-a224-bee628c833aa
+- en: kilogram
+  pt-pt: o quilograma
+  word_type: noun
+  gender: masculine
+  plural_form: os quilogramas
+  key: eb4a9ac1-4202-4037-983e-e32f22495191
+- en: head
+  pt-pt: a cabeça
+  word_type: noun
+  gender: feminine
+  plural_form: as cabeças
+  key: d6d4ce62-dde6-409c-a504-d5d85950d22c
+- en: hair
+  pt-pt: o cabelo
+  word_type: noun
+  gender: masculine
+  plural_form: os cabelos
+  key: 482a8618-8256-453e-a21b-bcf31ec16311
+- en: face
+  pt-pt: o rosto
+  word_type: noun
+  gender: masculine
+  plural_form: os rostos
+  key: c1e8865f-4063-49ae-8fa6-2f49e452d6dd
+- en: brain
+  pt-pt: o cérebro
+  word_type: noun
+  gender: masculine
+  plural_form: os cérebros
+  key: 72bcd410-c7c2-45fc-9cb6-b9d1e33b4a89
+- en: eye
+  pt-pt: o olho
+  word_type: noun
+  gender: masculine
+  plural_form: os olhos
+  key: 798c541a-2e74-4b7e-a97b-7901653676e9
+- en: ear
+  pt-pt: a orelha
+  word_type: noun
+  gender: feminine
+  plural_form: as orelhas
+  key: 48e4e8a2-685e-44f4-b524-fe18f3281d3f
+- en: nose
+  pt-pt: o nariz
+  word_type: noun
+  gender: masculine
+  plural_form: os narizes
+  key: d72ec0cb-5088-48d1-ad40-754f6766d925
+- en: mouth
+  pt-pt: a boca
+  word_type: noun
+  gender: feminine
+  plural_form: as bocas
+  key: 542d7951-2013-483e-b3af-45124fbbef3d
+- en: lip
+  pt-pt: o lábio
+  word_type: noun
+  gender: masculine
+  plural_form: os lábios
+  key: e32a95a7-aeba-462f-af36-17ba24bbf650
+- en: tongue
+  pt-pt: a língua
+  word_type: noun
+  gender: feminine
+  plural_form: as línguas
+  key: 0c07724c-20c6-4baa-a426-3be1b118b30e
+- en: tooth
+  pt-pt: o dente
+  word_type: noun
+  gender: masculine
+  plural_form: os dentes
+  key: 2fb4d4f7-08c1-47db-adbe-b2012ffa0b40
+- en: throat
+  pt-pt: a garganta
+  word_type: noun
+  gender: feminine
+  plural_form: as gargantas
+  key: ec588a97-2792-4147-b0d3-76a2bbf738ea
+- en: voice
+  pt-pt: a voz
+  word_type: noun
+  gender: feminine
+  plural_form: as vozes
+  key: 07a29d50-75df-4459-b60d-57ab05408b65
+- en: hearing
+  pt-pt: a audição
+  word_type: noun
+  gender: feminine
+  plural_form: as audições
+  key: 6d351bfc-5474-40bb-a5b2-d3005eb1635a
+- en: neck
+  pt-pt: o pescoço
+  word_type: noun
+  gender: masculine
+  plural_form: os pescoços
+  key: 9ffa2249-b70f-4586-8e21-5605f1ac5bb5
+- en: shoulder
+  pt-pt: o ombro
+  word_type: noun
+  gender: masculine
+  plural_form: os ombros
+  key: 94f30578-047a-4e5c-8700-785f4a6ef0be
+- en: chest
+  pt-pt: o peito
+  word_type: noun
+  gender: masculine
+  plural_form: os peitos
+  key: bd7a7953-c22c-4af2-bc9a-c9175be33165
+- en: back (body part)
+  pt-pt: as costas
+  word_type: noun
+  gender: feminine
+  key: 02b7c987-262d-4cc3-8412-d327beefe76a
+- en: arm
+  pt-pt: o braço
+  word_type: noun
+  gender: masculine
+  plural_form: os braços
+  key: aed9bcfe-8ca5-45a5-8ac1-88ffaffcc9b5
+- en: hand
+  pt-pt: a mão
+  word_type: noun
+  gender: feminine
+  plural_form: as mãos
+  key: 6b86cd5e-ff39-468b-81e3-91a61b752ae0
+- en: finger
+  pt-pt: o dedo
+  word_type: noun
+  gender: masculine
+  plural_form: os dedos
+  key: b1b26c2a-f17f-44b1-a3a0-9ee294ffb372
+- en: thumb
+  pt-pt: o polegar
+  word_type: noun
+  gender: masculine
+  plural_form: os polegares
+  key: 254a429d-ed47-472b-9bc1-d7189f55613f
+- en: nail (body part)
+  pt-pt: a unha
+  word_type: noun
+  gender: feminine
+  plural_form: as unhas
+  key: d3c8065a-f9bc-43d0-bcff-2c83aaed4fd7
+- en: heart
+  pt-pt: o coração
+  word_type: noun
+  gender: masculine
+  plural_form: os corações
+  key: ad4b98a7-9810-4151-8a03-98008be980b5
+- en: breath
+  pt-pt: a respiração
+  word_type: noun
+  gender: feminine
+  plural_form: as respirações
+  key: 31430cef-5727-4d24-9149-8e14698a6416
+- en: stomach
+  pt-pt: o estômago
+  word_type: noun
+  gender: masculine
+  plural_form: os estômagos
+  key: 819748f5-9806-48e1-ba7d-74c11976da8e
+- en: leg
+  pt-pt: a perna
+  word_type: noun
+  gender: feminine
+  plural_form: as pernas
+  key: 8b91822f-3fbe-4f1b-b95b-131bfa66a900
+- en: knee
+  pt-pt: o joelho
+  word_type: noun
+  gender: masculine
+  plural_form: os joelhos
+  key: b06f0e7c-6655-4af4-8eb3-24bb1aad87ef
+- en: foot
+  pt-pt: o pé
+  word_type: noun
+  gender: masculine
+  plural_form: os pés
+  key: d89ed354-38f9-4017-a20e-b550cc701cdb
+- en: toe
+  pt-pt: o dedo do pé
+  word_type: noun
+  gender: masculine
+  plural_form: os dedos do pé
+  key: 07d98fab-d1a1-4aa8-8857-15fc880c5044
+- en: body
+  pt-pt: o corpo
+  word_type: noun
+  gender: masculine
+  plural_form: os corpos
+  key: 7b3c6f2b-d4ee-4877-97ce-5f70683e01f8
+- en: skin
+  pt-pt: a pele
+  word_type: noun
+  gender: feminine
+  plural_form: as peles
+  key: e22faee9-ba51-421b-b45e-9a69c25e0a06
+- en: muscle
+  pt-pt: o músculo
+  word_type: noun
+  gender: masculine
+  plural_form: os músculos
+  key: bcdc8af5-ed20-41dd-a618-28c5e8620f36
+- en: bone
+  pt-pt: o osso
+  word_type: noun
+  gender: masculine
+  plural_form: os ossos
+  key: f88927f2-1635-4bab-bf5d-a0a67915af83
+- en: flesh
+  pt-pt: a carne
+  word_type: noun
+  gender: feminine
+  plural_form: as carnes
+  key: 2ca89383-faf9-4ef8-bc1f-faedb4bd711a
+- en: blood
+  pt-pt: o sangue
+  word_type: noun
+  gender: masculine
+  plural_form: os sangues
+  key: 78614c9d-a22d-4db1-b628-ca4e42193a68
+- en: sense
+  pt-pt: o sentido
+  word_type: noun
+  gender: masculine
+  plural_form: os sentidos
+  key: 280c9b62-4ffc-4584-bffb-5b0e82fff00c
+- en: sex
+  pt-pt: o sexo
+  word_type: noun
+  gender: masculine
+  plural_form: os sexos
+  key: 1ee16bd7-e798-479c-9a04-749d1c60f0aa
+- en: birth
+  pt-pt: o nascimento
+  word_type: noun
+  gender: masculine
+  plural_form: os nascimentos
+  key: 6be4e4eb-71e7-44ee-ae01-5935bf2434c0
+- en: death
+  pt-pt: a morte
+  word_type: noun
+  gender: feminine
+  plural_form: as mortes
+  key: 5363c582-4342-472f-931b-986ee86a2299
+- en: wound
+  pt-pt: a ferida
+  word_type: noun
+  gender: feminine
+  plural_form: as feridas
+  key: d851d20e-df86-4230-9c38-5b775cc576a3
+- en: tail
+  pt-pt: a cauda
+  word_type: noun
+  gender: feminine
+  plural_form: as caudas
+  key: 69936803-6bf8-41db-92bb-89e34c79eec2
+- en: wing
+  pt-pt: a asa
+  word_type: noun
+  gender: feminine
+  plural_form: as asas
+  key: a6d527bb-a473-440e-b64c-b0ac07db31f8
+- en: care
+  pt-pt: o cuidado
+  word_type: noun
+  gender: masculine
+  plural_form: os cuidados
+  key: 2f316f93-956e-44d9-8c97-0d6a1150973b
+- en: cough
+  pt-pt: a tosse
+  word_type: noun
+  gender: feminine
+  plural_form: as tosses
+  key: 1fc7ea47-8005-4ca0-85aa-cab8ace65593
+- en: diet
+  pt-pt: a dieta
+  word_type: noun
+  gender: feminine
+  plural_form: as dietas
+  key: f7568f2b-429f-4117-a653-4102b88a6709

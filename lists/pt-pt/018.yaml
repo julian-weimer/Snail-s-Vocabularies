@@ -1,0 +1,307 @@
+- pt-pt: a equipa
+  en: team
+  word_type: noun
+  gender: feminine
+  plural_form: as equipas
+  key: 9f96d729-4636-420c-bf13-96188f6472bc
+- pt-pt: o local
+  en: place (location)
+  word_type: noun
+  plural_form: os locais
+  gender: masculine
+  key: e967e892-d207-4a1b-a7ab-d7d56546bf69
+- pt-pt: o amigo
+  en: friend
+  word_type: noun
+  plural_form: os amigos
+  gender: masculine
+  key: 3f6bb5ec-12e8-4251-a380-e68869cce94a
+- pt-pt: o projeto
+  en: project
+  word_type: noun
+  plural_form: os projetos
+  gender: masculine
+  key: 9019f869-d229-4ae2-ad0a-c4f2a3075b61
+- pt-pt: a região
+  en: region
+  word_type: noun
+  plural_form: as regiões
+  gender: feminine
+  key: 7c24cec4-0714-4719-9359-9def39f1a2f7
+- pt-pt: o sul
+  en: south
+  word_type: noun
+  plural_form: os suis
+  gender: masculine
+  key: b2d03a38-a9dc-43ec-b141-8d280cbce649
+- pt-pt: o programa
+  en: program
+  word_type: noun
+  plural_form: os programas
+  gender: masculine
+  key: 3778e3fc-5296-4ca1-856a-ecc02a634ddf
+- pt-pt: sair
+  en: to leave
+  word_type: verb
+  first_person_singular: eu saio
+  first_person_plural: nós saímos
+  second_person_singular: tu sais
+  second_person_plural: vós saís
+  third_person_singular: ele/ela sai
+  third_person_plural: eles/elas saem
+  key: 592ca56a-b84c-4413-be33-9fdc2dc28dea
+- pt-pt: dela
+  en: her (possessive)
+  word_type: pronoun
+  key: be7b4519-11f1-4731-a866-9ef020d48444
+- pt-pt: público
+  en: public
+  word_type: adjective
+  positive: público
+  comparative: mais público
+  superlative: o mais público
+  key: b6c91a39-5e7e-4367-9a40-18bf93537446
+- pt-pt: logo
+  en: soon
+  word_type: adverb
+  key: b84fcf96-a59e-46ea-a1e0-1d580e22a7b0
+- pt-pt: mal
+  en: badly
+  word_type: adverb
+  key: 98d2bf7d-a646-44c4-b76e-01fda9354ccb
+- pt-pt: geral
+  en: general
+  word_type: adjective
+  positive: geral
+  comparative: mais geral
+  superlative: o mais geral
+  key: f3c1ae96-5181-4a72-800c-2a8b3a972876
+- pt-pt: lhe
+  en: to him/her (indirect object)
+  word_type: pronoun
+  key: ff54d6cc-f049-4dc2-8056-db32b998ef3f
+- pt-pt: deixar
+  en: to let
+  word_type: verb
+  first_person_singular: eu deixo
+  first_person_plural: nós deixamos
+  second_person_singular: tu deixas
+  second_person_plural: vós deixais
+  third_person_singular: ele/ela deixa
+  third_person_plural: eles/elas deixam
+  key: 57e66f6f-9457-4a0d-b199-5b1b8d9db15c
+- pt-pt: havia
+  en: there was
+  word_type: verb
+  first_person_singular: eu havia
+  first_person_plural: nós havíamos
+  second_person_singular: tu havias
+  second_person_plural: vós havíeis
+  third_person_singular: ele/ela havia
+  third_person_plural: eles/elas haviam
+  key: 23e4ed46-8028-4b3b-a76f-baa82db4c507
+- pt-pt: brasileiro
+  en: Brazilian
+  word_type: adjective
+  positive: brasileiro
+  comparative: mais brasileiro
+  superlative: o mais brasileiro
+  key: 19f751af-6b02-4b47-9960-fde5c9eb6a1d
+- pt-pt: social
+  en: social
+  word_type: adjective
+  positive: social
+  comparative: mais social
+  superlative: o mais social
+  key: d8cd51ce-8597-431d-be97-6bca7c6fa81d
+- pt-pt: vário
+  en: various
+  word_type: adjective
+  positive: vário
+  comparative: mais vário
+  superlative: o mais vário
+  key: 9cc1469e-1714-41d4-b6fa-59fb98589e6d
+- pt-pt: feito
+  en: done
+  word_type: adjective
+  positive: feito
+  comparative: mais feito
+  superlative: o mais feito
+  key: 1be296f4-717c-4e87-8ecd-f21a6ec3279d
+- pt-pt: a segurança
+  en: security
+  word_type: noun
+  gender: feminine
+  plural_form: as seguranças
+  key: de91300d-908a-4a4f-b3c7-b8e92c52dbf7
+- pt-pt: a falta
+  en: lack
+  word_type: noun
+  gender: feminine
+  plural_form: as faltas
+  key: 2515852b-071b-4d34-b3a7-ff2426437454
+- pt-pt: o favor
+  en: favour
+  word_type: noun
+  gender: masculine
+  plural_form: os favores
+  key: 6a45ddc8-fc10-481f-a8f5-bd9ebe4a162e
+- pt-pt: a série
+  en: series
+  word_type: noun
+  gender: feminine
+  plural_form: as séries
+  key: 0dd6592c-7f44-46ae-8fc6-9b52ada8b20a
+- pt-pt: a causa
+  en: cause
+  word_type: noun
+  gender: feminine
+  plural_form: as causas
+  key: b4662a4a-4704-47b9-9c56-467cfafa6780
+- pt-pt: o uso
+  en: use (usage)
+  word_type: noun
+  gender: masculine
+  plural_form: os usos
+  key: 9687babe-266b-4dc9-b903-06c104f905a7
+- pt-pt: aquele
+  en: that (one)
+  word_type: pronoun
+  key: 8021c119-1767-43ea-814a-ce1ca8c54806
+- pt-pt: a feira
+  en: fair (market)
+  word_type: noun
+  gender: feminine
+  plural_form: as feiras
+  key: cb520460-57f2-4185-bc99-91605034d251
+- pt-pt: a população
+  en: population
+  word_type: noun
+  gender: feminine
+  plural_form: as populações
+  key: d7715019-ecd5-4a16-945c-2790e9ec2cd7
+- pt-pt: o processo
+  en: process
+  word_type: noun
+  gender: masculine
+  plural_form: os processos
+  key: ffc21b6c-6a8f-4fdf-889e-506668082299
+- pt-pt: a ajuda
+  en: help (aid)
+  word_type: noun
+  gender: feminine
+  plural_form: as ajudas
+  key: 939d3b58-8b04-451e-a4aa-25727603533f
+- pt-pt: a cerca
+  en: fence
+  word_type: noun
+  gender: feminine
+  plural_form: as cercas
+  key: 662f4860-49bc-4b70-b62d-47f8354ff875
+- pt-pt: o desenvolvimento
+  en: development
+  word_type: noun
+  gender: masculine
+  plural_form: os desenvolvimentos
+  key: e0b6618f-3fc3-44ad-aa8b-b9d426561520
+- pt-pt: o início
+  en: beginning
+  word_type: noun
+  gender: masculine
+  plural_form: os inícios
+  key: 43347b39-2454-4a43-8306-364847e98fdc
+- pt-pt: isto
+  en: this (thing)
+  word_type: pronoun
+  key: 2b5e8f7b-cf83-43b1-aa9e-c155048db7ca
+- pt-pt: passar
+  en: to pass
+  word_type: verb
+  first_person_singular: eu passo
+  first_person_plural: nós passamos
+  second_person_singular: tu passas
+  second_person_plural: vós passais
+  third_person_singular: ele/ela passa
+  third_person_plural: eles/elas passam
+  key: b75e4f07-6f53-4024-86e5-38f6f3f34f09
+- pt-pt: tal
+  en: such
+  word_type: adjective
+  positive: tal
+  key: 0cd230cc-5f49-46cb-95ce-32e370c1e51b
+- pt-pt: claro
+  en: clear
+  word_type: adjective
+  positive: claro
+  comparative: mais claro
+  superlative: o mais claro
+  key: 70df9700-6359-4928-97c8-101a31f2ee49
+- pt-pt: o norte
+  en: north
+  word_type: noun
+  gender: masculine
+  key: 149c47f2-27ee-49c3-9f0f-d887f9ba006f
+- pt-pt: a política
+  en: politics
+  word_type: noun
+  gender: feminine
+  plural_form: as políticas
+  key: 7ee015f4-95e7-4906-a51b-b0dc04d6b63e
+- pt-pt: a rede
+  en: network
+  word_type: noun
+  gender: feminine
+  plural_form: as redes
+  key: 66820222-eeed-4d95-92ed-8712cf0ca81b
+- pt-pt: a universidade
+  en: university
+  word_type: noun
+  gender: feminine
+  plural_form: as universidades
+  key: f3ee15fd-f565-42eb-95d9-03459b9123b5
+- pt-pt: apesar
+  en: despite
+  word_type: preposition
+  key: 2f9c8b7f-fc57-4828-982b-15af1b3e09ff
+- pt-pt: o gosto
+  en: taste
+  word_type: noun
+  gender: masculine
+  plural_form: os gostos
+  key: 7d619e4f-8bcf-419b-9ba1-7767308e6480
+- pt-pt: a maneira
+  en: manner
+  word_type: noun
+  gender: feminine
+  plural_form: as maneiras
+  key: fc21023f-e791-43eb-9303-ca1d06eef786
+- pt-pt: último
+  en: last
+  word_type: adjective
+  positive: último
+  comparative: mais último
+  superlative: o mais último
+  key: 0aa63f40-fcda-4a8e-9302-0402960125e3
+- pt-pt: a empresa
+  en: company (business)
+  word_type: noun
+  gender: feminine
+  plural_form: as empresas
+  key: f889525a-4579-4046-83d2-6bb3ce7bea16
+- pt-pt: a força
+  en: strength
+  word_type: noun
+  gender: feminine
+  plural_form: as forças
+  key: 5a73b70c-5f8b-4145-af3d-467bf4107298
+- pt-pt: passado
+  en: past
+  word_type: adjective
+  positive: passado
+  key: fb673af9-185e-4be1-872b-2a34a365db23
+- pt-pt: a base
+  en: base
+  word_type: noun
+  gender: feminine
+  plural_form: as bases
+  key: b1bb3cb6-adc0-45d2-92a2-a588e617aabc

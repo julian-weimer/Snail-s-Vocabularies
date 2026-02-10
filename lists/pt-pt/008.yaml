@@ -1,0 +1,300 @@
+- en: snake
+  pt-pt: a serpente
+  word_type: noun
+  gender: feminine
+  plural_form: as serpentes
+  key: 0a594b01-7de0-4639-b0ab-dd8c806c5147
+- en: feather
+  pt-pt: a pena
+  word_type: noun
+  gender: feminine
+  plural_form: as penas
+  key: 424adeff-d34b-4fd9-9462-6e8fbcb03bca
+- en: flower
+  pt-pt: a flor
+  word_type: noun
+  plural_form: as flores
+  gender: feminine
+  key: 6d785eb4-8671-4ba8-a133-57c75e6fd071
+- en: grass
+  pt-pt: a relva
+  word_type: noun
+  plural_form: as relvas
+  gender: feminine
+  key: 35c0eb8d-909c-4e50-9ddc-fdb735dd95c1
+- en: leaf
+  pt-pt: a folha
+  word_type: noun
+  plural_form: as folhas
+  gender: feminine
+  key: 55dc3278-00ec-47e6-9630-b443157c163d
+- en: plant
+  pt-pt: a planta
+  word_type: noun
+  plural_form: as plantas
+  gender: feminine
+  key: b31c4e5e-b113-4527-8aae-e9a2e2a50a61
+- en: tree
+  pt-pt: a árvore
+  word_type: noun
+  plural_form: as árvores
+  gender: feminine
+  key: 5d61349f-9ede-4e44-b6b1-eb277cffaa62
+- en: hill
+  pt-pt: a colina
+  word_type: noun
+  plural_form: as colinas
+  gender: feminine
+  key: b8bc03f1-1eaf-4b86-a12d-2d492e14e903
+- en: lake
+  pt-pt: o lago
+  word_type: noun
+  plural_form: os lagos
+  gender: masculine
+  key: c08e009b-6af8-49ac-8319-c78546c2a79f
+- en: land
+  pt-pt: a terra
+  word_type: noun
+  plural_form: as terras
+  gender: feminine
+  key: 6f967515-75b2-4422-8548-75bdd5cad6d0
+- en: river
+  pt-pt: o rio
+  word_type: noun
+  plural_form: os rios
+  gender: masculine
+  key: 9b919715-1d17-4e2a-9586-320c9040bd2f
+- en: sea
+  pt-pt: o mar
+  word_type: noun
+  plural_form: os mares
+  gender: masculine
+  key: c0a94451-575d-47b7-81e6-adfd6599824c
+- en: air
+  pt-pt: o ar
+  word_type: noun
+  plural_form: os ares
+  gender: masculine
+  key: 5bf627fb-15e9-4ab9-bdff-5371d6d2afec
+- en: cloud
+  pt-pt: a nuvem
+  word_type: noun
+  plural_form: as nuvens
+  gender: feminine
+  key: 05e27ee9-e3a7-46cf-b96d-b6900cab4ff6
+- en: fire
+  pt-pt: o fogo
+  word_type: noun
+  plural_form: os fogos
+  gender: masculine
+  key: 9570faf0-a2b2-47df-b29c-be97837a5d9f
+- en: ice
+  pt-pt: o gelo
+  word_type: noun
+  plural_form: os gelos
+  gender: masculine
+  key: db1c5a47-bbf7-42e8-b7d9-61cc9f499c0b
+- en: rain
+  pt-pt: a chuva
+  word_type: noun
+  plural_form: as chuvas
+  gender: feminine
+  key: ce356f59-99bd-4ddb-9be4-b2d316350918
+- en: sky
+  pt-pt: o céu
+  word_type: noun
+  plural_form: os céus
+  gender: masculine
+  key: 3afeb2db-2934-404a-8a03-5a02b15f121a
+- en: snow
+  pt-pt: a neve
+  word_type: noun
+  plural_form: as neves
+  gender: feminine
+  key: cbfca562-1afd-4065-bc9f-c2920cc61c66
+- en: wind
+  pt-pt: o vento
+  word_type: noun
+  plural_form: os ventos
+  gender: masculine
+  key: 359bbb0b-bbac-48d7-9084-e0b3604390ff
+- en: Earth
+  pt-pt: a Terra
+  word_type: noun
+  plural_form: as Terras
+  gender: feminine
+  key: 2f3069a0-597c-4f0a-9ab2-a781f663b4f0
+- en: space
+  pt-pt: o espaço
+  word_type: noun
+  plural_form: os espaços
+  gender: masculine
+  key: a2a5ed8b-0dde-42c4-8a43-4b517aa7ac7c
+- en: sun
+  pt-pt: o sol
+  word_type: noun
+  plural_form: os sóis
+  gender: masculine
+  key: 4fda59a1-383a-4970-b862-3c24ffb1ff0d
+- en: bread
+  pt-pt: o pão
+  word_type: noun
+  plural_form: os pães
+  gender: masculine
+  key: b071f0a5-21dd-4f2f-99fe-1f29fbb161b2
+- en: rice
+  pt-pt: o arroz
+  word_type: noun
+  plural_form: os arrozes
+  gender: masculine
+  key: 0ece5029-bdc6-4213-ba0d-e70107797139
+- en: fruit
+  pt-pt: a fruta
+  word_type: noun
+  plural_form: as frutas
+  gender: feminine
+  key: bd5c9c4e-fdab-48ae-a07d-a45655178f90
+- en: apple
+  pt-pt: a maçã
+  word_type: noun
+  plural_form: as maçãs
+  gender: feminine
+  key: ce31a5b9-fa0b-4571-8b8b-32730fd81996
+- en: banana
+  pt-pt: a banana
+  word_type: noun
+  plural_form: as bananas
+  gender: feminine
+  key: 014bc9bd-c28e-4dba-80a8-0576f58fa09d
+- en: vegetable
+  pt-pt: o legume
+  word_type: noun
+  plural_form: os legumes
+  gender: masculine
+  key: 41f4bed1-3dfb-4e03-9dbb-4b9ac40818a6
+- en: potato
+  pt-pt: a batata
+  word_type: noun
+  plural_form: as batatas
+  gender: feminine
+  key: a21e34b1-1811-4df8-94ba-b75368ba3c94
+- en: tomato
+  pt-pt: o tomate
+  word_type: noun
+  plural_form: os tomates
+  gender: masculine
+  key: f7cc7201-5312-4eb5-93fb-11d361cc2132
+- en: onion
+  pt-pt: a cebola
+  word_type: noun
+  plural_form: as cebolas
+  gender: feminine
+  key: a46938ac-2918-45b0-b20a-885bb72c4d04
+- en: chicken
+  pt-pt: o frango
+  word_type: noun
+  plural_form: os frangos
+  gender: masculine
+  key: bdd12391-3e26-4f9a-8ffc-de97cf5fee81
+- en: egg
+  pt-pt: o ovo
+  word_type: noun
+  plural_form: os ovos
+  gender: masculine
+  key: 8202db47-0c50-4d37-a0d3-83449565405e
+- en: milk
+  pt-pt: o leite
+  word_type: noun
+  plural_form: os leites
+  gender: masculine
+  key: e5b2fe8a-8149-4f88-9a5c-a37cfdabc330
+- en: cheese
+  pt-pt: o queijo
+  word_type: noun
+  plural_form: os queijos
+  gender: masculine
+  key: 85ae1dba-9dea-4d2a-bc44-64dbe379ff5b
+- en: butter
+  pt-pt: a manteiga
+  word_type: noun
+  plural_form: as manteigas
+  gender: feminine
+  key: a884a4e7-2b1d-4e32-ad9f-23bcf6771b57
+- en: salt
+  pt-pt: o sal
+  word_type: noun
+  plural_form: os sais
+  gender: masculine
+  key: dc29b11f-0370-408a-b541-e5741b6166d4
+- en: sugar
+  pt-pt: o açúcar
+  word_type: noun
+  plural_form: os açúcares
+  gender: masculine
+  key: e1deec5d-94c3-4fa8-9bcd-c0ad937f9ca3
+- en: water
+  pt-pt: a água
+  word_type: noun
+  plural_form: as águas
+  gender: feminine
+  key: e468954d-3c5c-49c6-ab4b-459ac69b30ad
+- en: tea
+  pt-pt: o chá
+  word_type: noun
+  plural_form: os chás
+  gender: masculine
+  key: 518204d4-6d22-4283-931f-96ffb165e5de
+- en: coffee
+  pt-pt: o café
+  word_type: noun
+  plural_form: os cafés
+  gender: masculine
+  key: fba6218a-91ab-45f0-b24f-bf28832ffc72
+- en: juice
+  pt-pt: o sumo
+  word_type: noun
+  plural_form: os sumos
+  gender: masculine
+  key: 69c87838-7de7-4dd5-b86a-ebfc52f4e89b
+- en: oil
+  pt-pt: o óleo
+  word_type: noun
+  plural_form: os óleos
+  gender: masculine
+  key: 9e670b7f-81cc-4ecc-a51e-448d7b3b86d0
+- en: food
+  pt-pt: a comida
+  word_type: noun
+  plural_form: as comidas
+  gender: feminine
+  key: 95bb2bd3-7def-4938-a583-4bc5f0e0821d
+- en: meal
+  pt-pt: a refeição
+  word_type: noun
+  plural_form: as refeições
+  gender: feminine
+  key: 28bc3513-4498-4f21-a8dd-7d1479e92334
+- en: breakfast
+  pt-pt: o pequeno-almoço
+  word_type: noun
+  plural_form: os pequenos-almoços
+  gender: masculine
+  key: 2cd8b3b0-92c1-44d8-9545-48839e5c9760
+- en: lunch
+  pt-pt: o almoço
+  word_type: noun
+  plural_form: os almoços
+  gender: masculine
+  key: 6d2ab888-499f-4366-93a8-dbf134fb6ae2
+- en: dinner
+  pt-pt: o jantar
+  word_type: noun
+  plural_form: os jantares
+  gender: masculine
+  key: 3aa23f88-21db-4a8b-ad44-5ba5e5a81baf
+- en: piece
+  pt-pt: a peça
+  word_type: noun
+  plural_form: as peças
+  gender: feminine
+  key: 35d9b357-2bc5-4de9-800b-a6a7676278db

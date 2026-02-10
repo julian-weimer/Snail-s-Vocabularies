@@ -1,0 +1,345 @@
+- en: birthday
+  pt-pt: o aniversário
+  word_type: noun
+  plural_form: os aniversários
+  gender: masculine
+  key: 52ea8218-905c-4dc9-9e69-aae1a009f293
+- en: holiday
+  pt-pt: o feriado
+  word_type: noun
+  plural_form: os feriados
+  gender: masculine
+  key: 87fb4d3a-d401-4918-b176-c686e5ed8c0f
+- en: vacation
+  pt-pt: as férias
+  word_type: noun
+  plural_form: as férias
+  gender: feminine
+  key: ee3a642f-4d69-48bc-b19e-e35593beb017
+- en: season
+  pt-pt: a estação
+  word_type: noun
+  plural_form: as estações
+  gender: feminine
+  key: 084aecc9-206b-45da-9714-16d9197d1fba
+- en: to smell
+  pt-pt: cheirar
+  word_type: verb
+  first_person_singular: eu cheiro
+  second_person_singular: tu cheiras
+  third_person_singular: ele/ela cheira
+  first_person_plural: nós cheiramos
+  second_person_plural: vós cheirais
+  third_person_plural: eles/elas cheiram
+  key: eb621fa8-33a0-4273-8721-e7f7066fa4a6
+- en: to taste
+  pt-pt: provar
+  word_type: verb
+  first_person_singular: eu provo
+  second_person_singular: tu provas
+  third_person_singular: ele/ela prova
+  first_person_plural: nós provamos
+  second_person_plural: vós proveis
+  third_person_plural: eles/elas provam
+  key: 28471f7f-341c-4a9a-beac-df96ac35ae2b
+- en: smell
+  pt-pt: o cheiro
+  word_type: noun
+  plural_form: os cheiros
+  gender: masculine
+  key: b4a73af9-9688-4ee8-892f-29b4491e0e1b
+- en: scent
+  pt-pt: o perfume
+  word_type: noun
+  plural_form: os perfumes
+  gender: masculine
+  key: 04902126-dc0a-44e3-bad8-765d86781cd5
+- en: taste (sense/ability)
+  pt-pt: o sabor
+  word_type: noun
+  plural_form: os sabores
+  gender: masculine
+  key: b7d4a56a-95f8-4487-8590-f6461c05a6f3
+- en: sweet
+  pt-pt: doce
+  word_type: adjective
+  positive: doce
+  comparative: mais doce
+  superlative: o mais doce
+  key: 876861df-75a2-4390-aa67-163180d0e624
+- en: sour
+  pt-pt: azedo
+  word_type: adjective
+  positive: azedo
+  comparative: mais azedo
+  superlative: o mais azedo
+  key: a9039a72-7d05-4278-a430-b312b2f4c5f3
+- en: bitter
+  pt-pt: amargo
+  word_type: adjective
+  positive: amargo
+  comparative: mais amargo
+  superlative: o mais amargo
+  key: d1c58d70-e3ba-4eaa-b90c-170b40f1e176
+- en: salty
+  pt-pt: salgado
+  word_type: adjective
+  positive: salgado
+  comparative: mais salgado
+  superlative: o mais salgado
+  key: 1142b871-2965-4d18-afa0-08da297e27fc
+- en: spicy
+  pt-pt: picante
+  word_type: adjective
+  positive: picante
+  comparative: mais picante
+  superlative: o mais picante
+  key: 34774cda-f445-41b2-bb68-580b7d74e81f
+- en: delicious
+  pt-pt: delicioso
+  word_type: adjective
+  positive: delicioso
+  comparative: mais delicioso
+  superlative: o mais delicioso
+  key: d81a0a2b-2dc3-4516-85bb-44447881d2c1
+- en: smooth
+  pt-pt: suave
+  word_type: adjective
+  positive: suave
+  comparative: mais suave
+  superlative: o mais suave
+  key: 37895edc-654a-46f2-ac63-617aa87907f3
+- en: rough
+  pt-pt: áspero
+  word_type: adjective
+  positive: áspero
+  comparative: mais áspero
+  superlative: o mais áspero
+  key: 889d817d-4116-4cae-a2a7-66a60e5908d8
+- en: sharp
+  pt-pt: afiado
+  word_type: adjective
+  positive: afiado
+  comparative: mais afiado
+  superlative: o mais afiado
+  key: 99973191-78bf-47ed-a6ea-c7d4c87121dd
+- en: dull
+  pt-pt: embotado
+  word_type: adjective
+  positive: embotado
+  comparative: mais embotado
+  superlative: o mais embotado
+  key: ab44cb3e-6066-47f2-9e02-46a22bb933a2
+- en: sticky
+  pt-pt: pegajoso
+  word_type: adjective
+  positive: pegajoso
+  comparative: mais pegajoso
+  superlative: o mais pegajoso
+  key: de69d129-4115-4c2a-82cd-6105b1db951b
+- en: slippery
+  pt-pt: escorregadio
+  word_type: adjective
+  positive: escorregadio
+  comparative: mais escorregadio
+  superlative: o mais escorregadio
+  key: 7749e1b5-062d-4c25-a4d8-d74393da232d
+- en: angry
+  pt-pt: zangado
+  word_type: adjective
+  positive: zangado
+  comparative: mais zangado
+  superlative: o mais zangado
+  key: 963b2f83-276e-4731-ab70-66705fa0d471
+- en: attention
+  pt-pt: a atenção
+  word_type: noun
+  plural_form: as atenções
+  gender: feminine
+  key: b3059825-1177-430c-9f06-4ce2e4a14139
+- en: behavior
+  pt-pt: o comportamento
+  word_type: noun
+  plural_form: os comportamentos
+  gender: masculine
+  key: 54270039-288b-4fd1-94bf-9035fa6425dc
+- en: bored
+  pt-pt: aborrecido
+  word_type: adjective
+  positive: aborrecido
+  comparative: mais aborrecido
+  superlative: o mais aborrecido
+  key: 1f87c03b-099d-4cbd-8cf8-2fd9c1f53cdb
+- en: comfort
+  pt-pt: o conforto
+  word_type: noun
+  plural_form: os confortos
+  gender: masculine
+  key: 9c2f6fe6-48bf-404c-9fc3-c5a4cf1946bd
+- en: to decide
+  pt-pt: decidir
+  word_type: verb
+  first_person_singular: eu decido
+  second_person_singular: tu decides
+  third_person_singular: ele/ela decide
+  first_person_plural: nós decidimos
+  second_person_plural: vós decidis
+  third_person_plural: eles/elas decidem
+  key: 50c45671-773c-4ce4-8c5e-6a9b7c886aa1
+- en: decision
+  pt-pt: a decisão
+  word_type: noun
+  plural_form: as decisões
+  gender: feminine
+  key: a4968d43-60fc-443a-b4a8-56eb0e09a58f
+- en: desire
+  pt-pt: o desejo
+  word_type: noun
+  plural_form: os desejos
+  gender: masculine
+  key: 27194036-0d50-4b3b-bc1b-60ab380b1069
+- en: dream
+  pt-pt: o sonho
+  word_type: noun
+  plural_form: os sonhos
+  gender: masculine
+  key: 4fc9d3d1-4004-4224-8b0d-97e3a3e579d0
+- en: to enjoy
+  pt-pt: desfrutar
+  word_type: verb
+  first_person_singular: eu desfruto
+  second_person_singular: tu desfrulas
+  third_person_singular: ele/ela desfruta
+  first_person_plural: nós desfrutamos
+  second_person_plural: vós desfrutais
+  third_person_plural: eles/elas desfrutam
+  key: eeab5853-f45c-42c3-84f7-b0c9b7622c59
+- en: excited
+  pt-pt: entusiasmado
+  word_type: adjective
+  positive: entusiasmado
+  comparative: mais entusiasmado
+  superlative: o mais entusiasmado
+  key: fb315051-7614-43fb-ada5-2f5862b63636
+- en: experience
+  pt-pt: a experiência
+  word_type: noun
+  plural_form: as experiências
+  gender: feminine
+  key: 3c7000e7-b743-468b-ab07-546eab9a3643
+- en: fear
+  pt-pt: o medo
+  word_type: noun
+  plural_form: os medos
+  gender: masculine
+  key: 4d24c7e2-c0a7-4327-ba4d-f6a1033a49fc
+- en: feeling
+  pt-pt: o sentimento
+  word_type: noun
+  plural_form: os sentimentos
+  gender: masculine
+  key: 4c61c9aa-4cdd-44b9-b407-9fba4a271cc7
+- en: happy
+  pt-pt: feliz
+  word_type: adjective
+  positive: feliz
+  comparative: mais feliz
+  superlative: o mais feliz
+  key: d6b33f2b-0708-4837-9cff-4df69f0f449e
+- en: to hate
+  pt-pt: odiar
+  word_type: verb
+  first_person_singular: eu odeio
+  second_person_singular: tu odeias
+  third_person_singular: ele/ela odeia
+  first_person_plural: nós odiamos
+  second_person_plural: vós odiais
+  third_person_plural: eles/elas odeiam
+  key: 421a351a-b8a7-43e4-94a0-c2ae6988536c
+- en: hope
+  pt-pt: a esperança
+  word_type: noun
+  plural_form: as esperanças
+  gender: feminine
+  key: 65d8a201-9005-45de-8abc-f6afcd62daaa
+- en: idea
+  pt-pt: a ideia
+  word_type: noun
+  plural_form: as ideias
+  gender: feminine
+  key: 96f179a1-c270-4d62-b2cb-8388f927f1a7
+- en: to imagine
+  pt-pt: imaginar
+  word_type: verb
+  first_person_singular: eu imagino
+  second_person_singular: tu imaginas
+  third_person_singular: ele/ela imagina
+  first_person_plural: nós imaginamos
+  second_person_plural: vós imaginais
+  third_person_plural: eles/elas imaginam
+  key: 3f1f94c0-af2c-49da-9125-2c34c31b9dc8
+- en: interest
+  pt-pt: o interesse
+  word_type: noun
+  plural_form: os interesses
+  gender: masculine
+  key: c8236ab5-63bf-468b-8624-774398b2496b
+- en: knowledge
+  pt-pt: o conhecimento
+  word_type: noun
+  plural_form: os conhecimentos
+  gender: masculine
+  key: e79ad708-7a72-4a1c-9751-5beb88bcff28
+- en: love
+  pt-pt: o amor
+  word_type: noun
+  plural_form: os amores
+  gender: masculine
+  key: 195cb1ea-0dd3-4675-92ad-1b958659403d
+- en: memory
+  pt-pt: a memória
+  word_type: noun
+  plural_form: as memórias
+  gender: feminine
+  key: e82c2896-5bda-41eb-b797-bed990c267d0
+- en: mind
+  pt-pt: a mente
+  word_type: noun
+  plural_form: as mentes
+  gender: feminine
+  key: 38c4234a-417c-4461-9d7f-dc7cb2055ab9
+- en: opinion
+  pt-pt: a opinião
+  word_type: noun
+  plural_form: as opiniões
+  gender: feminine
+  key: 3531b463-fa17-4503-9687-252f1f559e47
+- en: peace
+  pt-pt: a paz
+  word_type: noun
+  plural_form: as pazes
+  gender: feminine
+  key: 75d8645e-d9f9-4fc5-b05c-bda0110b0f33
+- en: to remember
+  pt-pt: lembrar
+  word_type: verb
+  first_person_singular: eu lembro
+  second_person_singular: tu lembras
+  third_person_singular: ele/ela lembra
+  first_person_plural: nós lembramos
+  second_person_plural: vós lembrais
+  third_person_plural: eles/elas lembram
+  key: 95877dea-b440-49fb-9b6e-067ca7e349cb
+- en: respect
+  pt-pt: o respeito
+  word_type: noun
+  plural_form: os respeitos
+  gender: masculine
+  key: 3014ebde-e3d5-4522-952f-d3272f1fd062
+- en: sad
+  pt-pt: triste
+  word_type: adjective
+  positive: triste
+  comparative: mais triste
+  superlative: o mais triste
+  key: 03766db4-43b8-47c8-a278-12e5d97988e7

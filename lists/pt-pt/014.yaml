@@ -1,0 +1,332 @@
+- en: interview
+  pt-pt: a entrevista
+  word_type: noun
+  gender: feminine
+  plural_form: as entrevistas
+  key: daaeb100-2fca-4f0c-9410-8d5ce069315d
+- en: letter (mail)
+  pt-pt: a carta
+  word_type: noun
+  gender: feminine
+  plural_form: as cartas
+  key: 664049d3-e99a-4909-a39d-e101ad8d5e1f
+- en: meaning
+  pt-pt: o significado
+  word_type: noun
+  plural_form: os significados
+  gender: masculine
+  key: 5e35205f-a9c6-4dcc-9641-511b11f9843f
+- en: message
+  pt-pt: a mensagem
+  word_type: noun
+  plural_form: as mensagens
+  gender: feminine
+  key: ad944c43-93c6-4d43-8358-a8e878f3da6d
+- en: name
+  pt-pt: o nome
+  word_type: noun
+  plural_form: os nomes
+  gender: masculine
+  key: af797e67-e8ff-40bd-b209-1204e7be7f83
+- en: note
+  pt-pt: a nota
+  word_type: noun
+  plural_form: as notas
+  gender: feminine
+  key: 97901c92-3ed0-4990-9f11-8e983f088ca1
+- en: post (publication)
+  pt-pt: a publicação
+  word_type: noun
+  plural_form: as publicações
+  gender: feminine
+  key: 2f5b89d3-f94c-41a8-86b5-35662ba3423c
+- en: report
+  pt-pt: o relatório
+  word_type: noun
+  plural_form: os relatórios
+  gender: masculine
+  key: ab089043-23be-4dca-b7f3-95a1d62f56f8
+- en: request
+  pt-pt: o pedido
+  word_type: noun
+  plural_form: os pedidos
+  gender: masculine
+  key: 52428cf0-5ede-457d-8378-3b11b002ee15
+- en: to send
+  pt-pt: enviar
+  word_type: verb
+  first_person_singular: eu envio
+  second_person_singular: tu envias
+  third_person_singular: ele/ela envia
+  first_person_plural: nós enviamos
+  second_person_plural: vós enviais
+  third_person_plural: eles/elas enviam
+  key: 9d51c53a-29d7-47dd-a429-aab822cfc818
+- en: sign (symbol)
+  pt-pt: o sinal
+  word_type: noun
+  plural_form: os sinais
+  gender: masculine
+  key: 9e3c46cb-58d5-44fd-bdba-c60fd78ddf43
+- en: spelling
+  pt-pt: a ortografia
+  word_type: noun
+  plural_form: as ortografias
+  gender: feminine
+  key: 2c8df964-bcb0-4600-af31-2e80a509a589
+- en: stamp (postage)
+  pt-pt: o selo
+  word_type: noun
+  plural_form: os selos
+  gender: masculine
+  key: 2518bafa-96e9-4ea4-b9e3-9daf1e3903e1
+- en: statement
+  pt-pt: a declaração
+  word_type: noun
+  plural_form: as declarações
+  gender: feminine
+  key: 04534218-d8da-4f61-9036-185f0c3ca49f
+- en: text
+  pt-pt: o texto
+  word_type: noun
+  plural_form: os textos
+  gender: masculine
+  key: 20e26b73-2dc6-4c7f-b3e8-71c7d22b26ec
+- en: title
+  pt-pt: o título
+  word_type: noun
+  plural_form: os títulos
+  gender: masculine
+  key: c5505c0e-4108-444f-b7c8-7d487578e716
+- en: topic
+  pt-pt: o tema
+  word_type: noun
+  plural_form: os temas
+  gender: masculine
+  key: 7ebc96a5-ae9c-4704-93de-ebeeeb5bc3c1
+- en: word
+  pt-pt: a palavra
+  word_type: noun
+  plural_form: as palavras
+  gender: feminine
+  key: 1f7d12a6-306a-454e-a2f6-1b8674121171
+- en: writing
+  pt-pt: a escrita
+  word_type: noun
+  plural_form: as escritas
+  gender: feminine
+  key: 0aefb6c9-669d-421d-8724-bb6cce91c302
+- en: teacher
+  pt-pt: o professor
+  word_type: noun
+  plural_form: os professores
+  gender: masculine
+  key: 96b04de1-3b6b-41a7-9f49-24e462f703fa
+- en: student
+  pt-pt: o estudante
+  word_type: noun
+  plural_form: os estudantes
+  gender: masculine
+  key: 9bc7db5e-692c-4d8f-addc-8c765a56ee2f
+- en: to learn
+  pt-pt: aprender
+  word_type: verb
+  first_person_singular: eu aprendo
+  second_person_singular: tu aprendes
+  third_person_singular: ele/ela aprende
+  first_person_plural: nós aprendemos
+  second_person_plural: vós aprendeis
+  third_person_plural: eles/elas aprendem
+  key: cf7e9fe1-13d7-40be-9067-21b80eb8a94b
+- en: to study
+  pt-pt: estudar
+  word_type: verb
+  first_person_singular: eu estudo
+  second_person_singular: tu estudas
+  third_person_singular: ele/ela estuda
+  first_person_plural: nós estudamos
+  second_person_plural: vós estudais
+  third_person_plural: eles/elas estudam
+  key: a1d7ac06-4a1c-4794-a9e0-085b52538dc3
+- en: class
+  pt-pt: a classe
+  word_type: noun
+  plural_form: as classes
+  gender: feminine
+  key: b1db98f0-5ea8-44f1-b621-fe294ebc75fd
+- en: lesson
+  pt-pt: a lição
+  word_type: noun
+  plural_form: as lições
+  gender: feminine
+  key: 7fdbc2a1-5ce0-4417-b7e6-53bb136b6cd2
+- en: test
+  pt-pt: o teste
+  word_type: noun
+  plural_form: os testes
+  gender: masculine
+  key: 8a7f5fff-fd5b-40f7-a25d-4fd2c24d4607
+- en: book
+  pt-pt: o livro
+  word_type: noun
+  plural_form: os livros
+  gender: masculine
+  key: fbb4e855-3ae7-4c0d-822e-78946606d2bc
+- en: music
+  pt-pt: a música
+  word_type: noun
+  plural_form: as músicas
+  gender: feminine
+  key: 3c3c7c59-502f-4ba2-aef0-c0092530411f
+- en: song
+  pt-pt: a canção
+  word_type: noun
+  plural_form: as canções
+  gender: feminine
+  key: 78195c79-e4ce-4d61-8381-5f0e22037cf9
+- en: dance
+  pt-pt: a dança
+  word_type: noun
+  plural_form: as danças
+  gender: feminine
+  key: 6cfd24c8-d6c7-4bb1-ba3d-2345fe57398d
+- en: picture
+  pt-pt: a imagem
+  word_type: noun
+  plural_form: as imagens
+  gender: feminine
+  key: dbbe641e-714f-4991-bcd4-f74de9e6ccf8
+- en: story
+  pt-pt: a história
+  word_type: noun
+  plural_form: as histórias
+  gender: feminine
+  key: fa40a463-d315-44b2-84d4-ab43f1c49b5e
+- en: art
+  pt-pt: a arte
+  word_type: noun
+  plural_form: as artes
+  gender: feminine
+  key: d466b3e0-dffc-404e-a52e-4eba968cd949
+- en: movie
+  pt-pt: o filme
+  word_type: noun
+  plural_form: os filmes
+  gender: masculine
+  key: 01cd0074-4133-4916-adbe-61690927606d
+- en: to paint
+  pt-pt: pintar
+  word_type: verb
+  first_person_singular: eu pinto
+  second_person_singular: tu pintas
+  third_person_singular: ele/ela pinta
+  first_person_plural: nós pintamos
+  second_person_plural: vós pintais
+  third_person_plural: eles/elas pintam
+  key: f0f9b178-de37-4824-b3b6-14a300f4c279
+- en: to draw
+  pt-pt: desenhar
+  word_type: verb
+  first_person_singular: eu desenho
+  second_person_singular: tu desenhas
+  third_person_singular: ele/ela desenha
+  first_person_plural: nós desenhamos
+  second_person_plural: vós desenhais
+  third_person_plural: eles/elas desenham
+  key: 8107ef35-8d4f-444a-a571-6a29b21268b7
+- en: singer
+  pt-pt: o cantor
+  word_type: noun
+  plural_form: os cantores
+  gender: masculine
+  key: 2d887564-a0e8-4fa7-b5e8-4c45b20c8658
+- en: actor
+  pt-pt: o ator
+  word_type: noun
+  plural_form: os atores
+  gender: masculine
+  key: 63cef620-a744-443d-b5cc-f7a7db886515
+- en: news
+  pt-pt: as notícias
+  word_type: noun
+  plural_form: as notícias
+  gender: feminine
+  key: 8e7dd6f8-9a18-4d99-9889-d4b6238ddadb
+- en: festival
+  pt-pt: o festival
+  word_type: noun
+  plural_form: os festivais
+  gender: masculine
+  key: f10a6a96-6a01-49ec-ab60-214e4f27d46c
+- en: flag
+  pt-pt: a bandeira
+  word_type: noun
+  plural_form: as bandeiras
+  gender: feminine
+  key: 7d9273a9-9879-4b37-9783-b5d0d1d0d1ef
+- en: king
+  pt-pt: o rei
+  word_type: noun
+  plural_form: os reis
+  gender: masculine
+  key: dfcbf79f-60a0-409f-94ac-f9027e6df3b6
+- en: nation
+  pt-pt: a nação
+  word_type: noun
+  plural_form: as nações
+  gender: feminine
+  key: 776594b6-6393-4671-baf9-3a8b4c447539
+- en: queen
+  pt-pt: a rainha
+  word_type: noun
+  plural_form: as rainhas
+  gender: feminine
+  key: e6a47947-55bf-43bd-add0-06a3afe0d50d
+- en: war
+  pt-pt: a guerra
+  word_type: noun
+  plural_form: as guerras
+  gender: feminine
+  key: 52a8e76f-b071-4c3d-8db9-012a562a5cce
+- en: money
+  pt-pt: o dinheiro
+  word_type: noun
+  plural_form: os dinheiros
+  gender: masculine
+  key: 980b2787-e616-40a1-bbb6-aee86b7fa08a
+- en: to buy
+  pt-pt: comprar
+  word_type: verb
+  first_person_singular: eu compro
+  second_person_singular: tu compras
+  third_person_singular: ele/ela compra
+  first_person_plural: nós compramos
+  second_person_plural: vós comprais
+  third_person_plural: eles/elas compram
+  key: ac7dbe95-eccf-4d05-9ebc-862c65606743
+- en: to sell
+  pt-pt: vender
+  word_type: verb
+  first_person_singular: eu vendo
+  second_person_singular: tu vendes
+  third_person_singular: ele/ela vende
+  first_person_plural: nós vendemos
+  second_person_plural: vós vendeis
+  third_person_plural: eles/elas vendem
+  key: 167a24a4-bcc1-4b31-8794-0d249bfeeeb1
+- en: to pay
+  pt-pt: pagar
+  word_type: verb
+  first_person_singular: eu pago
+  second_person_singular: tu pagas
+  third_person_singular: ele/ela paga
+  first_person_plural: nós pagamos
+  second_person_plural: vós pagais
+  third_person_plural: eles/elas pagam
+  key: d311d17d-8591-4bc2-9111-c64e9582214d
+- en: price
+  pt-pt: o preço
+  word_type: noun
+  plural_form: os preços
+  gender: masculine
+  key: b481992c-152e-40c7-8b3e-63a2daf239a2

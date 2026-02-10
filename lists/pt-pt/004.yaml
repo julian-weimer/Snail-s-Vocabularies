@@ -1,0 +1,292 @@
+- pt-pt: má
+  en: bad
+  word_type: adjective
+  positive: mau
+  comparative: pior
+  superlative: o pior
+  key: a39e2444-30f7-4ecb-834e-b44d75a87579
+- pt-pt: a rapariga
+  en: girl
+  word_type: noun
+  gender: feminine
+  plural_form: as raparigas
+  key: d3eb4d69-b756-4189-8c42-a03daf725045
+- en: surprise
+  pt-pt: a surpresa
+  word_type: noun
+  gender: feminine
+  plural_form: as surpresas
+  key: 82a1038c-f281-41f3-a4b6-83c8498b31dc
+- en: thought
+  pt-pt: o pensamento
+  word_type: noun
+  gender: masculine
+  plural_form: os pensamentos
+  key: e915ff6e-083d-4517-9cd8-18ff44f465f7
+- en: to understand
+  pt-pt: compreender
+  word_type: verb
+  first_person_singular: eu compreendo
+  second_person_singular: tu compreendes
+  third_person_singular: ele/ela compreende
+  first_person_plural: nós compreendemos
+  second_person_plural: vós compreendeis
+  third_person_plural: eles/elas compreendem
+  key: 9ed0d599-0b49-4ad1-a820-02c34d8ae8f4
+- en: thing
+  pt-pt: a coisa
+  word_type: noun
+  gender: feminine
+  plural_form: as coisas
+  key: dfb96f78-8be0-4f11-a389-813700c6aa31
+- en: way
+  pt-pt: o caminho
+  word_type: noun
+  gender: masculine
+  plural_form: os caminhos
+  key: e46ae6ca-0d26-40bb-8c21-ba4f0a862a96
+- en: place
+  pt-pt: o lugar
+  word_type: noun
+  gender: masculine
+  plural_form: os lugares
+  key: 62d07915-ca6d-4581-a3cc-73937b283bdd
+- en: part
+  pt-pt: a parte
+  word_type: noun
+  gender: feminine
+  plural_form: as partes
+  key: a7546c93-bb20-4da4-a9b2-aa808193efcc
+- en: world
+  pt-pt: o mundo
+  word_type: noun
+  gender: masculine
+  plural_form: os mundos
+  key: 94ce2fe4-41ab-4cc9-ac90-d9d43b49a739
+- en: problem
+  pt-pt: o problema
+  word_type: noun
+  gender: masculine
+  plural_form: os problemas
+  key: 04d617a3-e70d-4013-bd10-188e7719c7a3
+- en: example
+  pt-pt: o exemplo
+  word_type: noun
+  gender: masculine
+  plural_form: os exemplos
+  key: 85e481c8-524f-416d-bec7-52f57b62f728
+- en: group
+  pt-pt: o grupo
+  word_type: noun
+  gender: masculine
+  plural_form: os grupos
+  key: 72dce2fc-07e5-46b2-8f94-eb28f5aa5df4
+- en: fact
+  pt-pt: o facto
+  word_type: noun
+  gender: masculine
+  plural_form: os factos
+  key: 0381fb97-5b31-4c89-a665-a945224647f1
+- en: point
+  pt-pt: o ponto
+  word_type: noun
+  gender: masculine
+  plural_form: os pontos
+  key: 4e5175eb-7196-44e6-8601-d7651a8a83c8
+- en: change
+  pt-pt: a mudança
+  word_type: noun
+  gender: feminine
+  plural_form: as mudanças
+  key: 3345c5e2-acad-4574-861a-459ed59265ae
+- en: difference
+  pt-pt: a diferença
+  word_type: noun
+  gender: feminine
+  plural_form: as diferenças
+  key: 56ada841-c81f-43a1-bf9b-509390d163fb
+- en: end
+  pt-pt: o fim
+  word_type: noun
+  gender: masculine
+  plural_form: os fins
+  key: d8305d96-4694-4536-b1a0-b9bb54c01a92
+- en: plan
+  pt-pt: o plano
+  word_type: noun
+  gender: masculine
+  plural_form: os planos
+  key: 9143d9d0-4e95-4f9b-8642-2b959133c9d6
+- en: chance
+  pt-pt: a oportunidade
+  word_type: noun
+  gender: feminine
+  plural_form: as oportunidades
+  key: 1b24bf7a-2917-46d5-8b44-1287b485dbb9
+- en: choice
+  pt-pt: a escolha
+  word_type: noun
+  gender: feminine
+  plural_form: as escolhas
+  key: bb8b8587-39c4-456f-9492-9a634ddc609c
+- en: red
+  pt-pt: vermelho
+  word_type: adjective
+  positive: vermelho
+  comparative: mais vermelho
+  superlative: o mais vermelho
+  key: 56c304ba-f05c-4101-91fe-c2d97ad63da2
+- en: blue
+  pt-pt: azul
+  word_type: adjective
+  positive: azul
+  comparative: mais azul
+  superlative: o mais azul
+  key: a13f84a7-2c23-4404-8ec4-59822426a115
+- en: yellow
+  pt-pt: amarelo
+  word_type: adjective
+  positive: amarelo
+  comparative: mais amarelo
+  superlative: o mais amarelo
+  key: 93c69d21-41f0-4252-a00a-a44db5efd5fe
+- en: green
+  pt-pt: verde
+  word_type: adjective
+  positive: verde
+  comparative: mais verde
+  superlative: o mais verde
+  key: a3e92769-5800-461f-abe9-c07b3775429d
+- en: orange (color)
+  pt-pt: laranja
+  word_type: adjective
+  positive: laranja
+  comparative: mais laranja
+  superlative: o mais laranja
+  key: ad9ad7d4-5b61-42e9-8813-bc4d4356bccd
+- en: purple
+  pt-pt: roxo
+  word_type: adjective
+  positive: roxo
+  comparative: mais roxo
+  superlative: o mais roxo
+  key: a30dd4d5-e3f2-40c1-8cdc-2ca5dd44ff8d
+- en: pink
+  pt-pt: cor-de-rosa
+  word_type: adjective
+  positive: cor-de-rosa
+  comparative: mais cor-de-rosa
+  superlative: o mais cor-de-rosa
+  key: 530524c4-c84b-40d5-9bec-dfac5015bb6e
+- en: black
+  pt-pt: preto
+  word_type: adjective
+  positive: preto
+  comparative: mais preto
+  superlative: o mais preto
+  key: d1229871-5bea-479c-b471-84984d5893d3
+- en: white
+  pt-pt: branco
+  word_type: adjective
+  positive: branco
+  comparative: mais branco
+  superlative: o mais branco
+  key: 01919475-c8e6-4a77-8b9f-6a91ad16f82f
+- en: gray
+  pt-pt: cinzento
+  word_type: adjective
+  positive: cinzento
+  comparative: mais cinzento
+  superlative: o mais cinzento
+  key: 2f754c67-d33e-4dbf-ba86-4a635ab7ee21
+- en: brown
+  pt-pt: castanho
+  word_type: adjective
+  positive: castanho
+  comparative: mais castanho
+  superlative: o mais castanho
+  key: becb3092-93bb-4729-97a0-9a66000b1ca8
+- en: here
+  pt-pt: aqui
+  word_type: adverb
+  key: 23d1d097-1d41-4f5b-89ce-26c8556ab5d1
+- en: there
+  pt-pt: lá
+  word_type: adverb
+  key: 034564a7-f56f-48a5-979d-3a8f35d49dbb
+- en: area
+  pt-pt: a área
+  word_type: noun
+  gender: feminine
+  plural_form: as áreas
+  key: 892aeb23-f246-47f1-beb0-21dd861b877a
+- en: center
+  pt-pt: o centro
+  word_type: noun
+  gender: masculine
+  plural_form: os centros
+  key: b0834e06-c1ca-4365-a84c-414cedc8e6fb
+- en: corner
+  pt-pt: o canto
+  word_type: noun
+  gender: masculine
+  plural_form: os cantos
+  key: c4e537f0-5bd5-4600-989b-bd048309f0d8
+- en: direction
+  pt-pt: a direção
+  word_type: noun
+  gender: feminine
+  plural_form: as direções
+  key: 37379bc3-3813-4676-8421-8e25fe6772dd
+- en: in
+  pt-pt: em
+  word_type: preposition
+  key: 51e85aa3-2f7c-4734-8006-27e34f758e15
+- en: on
+  pt-pt: sobre
+  word_type: preposition
+  key: 8f97584a-d7f0-4069-9bbd-d37d0786118d
+- en: to
+  pt-pt: para
+  word_type: preposition
+  key: 90a5f470-e12c-43a4-8ad1-42f642e0ce3c
+- en: from
+  pt-pt: de
+  word_type: preposition
+  key: 3d0a98eb-49dd-4b3c-a7b6-8d56f6a143e4
+- en: with
+  pt-pt: com
+  word_type: preposition
+  key: 258691e9-c1ec-4c52-9bbf-6d45da57a7f2
+- en: up
+  pt-pt: para cima
+  word_type: adverb
+  key: b0c03db1-33e5-408e-8e9b-335f61cbf728
+- en: down
+  pt-pt: para baixo
+  word_type: adverb
+  key: 00b3cc06-6b55-4c1e-b1e2-b15295d10bdb
+- en: top
+  pt-pt: o topo
+  word_type: noun
+  gender: masculine
+  plural_form: os topos
+  key: d0f8431c-5733-4b8a-96f2-dc6f39c1bf44
+- en: bottom
+  pt-pt: o fundo
+  word_type: noun
+  gender: masculine
+  plural_form: os fundos
+  key: f28dd320-fe71-497a-afc3-d1b759ce7e9c
+- en: under
+  pt-pt: sob
+  word_type: preposition
+  key: d48d6758-9708-45d3-b50d-13055b743647
+- en: left (direction)
+  pt-pt: à esquerda
+  word_type: adverb
+  key: 01ec305c-b909-4c95-8e56-7cc5ca647f58
+- en: right (direction)
+  pt-pt: à direita
+  word_type: adverb
+  key: c759a9ec-451c-49d0-98d7-40614a3c9de2

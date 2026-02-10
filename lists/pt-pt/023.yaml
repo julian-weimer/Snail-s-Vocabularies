@@ -1,0 +1,318 @@
+- pt-pt: a economia
+  en: economy
+  word_type: noun
+  gender: feminine
+  plural_form: as economias
+  key: bd36df71-0bf0-4ce1-8190-607794c5a25e
+- pt-pt: a liberdade
+  en: freedom
+  word_type: noun
+  gender: feminine
+  plural_form: as liberdades
+  key: a1a5bbbf-fc06-489b-8068-24b68c5304b2
+- pt-pt: receber
+  en: to receive
+  word_type: verb
+  first_person_singular: eu recebo
+  second_person_singular: tu recebes
+  third_person_singular: ele/ela recebe
+  first_person_plural: nós recebemos
+  second_person_plural: vós recebeis
+  third_person_plural: eles/elas recebem
+  key: 9c60f93a-8cd9-4cbd-b303-2595acfb7994
+- pt-pt: a seleção
+  en: selection
+  word_type: noun
+  gender: feminine
+  plural_form: as seleções
+  key: 53fdd729-8025-4f5b-8cf4-751a30d80ca7
+- pt-pt: superior
+  en: superior
+  word_type: adjective
+  positive: superior
+  comparative: mais superior
+  superlative: o/a mais superior
+  key: a6f36ce4-1642-41a9-9dc5-ff4f45905f54
+- pt-pt: a atividade
+  en: activity
+  word_type: noun
+  gender: feminine
+  plural_form: as atividades
+  key: 6a2d3d19-8469-4257-90f7-9f70f34a1d34
+- pt-pt: o aumento
+  en: increase
+  word_type: noun
+  gender: masculine
+  plural_form: os aumentos
+  key: e67a305b-abd1-4eff-becc-dcca25d152e3
+- pt-pt: cultural
+  en: cultural
+  word_type: adjective
+  positive: cultural
+  comparative: mais cultural
+  superlative: o/a mais cultural
+  key: 1c42bbc9-4174-4306-b04e-5e9b26779a4c
+- pt-pt: a desculpa
+  en: excuse
+  word_type: noun
+  gender: feminine
+  plural_form: as desculpas
+  key: 5e97bfd2-0780-4d98-88b3-fee6f34ec59f
+- pt-pt: o ensino
+  en: education (teaching)
+  word_type: noun
+  gender: masculine
+  plural_form: os ensinos
+  key: 3f061cc2-438a-46e4-844a-d2f8cd3ad4b3
+- pt-pt: a faculdade
+  en: faculty (university)
+  word_type: noun
+  gender: feminine
+  plural_form: as faculdades
+  key: f7e775c5-4ac8-4d0a-bb64-d97ad5f1e8f4
+- pt-pt: profissional
+  en: professional
+  word_type: adjective
+  positive: profissional
+  comparative: mais profissional
+  superlative: o/a mais profissional
+  key: e5a14a3f-20d6-4d56-a8a8-2e3fd2f50118
+- pt-pt: o prémio
+  en: prize
+  word_type: noun
+  gender: masculine
+  plural_form: os prémios
+  key: 26f099d7-78a7-47b1-9f39-48e1673ad1a5
+- pt-pt: a sorte
+  en: luck
+  word_type: noun
+  gender: feminine
+  plural_form: as sortes
+  key: ece838c9-3198-4893-b4a1-4616150116ca
+- pt-pt: a comissão
+  en: commission
+  word_type: noun
+  gender: feminine
+  plural_form: as comissões
+  key: f601b25e-58ae-46af-ab95-5034585622df
+- pt-pt: digital
+  en: digital
+  word_type: adjective
+  positive: digital
+  comparative: mais digital
+  superlative: o mais digital
+  key: fe9b264d-ec82-4c7c-ac2c-ce7b03777b90
+- pt-pt: a entrada
+  en: entrance
+  word_type: noun
+  plural_form: as entradas
+  gender: feminine
+  key: cf3423db-26c8-4083-b090-01da1f9e1a00
+- pt-pt: o estilo
+  en: style
+  word_type: noun
+  plural_form: os estilos
+  gender: masculine
+  key: 00734be5-1160-49cd-8fe5-28d140850fb4
+- pt-pt: a formação
+  en: formation
+  word_type: noun
+  plural_form: as formações
+  gender: feminine
+  key: 9ac4b4e5-50af-4d5e-b1f3-8e7feb1db52d
+- pt-pt: o globo
+  en: globe
+  word_type: noun
+  plural_form: os globos
+  gender: masculine
+  key: 70bc8289-575e-443e-9aad-d930edd9c064
+- pt-pt: humano
+  en: human
+  word_type: adjective
+  positive: humano
+  comparative: mais humano
+  superlative: o mais humano
+  key: 4a77ad45-8cd2-4877-bd8a-09e875a1b6ca
+- pt-pt: o líder
+  en: leader
+  word_type: noun
+  plural_form: os líderes
+  gender: masculine
+  key: 30676d5a-577d-4cb4-96a5-717a7da97bdd
+- pt-pt: a massa
+  en: mass (substance)
+  word_type: noun
+  plural_form: as massas
+  gender: feminine
+  key: 7c120ae9-9659-4b9b-9e1a-169b9bf77cbe
+- pt-pt: a missão
+  en: mission
+  word_type: noun
+  plural_form: as missões
+  gender: feminine
+  key: 9a775cce-c563-45fc-bc20-d65c1141e764
+- pt-pt: o monte
+  en: mount
+  word_type: noun
+  plural_form: os montes
+  gender: masculine
+  key: cf2ff02c-d794-4fab-bce7-4dd16d3f6321
+- pt-pt: municipal
+  en: municipal
+  word_type: adjective
+  positive: municipal
+  comparative: mais municipal
+  superlative: o mais municipal
+  key: fddb3ee9-d030-4d7e-b7b0-c710dd7e1113
+- pt-pt: o resto
+  en: rest (remainder)
+  word_type: noun
+  plural_form: os restos
+  gender: masculine
+  key: 83abb6d9-b5bd-41d6-b2d6-ad37d034375a
+- pt-pt: visitar
+  en: to visit
+  word_type: verb
+  first_person_singular: eu visito
+  second_person_singular: tu visitas
+  third_person_singular: ele/ela visita
+  first_person_plural: nós visitamos
+  second_person_plural: vós visitais
+  third_person_plural: eles/elas visitam
+  key: 20a00ae6-6d7c-4ea4-b7a0-ef061910d5ba
+- pt-pt: o voto
+  en: vote
+  word_type: noun
+  plural_form: os votos
+  gender: masculine
+  key: ceec8bce-75f1-460f-9fee-7394f9c77dee
+- pt-pt: a zona
+  en: zone
+  word_type: noun
+  plural_form: as zonas
+  gender: feminine
+  key: a799249f-bce4-45d3-9cf6-fe7300b4cb0b
+- pt-pt: o animal
+  en: animal
+  word_type: noun
+  plural_form: os animais
+  gender: masculine
+  key: f01f871f-e2cf-406b-b302-7e93ec08bb84
+- pt-pt: o interior
+  en: interior
+  word_type: noun
+  plural_form: os interiores
+  gender: masculine
+  key: 3ee1cfbb-a90f-4b7c-9359-a9be897d3eac
+- pt-pt: a licença
+  en: license
+  word_type: noun
+  plural_form: as licenças
+  gender: feminine
+  key: 20161789-6240-44cd-a0dd-274a9231a4bf
+- pt-pt: lindo
+  en: beautiful
+  word_type: adjective
+  positive: lindo
+  comparative: mais lindo
+  superlative: o mais lindo
+  key: 62de3b27-a3f0-4f95-9d26-f8d69bccaf86
+- pt-pt: o município
+  en: municipality
+  word_type: noun
+  plural_form: os municípios
+  gender: masculine
+  key: 75105ae5-de08-4b04-bf4b-a13598fd1235
+- pt-pt: a média
+  en: average
+  word_type: noun
+  plural_form: as médias
+  gender: feminine
+  key: 7f31e8c1-d167-451e-a36a-fc12fdd9df81
+- pt-pt: médio
+  en: medium
+  word_type: adjective
+  positive: médio
+  comparative: mais médio
+  superlative: o mais médio
+  key: fb05f74b-6cb7-4754-bcec-db8622d86baf
+- pt-pt: a qualidade
+  en: quality
+  word_type: noun
+  plural_form: as qualidades
+  gender: feminine
+  key: 9b86f3fd-c15d-4915-bf61-ea7054d46229
+- pt-pt: celular
+  en: cellular
+  word_type: adjective
+  positive: celular
+  comparative: mais celular
+  superlative: o mais celular
+  key: 867c1ee6-4824-48a1-9d7d-71fc167d8b24
+- pt-pt: o corte
+  en: cut
+  word_type: noun
+  plural_form: os cortes
+  gender: masculine
+  key: 226f0169-c880-4e8f-918e-a818bccbca77
+- pt-pt: delas
+  en: theirs (feminine)
+  word_type: pronoun
+  key: bc0ecf44-40ae-4d56-bfed-587ad87159e9
+- pt-pt: a ilha
+  en: island
+  word_type: noun
+  plural_form: as ilhas
+  gender: feminine
+  key: 76e7d649-c6ee-4c18-8eeb-6c1c3cd02ad7
+- pt-pt: a marca
+  en: mark
+  word_type: noun
+  plural_form: as marcas
+  gender: feminine
+  key: 84ef3955-7f4d-4ad0-9080-980abf69b511
+- pt-pt: a medida
+  en: measure
+  word_type: noun
+  plural_form: as medidas
+  gender: feminine
+  key: 70538e5d-0acd-4b95-81e8-494aaff78a8f
+- pt-pt: a menina
+  en: girl
+  word_type: noun
+  plural_form: as meninas
+  gender: feminine
+  key: 3b4cc07d-6980-4d04-af9f-8df3677e57af
+- pt-pt: natural
+  en: natural
+  word_type: adjective
+  positive: natural
+  comparative: mais natural
+  superlative: o mais natural
+  key: 8cdc47c3-48a1-4e20-b52b-54f2668f251f
+- pt-pt: o perfil
+  en: profile
+  word_type: noun
+  plural_form: os perfis
+  gender: masculine
+  key: b4980043-c960-4d5b-95df-b893a60e27fa
+- pt-pt: preso
+  en: trapped
+  word_type: adjective
+  positive: preso
+  comparative: mais preso
+  superlative: o mais preso
+  key: 9b2b52af-50dd-4e39-9eb1-e765ad4f2308
+- pt-pt: contrário
+  en: contrary
+  word_type: adjective
+  positive: contrário
+  comparative: mais contrário
+  superlative: o mais contrário
+  key: c1e2e6f1-97b5-436c-a729-e4898d86775b
+- pt-pt: a esquerda
+  en: left (direction)
+  word_type: noun
+  plural_form: as esquerdas
+  gender: feminine
+  key: 843b5e39-b0c3-4dde-a36e-8b3c1382eb51

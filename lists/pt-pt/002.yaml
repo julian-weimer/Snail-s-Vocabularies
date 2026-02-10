@@ -1,0 +1,280 @@
+- en: seventy
+  pt-pt: setenta
+  word_type: other
+  key: 8e0b2bab-4d3e-4b88-b840-de2be71bc55b
+- en: eighty
+  pt-pt: oitenta
+  word_type: other
+  key: e1e9e643-fc78-450b-bea6-1f33226de32f
+- en: ninety
+  pt-pt: noventa
+  word_type: other
+  key: 9b112b83-143b-41b0-acd9-f36d4bc3b48f
+- en: hundred
+  pt-pt: cem
+  word_type: other
+  key: 3ad4aad3-38f9-4cfe-8d6d-2e3679b0a236
+- en: thousand
+  pt-pt: mil
+  word_type: other
+  key: add93943-e3d0-4969-be17-8d7b7dd9a09b
+- en: million
+  pt-pt: o milhão
+  word_type: noun
+  gender: masculine
+  plural_form: os milhões
+  key: e06dad0d-5bb8-45ae-b986-995591e70c5d
+- en: billion
+  pt-pt: os mil milhões
+  word_type: noun
+  gender: masculine
+  plural_form: os mil milhões
+  key: afbaef1a-fdb1-4c5d-8018-7e13f77a7397
+- en: first
+  pt-pt: primeiro
+  word_type: adjective
+  key: 297c4c78-9495-4dc6-a10a-e82256f75f04
+- en: second
+  pt-pt: segundo
+  word_type: adjective
+  key: ed73f354-5a20-419c-90ab-57f3ffa3d0a3
+- en: third
+  pt-pt: terceiro
+  word_type: adjective
+  key: b7eccf72-04cf-4d04-bf0f-d91d7d3d6230
+- en: fourth
+  pt-pt: quarto
+  word_type: adjective
+  key: 8cec89a9-de8d-4058-8318-17f225f40106
+- en: fifth
+  pt-pt: quinto
+  word_type: adjective
+  key: f56d866d-709a-435d-911d-fb09e46754a8
+- en: half
+  pt-pt: a metade
+  word_type: noun
+  gender: feminine
+  plural_form: as metades
+  key: 961735fc-ea26-48b9-b310-10159a0fc950
+- en: quarter (fraction)
+  pt-pt: o quarto
+  word_type: noun
+  gender: masculine
+  plural_form: os quartos
+  key: 90e3b678-698a-4cdf-8c85-03b0a373f201
+- en: number
+  pt-pt: o número
+  word_type: noun
+  gender: masculine
+  plural_form: os números
+  key: 03e7c38d-5897-4bfd-be03-9f82fd772ad2
+- en: amount
+  pt-pt: o montante
+  word_type: noun
+  gender: masculine
+  plural_form: os montantes
+  key: c508fded-b39e-4c23-989c-1dc5f0354b14
+- en: addition (math)
+  pt-pt: a adição
+  word_type: noun
+  gender: feminine
+  plural_form: as adições
+  key: e3676554-c9e7-44c0-8c46-c6b740c1b706
+- en: division (math)
+  pt-pt: a divisão
+  word_type: noun
+  gender: feminine
+  plural_form: as divisões
+  key: 39e036c1-6e79-4850-968f-82aa8a858068
+- en: angle
+  pt-pt: o ângulo
+  word_type: noun
+  gender: masculine
+  plural_form: os ângulos
+  key: f8417522-094a-40a1-b438-45918fd48f5f
+- en: circle
+  pt-pt: o círculo
+  word_type: noun
+  gender: masculine
+  plural_form: os círculos
+  key: df167916-d94a-42ea-ac59-a2eb333f4b5b
+- en: curve
+  pt-pt: a curva
+  word_type: noun
+  gender: feminine
+  plural_form: as curvas
+  key: 4a4e1613-cf33-4da1-bc97-9f05b54b4d7a
+- en: square (shape)
+  pt-pt: o quadrado
+  word_type: noun
+  gender: masculine
+  plural_form: os quadrados
+  key: 450f9541-c8db-4266-8938-b0a82c2ea4de
+- en: Monday
+  pt-pt: a segunda-feira
+  word_type: noun
+  gender: feminine
+  plural_form: as segundas-feiras
+  key: 12d55157-2e99-42ca-bb7b-aee58fb56617
+- en: Tuesday
+  pt-pt: a terça-feira
+  word_type: noun
+  gender: feminine
+  plural_form: as terças-feiras
+  key: c4c1eb33-2040-4393-8946-8d9ceff18ef9
+- en: Wednesday
+  pt-pt: a quarta-feira
+  word_type: noun
+  gender: feminine
+  plural_form: as quartas-feiras
+  key: fb998f5b-0fa9-4acc-a865-8b10075d2760
+- en: Thursday
+  pt-pt: a quinta-feira
+  word_type: noun
+  gender: feminine
+  plural_form: as quintas-feiras
+  key: 4b45c071-214c-4d58-be4a-64471e92a278
+- en: Friday
+  pt-pt: a sexta-feira
+  word_type: noun
+  gender: feminine
+  plural_form: as sextas-feiras
+  key: 4756f69a-45a0-412c-9a15-7070aea05967
+- en: Saturday
+  pt-pt: o sábado
+  word_type: noun
+  gender: masculine
+  plural_form: os sábados
+  key: 0d05bb4e-c166-484e-b20b-66ea87058d70
+- en: Sunday
+  pt-pt: o domingo
+  word_type: noun
+  gender: masculine
+  plural_form: os domingos
+  key: 8db813dc-374f-4b85-8268-6abc4abf6577
+- en: January
+  pt-pt: janeiro
+  word_type: noun
+  gender: masculine
+  plural_form: janeiros
+  key: da6faafb-0b63-4672-bbe4-f2099f9ca50c
+- en: February
+  pt-pt: fevereiro
+  word_type: noun
+  gender: masculine
+  plural_form: fevereiros
+  key: 29c63d8b-dfff-4674-b76b-56a3a501ceda
+- en: March
+  pt-pt: março
+  word_type: noun
+  gender: masculine
+  plural_form: marços
+  key: 4fe450cf-1cac-474c-a45f-0e8749736805
+- en: April
+  pt-pt: abril
+  word_type: noun
+  gender: masculine
+  plural_form: abris
+  key: 6595b60d-45ea-4a21-baca-8b3a752cbf03
+- en: May
+  pt-pt: maio
+  word_type: noun
+  gender: masculine
+  plural_form: maios
+  key: aadfa417-90b2-46fe-aac8-0f4f3bee6e34
+- en: June
+  pt-pt: junho
+  word_type: noun
+  gender: masculine
+  plural_form: junhos
+  key: 2f9723b3-c408-4dbf-9a34-2df204f38d7b
+- en: July
+  pt-pt: julho
+  word_type: noun
+  gender: masculine
+  plural_form: julhos
+  key: 48681f2b-c987-4d30-b620-37aee8e4ffbb
+- en: August
+  pt-pt: agosto
+  word_type: noun
+  gender: masculine
+  plural_form: agostos
+  key: 591fd9a6-ae02-4ffa-a831-60e042c57781
+- en: September
+  pt-pt: setembro
+  word_type: noun
+  gender: masculine
+  plural_form: setembroes
+  key: a4f8155b-49ab-471c-9b83-a481f6b9bb2d
+- en: October
+  pt-pt: outubro
+  word_type: noun
+  gender: masculine
+  plural_form: outubros
+  key: 87d918d3-6183-436f-8508-05bba4c78d62
+- en: November
+  pt-pt: novembro
+  word_type: noun
+  gender: masculine
+  plural_form: novembros
+  key: 034a2bae-517d-4368-abb3-827998ee6fb8
+- en: December
+  pt-pt: dezembro
+  word_type: noun
+  gender: masculine
+  plural_form: dezembroes
+  key: 4203b242-313c-4c30-811e-44aae63f0709
+- en: spring (season)
+  pt-pt: a primavera
+  word_type: noun
+  gender: feminine
+  plural_form: as primaveras
+  key: fac4a052-2bdd-48fe-a0bf-a0f1b5555901
+- en: summer
+  pt-pt: o verão
+  word_type: noun
+  gender: masculine
+  plural_form: os verões
+  key: 59fddffa-19e5-4e27-a498-c842b84f914d
+- en: autumn
+  pt-pt: o outono
+  word_type: noun
+  gender: masculine
+  plural_form: os outonos
+  key: 2e829e99-270f-4f17-92f3-1a93d7e4f748
+- en: winter
+  pt-pt: o inverno
+  word_type: noun
+  gender: masculine
+  plural_form: os invernos
+  key: 10e48949-2102-45f2-9abb-ccc8dc780304
+- en: week
+  pt-pt: a semana
+  word_type: noun
+  gender: feminine
+  plural_form: as semanas
+  key: 41ce6467-41da-4b26-87a5-e23d3e925e1f
+- en: weekend
+  pt-pt: o fim de semana
+  word_type: noun
+  gender: masculine
+  plural_form: os fins de semana
+  key: f976ccfb-34a7-4de6-9387-5fbb5913cc42
+- en: month
+  pt-pt: o mês
+  word_type: noun
+  gender: masculine
+  plural_form: os meses
+  key: c9e960eb-d6d9-4c77-8704-1a41883ae20a
+- en: year
+  pt-pt: o ano
+  word_type: noun
+  gender: masculine
+  plural_form: os anos
+  key: d8424a23-52eb-48af-8228-061cf2402999
+- en: date (calendar)
+  pt-pt: a data
+  word_type: noun
+  gender: feminine
+  plural_form: as datas
+  key: fc8ce0dd-520d-43c8-9a90-56a571a13cee

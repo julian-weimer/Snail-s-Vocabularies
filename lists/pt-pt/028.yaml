@@ -1,0 +1,346 @@
+- pt-pt: a reforma
+  en: reform
+  word_type: noun
+  gender: feminine
+  plural_form: reformas
+  key: 433bb969-888f-4b6f-90fd-837e51acb704
+- pt-pt: representar
+  en: to represent
+  word_type: verb
+  first_person_singular: eu represento
+  second_person_singular: tu representas
+  third_person_singular: ele/ela representa
+  first_person_plural: nós representamos
+  second_person_plural: vós representais
+  third_person_plural: eles/elas representam
+  key: f36d3ec4-7617-4951-a9b9-5e13520e2092
+- pt-pt: resolver
+  en: to resolve
+  word_type: verb
+  first_person_singular: eu resolvo
+  second_person_singular: tu resolves
+  third_person_singular: ele/ela resolve
+  first_person_plural: nós resolvemos
+  second_person_plural: vós resolveis
+  third_person_plural: eles/elas resolvem
+  key: 974b6968-b04f-4a7e-ade1-2aa19e1d3fd4
+- pt-pt: a câmara municipal
+  en: city hall
+  word_type: noun
+  gender: feminine
+  plural_form: câmaras municipais
+  key: d837b203-f5dc-4e0f-84d7-0862342dd35c
+- pt-pt: o tiro
+  en: shot
+  word_type: noun
+  gender: masculine
+  plural_form: tiros
+  key: 5cddba49-840f-4a90-9089-30274b3580ea
+- pt-pt: a velocidade
+  en: speed
+  word_type: noun
+  gender: feminine
+  plural_form: as velocidades
+  key: 6fe25037-4550-48f4-8306-8b964c2f01de
+- pt-pt: buscar
+  en: to fetch
+  word_type: verb
+  first_person_singular: eu busco
+  first_person_plural: nós buscamos
+  second_person_singular: tu buscas
+  second_person_plural: vós buscais
+  third_person_singular: ele/ela busca
+  third_person_plural: eles/elas buscam
+  key: a0617310-24c6-4adb-b40f-d3a3c0f5404a
+- pt-pt: diretamente
+  en: directly
+  word_type: adverb
+  key: 1f989bcf-36d7-4ead-bf49-da2f7bab26da
+- pt-pt: diário
+  en: daily
+  word_type: adjective
+  positive: diário
+  comparative: mais diário
+  superlative: o mais diário
+  key: 737ec35a-06c8-4459-9f09-eed7d9ddb5bf
+- pt-pt: a existência
+  en: existence
+  word_type: noun
+  gender: feminine
+  plural_form: as existências
+  key: 33bcc062-043b-4a1e-9d0b-f344ba2b302e
+- pt-pt: o foco
+  en: focus
+  word_type: noun
+  gender: masculine
+  plural_form: os focos
+  key: b3581979-5850-4dd1-8a97-54f0f12fdc78
+- pt-pt: geralmente
+  en: generally
+  word_type: adverb
+  key: 866a2659-ffd8-48d3-b47a-364269779677
+- pt-pt: melhorar
+  en: to improve
+  word_type: verb
+  first_person_singular: eu melhoro
+  first_person_plural: nós melhoramos
+  second_person_singular: tu melhorias
+  second_person_plural: vós melhorais
+  third_person_singular: ele/ela melhora
+  third_person_plural: eles/elas melhoram
+  key: 09342c63-83ef-4701-9994-fa32cae4c9df
+- pt-pt: a opção
+  en: option
+  word_type: noun
+  gender: feminine
+  plural_form: as opções
+  key: 45823b41-1fe1-4ce4-bce2-e8c0002ad316
+- pt-pt: a passagem
+  en: passage
+  word_type: noun
+  gender: feminine
+  plural_form: as passagens
+  key: ad61017a-5daa-498c-9927-0a6b5118b910
+- pt-pt: perceber
+  en: to understand
+  word_type: verb
+  first_person_singular: eu percebo
+  first_person_plural: nós percebemos
+  second_person_singular: tu percebes
+  second_person_plural: vós percebeis
+  third_person_singular: ele/ela percebe
+  third_person_plural: eles/elas percebem
+  key: 667f73a6-0116-4ea0-a03e-382590422ad5
+- pt-pt: a personagem
+  en: character (fictional)
+  word_type: noun
+  gender: feminine
+  plural_form: as personagens
+  key: d4ff35d6-f75f-43de-9af9-ab791e8beb28
+- pt-pt: o príncipe
+  en: prince
+  word_type: noun
+  gender: masculine
+  plural_form: os príncipes
+  key: ab06dd39-3c94-4571-b7be-551aee8f6f79
+- pt-pt: puta
+  en: whore
+  word_type: noun
+  gender: feminine
+  plural_form: as putas
+  key: 1ea92ac8-7ad2-44a3-bff0-1cb35e1342c6
+- pt-pt: o regime
+  en: regime
+  word_type: noun
+  gender: masculine
+  plural_form: os regimes
+  key: 57bbac22-2669-4dd4-ab57-dbc47a53a5c9
+- pt-pt: regional
+  en: regional
+  word_type: adjective
+  positive: regional
+  comparative: mais regional
+  superlative: o mais regional
+  key: 16c79e2a-ecd1-4065-a129-9c6a730aab97
+- pt-pt: responder
+  en: to respond
+  word_type: verb
+  first_person_singular: eu respondo
+  first_person_plural: nós respondemos
+  second_person_singular: tu respondes
+  second_person_plural: vós respondeis
+  third_person_singular: ele/ela responde
+  third_person_plural: eles/elas respondem
+  key: a3689256-9fa0-49df-875e-c445520d01e2
+- pt-pt: o torno
+  en: lathe
+  word_type: noun
+  gender: masculine
+  plural_form: os tornos
+  key: 91ea1e2e-a6ce-43ac-b8a2-2a5ad98b6e77
+- pt-pt: afinal
+  en: after all
+  word_type: adverb
+  key: e7386fbc-3b73-4e74-a515-996414bdabb4
+- pt-pt: alegre
+  en: cheerful
+  word_type: adjective
+  positive: alegre
+  comparative: mais alegre
+  superlative: o mais alegre
+  key: 0339a858-a403-4f38-b7e6-346b23f7434b
+- pt-pt: aproximadamente
+  en: approximately
+  word_type: adverb
+  key: 383c24dd-9f84-400d-b22c-2102fb94602d
+- pt-pt: cair
+  en: to fall
+  word_type: verb
+  first_person_singular: eu caio
+  first_person_plural: nós caímos
+  second_person_singular: tu cais
+  second_person_plural: vós caís
+  third_person_singular: ele/ela cai
+  third_person_plural: eles/elas caem
+  key: 6c7e2e45-5568-43b9-842a-26d1dae4bf93
+- pt-pt: o campeonato
+  en: championship
+  word_type: noun
+  gender: masculine
+  plural_form: os campeonatos
+  key: 291cdfbe-6473-49c9-8e9c-5a0641534aa3
+- pt-pt: o clima
+  en: climate
+  word_type: noun
+  gender: masculine
+  plural_form: os climas
+  key: 03f1fca2-ddcd-4b73-9208-46b2183e91da
+- pt-pt: o conceito
+  en: concept
+  word_type: noun
+  gender: masculine
+  plural_form: os conceitos
+  key: 7920af57-5dd4-4c6c-ae44-52c0f4c755dd
+- pt-pt: a crítica
+  en: criticism
+  word_type: noun
+  gender: feminine
+  plural_form: as críticas
+  key: 53174c94-ddc5-42d9-b4fd-0176d957bb47
+- pt-pt: o detalhe
+  en: detail
+  word_type: noun
+  gender: masculine
+  plural_form: os detalhes
+  key: f9dd8405-ce2b-4c3c-9008-0ed6daba521a
+- pt-pt: espanhol
+  en: Spanish
+  word_type: adjective
+  positive: espanhol
+  comparative: mais espanhol
+  superlative: o mais espanhol
+  key: 32752b8b-6662-442b-bb4f-515f384aa180
+- pt-pt: a fundação
+  en: foundation
+  word_type: noun
+  gender: feminine
+  plural_form: as fundações
+  key: 19665d41-051d-46e3-ad26-1439235fc30a
+- pt-pt: gay
+  en: gay
+  word_type: adjective
+  positive: gay
+  comparative: mais gay
+  superlative: o mais gay
+  key: 3f81f2eb-4d6c-425f-877f-9d8cb62e3705
+- pt-pt: o/a jornalista
+  en: journalist
+  word_type: noun
+  gender: masculine
+  plural_form: os/as jornalistas
+  key: e464e621-fa9a-49fc-a2b2-41fa5f16dff9
+- pt-pt: a perda
+  en: loss
+  word_type: noun
+  gender: feminine
+  plural_form: as perdas
+  key: 82fc1ae7-b5f7-44f0-bc01-3c89aa6d1da5
+- pt-pt: a fronteira
+  en: border (boundary)
+  word_type: noun
+  gender: feminine
+  plural_form: as fronteiras
+  key: 6412d6ef-72ae-4681-842a-b5d343a19b46
+- pt-pt: a literatura
+  en: literature
+  word_type: noun
+  gender: feminine
+  plural_form: as literaturas
+  key: 36fd34c3-167a-43ef-8ae3-15b248af7bdc
+- pt-pt: o máximo
+  en: maximum
+  word_type: adjective
+  positive: máximo
+  comparative: mais elevado
+  superlative: o mais elevado
+  key: afcd91b8-7e70-4c43-81e9-b5fee1e7a170
+- pt-pt: a possibilidade
+  en: possibility
+  word_type: noun
+  gender: feminine
+  plural_form: as possibilidades
+  key: 4adaaf79-5172-41f4-835c-ce7300f34e49
+- pt-pt: o escritor
+  en: writer
+  word_type: noun
+  gender: masculine
+  plural_form: os escritores
+  key: 718e5c95-613f-45f4-9469-fb6150486155
+- pt-pt: o/a funcionário/a
+  en: employee
+  word_type: noun
+  gender: masculine
+  plural_form: os/as funcionários/as
+  key: e78e22f5-2369-4060-baa4-0bcc9223007b
+- pt-pt: a compra
+  en: purchase
+  word_type: noun
+  gender: feminine
+  plural_form: as compras
+  key: 3ef2e895-07a9-429f-88d3-56fe49fbb10b
+- pt-pt: o segundo
+  en: second (unit of time)
+  word_type: noun
+  gender: masculine
+  plural_form: os segundos
+  key: 3b313a0f-86d6-4804-a4d4-435db2950537
+- pt-pt: aumentar
+  en: to increase
+  word_type: verb
+  first_person_singular: eu aumento
+  second_person_singular: tu aumentas
+  third_person_singular: ele/ela aumenta
+  first_person_plural: nós aumentamos
+  second_person_plural: vós aumentais
+  third_person_plural: eles/elas aumentam
+  key: ef561362-b706-47d2-a340-2ba7fa22a851
+- pt-pt: garantir
+  en: to guarantee
+  word_type: verb
+  first_person_singular: eu garanto
+  second_person_singular: tu garantes
+  third_person_singular: ele/ela garante
+  first_person_plural: nós garantimos
+  second_person_plural: vós garantis
+  third_person_plural: eles/elas garantem
+  key: 3696f27c-9aea-45d5-89de-0a64b0e48f86
+- pt-pt: funcionar
+  en: to function
+  word_type: verb
+  first_person_singular: eu funciono
+  second_person_singular: tu funcionas
+  third_person_singular: ele/ela funciona
+  first_person_plural: nós funcionamos
+  second_person_plural: vós funcionais
+  third_person_plural: eles/elas funcionam
+  key: d7feda8a-b14f-47f7-98ed-aa3f184710cd
+- pt-pt: lançar
+  en: to launch
+  word_type: verb
+  first_person_singular: eu lanço
+  second_person_singular: tu lanças
+  third_person_singular: ele/ela lança
+  first_person_plural: nós lançamos
+  second_person_plural: vós lançais
+  third_person_plural: eles/elas lançam
+  key: a2533980-5787-4461-a8eb-22ba906512fe
+- pt-pt: anunciar
+  en: to announce
+  word_type: verb
+  first_person_singular: eu anuncio
+  second_person_singular: tu anuncias
+  third_person_singular: ele/ela anuncia
+  first_person_plural: nós anunciamos
+  second_person_plural: vós anunciais
+  third_person_plural: eles/elas anunciam
+  key: 437df67f-4df7-4553-9d73-670b4e128977

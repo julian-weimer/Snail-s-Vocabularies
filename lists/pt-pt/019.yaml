@@ -1,0 +1,316 @@
+- pt-pt: o dado
+  en: datum (data)
+  word_type: noun
+  gender: masculine
+  plural_form: os dados
+  key: c95ef3b5-3936-4963-b031-0f4bcaafba60
+- pt-pt: demais
+  en: too much
+  word_type: adverb
+  key: c60d6b93-36ef-445a-a702-87f7cdc26dcc
+- pt-pt: especial
+  en: special
+  word_type: adjective
+  positive: especial
+  comparative: mais especial
+  superlative: o mais especial
+  key: 83ddb6d4-e1b4-4781-bc90-0ac0811f4ade
+- pt-pt: internacional
+  en: international
+  word_type: adjective
+  positive: internacional
+  comparative: mais internacional
+  superlative: o mais internacional
+  key: 52bdc147-132b-449f-b913-a397831a9ea3
+- pt-pt: nenhum
+  en: none
+  word_type: pronoun
+  key: a5dd54d5-7d44-4984-9867-b08574be8f4b
+- pt-pt: existir
+  en: to exist
+  word_type: verb
+  first_person_singular: eu existo
+  first_person_plural: nós existimos
+  second_person_singular: tu existes
+  second_person_plural: vós existis
+  third_person_singular: ele/ela existe
+  third_person_plural: eles/elas existem
+  key: 6e12b2fd-c7ff-4d66-86a8-dab03243c574
+- pt-pt: merda
+  en: shit
+  word_type: noun
+  gender: feminine
+  plural_form: as merdas
+  key: 1ed1d123-1657-4191-be93-05ca08098a4c
+- pt-pt: porém
+  en: however
+  word_type: conjunction
+  key: 9a82c947-b1d4-4619-aa6c-c3ab3e27a4df
+- pt-pt: unido
+  en: united
+  word_type: adjective
+  positive: unido
+  comparative: mais unido
+  superlative: o mais unido
+  key: 160a7c40-48c2-47b9-b91a-921ea7be32e4
+- pt-pt: atrás
+  en: behind
+  word_type: adverb
+  key: 69890048-69f2-4e80-b08b-e8f71eb97ea3
+- pt-pt: pessoal
+  en: personal
+  word_type: adjective
+  positive: pessoal
+  comparative: mais pessoal
+  superlative: o mais pessoal
+  key: 1d41e7ca-361c-4aa0-9e8c-27b5ac9f5e94
+- pt-pt: próprio
+  en: own
+  word_type: adjective
+  positive: próprio
+  comparative: mais próprio
+  superlative: o mais próprio
+  key: c26bd579-7abb-4192-bea3-0166fb26bc85
+- pt-pt: a maioria
+  en: majority
+  word_type: noun
+  gender: feminine
+  plural_form: as maiorias
+  key: d1401e99-48c0-4f1c-b2f1-de50e8291ac7
+- pt-pt: acabar
+  en: to finish
+  word_type: verb
+  first_person_singular: eu acabo
+  first_person_plural: nós acabamos
+  second_person_singular: tu acabas
+  second_person_plural: vós acabais
+  third_person_singular: ele/ela acaba
+  third_person_plural: eles/elas acabam
+  key: b8a168b1-6dba-4e14-828b-de2cd30c5609
+- pt-pt: federal
+  en: federal
+  word_type: adjective
+  positive: federal
+  comparative: mais federal
+  superlative: o mais federal
+  key: b4448fff-73a7-493d-a625-e6ecd40161a9
+- pt-pt: a produção
+  en: production
+  word_type: noun
+  gender: feminine
+  plural_form: as produções
+  key: 35d25fb1-09cf-4574-9a32-a90264093b8a
+- pt-pt: a sociedade
+  en: society
+  word_type: noun
+  gender: feminine
+  plural_form: as sociedades
+  key: 598e1664-b4a5-4bf5-a236-224b04b8386a
+- pt-pt: voltar
+  en: to return
+  word_type: verb
+  first_person_singular: eu volto
+  first_person_plural: nós voltamos
+  second_person_singular: tu voltas
+  second_person_plural: vós voltais
+  third_person_singular: ele/ela volta
+  third_person_plural: eles/elas voltam
+  key: 03e4ab62-58bb-4b42-b60a-214e3ac1c003
+- pt-pt: a educação
+  en: education
+  word_type: noun
+  gender: feminine
+  plural_form: as educações
+  key: 40332091-c2a6-419d-bbb9-5dfee1e2c7fe
+- pt-pt: o fato
+  en: suit (clothing)
+  word_type: noun
+  gender: masculine
+  plural_form: os fatos
+  key: 913191dc-cd50-4914-9b51-7b181a76ef77
+- pt-pt: legal
+  en: legal
+  word_type: adjective
+  positive: legal
+  comparative: mais legal
+  superlative: o mais legal
+  key: e9c6e9f4-9677-46fa-9892-bb3a6add2168
+- pt-pt: si
+  en: oneself
+  word_type: pronoun
+  key: d146d367-d0e8-4308-aa61-629d61f9f232
+- pt-pt: uns
+  en: some
+  word_type: pronoun
+  key: 280ae5d5-fa5f-4afd-8a39-4439b9e0de2e
+- pt-pt: o acesso
+  en: access
+  word_type: noun
+  gender: masculine
+  plural_form: os acessos
+  key: 9f887156-4dc2-4602-bf97-ab0e023e6757
+- pt-pt: o campo
+  en: field
+  word_type: noun
+  gender: masculine
+  plural_form: os campos
+  key: 721585b2-cdf3-4e46-8ea5-4e6c42e9d220
+- pt-pt: a cultura
+  en: culture
+  word_type: noun
+  gender: feminine
+  plural_form: as culturas
+  key: c15d524a-5137-4527-bffe-8157e8b7179f
+- pt-pt: a lista
+  en: list
+  word_type: noun
+  gender: feminine
+  plural_form: as listas
+  key: c874ef0f-64fe-4e1a-bc5d-b1d32ba7516e
+- pt-pt: o senhor
+  en: sir
+  word_type: noun
+  gender: masculine
+  plural_form: os senhores
+  key: 266b40e1-46bb-42e2-95c3-d00991ef60fd
+- pt-pt: a certeza
+  en: certainty
+  word_type: noun
+  gender: feminine
+  plural_form: as certezas
+  key: 2dde6aa1-5114-4479-85e3-71eb6ff8e8b2
+- pt-pt: consigo
+  en: with oneself
+  word_type: pronoun
+  key: 17b5ad31-5631-43d8-873b-df6a13c761bb
+- pt-pt: o evento
+  en: event
+  word_type: noun
+  gender: masculine
+  plural_form: os eventos
+  key: 0c11a775-1866-4120-8d3c-c02d91e61bb6
+- pt-pt: oficial
+  en: official
+  word_type: adjective
+  positive: oficial
+  comparative: mais oficial
+  superlative: o/a mais oficial
+  key: 808177d5-bd12-439c-a0fe-804a6021c4dd
+- pt-pt: perto
+  en: near
+  word_type: adverb
+  key: 4ee7b5c4-0b1e-4205-bc92-bbc438b7b7f7
+- pt-pt: único
+  en: unique
+  word_type: adjective
+  positive: único
+  comparative: mais único
+  superlative: o mais único
+  key: 0eb24e8a-60d9-490d-b24c-054a56243f27
+- pt-pt: o apoio
+  en: support
+  word_type: noun
+  gender: masculine
+  plural_form: os apoios
+  key: 56140db5-e96c-44cf-b6f4-32ef87a34460
+- pt-pt: entrar
+  en: to enter
+  word_type: verb
+  first_person_singular: eu entro
+  second_person_singular: tu entras
+  third_person_singular: ele/ela entra
+  first_person_plural: nós entramos
+  second_person_plural: vós entrais
+  third_person_plural: eles/elas entram
+  key: e1993486-70f3-4133-a110-163ac6145654
+- pt-pt: junto
+  en: together
+  word_type: adverb
+  key: b9ce7781-fdf6-4d93-8d88-385ed690e29c
+- pt-pt: levar
+  en: to take
+  word_type: verb
+  first_person_singular: eu levo
+  second_person_singular: tu levas
+  third_person_singular: ele/ela leva
+  first_person_plural: nós levamos
+  second_person_plural: vós levais
+  third_person_plural: eles/elas levam
+  key: 4780ca9b-b872-40f1-b215-1a635cfdd2c0
+- pt-pt: o serviço
+  en: service
+  word_type: noun
+  gender: masculine
+  plural_form: os serviços
+  key: 23c242c9-4ec9-4466-a809-27f73662a403
+- pt-pt: português
+  en: Portuguese
+  word_type: adjective
+  positive: português
+  comparative: mais português
+  superlative: o mais português
+  key: d6ff5c7c-7707-47c6-94a5-2145ff76a51c
+- pt-pt: a situação
+  en: situation
+  word_type: noun
+  gender: feminine
+  plural_form: as situações
+  key: 584a47a7-5498-446e-995a-80db48191b96
+- pt-pt: sério
+  en: serious
+  word_type: adjective
+  positive: sério
+  comparative: mais sério
+  superlative: o mais sério
+  key: 5496cde0-f1f0-491e-8a75-06c0a628fd75
+- pt-pt: a via
+  en: way (route)
+  word_type: noun
+  gender: feminine
+  plural_form: as vias
+  key: 6456e211-80a7-4695-a46b-2ae51f833033
+- pt-pt: a festa
+  en: party
+  word_type: noun
+  gender: feminine
+  plural_form: as festas
+  key: 7c155589-6f91-4307-b500-93dd562f94f4
+- pt-pt: o nível
+  en: level
+  word_type: noun
+  gender: masculine
+  plural_form: os níveis
+  key: 9d529995-e3e5-43b4-b867-063fd8213a6c
+- pt-pt: total
+  en: total
+  word_type: adjective
+  positive: total
+  comparative: mais total
+  superlative: o mais total
+  key: 40884f67-2300-4c7d-8e57-ad73b3d3390c
+- pt-pt: a vista
+  en: view
+  word_type: noun
+  gender: feminine
+  plural_form: as vistas
+  key: e6ebcb15-b8f4-4bb2-8c48-697eb0d994d3
+- pt-pt: o próprio
+  en: own (oneself)
+  word_type: adjective
+  positive: próprio
+  comparative: mais próprio
+  superlative: o mais próprio
+  key: 8f278c5e-c608-42dc-be1c-655fbbca440f
+- pt-pt: devido
+  en: due (owed)
+  word_type: adjective
+  positive: devido
+  comparative: mais devido
+  superlative: mais devido
+  key: 29260dd4-9540-49f6-bb31-39286aeb903e
+- pt-pt: o inglês
+  en: English (language)
+  word_type: noun
+  gender: masculine
+  plural_form: os ingleses
+  key: 51fad37d-e2bf-4193-b9fc-8d38d08c71d6

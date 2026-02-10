@@ -1,0 +1,279 @@
+- pt-pt: essa
+  en: that
+  word_type: pronoun
+  key: c3729419-34b9-4ca5-97d5-99b02aca94a0
+- pt-pt: eles
+  en: they
+  word_type: pronoun
+  key: 577173c7-ebd7-430d-9608-e71de11c13e5
+- pt-pt: melhor
+  en: better
+  word_type: adjective
+  positive: bom
+  comparative: melhor
+  superlative: o melhor
+  key: 2958d9bc-18aa-4656-8dbf-074e4d9bd2f7
+- pt-pt: esta
+  en: this
+  word_type: pronoun
+  key: ca46312e-ea02-4909-8215-36d2820dafd9
+- pt-pt: a vez
+  en: time (instance)
+  word_type: noun
+  gender: feminine
+  plural_form: as vezes
+  key: bed64a4b-1515-4540-bf39-c78eb7bbc26d
+- pt-pt: todo
+  en: all
+  word_type: pronoun
+  key: 1b24d2bb-f134-47f0-b227-a7224aaa17c2
+- pt-pt: mim
+  en: me
+  word_type: pronoun
+  key: 26cfedd9-83e5-4d73-a864-69e904864d11
+- pt-pt: tão
+  en: so
+  word_type: adverb
+  key: 87ac1cec-32eb-4a4b-92c3-b054b6418d74
+- pt-pt: então
+  en: then
+  word_type: adverb
+  key: 84987551-0a0e-4c4e-91e2-28a539716229
+- pt-pt: nem
+  en: neither
+  word_type: conjunction
+  key: 45e9a8c2-6613-4bed-9d34-38ff1e9c86f5
+- pt-pt: nossa
+  en: our
+  word_type: pronoun
+  key: 6a8ef9f0-6de5-4faa-b80a-8289e0291ee2
+- pt-pt: estar
+  en: to be (temporary)
+  word_type: verb
+  first_person_singular: eu estou
+  second_person_singular: tu estás
+  third_person_singular: ele/ela está
+  first_person_plural: nós estamos
+  second_person_plural: vós estais
+  third_person_plural: eles/elas estão
+  key: 6037ab4c-46a6-4e52-b712-1e89162a067d
+- pt-pt: o estado
+  en: state
+  word_type: noun
+  gender: masculine
+  plural_form: os estados
+  key: 918b827f-1130-4d9b-a926-94bb96503d86
+- pt-pt: haver
+  en: to have (existential)
+  word_type: verb
+  first_person_singular: eu hei
+  second_person_singular: tu hás
+  third_person_singular: ele/ela há
+  first_person_plural: nós havemos
+  second_person_plural: vós haveis
+  third_person_plural: eles/elas hão
+  key: c0501a5b-a809-47a1-81c9-63ea6786c818
+- pt-pt: achar
+  en: to find
+  word_type: verb
+  first_person_singular: eu acho
+  second_person_singular: tu achas
+  third_person_singular: ele/ela acha
+  first_person_plural: nós achamos
+  second_person_plural: vós achais
+  third_person_plural: eles/elas acham
+  key: f1ea6d36-527c-4fe9-b91c-f88efee3dd13
+- pt-pt: além
+  en: beyond
+  word_type: adverb
+  key: 91e51dc3-68a6-4c5e-baec-013f113cd498
+- pt-pt: alguém
+  en: someone
+  word_type: pronoun
+  key: 066606b2-86c4-4c96-a0b4-5ff6ce0dd7c7
+- pt-pt: antes
+  en: before
+  word_type: adverb
+  key: 7178d502-6fa6-40db-8320-6fda203c1ce1
+- pt-pt: o caso
+  en: case
+  word_type: noun
+  plural_form: os casos
+  gender: masculine
+  key: 222031a0-3f2c-46d4-91e3-56ccdd48821b
+- pt-pt: contra
+  en: against
+  word_type: preposition
+  key: ba710cca-7018-459a-8bfc-01b1d618d6fa
+- pt-pt: a cara
+  en: face
+  word_type: noun
+  plural_form: as caras
+  gender: feminine
+  key: e8e183cf-6cb1-4980-ab31-8ec4c994cc8f
+- pt-pt: desde
+  en: since
+  word_type: preposition
+  key: e841a0b4-003f-444f-941d-7483c4f2de7c
+- pt-pt: enquanto
+  en: while
+  word_type: conjunction
+  key: 681a1bec-8adb-4ec3-a662-a7f24f04a589
+- pt-pt: falar
+  en: to speak
+  word_type: verb
+  first_person_singular: eu falo
+  second_person_singular: tu falas
+  third_person_singular: ele/ela fala
+  first_person_plural: nós falamos
+  second_person_plural: vós falais
+  third_person_plural: eles/elas falam
+  key: 1ee2cfe2-1ce3-4f07-b3f8-4b4c31f1d1a1
+- pt-pt: o meio
+  en: middle
+  word_type: noun
+  plural_form: os meios
+  gender: masculine
+  key: cd9b742d-9371-44ae-9e29-1240c7ee295d
+- pt-pt: menos
+  en: less
+  word_type: adverb
+  key: 13eb991f-516e-4495-ace5-232c217ee0c6
+- pt-pt: pouco
+  en: little (amount)
+  word_type: adjective
+  positive: pouco
+  comparative: menos
+  superlative: o menos
+  key: 8a35a058-6392-40b1-af9f-ab5da7c27627
+- pt-pt: o tipo
+  en: type
+  word_type: noun
+  plural_form: os tipos
+  gender: masculine
+  key: e134e2fc-3114-48f8-b7b7-bf410e5d44d4
+- pt-pt: a verdade
+  en: truth
+  word_type: noun
+  plural_form: as verdades
+  gender: feminine
+  key: 49181fc3-9b30-4739-974f-335a44ddc0d0
+- pt-pt: vocês
+  en: you (plural)
+  word_type: pronoun
+  key: 58d0551f-5def-42e2-b7bb-63bfdf6db8fd
+- pt-pt: aí
+  en: there
+  word_type: adverb
+  key: 38eb8110-c2ec-479a-925f-203a3ffa7993
+- pt-pt: a foto
+  en: photo
+  word_type: noun
+  plural_form: as fotos
+  gender: feminine
+  key: 1ea407f9-e961-497e-82d0-4a236cba83fa
+- pt-pt: nacional
+  en: national
+  word_type: adjective
+  positive: nacional
+  comparative: mais nacional
+  superlative: mais nacional
+  key: 3af1c7f5-ef79-4cd6-821c-f8067d15be72
+- pt-pt: o país
+  en: country
+  word_type: noun
+  plural_form: os países
+  gender: masculine
+  key: 1ac470a9-7add-4a0a-bd0f-ee821e8dda0b
+- pt-pt: quanto
+  en: how much
+  word_type: pronoun
+  key: 94467b0d-a774-409e-8159-d4533939f8fe
+- pt-pt: a volta
+  en: return (coming back)
+  word_type: noun
+  plural_form: as voltas
+  gender: feminine
+  key: 3dee9287-919a-4406-9eae-dc9bfe140f70
+- pt-pt: a conta
+  en: account (bill)
+  word_type: noun
+  plural_form: as contas
+  gender: feminine
+  key: 9217e7e8-288e-4fce-b9fc-b374cbceed1d
+- pt-pt: a família
+  en: family
+  word_type: noun
+  plural_form: as famílias
+  gender: feminine
+  key: 1186cec1-6650-46e2-84d5-f6fcfd7a619c
+- pt-pt: a gente
+  en: people
+  word_type: noun
+  plural_form: as gentes
+  gender: feminine
+  key: 4eb72a21-0100-4468-9ea3-1d6ef26279f6
+- pt-pt: algum
+  en: some
+  word_type: pronoun
+  key: 91d90990-d502-4730-9652-0160c8ad8451
+- pt-pt: final
+  en: final
+  word_type: adjective
+  positive: final
+  comparative: mais final
+  superlative: o mais final
+  key: ddb03442-43f2-49ae-88f7-5891fe596246
+- pt-pt: parecer
+  en: to seem
+  word_type: verb
+  first_person_singular: eu pareço
+  second_person_singular: tu pareces
+  third_person_singular: ele/ela parece
+  first_person_plural: nós parecemos
+  second_person_plural: vós pareceis
+  third_person_plural: eles/elas parecem
+  key: e96290b9-379d-434d-8353-6a4cd8867456
+- pt-pt: o acordo
+  en: agreement
+  word_type: noun
+  plural_form: os acordos
+  gender: masculine
+  key: 4101d849-1d1e-42bb-9922-b870cfd1876d
+- pt-pt: através
+  en: through
+  word_type: preposition
+  key: 1371294f-e62d-4154-9123-8766f0f60343
+- pt-pt: tanto
+  en: so much
+  word_type: adverb
+  key: b6499c40-3feb-4c38-906d-497f19c06560
+- pt-pt: o vídeo
+  en: video
+  word_type: noun
+  plural_form: os vídeos
+  gender: masculine
+  key: cbc32c11-81e8-449c-a498-fcf386fdbb6c
+- pt-pt: pois
+  en: because (filler/affirmation)
+  word_type: conjunction
+  key: 44d674f9-2c0c-4155-8bd9-34cdc45d72f8
+- pt-pt: preciso
+  en: precise
+  word_type: adjective
+  positive: preciso
+  comparative: mais preciso
+  superlative: o mais preciso
+  key: 6b7e649c-5014-4d11-ac7e-7557ffd1426b
+- pt-pt: o direito
+  en: right (law)
+  word_type: noun
+  plural_form: os direitos
+  gender: masculine
+  key: f7aa5873-da01-41fa-ad94-ed6089902d4b
+- pt-pt: o sistema
+  en: system
+  word_type: noun
+  plural_form: os sistemas
+  gender: masculine
+  key: 88d8f19e-f769-403e-8603-98b934ddfa45

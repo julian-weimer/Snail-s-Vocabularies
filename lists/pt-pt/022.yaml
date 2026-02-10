@@ -1,0 +1,304 @@
+- pt-pt: diverso
+  en: diverse
+  word_type: adjective
+  positive: diverso
+  comparative: mais diverso
+  superlative: o mais diverso
+  key: ff058c77-18af-4735-89e0-08920060737a
+- pt-pt: finalmente
+  en: finally
+  word_type: adverb
+  key: d012998f-38f7-4204-b4ff-98762ef3e62f
+- pt-pt: ganhar
+  en: to win
+  word_type: verb
+  first_person_singular: eu ganho
+  first_person_plural: nós ganhamos
+  second_person_singular: tu ganhas
+  second_person_plural: vós ganhais
+  third_person_singular: ele/ela ganha
+  third_person_plural: eles/elas ganham
+  key: 7581459b-7122-4c76-8470-2345aa9f6743
+- pt-pt: o passo
+  en: step
+  word_type: noun
+  plural_form: os passos
+  gender: masculine
+  key: 12df8cb2-072f-4020-b1e5-4bf2aa01b8a5
+- pt-pt: o político
+  en: politician
+  word_type: noun
+  plural_form: os políticos
+  gender: masculine
+  key: dc604968-1327-4b1f-88a1-1e0f4015480f
+- pt-pt: santa
+  en: holy (feminine)
+  word_type: adjective
+  positive: santo/santa
+  comparative: mais santo/mais santa
+  superlative: o mais santo/a mais santa
+  key: 50b9a4ce-4c9f-4926-9c0d-355d1c4ba255
+- pt-pt: sexta
+  en: Friday (short form)
+  word_type: noun
+  plural_form: sextas
+  gender: feminine
+  key: 10ce8389-ae7d-43f7-a950-9d2aca329a5d
+- pt-pt: simplesmente
+  en: simply
+  word_type: adverb
+  key: 8b6036dc-ae90-4dad-95f2-fbcef5a8cee4
+- pt-pt: a associação
+  en: association
+  word_type: noun
+  plural_form: as associações
+  gender: feminine
+  key: ba71f165-894a-4bc9-b4de-9bf1b415a6bd
+- pt-pt: o blog
+  en: blog
+  word_type: noun
+  plural_form: os blogs
+  gender: masculine
+  key: 3ffbf3e3-fe72-490b-9d76-1d4934f090a8
+- pt-pt: o exército
+  en: army
+  word_type: noun
+  plural_form: os exércitos
+  gender: masculine
+  key: bd3759e0-0a70-4ba8-a5c5-4e26ac961ab3
+- pt-pt: o humano
+  en: human
+  word_type: noun
+  plural_form: os humanos
+  gender: masculine
+  key: f8ace8fa-d73e-49af-b868-02a2f42d31ea
+- pt-pt: o motivo
+  en: reason (motive)
+  word_type: noun
+  plural_form: os motivos
+  gender: masculine
+  key: 0a1dbf2f-9d72-486b-82fb-1031b63a81db
+- pt-pt: a realidade
+  en: reality
+  word_type: noun
+  plural_form: as realidades
+  gender: feminine
+  key: 9ee29d2c-2205-4a9b-b0d1-3f3fe5749c13
+- pt-pt: a união
+  en: union
+  word_type: noun
+  plural_form: as uniões
+  gender: feminine
+  key: 7cefeaf7-6968-4aa6-865c-52d209c1961e
+- pt-pt: a viagem
+  en: trip
+  word_type: noun
+  plural_form: as viagens
+  gender: feminine
+  key: 8385e218-1e3c-481c-a1ac-cbe12cac3adc
+- pt-pt: alta
+  en: high
+  word_type: adjective
+  positive: alto/alta
+  comparative: mais alto/mais alta
+  superlative: o mais alto/a mais alta
+  key: d5a59c6b-d616-45e8-b716-1bcb377a0d01
+- pt-pt: aquilo
+  en: that (thing)
+  word_type: pronoun
+  key: 7a39c1bc-026c-4c27-9448-cf5d513f29aa
+- pt-pt: a condição
+  en: condition
+  word_type: noun
+  plural_form: as condições
+  gender: feminine
+  key: dc8807dd-ae09-4f6c-b036-ceba1ab94852
+- pt-pt: o conteúdo
+  en: content
+  word_type: noun
+  plural_form: os conteúdos
+  gender: masculine
+  key: 2318e89d-0f2a-4142-8328-f4ddb0d83215
+- pt-pt: o jornal
+  en: newspaper
+  word_type: noun
+  plural_form: os jornais
+  gender: masculine
+  key: 9a317ade-ddbb-46a3-bf07-e8b26d1fd0f7
+- pt-pt: popular
+  en: popular
+  word_type: adjective
+  positive: popular
+  comparative: mais popular
+  superlative: o mais popular/a mais popular
+  key: 2f57be90-7aec-47bf-b9e0-9cd2fefde24f
+- pt-pt: responsável
+  en: responsible
+  word_type: adjective
+  positive: responsável
+  comparative: mais responsável
+  superlative: o mais responsável/a mais responsável
+  key: 28ef7741-793a-406b-a390-370ae5ab4d53
+- pt-pt: a revista
+  en: magazine
+  word_type: noun
+  plural_form: as revistas
+  gender: feminine
+  key: 51934f2e-cd59-4829-9b3f-10f3b8b93065
+- pt-pt: a senhora
+  en: lady
+  word_type: noun
+  plural_form: as senhoras
+  gender: feminine
+  key: 7dff8003-57ba-4367-ba7a-4f31fd9b7fb2
+- pt-pt: tais
+  en: such
+  word_type: pronoun
+  key: a3cfe53f-da32-4174-8f8b-055ac7bd1c70
+- pt-pt: americano
+  en: American
+  word_type: adjective
+  positive: americano/americana
+  comparative: mais americano/mais americana
+  superlative: o mais americano/a mais americana
+  key: 2d6811a0-8107-495a-8018-c50684eec306
+- pt-pt: o ataque
+  en: attack
+  word_type: noun
+  plural_form: os ataques
+  gender: masculine
+  key: 67ee4c80-12c2-4572-a920-a99bc05da93e
+- pt-pt: atualmente
+  en: currently
+  word_type: adverb
+  key: 9e65cb1d-570d-4064-813c-02419f352a43
+- pt-pt: o autor
+  en: author
+  word_type: noun
+  plural_form: os autores
+  gender: masculine
+  key: 503f5336-25ff-4bd3-9000-246e9f597b21
+- pt-pt: o clube
+  en: club
+  word_type: noun
+  plural_form: os clubes
+  gender: masculine
+  key: e609a4bb-baa5-4997-aaba-9120a7e3a65a
+- pt-pt: o curso
+  en: course
+  word_type: noun
+  plural_form: os cursos
+  gender: masculine
+  key: bfa32350-a844-4276-92f3-cb941360a8c6
+- pt-pt: a liga
+  en: league
+  word_type: noun
+  plural_form: as ligas
+  gender: feminine
+  key: c0f31b10-220f-4241-918d-c425779d1ce2
+- pt-pt: a presença
+  en: presence
+  word_type: noun
+  plural_form: as presenças
+  gender: feminine
+  key: c9a4e558-25a7-46ef-90cc-cca8383ec08a
+- pt-pt: a fase
+  en: phase
+  word_type: noun
+  plural_form: as fases
+  gender: feminine
+  key: 1dec6ce4-617d-4773-85ee-5230771b5a6a
+- pt-pt: o modelo
+  en: model
+  word_type: noun
+  plural_form: os modelos
+  gender: masculine
+  key: ba80bf10-0b24-42e5-b54a-ddd74887ecd6
+- pt-pt: o Natal
+  en: Christmas
+  word_type: noun
+  plural_form: os Natais
+  gender: masculine
+  key: e53bc88e-c49b-4f07-af48-df0bd6ef45f2
+- pt-pt: o termo
+  en: term
+  word_type: noun
+  plural_form: os termos
+  gender: masculine
+  key: 44e0226b-ad78-46b4-a7ce-0048b7db74d1
+- pt-pt: o bairro
+  en: neighbourhood
+  word_type: noun
+  plural_form: os bairros
+  gender: masculine
+  key: 03360ffb-9f48-49a1-9362-ab93836b09c9
+- pt-pt: a costa
+  en: coast
+  word_type: noun
+  plural_form: as costas
+  gender: feminine
+  key: 1d554be5-8dbb-48c3-97f7-c90333dd3390
+- pt-pt: o código
+  en: code
+  word_type: noun
+  plural_form: os códigos
+  gender: masculine
+  key: 2d52e63f-11b3-4abe-8736-43d649ea849a
+- pt-pt: o diretor
+  en: director
+  word_type: noun
+  plural_form: os diretores
+  gender: masculine
+  key: 8af62da2-c6f1-4c63-96ea-f701d44f472a
+- pt-pt: o estudo
+  en: study
+  word_type: noun
+  plural_form: os estudos
+  gender: masculine
+  key: 296a7f21-3141-405a-b5a8-3b28ac2ec23b
+- pt-pt: a fonte
+  en: source
+  word_type: noun
+  plural_form: as fontes
+  gender: feminine
+  key: 043e6260-a3bc-49f4-bf02-9078e1290014
+- pt-pt: importar
+  en: to matter
+  word_type: verb
+  first_person_singular: eu importo
+  first_person_plural: nós importamos
+  second_person_singular: tu importas
+  second_person_plural: vós importais
+  third_person_singular: ele/ela importa
+  third_person_plural: eles/elas importam
+  key: f7d86f61-dbf0-48ee-8cec-bf54aeb49ac1
+- pt-pt: o instituto
+  en: institute
+  word_type: noun
+  gender: masculine
+  plural_form: os institutos
+  key: 8adbedf2-aa79-4faa-a928-ecd15093d521
+- pt-pt: a altura
+  en: height
+  word_type: noun
+  gender: feminine
+  plural_form: as alturas
+  key: 93137a54-760f-4299-8d48-6e0712740100
+- pt-pt: a arma
+  en: weapon
+  word_type: noun
+  gender: feminine
+  plural_form: as armas
+  key: ca548c28-da8f-4e4f-a6f0-33c548e010a8
+- pt-pt: a banda
+  en: band
+  word_type: noun
+  gender: feminine
+  plural_form: as bandas
+  key: 57ff2b04-ef34-440f-b9df-2f90d79c6a57
+- pt-pt: a companhia
+  en: company
+  word_type: noun
+  gender: feminine
+  plural_form: as companhias
+  key: 92576986-47e2-4c14-b2ad-f25d9bf1a24f
