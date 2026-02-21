@@ -1,93 +1,72 @@
-- pl: firma
-  en: company
-  word_type: noun
-  gender: feminine
-  plural_form: firmy
-  key: 54dc3070-ebb6-43da-8d97-3a621cac95ba
-- pl: kochać
-  en: to love
-  word_type: verb
-  imperfective: kochać
-  perfective: pokochać
-  first_person_singular: ja kocham
-  second_person_singular: ty kochasz
-  third_person_singular: on/ona/ono kocha
-  first_person_plural: my kochamy
-  second_person_plural: wy kochacie
-  third_person_plural: oni/one kochają
-  key: a3712ab9-7221-443e-83ff-0f4be4c82968
-- pl: następnie
-  en: next
-  word_type: adverb
-  key: a5380ea9-43a4-48d2-a2cb-d8ac8b42b826
 - pl: podstawa
   en: basis / base
   word_type: noun
   gender: feminine
   plural_form: podstawy
-  key: 02260543-3259-4ac1-9daa-474254e17e30
+  key: 45ef09c8-d17c-4c35-b25c-d66bc62480f8
 - pl: program
   en: program
   word_type: noun
   gender: masculine
   plural_form: programy
-  key: fca3029c-e6b6-49b7-8f61-f6b24718e75e
+  key: adc68396-47cf-4389-9864-93d5688c4452
 - pl: najlepiej
   en: best
   word_type: adverb
-  key: 002a2115-2c84-44de-a8b7-e2bf9df15ad9
+  key: 71ec6165-f4d9-483d-869a-174847105013
 - pl: okazja
-  en: occasion
+  en: event / opportunity
   word_type: noun
   gender: feminine
   plural_form: okazje
-  key: 3c143942-803c-4ed0-aec8-8d0eb471719b
+  key: 1924928b-5a66-4485-822d-d34fec0caf28
 - pl: trudno
   en: difficult
   word_type: adverb
-  key: d40ead38-98e9-4cdc-a4e3-a0f7a51d2746
+  key: 5ef9f698-e97c-4857-8198-479e370678ff
 - pl: zgodnie
-  en: compatibly
+  en: under / correspondingly
   word_type: adverb
-  key: 8a4a21f0-0013-4b13-af68-80dd08ddd8b3
+  key: 948fd300-f0a7-41d6-8a0f-388ec3a2c684
+  comment: Under the law, you can't do it. Zgodnie z prawem, nie możesz tego zrobić.
 - pl: mocno
   en: strongly
   word_type: adverb
-  key: ac216b0d-c5c8-4076-adf0-2dd924aeaf6a
+  key: 98bb5980-a786-4739-9359-ee2c690725b1
 - pl: najpierw
   en: first
   word_type: adverb
-  key: 5b0e33d3-41dc-4ae2-930a-89e7d77959c8
+  key: 860c4cee-192f-451a-86ee-ee493772763b
 - pl: rano
   en: morning
   word_type: noun
   gender: neuter
   plural_form: rany
-  key: 71ced6a4-3324-4f8e-ae5f-0c39678fbdfc
+  key: 35ee055d-5c16-4039-b6aa-27903215db91
 - pl: rozwój
   en: development
   word_type: noun
   gender: masculine
   plural_form: rozwoje
-  key: 251a559a-a6e7-47e6-b372-0b37ae73814c
+  key: f7609f35-b88f-40e5-ba81-923eea7bd072
 - pl: skąd
   en: from where
   word_type: adverb
-  key: 126d9349-6b66-43d9-8689-ae0cbbc78341
+  key: 628954a3-481e-49ef-a8c1-bfbe319f8a2c
 - pl: władza
   en: power (authority)
   word_type: noun
   gender: feminine
   plural_form: władze
-  key: e8d937ab-4e23-47d0-b7cf-67787a6c4359
+  key: 3bf57489-df95-42d7-9636-4f9193ff7076
 - pl: ciągle
   en: constantly
   word_type: adverb
-  key: 53532853-e037-4b11-82b6-a357072b0f00
+  key: 1e0c7f4c-2231-4259-a95e-5f664d7ff10e
 - pl: wcale
   en: not at all
   word_type: adverb
-  key: 7712a1d7-48e3-496e-abe0-7ca5df9411ee
+  key: c149b7ae-95a6-4ed5-b9a4-86bf4896442f
 - pl: zależeć
   en: to depend
   word_type: verb
@@ -99,25 +78,25 @@
   first_person_plural: my zależymy
   second_person_plural: wy zależycie
   third_person_plural: oni/one zależą
-  key: 25c96ac2-1ce6-40a3-a36d-2de3179902b1
+  key: 7b57bb76-3613-4342-8abc-c67c695af4ce
 - pl: droga
   en: road
   word_type: noun
   gender: feminine
   plural_form: drogi
-  key: b7a7c5a1-b34d-4177-b33b-f9698573238b
+  key: d22359b0-e45a-4daf-9158-0e4226348901
 - pl: możliwość
   en: possibility
   word_type: noun
   gender: feminine
   plural_form: możliwości
-  key: dc60c19b-bd26-4e67-bed6-4a108ba2fcf9
+  key: f2f3e539-58a0-456c-80e3-8c39b6b58b5e
 - pl: organizacja
   en: organization
   word_type: noun
   gender: feminine
   plural_form: organizacje
-  key: d41f8388-1cd4-41de-95aa-2fb836974ceb
+  key: cc4508d7-d717-4564-818e-fc543f76937f
 - pl: przepraszać
   en: to apologize
   word_type: verb
@@ -129,159 +108,171 @@
   first_person_plural: my przepraszamy
   second_person_plural: wy przepraszacie
   third_person_plural: oni/one przepraszają
-  key: ee861263-efd0-4bfb-8aa8-5b7c278406fd
+  key: 580140a7-b681-4919-9028-b33d778768e4
 - pl: szczęście
   en: happiness
   word_type: noun
   gender: neuter
   plural_form: szczęścia
-  key: 0d6cc6ea-26c6-4290-a7d2-63348b666fc4
+  key: fad13338-52ab-44b8-9f29-381c16878cd9
 - pl: teren
   en: area
   word_type: noun
   gender: masculine
   plural_form: tereny
-  key: a4648def-ef5b-4cfe-b82c-a2142995ecb3
+  key: fc4dd20b-7819-441e-b552-ff80d1e6742c
 - pl: imię
   en: name
   word_type: noun
   gender: neuter
   plural_form: imiona
-  key: 351c1f7a-4dbb-4325-8892-4f6d5332578e
+  key: 1f613c79-28bd-43c5-af0d-d195ea457f0f
 - pl: ostatni
   en: last
   word_type: adjective
   gender: masculine
   positive: ostatni
-  key: d6251847-2c0b-45aa-9370-ae15a25c015c
+  key: 25890f97-e255-4bb6-a2b7-112bc06eefd5
 - pl: szkoda
   en: pity
   word_type: noun
   gender: feminine
   plural_form: szkody
-  key: 7ccb79f6-58b2-48f4-862e-4d28f648c335
+  key: c445ece2-f191-41df-ad17-a1b83e4c8788
 - pl: zupełnie
-  en: completely
+  en: at all / entirely
   word_type: adverb
-  key: c6c7b99e-c83e-4612-9058-8bf604d882b3
+  key: 9f2fe6f0-f323-456b-bf8f-4059103b6b62
+  comment: The situation hasn't improved at all. Sytuacja wcale się nie poprawiła.
 - pl: obok
   en: next to
   word_type: preposition
-  key: 62818da9-ad30-4ee5-b32d-439541f245f3
-- pl: Oto...
-  en: Here is...
+  key: dd23db2e-b83f-4c59-882a-a409adfb03d2
+- pl: oto
+  en: there
   word_type: other
-  key: e22fee0b-0b77-445c-a37b-7432d9981ec7
+  key: 3381ea91-011e-40b9-ae4e-d4f109946831
 - pl: podobnie
   en: similarly
   word_type: adverb
-  key: 8c7023cd-fca0-49f8-b0e7-c91549fa6e42
+  key: 95645631-ba0f-4138-9883-cc7f887e4b4b
 - pl: rodzaj
-  en: type
+  en: type (kind)
   word_type: noun
   gender: masculine
   plural_form: rodzaje
-  key: c55582b2-1427-4dd1-b8da-869644fb765d
+  key: 9f7f7dd6-2d4e-41a3-a23f-04c50c60ee39
 - pl: serio
-  en: seriously
+  en: straight up / seriously
   word_type: adverb
-  key: 4d87d6ef-fd92-4687-949d-c1cc7b4883e5
+  comment: used informally
+  key: eb213a83-2074-4855-9ac2-4290721af3b3
 - pl: akcja
   en: action
   word_type: noun
   gender: feminine
   plural_form: akcje
-  key: 0b95d8c0-ffa9-4996-9722-6c176dff4720
+  key: dcb0a233-df57-422a-bff6-0bb11773e1e1
 - pl: pół
   en: half
   word_type: noun
   gender: feminine
   plural_form: połowy
-  key: 724e142a-6544-408b-81af-20b0c1fc52e7
+  key: 88bc2bf9-eb40-4cf5-bff7-7868c2cd35e2
 - pl: postać
   en: figure (character)
   word_type: noun
   gender: feminine
   plural_form: postacie
-  key: 4fdfa1ec-f6a2-4bff-9aaa-78cdbdefbbb7
+  key: ff114ea4-fdc9-489f-b230-8a21894f76e4
 - pl: sieć
   en: network
   word_type: noun
   gender: feminine
   plural_form: sieci
-  key: ca529e8f-3644-4297-81fb-bcbac21edd25
+  key: 449f8bbc-3a11-4a3e-b8d3-7fd6cda76af9
 - pl: też
   en: also
   word_type: adverb
-  key: db8a8edf-3d1d-4eaf-b077-478bdc2d4c58
+  key: 4172afeb-3b89-40a7-bce0-43feb6d467c7
 - pl: badanie
   en: research
   word_type: noun
   gender: neuter
   plural_form: badania
-  key: 76313fd9-ec73-4055-a31b-f7d70471fda3
+  key: 5446c96d-8985-4e92-8222-c1ee7542a700
 - pl: Europa
   en: Europe
   word_type: noun
   gender: feminine
   plural_form: Europy
-  key: 13e671d7-467b-473c-adf6-dbbb7d20101b
+  key: cd99977d-027b-43fa-9093-6334fa10640f
 - pl: mama
   en: mom
   word_type: noun
   gender: feminine
   plural_form: mamy
-  key: 368d67b4-9a18-4949-a581-c571b90eaf3f
+  key: 97828ae8-41fa-43f5-b888-68e5c6ecd630
 - pl: ruch
   en: movement
   word_type: noun
   gender: masculine
   plural_form: ruchy
-  key: 41a552d6-ca2d-4841-aa82-68014131ec3d
-- pl: tzw.
+  key: 55024485-71bd-44a8-99fe-87096dc6af8e
+- pl: tak zwany (tzw.)
   en: so-called
   word_type: other
-  key: dcc7b55f-c55a-4085-8013-8e31b128805c
+  key: a307232b-abad-42bc-87dd-4fb7904a239f
 - pl: walka
   en: fight
   word_type: noun
   gender: feminine
   plural_form: walki
-  key: a88aedb1-1d6b-4775-b9f4-d6beea7dd9d3
+  key: 30e26474-df93-4027-9834-75748d74699d
 - pl: wynik
   en: result
   word_type: noun
   gender: masculine
   plural_form: wyniki
-  key: 5e8a8fb5-c69b-4add-9e7e-1b43019b4d82
+  key: 9680ef7f-2427-43aa-849c-68d81c5608a2
 - pl: zjednoczony
   en: united
   word_type: adjective
   positive: zjednoczony
   comparative: bardziej zjednoczony
   superlative: najbardziej zjednoczony
-  key: 0f52fdd9-1a9f-470a-bc21-a2059e6e6f1e
+  key: 08ac8e01-3324-4efe-9c74-224b4f6df7e8
 - pl: bezpieczeństwo
   en: safety
   word_type: noun
   gender: neuter
   plural_form: bezpieczeństwa
-  key: 9ceb79d1-2212-4ede-8283-52050d1a4ec4
+  key: 313e7170-2322-4570-a85b-90bb1ab669e9
 - pl: media
   en: media
   word_type: noun
   gender: neuter
   plural_form: media
-  key: c8c54b05-f3e8-4b88-897e-a67e7437b675
-- pl: trakt
-  en: route
-  word_type: noun
-  gender: masculine
-  plural_form: trakty
-  key: 0247cf7e-12c7-4f85-8a47-a8c72c459136
+  key: 00af1d00-366b-4822-b649-aa0163497f83
 - pl: wartość
   en: value
   word_type: noun
   gender: feminine
   plural_form: wartości
-  key: ce6fe415-ccc3-45ad-a689-7da441f03a8a
+  key: a3e83ae6-1ee4-4165-9b30-af533ab5ed3c
+- pl: zwykle
+  en: usually
+  word_type: adverb
+  key: f127dc93-4d78-4ea5-8479-8c3eea74ae83
+- pl: ciężko
+  en: heavily
+  word_type: adverb
+  key: 292b363c-607b-4917-80ca-ef505ef9d23d
+- pl: gdyż
+  en: because
+  word_type: conjunction
+  key: f6e88b30-eb7a-4158-955b-79f2e80947cd
+- pl: nagle
+  en: suddenly
+  word_type: adverb
+  key: c0347697-3d03-445b-9e3b-ee9e4e23a2ad

@@ -3,259 +3,259 @@
   word_type: noun
   gender: neuter
   plural_form: łóżka
-  key: 29a780c4-9955-43fb-972f-69a00b2c31ea
+  key: 2248072e-2a60-4656-b75d-6e5ff7d3a43f
 - en: table
   pl: stół
   word_type: noun
   gender: masculine
   plural_form: stoły
-  key: 61e9f0ca-56cf-4861-832c-91f779599f83
+  key: b46e5687-7d2d-4b50-931a-a23ff365c792
 - en: chair
   pl: krzesło
   word_type: noun
   gender: neuter
   plural_form: krzesła
-  key: 4e404c2f-befb-441d-9175-96f2119cce15
+  key: 0ed52a03-e8f3-4452-a68d-0096ff0f9534
 - en: desk
   pl: biurko
   word_type: noun
   gender: neuter
   plural_form: biurka
-  key: a7685f7c-4e70-4337-a4b0-14aeb5530aa0
+  key: 367bb505-186b-4a16-84e1-4e8e508e3872
 - en: cup
   pl: filiżanka
   word_type: noun
   gender: feminine
   plural_form: filiżanki
-  key: 867d7a16-167c-44d2-a5d9-6acad0925dcf
+  key: 6ef05b32-5d08-4c3b-a031-1ab5a94bfcfd
 - en: plate
   pl: talerz
   word_type: noun
   gender: masculine
   plural_form: talerze
-  key: 7aa05842-fa66-4502-80b4-ba63009205c2
+  key: 686e36c3-f3fa-4b9a-a2f1-5ccdfd6a98a4
 - en: bowl
   pl: miska
   word_type: noun
   gender: feminine
   plural_form: miski
-  key: ea74ec11-817c-4c5d-afa3-0d4bdeb78081
+  key: a1937dcc-a3e0-4086-a802-aee9d89ab34d
 - en: glass (cup)
   pl: szklanka
   word_type: noun
   gender: feminine
   plural_form: szklanki
-  key: 7aef8dab-e0c3-438a-9f87-8b1bb7c773a5
+  key: 29041b7d-f5ea-4453-a138-2af2e1b8527a
 - en: spoon
   pl: łyżka
   word_type: noun
   gender: feminine
   plural_form: łyżki
-  key: 092d30f1-671a-4b65-a306-e9331d9afa3f
+  key: 83c4e734-ed5b-4d4d-b631-d76fafd54663
 - en: fork
   pl: widelec
   word_type: noun
   gender: masculine
   plural_form: widelce
-  key: bf91136c-e893-47fb-b99a-d0970dde22bf
+  key: 37e050a9-9389-4534-82f8-c12dc787a13e
 - en: knife
   pl: nóż
   word_type: noun
   gender: masculine
   plural_form: noże
-  key: 6bc94384-7b1e-4b6c-8459-7f9d1d3ad3b6
+  key: 1fe7b800-12ae-422d-b653-a9f6e3d048c5
 - en: pot
   pl: garnek
   plural_form: garnki
   word_type: noun
   gender: masculine
-  key: 5105713b-4ea7-4906-814c-50f15f52e336
+  key: 6cf916f6-658f-4505-ad4a-ddedfde3900c
 - en: pen
   pl: długopis
   plural_form: długopisy
   word_type: noun
   gender: masculine
-  key: 5db4a436-9da1-4057-b158-b8f5ccc8f478
+  key: d665b022-a174-4400-a5e5-f7f3ec7ff439
 - en: pencil
   pl: ołówek
   plural_form: ołówki
   word_type: noun
   gender: masculine
-  key: 3ba48d0b-db28-407f-9124-23e4ef8ab3d7
+  key: 6e644486-17ed-42ad-a79b-920b7c99a86f
 - en: paper
   pl: papier
   plural_form: papiery
   word_type: noun
   gender: masculine
-  key: 79632f5d-0b2d-4e93-872f-49813fff5cea
+  key: ecb8a5cb-8f77-4d21-8764-31b034b2fc3d
 - en: box
   pl: pudełko
   plural_form: pudełka
   word_type: noun
   gender: neuter
-  key: bf443e59-5cd9-4b36-a6c6-93392486da39
+  key: 5f1df8e3-e44c-45ee-a2c9-55c1bc17fac9
 - en: bottle
   pl: butelka
   plural_form: butelki
   word_type: noun
   gender: feminine
-  key: 8bbf5477-afd1-464c-aff4-0b074d80221a
+  key: c8209048-c37c-4aa5-9f7e-8c3f6c76011d
 - en: key
   pl: klucz
   plural_form: klucze
   word_type: noun
   gender: masculine
-  key: 3b8dafc4-e416-4834-8e6e-2b718f49151b
+  key: b08ca616-938c-4503-8e89-681052424d05
 - en: soap
   pl: mydło
   plural_form: mydła
   word_type: noun
   gender: neuter
-  key: 325d8908-8b94-4923-8519-65000c537394
+  key: 4b726af6-a6aa-424e-ad01-405ef3c721b4
 - en: garden
   pl: ogród
   plural_form: ogrody
   word_type: noun
   gender: masculine
-  key: 3620d39c-02fc-4857-b2e7-e7ce9b903501
+  key: d0803699-f374-493f-bf6c-cede9bbfa4cd
 - en: yard
   pl: podwórko
   plural_form: podwórka
   word_type: noun
   gender: neuter
-  key: eb214b71-6584-440a-9cfb-7718f8e7d2f3
+  key: 021216c8-eb78-41e2-acab-519b3c3038ae
 - en: shoe
   pl: but
   plural_form: buty
   word_type: noun
   gender: masculine
-  key: b501f0da-5bb0-46ce-baa7-11ce47ee28e2
+  key: 8bca3bb9-637b-46f0-85a1-1a2a8b90c9b0
 - en: shirt
   pl: koszula
   plural_form: koszule
   word_type: noun
   gender: feminine
-  key: 278f5ec6-3543-4667-9776-346e2bd821d7
+  key: e426706b-a00d-4bc7-aa21-e24caa79ddd8
 - en: pants
   pl: spodnie
   plural_form: spodnie
   word_type: noun
   gender: neuter
-  key: d2c80c8b-12a9-4f35-8237-aef7b0b455e2
+  key: 14cc356e-a006-4a01-a4ae-b40dcce67439
 - en: coat
   pl: płaszcz
   plural_form: płaszcze
   word_type: noun
   gender: masculine
-  key: 0b186232-b077-4869-82df-7695e01797ff
+  key: 387d3e57-07d7-4a95-bd3e-7522a5e7fef2
 - en: hat
   pl: kapelusz
   plural_form: kapelusze
   word_type: noun
   gender: masculine
-  key: 199389cd-25eb-4857-b94d-553ccde70770
+  key: 6750b7f1-0eb2-4bef-9d14-1d215edbe372
 - en: dress
   pl: sukienka
   plural_form: sukienki
   word_type: noun
   gender: feminine
-  key: c9764b52-56da-4176-8354-7b0fdcf3bc34
+  key: e03da14a-b320-4a3e-8f4a-de82d6eb46c4
 - en: sock
   pl: skarpeta
   plural_form: skarpety
   word_type: noun
   gender: feminine
-  key: 4d67e5a8-ad32-444c-9768-0ca477cb7529
+  key: 192b3486-d6bf-454a-94c1-c36be84b5824
 - en: jacket
   pl: kurtka
   plural_form: kurtki
   word_type: noun
   gender: feminine
-  key: 36d1ae2f-1007-41e3-b302-e19af8ca3ed0
+  key: 04fb13f3-82f0-4048-b9fd-5e2af4356e52
 - en: sweater
   pl: sweter
   plural_form: swetry
   word_type: noun
   gender: masculine
-  key: f6744901-2070-4f2f-9534-aeb0bc05170c
+  key: e74e6d32-72f7-4800-af6a-75283d3b1197
 - en: skirt
   pl: spódnica
   plural_form: spódnice
   word_type: noun
   gender: feminine
-  key: 1aaf5e9d-696f-4896-8c9d-48d285125e0b
+  key: e9452411-8357-4e29-ae67-a9e57ec5b2f2
 - en: bag
   pl: torba
   plural_form: torby
   word_type: noun
   gender: feminine
-  key: 405c0b86-6484-4cc1-9dd5-17f1751cfbf5
+  key: 3e50ac7e-6d11-4387-a9b3-7ea4fa7fa965
 - en: job
   pl: praca
   plural_form: prace
   word_type: noun
   gender: feminine
-  key: 75b909a1-5a2a-4f30-b9da-3d2e19b953e9
+  key: 88ad77a6-dad1-47df-a941-7e67eb9ee6d7
 - en: worker
   pl: pracownik
   plural_form: pracownicy
   word_type: noun
   gender: masculine
-  key: 0502567e-8198-409c-b935-40956e296091
+  key: bea02293-69e5-4f1b-9bb5-891dfe50ff88
 - en: farmer
   pl: rolnik
   plural_form: rolnicy
   word_type: noun
   gender: masculine
-  key: 6dce62b6-bb24-447d-9680-dfb921a9b295
+  key: 2f2e9f7b-d728-479b-a579-a42b9d3c8d4d
 - en: engineer
   pl: inżynier
   plural_form: inżynierowie
   word_type: noun
   gender: masculine
-  key: a97ecae7-d018-45ba-bace-b4b1adf40e7a
+  key: d3f04040-ced7-48b7-bfec-7c83c745e902
 - en: lawyer
   pl: prawnik
   plural_form: prawnicy
   word_type: noun
   gender: masculine
-  key: 8ececf38-1076-4231-96f5-d9e76ab7e4d7
+  key: 605bee49-a5f1-4144-abf6-46f3be4cde2d
 - en: cook (person)
   pl: kucharz
   plural_form: kucharze
   word_type: noun
   gender: masculine
-  key: 1550536a-c3dc-4840-b8e7-dadb8a657acd
+  key: d6312fe7-0beb-491c-8508-88c0458a8b64
 - en: driver
   pl: kierowca
   plural_form: kierowcy
   word_type: noun
   gender: masculine
-  key: c0e7365b-f495-4ba5-990f-6d72c415b17c
+  key: 8413d36e-169d-4b16-8707-683312723eec
 - en: manager
   pl: kierownik
   plural_form: kierownicy
   word_type: noun
   gender: masculine
-  key: d3608b7d-cbc1-4b88-8043-34fc9a3ac676
+  key: 1a693e10-75a4-449b-afc7-0931eab0dba1
 - en: builder
   pl: budowniczy
   plural_form: budowniczowie
   word_type: noun
   gender: masculine
-  key: 7b413ea2-ed80-482a-a0dc-5c8a95c27118
+  key: f8a9a4cd-d525-4c6c-b916-1036a7ee5381
 - en: address
   pl: adres
   plural_form: adresy
   word_type: noun
   gender: masculine
-  key: 98849d5f-7b61-4524-8414-7583df2467aa
+  key: 448ffcd0-dd29-4032-8720-f978f741da1e
 - en: advice
   pl: rada
   plural_form: rady
   word_type: noun
   gender: feminine
-  key: b65f10a5-d7c6-4d8a-a6b7-64022b717cf0
+  key: 672e5eec-3068-4297-9d69-68bab6976b1f
 - en: to call
   pl: dzwonić
   perfective: zadzwonić
@@ -266,13 +266,13 @@
   second_person_plural: wy dzwonicie
   third_person_singular: on/ona/ono dzwoni
   third_person_plural: oni/one dzwonią
-  key: e0c96b46-34ad-49ab-a320-b04de37b489a
+  key: 424f4b37-859b-41e8-aa17-5e8f7fbd880c
 - en: card
   pl: karta
   plural_form: karty
   word_type: noun
   gender: feminine
-  key: b449df77-16f0-4b73-ab01-91f90d1bdab0
+  key: 3da49801-8b45-46ed-be19-73dcb746ea0b
 - en: to describe
   pl: opisywać
   perfective: opisać
@@ -283,13 +283,13 @@
   second_person_plural: wy opisujecie
   third_person_singular: on/ona/ono opisuje
   third_person_plural: oni/one opisują
-  key: 879f196a-574a-470f-963c-087e6af0f190
+  key: 6efa2d71-f3e4-42f9-8ef8-78cbfc602fce
 - en: description
   pl: opis
   plural_form: opisy
   word_type: noun
   gender: masculine
-  key: 11e264f2-5ffb-4996-8492-8ec5ee648031
+  key: a83854a7-eea3-487b-b7e8-de398712309b
 - en: to explain
   pl: wyjaśniać
   perfective: wyjaśnić
@@ -300,16 +300,16 @@
   second_person_plural: wy wyjaśniacie
   third_person_singular: on/ona/ono wyjaśnia
   third_person_plural: oni/one wyjaśniają
-  key: efb241ee-ae1c-4061-a7c2-d2c1eb6c1017
+  key: 07c71660-d7bf-4cf2-b8f5-2db43613e2d4
 - en: information
   pl: informacja
   plural_form: informacje
   word_type: noun
   gender: feminine
-  key: 8667caad-d671-4642-b929-118dbf47a91f
+  key: 99731606-7ac3-43d7-b7db-24282cb019ed
 - en: interview
   pl: wywiad
   plural_form: wywiady
   word_type: noun
   gender: masculine
-  key: 20bca085-b2e7-4633-8be4-cfc8c9122cbd
+  key: 8c2e65cc-d685-4e49-b243-1a3277bb12fb

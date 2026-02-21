@@ -1,31 +1,31 @@
 - en: Hello!
   pl: Cześć!
   word_type: other
-  key: 5abbb64b-9830-45d8-b933-d476bc41e0b7
+  key: 7237c974-2af4-4018-a41c-3fc4c72d4dd1
 - en: Goodbye!
   pl: Do widzenia!
   word_type: other
-  key: 3d310a89-7e49-49d5-a528-f5840de5a936
+  key: 5045e2cf-83f1-4347-91dc-50ceac18b4d9
 - en: Welcome!
   pl: Witamy!
   word_type: other
-  key: 46588b13-8789-41a9-a448-0f5752137498
+  key: 41b59e41-e158-4b38-af0a-6178e50682d6
 - en: Please...
   pl: Proszę...
   word_type: other
-  key: 9a8a5fd9-5c42-490e-8b68-c9029363c0ba
+  key: b1ad24f9-785a-4868-a0ad-0989f37dd357
 - en: Sorry...
   pl: Przepraszam...
   word_type: other
-  key: 8cdfaace-cbe9-4f68-b43c-070dd9f04002
+  key: 3da49535-4b7e-4ad3-90f9-0758e368d0de
 - en: yes
-  pl: Tak
+  pl: tak
   word_type: other
-  key: a3f25ff2-9ea9-43d9-818b-312c6981514b
+  key: 5ba4bc7c-47bd-4563-8555-7881e52754fe
 - en: no
   pl: Nie
   word_type: other
-  key: 6f52dfac-39ce-4cb2-a12c-1d421053380f
+  key: 3404928a-9a72-41bd-b8e8-fa0b18761daf
 - en: to say
   pl: mówić
   word_type: verb
@@ -36,7 +36,7 @@
   second_person_plural: wy mówicie
   third_person_singular: on/ona/ono mówi
   third_person_plural: oni/one mówią
-  key: a22ee433-b5f4-4337-a47b-b20f559d5ff1
+  key: 528019f6-121b-491d-8eca-ab75a1784b69
 - en: to ask
   pl: pytać
   word_type: verb
@@ -47,7 +47,7 @@
   second_person_plural: wy pytacie
   third_person_singular: on/ona/ono pyta
   third_person_plural: oni/one pytają
-  key: e60bbac3-25d0-448b-abdf-bffba4376165
+  key: c59c307b-118e-474d-bd89-c1249d7947c4
 - en: to introduce
   pl: przedstawiać
   word_type: verb
@@ -58,170 +58,170 @@
   second_person_plural: wy przedstawiacie
   third_person_singular: on/ona/ono przedstawia
   third_person_plural: oni/one przedstawiają
-  key: fb80fea9-56a9-42ad-800a-01adead2109b
+  key: 461600a6-e60f-454c-8e71-a8522ba1b6b8
 - en: conversation
   pl: rozmowa
   word_type: noun
   gender: feminine
   plural_form: rozmowy
-  key: 5e03a4bd-7c94-4460-989c-c3db06f3afa0
+  key: f5587ea2-7bd9-41bb-ad67-a11bd3710bde
 - en: question
   pl: pytanie
   word_type: noun
   gender: neuter
   plural_form: pytania
-  key: f23cdbbd-2f51-4100-b7a2-4db43b48116a
+  key: e0b8304a-59a3-46f1-8f33-d5478d3e4db1
 - en: answer
   pl: odpowiedź
   word_type: noun
   gender: feminine
   plural_form: odpowiedzi
-  key: 15690016-4ad2-4156-bec9-c211483e1139
+  key: fa8e8e88-65bd-4728-8ca1-dc28f4256142
 - en: he
   pl: on
   word_type: pronoun
-  key: ddca756d-44af-4122-b4e5-fe7e89845976
+  key: 0cd54f0d-8bc7-4f75-848c-56fc436b3ed1
 - en: him
   pl: jego
   word_type: pronoun
-  key: 3dc6596f-5b52-4c11-8b56-9cfd99299939
+  key: e4cc77c8-0013-48cf-9bb8-8bd24a554b6f
 - en: I
   pl: ja
   word_type: pronoun
-  key: e2621f04-d7cd-4e5f-9222-775c8f317067
-- en: it
+  key: 665bad70-c2e8-4f4b-aa7e-d3f011a397d7
+- en: it / this
   pl: to
   word_type: pronoun
-  key: 3dc6cd36-30f9-475d-b925-d79aef01f778
+  key: a7b533a4-2f44-4b7a-ae44-3f2b563c13be
 - en: me
   pl: mnie
   word_type: pronoun
-  key: e8c3d880-711e-4ab1-bfd8-105928ca1dcf
+  key: c7cd6f54-ac2c-47ab-9bb0-831e17702add
 - en: mine
   pl: mój
   word_type: pronoun
-  key: 80bbd2fc-5d8f-497b-985d-34394f56aeac
+  key: 93b2a3c3-abc3-466e-acbc-1b0dff57a0ce
 - en: myself
   pl: sam
   word_type: pronoun
-  key: ba4971bb-ad33-4b00-97e8-fb954d7db17a
+  key: 5e94d0dc-5463-4f96-9a04-1b5b0d472733
 - en: our
   pl: nasz
   word_type: pronoun
-  key: 1807e424-e346-4c67-a0f6-b7b823bfd12a
+  key: c92f3c9c-4229-4c77-8de6-6fdfe07e2d30
 - en: she
   pl: ona
   word_type: pronoun
-  key: 2beaa58a-3a1c-4031-b9fd-266e064af9ca
+  key: ae1fb1a7-5dcd-42a7-8b6b-b2762492090a
 - en: her
   pl: jej
   word_type: pronoun
-  key: f94c83c8-b71e-412d-9cca-6d2fa6e4d42d
+  key: 98d86077-6126-46c7-92b1-21c8615befd1
 - en: us
   pl: nas
   word_type: pronoun
-  key: 25221ffd-9436-4dad-ba9e-46ba39d71c13
+  key: 17f53e43-8c98-4e7e-aebb-7c0fce97ab42
 - en: we
   pl: my
   word_type: pronoun
-  key: 0e021954-16b4-491c-b25b-215f46530c39
+  key: 66c9820b-250a-4771-a315-e1ee965b26f2
 - en: you
   pl: ty
   word_type: pronoun
-  key: 3dc88dfa-5e25-4da1-bd10-6ea4165139b9
+  key: 31ab2515-ca86-459b-84fc-68420b88e520
 - en: your
   pl: twój
   word_type: pronoun
-  key: e81fecdd-2057-49e7-9153-c5606522cc8f
-- en: yourself
+  key: bd1a2823-de6a-495a-88b9-73e1ee4e670e
+- en: each other / themselves / myself
   pl: siebie
   word_type: pronoun
-  key: 6afc6731-4e11-454a-9f17-5d73b29fdf8a
+  key: 8f021a1c-872a-483d-adf5-578d7b1c2e4f
 - en: one
   pl: jeden
   word_type: other
-  key: 8352a2ff-e044-466b-8ec2-18db10ee6112
+  key: 7748763b-9583-46da-a0fb-9d188deac026
 - en: two
   pl: dwa
   word_type: other
-  key: 0ff5b24c-0c87-4e41-a1d1-4fd3be400f2a
+  key: f5d103c9-e691-4a86-9abf-896f18bb1fc6
 - en: three
   pl: trzy
   word_type: other
-  key: c0340ec0-d0e2-4d41-9e06-b3d86ba2152a
+  key: aa9a3f43-56cd-4588-85bf-500b406748da
 - en: four
   pl: cztery
   word_type: other
-  key: c03dbb78-6b01-4518-bcf8-a7f365871bf7
+  key: 33532eb9-8030-4f2c-bb58-9296723f57e0
 - en: five
   pl: pięć
   word_type: other
-  key: d4e76f2d-eb26-45b9-a59c-3696d1c8ce19
+  key: e513e797-6a1a-4d9b-90b9-ce835c5e137b
 - en: six
   pl: sześć
   word_type: other
-  key: dbd5f58f-29d6-4e3f-925b-3be524019334
+  key: c858aa18-5450-48e5-8a41-9969d2300655
 - en: seven
   pl: siedem
   word_type: other
-  key: cea7c2b0-ee3f-46ff-8c46-d5ed680311c3
+  key: 22f580db-205b-4a7d-8739-1a85059a749f
 - en: eight
   pl: osiem
   word_type: other
-  key: 9097ccff-ad61-48cc-bb16-ca873732619e
+  key: e9f3bf5a-aa9b-484b-9bed-1acffafb4bf5
 - en: nine
   pl: dziewięć
   word_type: other
-  key: 6f9ab080-7fb7-4957-bb19-4925861b471c
+  key: 58540572-bc91-4454-86bd-6dc55c8d25b5
 - en: ten
   pl: dziesięć
   word_type: other
-  key: 7948857b-ddb3-4db2-9dcf-7fc9017c7903
+  key: 47041e01-821f-49e3-8a6d-099311c7a9fd
 - en: eleven
   pl: jedenaście
   word_type: other
-  key: 3c1ea4b6-2309-4db0-9ca0-73c1fdf01ea1
+  key: 8589c2c3-fe96-4081-8942-fd7dfd47c831
 - en: twelve
   pl: dwanaście
   word_type: other
-  key: f692c22b-dcec-4c26-961a-08720a759598
+  key: 3768a43d-7a65-464f-81e4-00327c1ca848
 - en: thirteen
   pl: trzynaście
   word_type: other
-  key: 34b91069-5764-4150-a1b6-a71a57bedb75
+  key: 629a5e88-94bc-4017-aa16-a976ed656b82
 - en: fourteen
   pl: czternaście
   word_type: other
-  key: e68cacb9-35ea-416a-b20c-9d777f2e8399
+  key: d507fa48-0acc-45a7-ab07-d9c8d24dd92f
 - en: fifteen
   pl: piętnaście
   word_type: other
-  key: 434dea5f-8790-40db-8072-e9e58c1a09e2
+  key: 86d697f5-a82d-4cce-bb55-7041f3eeed2b
 - en: sixteen
   pl: szesnaście
   word_type: other
-  key: 3ae546e8-0166-4ffd-8537-10b61f5fbcd0
+  key: 807d8597-e876-4d2f-b461-3b97a1875ffd
 - en: seventeen
   pl: siedemnaście
   word_type: other
-  key: ec5cc807-0ed1-40aa-bc5b-fe078df3528b
+  key: 86af4425-44ce-422c-a930-1826ce61bdf3
 - en: eighteen
   pl: osiemnaście
   word_type: other
-  key: 63c099a9-9160-4be0-8de3-b699a4017800
+  key: dd95565f-30c6-4be4-8b65-41dc55bfafee
 - en: nineteen
   pl: dziewiętnaście
   word_type: other
-  key: f0c410b9-c535-4b67-9cdc-9bcac283619f
+  key: d193c804-db22-45e2-92ee-14b1805dc4b6
 - en: twenty
   pl: dwadzieścia
   word_type: other
-  key: 0f303eab-d1fd-43e3-a650-bff828377a81
+  key: db0f7a51-1b60-4131-8b76-1b8d3eb5a937
 - en: thirty
   pl: trzydzieści
   word_type: other
-  key: 0d43e3e3-114b-44b8-88a3-5b2f8deb83b1
+  key: b2406f2d-9777-4b44-a8fe-8ad7fdce7830
 - en: forty
   pl: czterdzieści
   word_type: other
-  key: 6e073622-cbf3-4b96-ab9f-6d8e4206d771
+  key: 6cb4354d-422a-447c-9e81-09bf185ee531

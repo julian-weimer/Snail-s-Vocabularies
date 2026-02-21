@@ -1,46 +1,3 @@
-- pl: wasz
-  en: your (plural)
-  word_type: pronoun
-  key: 19c94434-2b27-4c7e-876a-e56cf926c0cd
-- pl: wchodzić
-  en: to enter
-  word_type: verb
-  aspect: imperfective
-  perfective: wejść
-  first_person_singular: ja wchodzę
-  second_person_singular: ty wchodzisz
-  third_person_singular: on/ona/ono wchodzi
-  first_person_plural: my wchodzimy
-  second_person_plural: wy wchodzicie
-  third_person_plural: oni/one wchodzą
-  key: bd26274b-5381-4c7f-be3a-caf2fab4b73f
-- pl: zapewne
-  en: probably
-  word_type: adverb
-  key: 9c374856-ef98-4d51-8f8d-cf506887111b
-- pl: zdawać się
-  en: to seem
-  word_type: verb
-  first_person_singular: ja zdaję się
-  first_person_plural: my zdajemy się
-  second_person_singular: ty zdajesz się
-  second_person_plural: wy zdajecie się
-  third_person_singular: on/ona/ono zdaje się
-  third_person_plural: oni/one zdają się
-  comment: This verb does not have a perfective form
-  key: 9082c30a-9839-413f-ba3f-b422e24d8097
-- pl: forum
-  en: forum
-  word_type: noun
-  gender: neuter
-  plural_form: fora
-  key: 4acacd3b-c4d3-43a6-b28d-dac7f830bc5e
-- pl: krok
-  en: step
-  word_type: noun
-  gender: masculine
-  plural_form: kroki
-  key: 4129f7b6-71d9-4e91-9476-8f6b8845d3a8
 - pl: leżeć
   en: to lie (down)
   word_type: verb
@@ -51,39 +8,39 @@
   second_person_plural: wy leżycie
   third_person_singular: on/ona/ono leży
   third_person_plural: oni/one leżą
-  key: 000e0c97-3dbc-4dc6-8860-88397a1ac8c2
+  key: 076be8b9-4611-4dbf-9c86-988f0bc87b53
 - pl: mnóstwo
   en: plenty
   word_type: noun
   gender: neuter
   plural_form: mnóstwa
-  key: fba3c069-41b4-4829-8834-50932a36c793
+  key: 5e597ae6-0042-4cde-bc19-c7f934944521
 - pl: natychmiast
   en: immediately
   word_type: adverb
-  key: 5a2fb97a-4f37-4b9d-80ca-167a24b0620f
+  key: 03acf5c8-0cb2-45c5-9482-648229c23c4f
 - pl: normalnie
   en: normally
   word_type: adverb
-  key: e5d570fa-e710-436d-8c6f-4b1807df016a
+  key: 27690ea8-07b2-49fc-a0fd-e5d70ce0126a
 - pl: ono
   en: it
   word_type: pronoun
-  key: 82155bf3-8d92-48d8-8757-56e9ac3e8a51
+  key: 962640a8-45fe-4622-bb15-c81c7321f225
 - pl: równie
   en: equally
   word_type: adverb
-  key: 0779b455-5353-4cbe-9e08-598dca71e9cb
+  key: 062f514a-f9eb-421d-be62-de983334a918
 - pl: specjalnie
   en: specially
   word_type: adverb
-  key: a9799bc0-462f-44c7-8f89-cbdc40465978
+  key: e0515684-3202-432e-9755-5c0b68c8a9e9
 - pl: technologia
   en: technology
   word_type: noun
   gender: feminine
   plural_form: technologie
-  key: 0dcad694-21f5-4545-84a9-65b8e1f18a80
+  key: c7968c15-b34a-45fc-b5fa-64274693a12c
 - pl: uczyć
   en: to teach
   word_type: verb
@@ -94,29 +51,30 @@
   second_person_plural: wy uczycie
   third_person_singular: on/ona/ono uczy
   third_person_plural: oni/one uczą
-  key: 17d6f19f-0705-4a5e-a241-5ae14e12a47b
+  key: d5932b20-fba2-4dbe-8ded-44abf8da9b79
 - pl: ustawa
   en: law (statute)
   word_type: noun
   gender: feminine
   plural_form: ustawy
-  key: b912c323-f823-4086-bc47-828edde60ae6
+  key: 39c32121-5f86-422b-ad39-c89ed5c163a5
 - pl: wręcz
   en: even (downright)
   word_type: adverb
-  key: 699ab5bc-f66f-4d98-8812-808278e2a009
+  key: c16f479a-3962-4509-ab58-4579fc459a4b
+  comment: This is a good idea. Great, even! To dobry pomysł. Wręcz świetny!
 - pl: wsparcie
   en: support
   word_type: noun
   gender: neuter
   plural_form: wsparcia
-  key: caef18fb-1d3f-4feb-b40b-addea79b936e
+  key: 187cf9aa-5681-40d9-b5cf-247649265383
 - pl: wątpliwość
   en: doubt
   word_type: noun
   gender: feminine
   plural_form: wątpliwości
-  key: e9f8f2de-8113-4527-ae7c-b35d930df36e
+  key: ff9440de-1970-432d-8938-8b335ab88e04
 - pl: boleć
   en: to hurt
   word_type: verb
@@ -127,22 +85,22 @@
   second_person_plural: wy bolicie
   third_person_singular: on/ona/ono boli
   third_person_plural: oni/one bolą
-  key: 125f732b-aaf1-462b-95f5-c208110efba2
+  key: ba04c3af-591b-47c6-8914-4d6ba8b338b4
 - pl: głupi
   en: stupid
   word_type: adjective
   positive: głupi
   comparative: głupszy
   superlative: najgłupszy
-  key: 72c33b8f-4afc-4ad1-8d37-1ef5741e5b54
+  key: 96413b6d-62b2-4cf7-a246-e0fe7ab2783e
 - pl: oficjalnie
   en: officially
   word_type: adverb
-  key: 0d1ff31a-6169-442c-9338-b890abe403cc
+  key: 6fc3ffbf-2aff-48b7-acf1-430089e70ca0
 - pl: przykro
   en: sorry (regretful)
   word_type: adverb
-  key: 0a28d4a1-9e36-4fe8-8513-a2d83984bc21
+  key: 86356413-ce1b-4f62-805a-0a1b5c6b6aca
 - pl: składać
   en: to fold
   word_type: verb
@@ -153,7 +111,7 @@
   second_person_plural: wy składacie
   third_person_singular: on/ona/ono składa
   third_person_plural: oni/one składają
-  key: d8df65a1-0650-42ca-85e2-37f684e61242
+  key: 052c8afc-72d0-4711-a7f3-6481e777157f
 - pl: szukać
   en: to search
   word_type: verb
@@ -164,31 +122,31 @@
   second_person_plural: wy szukacie
   third_person_singular: on/ona/ono szuka
   third_person_plural: oni/one szukają
-  key: 1b0d2cbf-9047-42f2-a4d8-80b6bbb05744
+  key: 623adc66-46b9-4619-b82b-7a24a5dad20a
 - pl: żołnierz
   en: soldier
   word_type: noun
   gender: masculine
   plural_form: żołnierze
-  key: 1505284a-9260-4f8a-b9df-4bb21b2cfc7b
+  key: b0bd2ad7-6d48-4ee6-92cc-39a9d83b3a51
 - pl: budowa
   en: construction
   word_type: noun
   gender: feminine
   plural_form: budowy
-  key: b31c7b07-6bd1-4cc9-bcf5-cb1f91d5fa49
+  key: a73c5af2-1865-412d-a8e0-7c5ee90ad871
 - pl: jakość
   en: quality
   word_type: noun
   gender: feminine
   plural_form: jakości
-  key: ddc870a0-0a5c-4e5d-89eb-2ef4d2985ef3
+  key: f7173be7-b84b-4b77-8f44-5be3750896ce
 - pl: nazwisko
   en: surname
   word_type: noun
   gender: neuter
   plural_form: nazwiska
-  key: c7f558a7-f8a0-4f0e-a1ce-3018bbafbe16
+  key: dc7269a1-e30c-47fb-878d-3786dbf07877
 - pl: pojawiać się
   en: to appear
   word_type: verb
@@ -199,42 +157,42 @@
   first_person_plural: my pojawiamy się
   second_person_plural: wy pojawiacie się
   third_person_plural: oni/one pojawiają się
-  key: 164e1481-6d30-486d-b8dd-d51ac52e1d8a
+  key: 7f974f40-bb05-4646-8b70-9dca43094680
 - pl: polityczny
   en: political
   word_type: adjective
   positive: polityczny
-  key: e4dd7b77-b9aa-4816-abf8-8f95898dc93e
+  key: a55f5976-36c2-44ea-b0f2-736486eec35b
 - pl: potrzebny
-  en: needed
+  en: necessary / required
   word_type: adjective
   positive: potrzebny
   comparative: bardziej potrzebny
   superlative: najbardziej potrzebny
-  key: 19088d21-2c01-4b35-9b20-16c0706513c1
+  key: 28bfbaa1-108a-40e2-b208-9a0c8ca06670
 - pl: powstanie
   en: uprising
   word_type: noun
   gender: neuter
   plural_form: powstania
-  key: a16cfead-fe14-4155-865d-efd0dcb667dc
+  key: 72ea88d3-28de-4aef-887f-c5c9a710f273
 - pl: publiczny
   en: public
   word_type: adjective
   positive: publiczny
-  key: 9f855fb1-78d2-44f7-a5ff-edc72ba4b308
+  key: 6ff3b79a-44a3-460c-808c-602b53a9fb20
 - pl: robota
-  en: work
+  en: labour
   word_type: noun
   gender: feminine
   plural_form: roboty
-  key: 24065b1b-8e7f-40e1-a11c-8fd3bac095e0
+  key: b20d8545-e452-4836-a049-9c6df48b22be
 - pl: zachód
   en: west
   word_type: noun
   gender: masculine
   plural_form: zachody
-  key: 115276ce-9389-421c-83fb-011a1250009f
+  key: 946eb7f4-7f8e-4a56-9366-b565dff8bb9a
 - pl: zgadzać się
   en: to agree
   word_type: verb
@@ -245,39 +203,39 @@
   first_person_plural: my zgadzamy się
   second_person_plural: wy zgadzacie się
   third_person_plural: oni/one zgadzają się
-  key: 2c2eb027-0b2d-4266-8175-4846392b5ec8
+  key: 1ea7bc6c-b2df-447a-a45c-f047c27297ad
 - pl: ładnie
   en: nicely
   word_type: adverb
-  key: b267542d-3093-46d4-8ae5-193deb6c2ff7
+  key: 7f58bdf7-52b4-4a02-bc84-1d332731a265
 - pl: charakter
   en: character
   word_type: noun
   gender: masculine
   plural_form: charaktery
-  key: d93ddb25-ef87-41da-b080-cdcc736793f3
+  key: e0ca58ae-7c01-4127-9581-c93e0d35afb9
 - pl: gospodarka
   en: economy
   word_type: noun
   gender: feminine
   plural_form: gospodarki
-  key: 45a33bdf-b538-46e6-9255-e38624859195
+  key: daea9f2f-6814-4616-89ee-f7308aec29fd
 - pl: miejscowość
   en: locality
   word_type: noun
   gender: feminine
   plural_form: miejscowości
-  key: 92d11947-2bcf-4de8-afc0-aa9c2bb267f1
+  key: 38829a97-c5f9-45d7-9e0d-0ec8b8f883be
 - pl: model
   en: model
   word_type: noun
   gender: masculine
   plural_form: modele
-  key: 8b1a149c-3785-4cb0-9531-e641ffc4a8da
+  key: 2734be6e-dc03-4343-a1ba-a64b1d6cf879
 - pl: obaj
   en: both
   word_type: pronoun
-  key: ff048883-2b17-48a0-9712-f8ceb6f6f586
+  key: 1e9d6721-5ff0-44b8-a9be-bcc35fe245c9
 - pl: pozostawać
   en: to remain
   word_type: verb
@@ -288,13 +246,13 @@
   first_person_plural: my pozostajemy
   second_person_plural: wy pozostajecie
   third_person_plural: oni/one pozostają
-  key: 04029e7f-2b5a-4cfa-b97d-dcef23d0a1ad
+  key: ef00c76b-5f4a-42f8-bf2f-a6fc80131599
 - pl: skład
   en: composition
   word_type: noun
   gender: masculine
   plural_form: składy
-  key: cbdfa9f1-21eb-4df7-9125-dddbd1e67ab4
+  key: 7777a5ca-8f8e-4b48-aeaa-1e718033c102
 - pl: wybierać
   en: to choose
   word_type: verb
@@ -305,25 +263,61 @@
   first_person_plural: my wybieramy
   second_person_plural: wy wybieracie
   third_person_plural: oni/one wybierają
-  key: bd5f94a6-d333-4e4c-9540-68e642f409db
+  key: d9be8db2-4d13-4a79-a9d7-55d0f0ded3a7
 - pl: złoty
   en: golden
   word_type: adjective
   positive: złoty
-  key: 7ca4031b-56b3-48a2-be2c-c87fdb46177d
+  key: 61b4e353-7d87-4bef-a9eb-91c9da06387d
 - pl: efekt
   en: effect
   word_type: noun
   gender: masculine
   plural_form: efekty
-  key: 443a59d2-c7e0-43e4-9b65-ac9f1c3f0fe0
+  key: bcb6b3a5-90e9-4f0e-a214-6bff6b0dfadf
 - pl: lekko
   en: lightly
   word_type: adverb
-  key: 75202780-3ee6-4d36-978b-497e6481cd55
+  key: a90cef7c-80f8-49ca-bae7-b246c5f5e964
 - pl: obywatel
   en: citizen
   word_type: noun
   gender: masculine
   plural_form: obywatele
-  key: 3f9d3a47-da9a-42bb-b22a-bdba5c048f2b
+  key: fffd0efa-654c-4650-968b-77ce7cc0185b
+- pl: ofiara
+  en: victim
+  word_type: noun
+  gender: feminine
+  plural_form: ofiary
+  key: ae4d6075-536d-4ebf-b70f-d47ea2dc077a
+- pl: operacja
+  en: operation
+  word_type: noun
+  gender: feminine
+  plural_form: operacje
+  key: 8276a11f-9d47-45a1-9387-c43adda7a4e7
+- pl: powyżej
+  en: above
+  word_type: preposition
+  key: cb91d714-7373-4988-84ee-44bdca9af1d6
+- pl: północny
+  en: northern
+  word_type: adjective
+  positive: północny
+  key: 17490f22-f505-42c3-9a11-96e88469dc36
+- pl: rzadko
+  en: rarely
+  word_type: adverb
+  key: f1df0dc6-1dc3-4a45-8838-0af0340b15b2
+- pl: spotykać
+  en: to meet
+  word_type: verb
+  perfective: spotkać
+  first_person_singular: ja spotykam
+  second_person_singular: ty spotykasz
+  third_person_singular: on/ona/ono spotyka
+  first_person_plural: my spotykamy
+  second_person_plural: wy spotykacie
+  third_person_plural: oni/one spotykają
+  key: bf720ff6-faf7-464a-8bf9-caaf2f5b7c9b

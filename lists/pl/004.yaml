@@ -3,26 +3,26 @@
   word_type: noun
   gender: masculine
   plural_form: szacunki
-  key: 8967df19-d37c-49b9-a15b-b18ce11aae95
+  key: 89fdf225-3f57-46da-81f0-5ba5d7875af1
 - en: sad
   pl: smutny
   word_type: adjective
   positive: smutny
   comparative: smutniejszy
   superlative: najsmutniejszy
-  key: dc054aa2-aab3-4b8d-ad82-d8f5cd189116
+  key: a1be74e1-8296-4e60-8883-5d1a305aff8f
 - en: surprise
   pl: niespodzianka
   word_type: noun
   gender: feminine
   plural_form: niespodzianki
-  key: 500f875c-4516-4d9a-abd4-c56ad11a8328
+  key: c9ed6f84-aef9-4dbb-a155-645e07e34c0a
 - en: thought
   pl: myśl
   word_type: noun
   gender: feminine
   plural_form: myśli
-  key: d6645173-b373-429f-be25-9d878782d8c5
+  key: 2ce632fa-ded1-4437-8907-c439855786e9
 - en: to understand
   pl: rozumieć
   word_type: verb
@@ -33,239 +33,239 @@
   second_person_plural: wy rozumiecie
   third_person_singular: on/ona/ono rozumie
   third_person_plural: oni/one rozumieją
-  key: 2326e2e1-3386-4197-91f3-4269ba6b5d88
+  key: abb74a18-95ea-46c6-8a8d-b5cafe663be9
 - en: thing
   pl: rzecz
   word_type: noun
   gender: feminine
   plural_form: rzeczy
-  key: d5493c18-a4fb-420e-b379-e4c535ea6aa9
+  key: 930eead2-1034-451d-96b6-86b26684152b
 - en: way
   pl: sposób
   word_type: noun
   gender: masculine
   plural_form: sposoby
-  key: 5e9c59f5-00f6-4065-8d33-1b0d2ef35104
+  key: 923a1394-20ce-49be-bee4-e177c064a4a1
 - en: place
   pl: miejsce
   word_type: noun
   gender: neuter
   plural_form: miejsca
-  key: cd64b523-9940-44cc-a471-13d9e7b7ea2f
+  key: 1e928280-69b4-4a74-b3a2-7535c224a203
 - en: part
   pl: część
   word_type: noun
   gender: feminine
   plural_form: części
-  key: 9dc45e20-54f2-497d-9c0b-eabaf3fe4272
+  key: e258ff1b-344d-42ee-bf54-a9eda21d56b6
 - en: world
   pl: świat
   word_type: noun
   gender: masculine
   plural_form: światy
-  key: 1fc1ad49-ae1d-4c73-b049-2eb26c6bf133
+  key: af4037b4-e8a4-4522-80fd-a492b9916dd9
 - en: problem
   pl: problem
   word_type: noun
   gender: masculine
   plural_form: problemy
-  key: c4df5251-bcc4-460f-959f-447eb871570e
+  key: 4b512ed0-1566-4a43-a0e5-14185f40358f
 - en: example
   pl: przykład
   word_type: noun
   gender: masculine
   plural_form: przykłady
-  key: 6dd5ebc2-ce8c-4deb-9c6a-26b25d1b4cf1
+  key: 16cadb78-37e8-49e2-851c-59e21e4732af
 - en: group
   pl: grupa
   word_type: noun
   gender: feminine
   plural_form: grupy
-  key: 8d317554-9a4f-4f30-80b8-a99a96ba31b5
+  key: 0632ab80-44a1-4ace-b736-7b6e0988dc9e
 - en: fact
   pl: fakt
   word_type: noun
   gender: masculine
   plural_form: fakty
-  key: cee03ab7-ef2a-473a-807e-f534ce3cc33a
+  key: 2a924422-cf29-4c53-8f8c-ddd2ce8827a4
 - en: point
   pl: punkt
   word_type: noun
   gender: masculine
   plural_form: punkty
-  key: 6d99c712-6e11-439d-846f-0ed47b48a94d
+  key: 0ffcf0ac-b2f4-4b9a-a282-9fea8f4652f6
 - en: change
   pl: zmiana
   word_type: noun
   gender: feminine
   plural_form: zmiany
-  key: 24ce9b76-1760-4053-88ef-fd130852719c
+  key: e3f7d84f-dbf9-44cf-aadc-b3ea999623c7
 - en: difference
   pl: różnica
   word_type: noun
   gender: feminine
   plural_form: różnice
-  key: 80142205-ab7e-4562-9f71-140724922b42
+  key: 231495eb-cb37-4287-a99a-942947d2047a
 - en: end
   pl: koniec
   word_type: noun
   gender: masculine
   plural_form: końce
-  key: b1f027b8-7f31-40aa-a490-8bf3690ddba3
+  key: 68dc1894-fed8-4852-8948-a253424967a2
 - en: plan
   pl: plan
   word_type: noun
   gender: masculine
   plural_form: plany
-  key: 8b3539ab-c491-427c-b0f5-148daee35020
+  key: 0dc29211-11da-43af-b335-7b77a90fc213
 - en: chance
   pl: szansa
   word_type: noun
   gender: feminine
   plural_form: szanse
-  key: 360025a2-defe-4403-9080-f3fddffc08c5
+  key: 4e7ff0a3-803b-45fe-940c-f82707d90751
 - en: choice
   pl: wybór
   word_type: noun
   gender: masculine
   plural_form: wybory
-  key: 063a6df2-fdcc-421a-8b48-cd84c1476720
+  key: 4057447c-b960-4ddd-beef-055d2aed44b2
 - en: red
   pl: czerwony
   word_type: adjective
   positive: czerwony
-  key: b6859949-0be6-49b8-af38-3580dc0cd838
+  key: 00864a89-b1e6-4995-a134-04bea64f6da0
 - en: blue
   pl: niebieski
   word_type: adjective
   positive: niebieski
-  key: 8d0ddb3c-e4ba-447f-9436-9da0bd6cc087
+  key: 4aa28318-1986-4c05-9e14-50c0e6f917fb
 - en: yellow
   pl: żółty
   word_type: adjective
   positive: żółty
-  key: cf9d83ce-2574-428f-bc46-28129a4c0d6c
+  key: e168eb79-9899-4601-a8a3-9ad0ceaf3fa3
 - en: green
   pl: zielony
   word_type: adjective
   positive: zielony
-  key: f6cb2cc1-c7f6-449f-8cc7-78a544e45c51
+  key: 313025db-1c58-4476-9da3-b340f31f7579
 - en: orange (color)
   pl: pomarańczowy
   word_type: adjective
   positive: pomarańczowy
-  key: e2fcee38-276f-470c-a61c-e846d7797ce7
+  key: 682978ed-c680-4847-94dd-3bec3f7a5525
 - en: purple
   pl: fioletowy
   word_type: adjective
   positive: fioletowy
-  key: 40b13c40-435f-465c-ac74-e743ee24b0e2
+  key: 828c39b3-26ae-4117-aeb8-8002b0d829c5
 - en: pink
   pl: różowy
   word_type: adjective
   positive: różowy
-  key: 9753868e-05d8-40ec-ac06-86e3c843e753
+  key: b09f0c57-8502-4761-99be-e29202883f1b
 - en: black
   pl: czarny
   word_type: adjective
   positive: czarny
-  key: b4655c14-14a5-4355-add3-8a57ccbccbaa
+  key: 63d87795-82ac-4296-a69e-2fb92c38f1d7
 - en: white
   pl: biały
   word_type: adjective
   positive: biały
-  key: 26b60756-122e-497a-b9d4-3f94b688d8ab
+  key: 52439a29-fc7c-4144-b56d-40086b58db10
 - en: gray
   pl: szary
   word_type: adjective
   positive: szary
-  key: fca0d3b9-324e-4822-9018-bacb05b84327
+  key: 72d584a1-8bfa-4dbf-8790-17aa2aaaf9ae
 - en: brown
   pl: brązowy
   word_type: adjective
   positive: brązowy
-  key: 4863227a-af99-48f1-b3e5-6437fb7b2a25
+  key: 668efc15-80a4-48e5-b3da-1709b11071a1
 - en: here
   pl: tutaj
   word_type: adverb
-  key: 947f2c51-bb9f-4f1d-b79c-d84ca08ec3d5
+  key: 358318a8-abb8-4425-8e62-c29163ad80c2
 - en: there
   pl: tam
   word_type: adverb
-  key: 5d3be377-a967-4752-bd29-7a2f2ed957b0
+  key: 9014d009-e8d9-4c19-8119-a40d2ce9a503
 - en: area
   pl: obszar
   word_type: noun
   gender: masculine
   plural_form: obszary
-  key: 0c2d145a-9839-42cc-8f54-4c24bc66f688
+  key: a264e541-126e-40db-bb19-c119ad633fdf
 - en: center
   pl: centrum
   word_type: noun
   gender: neuter
   plural_form: centra
-  key: 6a9e30d2-f5e0-4af4-a51d-01156e02b450
-- en: corner
+  key: 3edcb17b-d530-4211-aeb1-5a8563f7f467
+- en: corner / horn
   pl: róg
   word_type: noun
   gender: masculine
   plural_form: rogi
-  key: 12f9b896-247d-4e50-b31a-5b3cc3199d57
+  key: 31476363-23cb-44e0-8267-003834ccec36
 - en: direction
   pl: kierunek
   word_type: noun
   gender: masculine
   plural_form: kierunki
-  key: 89bee150-4b07-4a1f-becd-f1f099e28c61
+  key: c1947dba-669c-4d2d-87b7-d5e24a6c8ad7
 - en: in
   pl: w
   word_type: preposition
-  key: 88144d66-db75-4910-95e1-1f56b6ff1628
+  key: 61fb0c84-27e7-4f2b-9af2-9152ec890d29
 - en: on
   pl: na
   word_type: preposition
-  key: 36501ceb-c6b8-4da4-a14a-5b2b2f3d801b
+  key: bed26701-1330-475c-b2da-4df4b8bf7c0f
 - en: to
   pl: do
   word_type: preposition
-  key: 232005f3-b576-486c-92dc-7562b07f9db9
+  key: a9c8a21c-b871-4c98-82ba-b1a7103d15c8
 - en: from
   pl: z
   word_type: preposition
-  key: b6335a75-20eb-4ea9-95e6-13ff2a50cb32
+  key: ae52b31f-e0e9-4256-b18d-34f2c683ff75
 - en: for
   pl: dla
   word_type: preposition
-  key: 0af68ac1-300a-40aa-b6af-db5baf6d7015
+  key: fb0b8537-bbbf-4c36-b67b-5dda030d0e9d
 - en: about
   pl: o
   word_type: preposition
-  key: d31d3e72-561a-47a1-959c-5f6557c54ff3
+  key: d1e3ea00-f82e-41f5-bf52-4d9a8342f623
 - en: up
   pl: w górę
   word_type: adverb
-  key: c7622d5a-e621-4bc9-be98-b7f013a32615
+  key: 4eaf7c05-63d8-4f3d-921e-4051ad2eb65a
 - en: down
   pl: w dół
   word_type: adverb
-  key: c41972a1-1ec7-42be-8c0c-8a29ae51adab
-- en: top
+  key: 7bb2eb37-1a47-45fa-a437-b243aea28cf8
+- en: mountain / top
   pl: góra
   word_type: noun
   gender: feminine
   plural_form: góry
-  key: ca52d5bc-d3f7-4310-9e3e-b92e1d4fee8b
-- en: bottom
+  key: 752d79e3-2856-40bd-8564-ced1d4b5efff
+- en: bed / bottom / floor
   pl: dno
   word_type: noun
   gender: neuter
   plural_form: dna
-  key: c47de9c7-a07b-4cd3-8d3c-89fabb70e9e8
+  key: b9c3f2ca-e9a4-42b7-8dfb-d6893ef42a6e
 - en: under
   pl: pod
   word_type: preposition
-  key: 4b0d1579-33ee-4e4f-b07a-93c641cee60a
+  key: cc7e1c22-ac66-4f4c-b2ea-bab669a7e936
 - pl: w lewo
   en: to the left
   word_type: adverb
-  key: f3d326a2-1fe1-4bdf-89ba-951531f190c2
+  key: 3b8bdfae-68cc-4ff0-bd60-ef81940d9d10

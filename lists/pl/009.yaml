@@ -3,201 +3,202 @@
   word_type: noun
   gender: masculine
   plural_form: kawałki
-  key: 2df91256-19f7-4961-8620-f59f0e6f8f78
+  key: ee184de8-9d7a-4bdd-9677-e488a61334a4
 - pl: strona
   en: side
   word_type: noun
   gender: feminine
   plural_form: strony
-  key: b0fbc9c6-5288-4478-b422-0bc7c94a2bad
+  key: 9f23e40f-5270-46ae-b775-f7ffb3c05620
 - pl: rozmiar
   en: size
   word_type: noun
   gender: masculine
   plural_form: rozmiary
-  key: 34bc476b-c190-4e38-8bad-3e8c780da701
+  key: 659230c6-5ba3-488f-94d6-94d5719cfa93
 - pl: kształt
   en: shape
   word_type: noun
   gender: masculine
   plural_form: kształty
-  key: bba5ea85-3794-4625-868c-24b809f0ed89
+  key: 32ab114a-6f42-48a8-96a5-e100dc5ec194
 - pl: linia
   en: line
   word_type: noun
   gender: feminine
   plural_form: linie
-  key: a3c5390a-4787-4ea2-b9c4-37ce16f05df4
+  key: b54f737f-055c-430d-beb9-81996bd68db2
 - pl: wiek
   en: age
   word_type: noun
   gender: masculine
   plural_form: wieki
-  key: 64f73a49-960c-4b5f-8cdb-962fbbb663ca
+  key: d64e8f5e-597d-4b6d-83af-02b6f8d3b99d
 - pl: te
   en: these
   word_type: pronoun
-  key: 8ebe6207-d70e-4749-9a6f-6cf090f31371
+  key: b507b31a-9e1e-41c5-a4da-07c70ca5b39a
 - pl: tamte / tamci
   en: those
   word_type: pronoun
-  comment: '*tamte* is the feminine plural form and *tamci* is the masculine plural form'
-  key: bf5d780e-9565-4624-b1fc-93036a4a8765
+  comment: Used to address multiple people or objects. '*tamte* is the feminine form
+    and *tamci* is the masculine form'.
+  key: e49a42c5-10c8-43eb-9c14-ca96920d26d5
 - pl: jako
   en: as
   word_type: conjunction
-  key: 9b19c659-e558-47a1-a6b9-00b50f059430
+  key: 095aaad9-5f11-4bfb-9c4d-9f0676ee0f3b
 - pl: wszystko
   en: all
   word_type: pronoun
-  key: a99af645-562f-4d1b-b34f-46f51400314a
+  key: c8ecd108-8e54-49e1-a63a-b58c9d489232
 - pl: jakikolwiek
   en: any
   word_type: pronoun
-  key: f0996d75-b227-4b55-ad55-3c065c8d1797
+  key: 5e431fc6-a0d9-4859-b4d6-7ee8169d1ab0
 - pl: niektóre
   en: some
   word_type: pronoun
-  key: c6978d70-48a9-4fc6-9f61-4559a79544df
+  key: c02a9853-47d4-41f0-bf91-1f4b7c51862f
 - pl: każdy
   en: every
   word_type: pronoun
-  key: 7c209fb7-56f5-46a5-9576-84519a3ced65
+  key: 80d3d4c2-fd98-4ce5-8a8d-5ac85d964013
 - pl: wiele
   en: many
   word_type: pronoun
-  key: 567d2208-b1d6-451a-b25a-5655f0f980be
+  key: 01986626-d486-4cdb-bd6d-f38a32e066ff
 - pl: niewiele
   en: few
   word_type: pronoun
-  key: 9bdb90b3-c633-4410-b7c6-4d6fe6591d50
+  key: 82737bc5-ff5d-403e-8ebf-860eff4cd2b8
 - pl: więcej
   en: more
   word_type: adverb
-  key: 97dd1a6e-7e71-4231-b223-1f2d87936d31
+  key: a95a3e15-7986-45df-9b82-392e9364ab23
 - pl: najbardziej
   en: most
   word_type: adverb
-  key: 4c3043ae-5784-4dab-a2b4-2e3229977f4c
+  key: 795db840-7ab4-4fde-8ddd-91ca9bd0a098
 - pl: dużo
   en: much
   word_type: adverb
-  key: 2261a5cf-f742-4eb5-8c0c-30efcf73d2da
+  key: 4e991219-33c0-4b39-ac31-ddf63159a2b5
 - pl: oba
   en: both
   word_type: pronoun
-  key: 659d37c9-1ed4-4f5d-9791-adf4436a8351
+  key: f2cc1324-c34a-4169-ae00-7c58467be35a
 - pl: inny
   en: other
   word_type: adjective
   positive: inny
-  key: 98c23fd8-a5e1-4846-955e-08c6909aa4d5
+  key: fbe7a238-43f5-42b3-b7a2-4408c655b82e
 - pl: bardzo
   en: very
   word_type: adverb
-  key: b3f96439-030a-474c-854e-5ffec5005d07
+  key: e6137f19-0102-4839-92f9-3ebfda9c4082
 - pl: również
   en: also
   word_type: adverb
-  key: ef8e6fb2-640d-4609-95b4-651d585124e1
+  key: 4a28c13d-425a-4f75-949a-d1826e41e440
 - pl: po prostu
   en: just
   word_type: adverb
-  key: c4aa00aa-dea9-495d-a07e-bad198f32961
+  key: a07de235-3df5-423c-a681-62a460c420b3
 - pl: prawie
   en: almost
   word_type: adverb
-  key: fe2e5b81-b5c4-40cd-94a0-76821b2ce7f9
+  key: 3e86e038-e5ce-4df2-a554-764cd237b31c
 - pl: naprawdę
   en: really
   word_type: adverb
-  key: 872143d1-4168-4c6c-83a5-fe2227beb409
+  key: 4f6a1bd8-c9fc-4d02-9015-065636de3209
 - pl: może
   en: maybe
   word_type: adverb
-  key: 9064dce7-8398-47d0-af41-0047e22b1c20
+  key: 8f8f12f0-7afb-47f6-ad60-b0a3a3f35e50
 - pl: prawdopodobnie
   en: probably
   word_type: adverb
-  key: 9bbf45c0-d936-4085-b595-209e9497ff4f
+  key: 35548fe4-8027-4337-b8b0-e67c979a4bb1
 - pl: zwłaszcza
   en: especially
   word_type: adverb
-  key: 4bf30ae3-7432-442c-a128-25053c705fcf
+  key: 2182d0f4-d101-4d33-8963-7726e5ed1447
 - pl: dokładnie
   en: exactly
   word_type: adverb
-  key: 5241ec1a-e9e0-48c9-bced-5c1620a3155b
+  key: 039ec2fa-98ae-49af-806b-48e65376b139
 - pl: razem
   en: together
   word_type: adverb
-  key: 29afd407-2144-436c-ae8f-fdfc6a3237c5
+  key: d807554f-b4b8-47fd-8f1e-3013aa901fb8
 - pl: jeszcze
-  en: else
+  en: yet
   word_type: adverb
-  key: a0df7fc5-7836-486b-9ad7-398202ea57e5
+  key: 3857985d-ec5c-4b5c-b5ed-c673321e9283
 - pl: wystarczająco
   en: enough
   word_type: adverb
-  key: 9d23f33d-16c7-4857-82f1-8a12cd81ea6e
+  key: f5eff67d-53fc-4dd1-b8dc-b19ef42f3d97
 - pl: całkiem
-  en: quite
+  en: quite (fairly)
   word_type: adverb
-  key: dbac1b85-7fb1-42da-81d8-8d7b98f705a9
+  key: 8ff8b3eb-dcd1-4ea5-a51c-af8f901d62b6
 - pl: złoto
   en: gold
   word_type: noun
   gender: neuter
   plural_form: złota
-  key: 231c2821-0ccd-45a6-b2ae-7638f79bfb3b
+  key: ba498c96-1c96-42ef-8d8e-48e4777e387d
 - pl: żelazo
   en: iron
   word_type: noun
   gender: neuter
   plural_form: żelaza
-  key: feae0123-b5d4-4730-920f-121fd880af5e
+  key: bd93d880-5064-4411-b6a2-1ab8716e4be2
 - pl: srebro
   en: silver
   word_type: noun
   gender: neuter
   plural_form: srebra
-  key: dc8f7988-9edc-4345-b464-a4c44ad2b3d6
+  key: cbc92d9b-107e-483e-9515-05dbece8503d
 - pl: plastik
   en: plastic
   word_type: noun
   gender: masculine
   plural_form: plastiki
-  key: 8485ee23-523c-4593-a626-b0c9621c9d47
+  key: 8970855d-9bd4-46a1-ada6-919a491bca97
 - pl: drewno
   en: wood
   word_type: noun
   gender: neuter
   plural_form: drewna
-  key: ba1d2393-4ebf-4264-b4ca-0031e1815837
+  key: 65adb73d-d25e-41f4-8426-d32b80b352fb
 - pl: kamień
   en: stone
   word_type: noun
   gender: masculine
   plural_form: kamienie
-  key: 0abae6d2-ddb4-4073-80da-e2411419e5f5
+  key: 2d096eed-b710-41b9-95a0-ea1dfd5a0ea2
 - pl: metal
   en: metal
   word_type: noun
   gender: masculine
   plural_form: metale
-  key: d0ac9089-65c1-4cd2-8648-3b27530444ae
+  key: be547bca-9ec9-4a61-865a-144e77b5a3de
 - pl: tkanina
   en: cloth
   word_type: noun
   gender: feminine
   plural_form: tkaniny
-  key: 7fe06dfa-7d43-48c8-8502-089f6941fd82
+  key: 358be52b-674b-4385-955c-0fc34fe46c4e
 - pl: szkło
   en: glass (material)
   word_type: noun
   gender: neuter
   plural_form: szkła
-  key: 339a9ad9-c330-4908-a3b4-c23ee4df22e8
+  key: d91d78e4-c8d0-477c-a6b9-b376e51fe331
 - pl: porównywać
   en: to compare
   word_type: verb
@@ -208,36 +209,36 @@
   second_person_plural: wy porównujecie
   third_person_singular: on/ona/ono porównuje
   third_person_plural: oni/one porównują
-  key: cb8f5b84-fc87-422f-b95d-1f3c02950071
+  key: a57f616c-e8b1-418f-9dcd-80fa260a8aea
 - pl: porównanie
   en: comparison
   word_type: noun
   gender: neuter
   plural_form: porównania
-  key: 52d3e592-87e7-4b68-8cd6-23579d630e04
+  key: dc1c6994-c790-4832-81c7-613be6e9c826
 - pl: powód
   en: reason
   word_type: noun
   gender: masculine
   plural_form: powody
-  key: 46336dda-98b2-4e32-adec-b28de96f7d4e
+  key: 774b3b2a-4e0e-41da-bfb8-63d72adb713f
 - pl: co
   en: what
   word_type: pronoun
-  key: c11fdbe0-fd7a-4eb3-a52f-9ec34a2f867d
+  key: 5d3fec76-efa5-44d7-a166-a44ef9756a96
 - pl: kto
   en: who
   word_type: pronoun
-  key: 530519db-8e45-4837-83f5-fd663647a76f
+  key: 20d7434c-88d2-4729-b63d-1d2e1407f956
 - en: which
   pl: który
   word_type: pronoun
-  key: 531b498e-61fa-4f28-bb5f-7cddb8f5c815
+  key: d4eef4c7-c7e7-4062-8cb0-eacfba956758
 - en: why
   pl: dlaczego
   word_type: adverb
-  key: 78d3d1b7-faa2-4c4f-8c0f-29e67938c1ad
+  key: 319e97a2-df46-41d5-a3a4-8e045b4f0dc6
 - en: how
   pl: jak
   word_type: adverb
-  key: 4623610d-ec21-445e-94bd-8e79ddac6272
+  key: 3f98c5d7-282e-49d5-8e34-870c0c4a46ca

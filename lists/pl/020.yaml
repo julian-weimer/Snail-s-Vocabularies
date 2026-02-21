@@ -1,39 +1,23 @@
-- pl: zwykle
-  en: usually
-  word_type: adverb
-  key: 56bc333e-55f8-4f65-b81e-577fa9edee2a
-- pl: ciężko
-  en: heavily
-  word_type: adverb
-  key: 0a8e1551-4c41-4960-b979-f699c98956ec
-- pl: gdyż
-  en: because
-  word_type: conjunction
-  key: 2bf250f0-b72a-4306-9932-6c7216768774
-- pl: nagle
-  en: suddenly
-  word_type: adverb
-  key: 8de4f4e0-6166-41e7-8e27-4caa35ed0f11
 - pl: niektórzy
   en: some (people)
   word_type: pronoun
-  key: 53d9438d-0808-46e4-8956-35310c038bce
+  key: 00d2444a-680b-4762-bf47-df7915d061a1
 - pl: poziom
   en: level
   word_type: noun
   gender: masculine
   plural_form: poziomy
-  key: 0c26c091-fe4f-4547-956e-df00b40b598a
+  key: 70201c36-9bde-4890-a537-e0d2d7f9d62f
 - pl: zespół
   en: team
   word_type: noun
   gender: masculine
   plural_form: zespoły
-  key: 128ee32f-c704-4b83-9912-3b50a2ab8922
+  key: e1c1f578-b8ea-4425-941a-31ee709a478e
 - pl: znacznie
   en: significantly
   word_type: adverb
-  key: abc84974-9e55-4296-a294-c545b9fc1a9b
+  key: 4b1c2779-96b4-4e43-bdb6-8ceea58b53d3
 - pl: brzmieć
   en: to sound
   word_type: verb
@@ -44,13 +28,13 @@
   first_person_plural: my brzmimy
   second_person_plural: wy brzmicie
   third_person_plural: oni/one brzmią
-  key: 0880c2aa-4899-4ba2-afe8-6772d654344a
+  key: 0cbbf82f-643c-4793-bb33-211716ca6387
 - pl: styl
   en: style
   word_type: noun
   gender: masculine
   plural_form: style
-  key: f631c775-3a25-492e-b981-d33631b0cd91
+  key: 63c7281c-887c-42eb-938e-f964a0cf8226
 - pl: uważać
   en: to think (believe)
   word_type: verb
@@ -63,42 +47,42 @@
   third_person_plural: oni/one uważają
   comment: Note - zauważyć means "to notice"; uważać as "to believe" is typically
     imperfective
-  key: 36310b7c-6986-4ce8-9fd9-b77b3325395c
+  key: 1dd091ff-4ac9-4ce5-b994-6606c978678c
 - pl: wielki
   en: great
   word_type: adjective
   positive: wielki
   comparative: większy
   superlative: największy
-  key: 66107fc7-8a27-4c31-8c0f-90fb7aa52276
+  key: 522cb955-29f4-4568-94ce-a765161abcda
 - pl: zaś
   en: whereas
   word_type: conjunction
-  key: 23ae3bf6-3954-417b-b25e-15a2e7dc7a04
+  key: 26f3d605-dd43-492d-8575-e5f001a436fe
 - pl: żaden
   en: none
   word_type: pronoun
-  key: b360f131-bb26-47c7-b3e0-f1d687705da2
+  key: 997cf910-1747-45bb-bc73-04c79d07e73e
 - pl: całkowicie
   en: completely
   word_type: adverb
-  key: fa0e8d78-c386-4799-895f-f8256b5e7708
+  key: 10fffb92-20db-4fdc-b1d9-82d1ba41de96
 - pl: nauka
   en: science
   word_type: noun
   gender: feminine
   plural_form: nauki
-  key: 9147f68c-9a10-41a7-a02c-cf9d586f0b70
+  key: cc089085-5c3f-4186-adc3-bf77202a77bc
 - pl: oprócz
-  en: besides
+  en: except for
   word_type: preposition
-  key: 2630365f-8d19-4a39-935b-3ed95455cf12
+  key: f5482aee-bf69-4a9f-993d-e9b8bf4235d7
 - pl: para
   en: pair
   word_type: noun
   gender: feminine
   plural_form: pary
-  key: 388b138e-6ed9-4c4e-acaf-0d5943f75a43
+  key: 301c4be3-2f58-4dc4-a43a-e515fc92d12e
 - pl: powinien
   en: to should (ought to)
   word_type: verb
@@ -109,32 +93,17 @@
   second_person_plural: wy powinniście (m) / wy powinnyście (f)
   third_person_plural: oni powinni / one powinny
   comment: Modal verb - no perfective form
-  key: 49617d72-fd3c-46c6-bc19-ff163c5cf265
-- pl: Wiadomo...
-  en: It is known...
-  word_type: other
-  key: ff27e56f-50a2-41f1-9738-d2ca5524fe11
+  key: 398eed90-e23e-4b32-ad05-20cf117ac2a0
 - pl: dawno
   en: long ago
   word_type: adverb
-  key: 7af2db15-952b-4b2d-98fc-da263bf3172a
+  key: c4922fde-73dd-43ec-bfd6-8930d099898f
 - pl: gmina
   en: municipality
   word_type: noun
   gender: feminine
   plural_form: gminy
-  key: 2b1947fc-cd16-40c9-a8a8-cbba5484a89d
-- pl: powinny
-  en: to should (ought to, feminine plural)
-  word_type: verb
-  first_person_singular: ja powinienem (m) / ja powinnam (f)
-  second_person_singular: ty powinieneś (m) / ty powinnaś (f)
-  third_person_singular: on powinien / ona powinna / ono powinno
-  first_person_plural: my powinniśmy (m) / my powinnyśmy (f)
-  second_person_plural: wy powinniście (m) / wy powinnyście (f)
-  third_person_plural: oni powinni / one powinny
-  comment: Modal verb - no perfective form
-  key: bc8e8f7b-0cb1-48b9-b096-6ac7f7392c2e
+  key: 7bf4bcbf-53b1-44d1-bd8e-9043a57e3c4a
 - pl: prowadzić
   en: to lead
   word_type: verb
@@ -145,71 +114,71 @@
   first_person_plural: my prowadzimy
   second_person_plural: wy prowadzicie
   third_person_plural: oni/one prowadzą
-  key: 656545a4-5d07-4377-a0fb-2b449538194e
+  key: 3fec22dc-ea2a-4eec-8bf9-7a7a520e4115
 - pl: siła
   en: strength
   word_type: noun
   gender: feminine
   plural_form: siły
-  key: b18f5ced-4dde-410d-9dbb-fdf8fc9cdd6d
+  key: 9bc10c32-946a-46c2-b805-af33c526eacc
 - pl: zdecydowanie
   en: definitely
   word_type: adverb
-  key: ba1ad390-97a2-4a10-8b22-6f297d11e6c2
+  key: 5938be38-5512-41da-8089-d8626482c785
 - pl: autor
   en: author
   word_type: noun
   gender: masculine
   plural_form: autorzy
-  key: d88b2c44-3d5d-4027-b6ee-cdd87d4feab9
+  key: fb3119c9-8ee4-4463-b9e4-89df93366463
 - pl: dostęp
   en: access
   word_type: noun
   gender: masculine
   plural_form: dostępy
-  key: 2bd1d861-6d0f-4a73-af37-3e48c4c68f36
+  key: 2217bb75-39c1-43f5-bc71-37bbf6847e97
 - pl: Hej!
   en: Hey!
   word_type: other
-  key: 1fa0b2bf-83c7-4f9c-9cc5-2eff0c84048b
+  key: 7d18ad88-abf6-48ef-a690-1f5168faed10
 - pl: najmniej
   en: least
   word_type: adverb
-  key: 463533c0-320a-4129-ab48-10b6f8ef3801
+  key: 127de7fd-1515-4d08-929d-ecb90ef20c3d
 - pl: niby
   en: supposedly
   word_type: adverb
-  key: b5842a3c-7d9d-4e70-b2e8-a0762adf42b3
+  key: 7c468415-9617-4db3-b90f-6863f1313fe4
 - pl: spokojnie
   en: calmly
   word_type: adverb
-  key: 321a0294-8233-423b-a88a-f4165a13cb35
+  key: 4d65f8fd-766e-45f5-890e-4415a309c5f7
 - pl: wybory
   en: election
   word_type: noun
   gender: masculine
   plural_form: wybory
-  key: 27f28987-3498-4f5f-be9c-c60e4dd654ba
+  key: 40e15f92-83dc-4028-abfa-818b6c4e7f47
 - pl: wyłącznie
   en: exclusively
   word_type: adverb
-  key: 5d33ea3a-cbe0-4d5c-beb1-26a682f84710
+  key: f9a596b3-079b-497b-9bf2-ec19afbb63e1
 - pl: zdanie
   en: opinion
   word_type: noun
   gender: neuter
   plural_form: zdania
-  key: 6b67124b-d35d-4eb6-a4de-7b755d38265e
+  key: 842849ae-1ce0-423b-bf02-a1ad06492e31
 - pl: kolej
-  en: turn
+  en: turn / railway
   word_type: noun
   gender: feminine
   plural_form: koleje
-  key: 60dcbb39-a772-4685-a9cc-a825230143f1
+  key: 8050f78c-f106-4ea0-820a-5a994f14a44b
 - pl: nasza
   en: our
   word_type: pronoun
-  key: 5f552390-81e7-4909-8cde-bb8d10a4ba43
+  key: b7c49d3e-0f5f-4542-b9e5-2bc63e0ab391
 - pl: polecać
   en: to recommend
   word_type: verb
@@ -220,7 +189,7 @@
   first_person_plural: my polecamy
   second_person_plural: wy polecacie
   third_person_plural: oni/one polecają
-  key: e658074f-d0a8-4d9e-ae7c-6cd929dad884
+  key: 1d5133b0-5cf0-4a28-8b80-d3bdaaed06a4
 - pl: stanowić
   en: to constitute
   word_type: verb
@@ -231,59 +200,94 @@
   first_person_plural: my stanowimy
   second_person_plural: wy stanowicie
   third_person_plural: oni/one stanowią
-  key: 3e731782-3b91-45e4-a7d6-8c8d1c5dd619
+  key: 620c634e-a136-461d-970b-29b4a6883ef4
 - pl: artykuł
   en: article
   word_type: noun
   gender: masculine
   plural_form: artykuły
-  key: 9313a143-4a65-4287-990c-ccad3546d84c
+  key: 562caa1e-48d1-4bf4-b9de-739c375ab63d
 - pl: broń
   en: weapon
   word_type: noun
   gender: feminine
   plural_form: bronie
-  key: fecb9219-0566-4c0d-aaf4-19050ee0d22a
+  key: 0a7512bd-aa70-4277-9e9f-026acbce15de
 - pl: wrażenie
   en: impression
   word_type: noun
   gender: neuter
   plural_form: wrażenia
-  key: 3cd6e725-b25a-472c-96d8-8a72c2b5f2aa
+  key: 5da3ec16-6f60-44f8-8fde-6e54ad04569c
 - pl: względem
   en: regarding
   word_type: preposition
-  key: be042968-7b4e-4fae-9158-a8006acec297
+  key: b6778d70-6ee3-4656-8ed8-dca7dcba0991
 - pl: właściwie
   en: actually
   word_type: adverb
-  key: 3067c5c8-4e41-41f1-b7eb-fd611b6ff2fc
+  key: e021c366-14f7-4d43-9b93-ce59babc3cb0
 - pl: związany
   en: related
   word_type: adjective
   positive: związany
   comparative: bardziej związany
   superlative: najbardziej związany
-  key: 9a0ed1a2-cfed-4180-baae-6ce217e4c891
+  key: 8ea2eff5-e6a3-43a3-9ab8-dd04eb33102a
 - pl: łatwo
   en: easily
   word_type: adverb
-  key: 2d72f1c8-d1c9-4d1f-b77b-8a3adca5f79d
+  key: ae9ef7ff-a110-4706-a0c6-144db6680dcf
 - pl: nieco
   en: somewhat
   word_type: adverb
-  key: 552d33c2-a5a2-483d-b8d1-e3dd7eaa943c
+  key: 3a8cb3cd-61c5-44b7-95da-a64d331062f8
 - pl: numer
   en: number (identifier)
   word_type: noun
   gender: masculine
   plural_form: numery
-  key: 659c962e-a49a-49d1-97dc-da2c4775d003
+  key: dca18b81-d52d-46d5-8d89-f872307c516f
 - pl: poniżej
   en: below
   word_type: preposition
-  key: 35dc33a0-bc97-48e3-bd54-64abb7c67915
+  key: d574314a-84d6-4217-9515-313262c749dc
 - pl: poważnie
   en: seriously
   word_type: adverb
-  key: b8375097-2208-4c4d-bc31-b2b244c1f44e
+  key: b0affd41-c381-45fb-aa54-0bf8ea7b4623
+- pl: blisko
+  en: close / near
+  word_type: adverb
+  key: ba330ddd-7660-4b56-a62e-5daa06fc23aa
+- pl: Cóż...
+  en: Well...
+  word_type: other
+  key: c4970465-f3b3-478f-982f-9fbb160d79b6
+- pl: polityka
+  en: politics
+  word_type: noun
+  gender: feminine
+  plural_form: polityki
+  key: f19dd81e-9775-4f08-b780-bc12263d2566
+- pl: ponadto
+  en: moreover
+  word_type: adverb
+  key: f0db5562-3685-4b94-b153-4d334820ff5d
+- pl: posiadać
+  en: to possess / to own
+  word_type: verb
+  perfective: posiąść
+  first_person_singular: ja posiadam
+  second_person_singular: ty posiadasz
+  third_person_singular: on/ona/ono posiada
+  first_person_plural: my posiadamy
+  second_person_plural: wy posiadacie
+  third_person_plural: oni/one posiadają
+  key: 4065ec3f-ee1e-4d41-96ba-9192c697a5d0
+- pl: produkcja
+  en: production
+  word_type: noun
+  gender: feminine
+  plural_form: produkcje
+  key: 75875637-70bd-4c6e-9486-2848ec34a58e

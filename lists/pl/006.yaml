@@ -3,298 +3,298 @@
   word_type: noun
   gender: masculine
   plural_form: kilometry
-  key: 76b6b8ae-e0c3-4264-a4d7-59373a05c0ff
+  key: 5021093d-213e-4308-8a21-83dca9f2d9e3
 - en: mile
   pl: mila
   word_type: noun
   gender: feminine
   plural_form: mile
-  key: f9d4f1f1-fcd7-4d75-a6d4-da51dd4e5559
-- en: weight
+  key: 22666887-6b52-4f66-bc86-157ffcb3f4b2
+- en: scales
   pl: waga
   word_type: noun
   gender: feminine
   plural_form: wagi
-  key: 9ea51877-6973-4267-ba58-ab9caf1af6fb
+  key: f09a3a11-e909-4f6e-a596-519673f08b33
 - en: kilogram
   pl: kilogram
   word_type: noun
   gender: masculine
   plural_form: kilogramy
-  key: 3d3b35a0-9b00-452f-8897-bd19ff906200
+  key: 2c040be8-3751-44f6-a2fe-4514609c6723
 - en: head
   pl: głowa
   word_type: noun
   gender: feminine
   plural_form: głowy
-  key: c8f86e2d-8fb4-486d-a48a-f60fd9a53d78
+  key: 98b16614-e2b9-48dc-8bda-c048b723dc0f
 - en: hair
   pl: włosy
   word_type: noun
   gender: masculine
   plural_form: włosy
-  key: cab47f84-8b2c-4f98-8097-217c9081a563
+  key: 2d23386e-c70f-415a-9570-6a8bae46b38f
 - en: face
   pl: twarz
   word_type: noun
   gender: feminine
   plural_form: twarze
-  key: a5101728-b7ab-4ec8-b435-92db39ed5498
+  key: 3d4d1f8a-e7db-44af-b802-78ca19e6a86d
 - en: brain
   pl: mózg
   word_type: noun
   gender: masculine
   plural_form: mózgi
-  key: 65319919-1004-4f1e-8bb1-65ff18e325c1
+  key: c5423c2b-d688-4fe2-96a1-2ff565a55444
 - en: eye
   pl: oko
   word_type: noun
   gender: neuter
   plural_form: oczy
-  key: 21ac5c3e-59b9-42b0-87fb-2758529f0720
+  key: 3a487a55-7ae7-4fb6-9f95-ac39e69e4321
 - en: ear
   pl: ucho
   word_type: noun
   gender: neuter
   plural_form: uszy
-  key: 528d0a10-bcb2-4e73-8cb7-16aee534bf18
+  key: 8a901703-5548-431b-a756-273fbfa9a502
 - en: nose
   pl: nos
   word_type: noun
   gender: masculine
   plural_form: nosy
-  key: 915e9c08-e1b5-4c4b-8297-2c88ca1f8ce0
+  key: 96107a38-cde6-4e43-a31f-63fcba932867
 - en: mouth
   pl: usta
   word_type: noun
   gender: neuter
   plural_form: usta
-  key: 0241e01c-10dc-49c1-a825-0cb1154c6ea0
+  key: 4e3bba47-7c78-4a37-bdfb-7e0b604065ea
 - en: lip
   pl: warga
   word_type: noun
   gender: feminine
   plural_form: wargi
-  key: 770417a3-401d-4984-b31c-e4a06b31dcac
-- en: tongue
+  key: 1549a683-eb40-42a4-a404-f92f338808d0
+- en: language / tongue (body part)
   pl: język
   word_type: noun
   gender: masculine
   plural_form: języki
-  key: 142a9286-f513-4f80-8cb1-01f82a8dd0b9
+  key: a3e2ee20-0bfc-41f6-a27a-9ff1f315bb54
 - en: tooth
   pl: ząb
   word_type: noun
   gender: masculine
   plural_form: zęby
-  key: 8bb0ef50-e069-4aea-8af7-14ab8abf8669
+  key: 5131407a-cb8c-4c89-aa70-da88081671c0
 - en: throat
   pl: gardło
   word_type: noun
   gender: neuter
   plural_form: gardła
-  key: 32422fa4-9bea-4f84-b9e8-3b5be65a2b3a
+  key: c9cffd7f-762a-48ab-9226-55aac89d9291
 - en: voice
   pl: głos
   word_type: noun
   gender: masculine
   plural_form: głosy
-  key: 232505c6-1632-4685-9ad4-c5dbb9e0bd92
+  key: 8c992d41-c516-46ad-bde8-a0da8c8790cf
 - en: hearing
   pl: słuch
   word_type: noun
   gender: masculine
   plural_form: słuchy
-  key: c670419b-863c-42a7-9e66-a3f98515608b
+  key: a990a654-94dd-479b-a951-c33e419867bf
 - en: neck
   pl: szyja
   word_type: noun
   gender: feminine
   plural_form: szyje
-  key: fb50b48f-5e98-45a6-bec4-82fd4a812034
+  key: bafd3571-d347-4c39-9db6-72df1877f816
 - en: shoulder
   pl: ramię
   word_type: noun
   gender: neuter
   plural_form: ramiona
-  key: f276bbe8-5fb8-491e-98a9-f382a112d17b
+  key: 51778d61-4be1-4386-a886-27aa4c8d5c84
 - en: chest
   pl: klatka piersiowa
   word_type: noun
   gender: feminine
   plural_form: klatki piersiowe
-  key: ed99a9f3-c9de-4df2-8f0f-af07cd558d18
+  key: f8f80bcc-2a62-4e83-b4a0-b1e6d9e73032
 - en: back (body part)
   pl: plecy
   word_type: noun
   gender: masculine
   plural_form: plecy
-  key: 863c1e96-db0a-47b9-a6b7-946a2282fbad
+  key: 0a57873b-3ef2-4527-9e9d-bc282952b8b9
 - en: hand
   pl: ręka
   word_type: noun
   gender: feminine
   plural_form: ręce
-  key: 35b8a0e3-bd93-468e-91a2-a267f65626f1
+  key: 9770f09e-bb9d-4ba9-84d3-f9b4448c144d
 - en: finger
   pl: palec
   word_type: noun
   gender: masculine
   plural_form: palce
-  key: fe3585da-2390-4f15-b029-46011485e9f2
+  key: e0cc4b05-b5d1-42ca-9f5d-e02e66fade2c
 - en: thumb
   pl: kciuk
   word_type: noun
   gender: masculine
   plural_form: kciuki
-  key: 66196091-0852-497c-aa27-69510df7a772
-- en: nail (body part)
+  key: eb7eaeba-25ca-4381-b6ed-da099d5489f9
+- en: fingernail / toenail
   pl: paznokieć
   word_type: noun
   gender: masculine
   plural_form: paznokcie
-  key: a8272ef7-c484-4e20-9f57-2f4643c9993e
+  key: e13e75c0-a9c6-404d-888e-ae6ea9eddc06
 - en: heart
   pl: serce
   word_type: noun
   gender: neuter
   plural_form: serca
-  key: 11c5f2e6-0d91-436e-b973-d746806a1040
+  key: 70c523be-55b3-4d62-a9da-e9526fdcf1dd
 - en: breath
   pl: oddech
   word_type: noun
   gender: masculine
   plural_form: oddechy
-  key: 45ab014f-d637-404d-b033-3dd696f5ceb7
+  key: b44db205-e122-49df-bc11-79b67b0d51b9
 - en: stomach
   pl: żołądek
   word_type: noun
   gender: masculine
   plural_form: żołądki
-  key: eebd7bd2-d126-4ab2-8cde-f97205035536
+  key: 6cc34660-10f6-47ff-ab97-504b2060c6cb
 - en: leg
   pl: noga
   word_type: noun
   gender: feminine
   plural_form: nogi
-  key: 3e2ac943-b5a7-4ae1-8695-57b9baa6c586
+  key: 6d8a591b-adc5-44ee-b112-ba554b7f7dd4
 - en: knee
   pl: kolano
   word_type: noun
   gender: neuter
   plural_form: kolana
-  key: 6c35b304-1000-4527-a2dc-c5ccfbf02ed7
+  key: 541cfe1d-6023-4cdf-994d-29c32bc1c648
 - en: foot
   pl: stopa
   word_type: noun
   gender: feminine
   plural_form: stopy
-  key: 251495f7-8ab0-4d81-83b3-83e8c96f5729
+  key: 83c87d60-be2a-4c61-8470-0c2d25f89f4f
 - en: toe
   pl: palec u nogi
   word_type: noun
   gender: masculine
   plural_form: palce u nogi
-  key: f3a4b025-4b04-4676-8e7d-52e57809bffc
+  key: 494270e6-2466-4d16-be77-8ba9b6d1c721
 - en: body
   pl: ciało
   word_type: noun
   gender: neuter
   plural_form: ciała
-  key: 7062486f-cff9-4864-8eaf-9111726bdf6f
+  key: 060d075a-c9d7-4717-9f16-1a8445f36e21
 - en: skin
   pl: skóra
   word_type: noun
   gender: feminine
   plural_form: skóry
-  key: 58ea4c37-23d8-479f-b258-f3a5314c897a
+  key: 58306e7b-ef6e-4189-b9f0-692aee1b8df7
 - en: muscle
   pl: mięsień
   word_type: noun
   gender: masculine
   plural_form: mięśnie
-  key: 4165832b-467f-49e1-b814-1aedb10bb4fe
+  key: 29bf2dc7-d7c4-4849-9d84-de78a0c0b0d5
 - en: bone
   pl: kość
   word_type: noun
   gender: feminine
   plural_form: kości
-  key: 584d0b72-ccae-4ccf-be03-ecb5ed541c83
+  key: 1f03273e-4ee1-4a81-a8e9-2ebc2594b29b
 - en: blood
   pl: krew
   word_type: noun
   gender: feminine
   plural_form: krwie
-  key: 21332f17-1694-452b-b9a4-52e41edec5b6
+  key: aad2c027-d252-46f1-acdb-120080929526
 - en: sense
   pl: zmysł
   word_type: noun
   gender: masculine
   plural_form: zmysły
-  key: a2aff6b4-1244-40f0-949a-eb8b3a674897
+  key: 6f90bf78-be2f-474a-859f-34e8a2742224
 - en: sex (biological)
   pl: płeć
   word_type: noun
   gender: feminine
   plural_form: płcie
-  key: 63a2aece-8fbc-48db-959c-5d96ab1b0607
+  key: eb6cc25c-15ed-44b1-8e07-c4e7f5a86037
 - en: birth
   pl: narodziny
   word_type: noun
   gender: feminine
   plural_form: narodziny
-  key: c8beb1e5-7fc9-41ac-88de-881d7e5b88e1
+  key: b05755b9-892b-4d76-b2c4-74042a0e474b
 - en: death
   pl: śmierć
   word_type: noun
   gender: feminine
   plural_form: śmierci
-  key: 30f119e3-7a77-40b5-9ce7-1b6b2f10f34c
+  key: 8fa8b3db-41ad-477a-9fb7-3a5c7f9f1703
 - en: wound
   pl: rana
   word_type: noun
   gender: feminine
   plural_form: rany
-  key: c871a767-90ab-44e5-b922-2ed45f4b41a8
+  key: f5c47824-e946-4045-a12e-f8960612aede
 - en: tail
   pl: ogon
   word_type: noun
   gender: masculine
   plural_form: ogony
-  key: 57389872-4f3a-4cfe-8565-9ec868235fcb
+  key: 65e8f4fc-a560-4bb8-a8da-39ea18957d80
 - en: wing
   pl: skrzydło
   word_type: noun
   gender: neuter
   plural_form: skrzydła
-  key: fbf56ac9-ea03-49fa-958d-fecbd32dff90
+  key: 3254bc74-68df-4f81-916c-be3b94542dda
 - en: care
   pl: opieka
   word_type: noun
   gender: feminine
   plural_form: opieki
-  key: e58d0c09-e109-480c-a718-21beb2b6138a
+  key: 4caa82f1-3684-48e4-8065-82cb4561ad25
 - en: cough
   pl: kaszel
   word_type: noun
   gender: masculine
   plural_form: kaszle
-  key: 5c29818f-f749-4244-b3ab-e7a3b5e8d6d3
+  key: 501158e8-3dc1-456f-be6a-7b65f95669d1
 - en: diet
   pl: dieta
   word_type: noun
   gender: feminine
   plural_form: diety
-  key: 3caf0f29-254a-4522-82e7-11241c989b79
+  key: c36d479e-fc7a-4e89-bfd8-c63a9148af3c
 - en: disease
   pl: choroba
   word_type: noun
   gender: feminine
   plural_form: choroby
-  key: 92b5b18d-2e85-43c2-a385-371f60ce5e17
+  key: 0557f8e3-94c8-4b3d-8679-745252f5812a
 - en: doctor
   pl: lekarz
   word_type: noun
   gender: masculine
   plural_form: lekarze
-  key: dc6c309c-b194-4364-96eb-8b7fac8883b2
+  key: f9c65827-0179-4a87-8993-b45ad3cf2a47

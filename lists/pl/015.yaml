@@ -3,298 +3,298 @@
   word_type: noun
   gender: masculine
   plural_form: biznesy
-  key: 2a225d98-44c1-4522-b0ba-31cdaf26ba7f
+  key: 02bec586-5c66-4a2c-8c96-bab1e91ccbac
 - pl: rynek
   en: market
   word_type: noun
   gender: masculine
   plural_form: rynki
-  key: 49d353f0-9e2d-4d93-bc9f-34e4eed22669
+  key: 75899803-7327-464f-b76b-806d690b05cc
 - pl: produkt
   en: product
   word_type: noun
   gender: masculine
   plural_form: produkty
-  key: 11911ad5-b3c6-45da-a5c2-7c61667f5b97
+  key: 566264fc-78bc-4aff-843c-977a7510daf0
 - pl: plaża
   en: beach
   word_type: noun
   gender: feminine
   plural_form: plaże
-  key: 249bc548-27a4-4949-b225-0108d77871f0
+  key: 5262f668-b473-4c21-948f-dc0e3f012460
 - pl: las
   en: forest
   word_type: noun
   gender: masculine
   plural_form: lasy
-  key: c2ca90fc-8a20-4990-a89c-6dbd8da6313d
+  key: 2b77a028-9f78-4b8a-bcb9-203ed3193c4b
 - pl: szkoła
   en: school
   word_type: noun
   gender: feminine
   plural_form: szkoły
-  key: 05c47962-c015-4661-baf5-a373f6cf0d08
+  key: 19ce78af-3b00-4118-a792-6cfd4b7f172e
 - pl: biblioteka
   en: library
   word_type: noun
   gender: feminine
   plural_form: biblioteki
-  key: c675b5a4-913d-4197-9e5d-5e7d2f727503
+  key: e1ba5d40-b6f2-4648-9973-2e98e3a8ea51
 - pl: park
   en: park
   word_type: noun
   gender: masculine
   plural_form: parki
-  key: 59dac15c-8417-49ea-b728-81637958bce5
+  key: 088cfd43-087c-4095-9a42-45f1c19abd8b
 - pl: hotel
   en: hotel
   word_type: noun
   gender: masculine
   plural_form: hotele
-  key: 470439fa-fa63-40c1-a2c1-c5448ffbb61a
+  key: 9ca3c847-b899-40bf-b3b1-c1c271cb4f78
 - pl: restauracja
   en: restaurant
   word_type: noun
   gender: feminine
   plural_form: restauracje
-  key: 370a09e2-7f96-43aa-986b-bef93df404af
+  key: 67efbd0e-847a-4478-b2a6-265696e07171
 - pl: lotnisko
   en: airport
   word_type: noun
   gender: neuter
   plural_form: lotniska
-  key: aed00d4b-d4af-4b8a-9eec-4d99044796b0
+  key: 7ad63c43-8fdb-43c4-8067-7f792a7dabf9
 - pl: stacja
   en: station
   word_type: noun
   gender: feminine
   plural_form: stacje
-  key: d1832208-ec92-4bf2-b60c-e50a38f069c5
+  key: 80aecea0-9802-4bcf-8a44-f9031cf8d8ae
 - pl: szpital
   en: hospital
   word_type: noun
   gender: masculine
   plural_form: szpitale
-  key: 2d4e4973-fefd-4c87-85c6-e0847497c259
+  key: 47ee8699-a184-4ea5-ac47-116075bb68e4
 - pl: kościół
   en: church
   word_type: noun
   gender: masculine
   plural_form: kościoły
-  key: f80eda45-52b2-4982-ab68-c07e68872230
+  key: 653870b0-8d22-4e0d-a042-7bd3f520203f
 - pl: sport
   en: sport
   word_type: noun
   gender: masculine
   plural_form: sporty
-  key: 6b443f0d-1300-4dd6-8f06-bb5303fbe7e0
+  key: f813bd34-acc4-4119-9fd7-2a584a6fd544
 - pl: piłka
   en: ball
   word_type: noun
   gender: feminine
   plural_form: piłki
-  key: 7fa34283-a1cf-41fe-be11-b154cca08cf8
+  key: af26f036-6897-447a-a5f0-95afcce77c06
 - pl: piłka nożna
   en: football
   word_type: noun
   gender: feminine
   plural_form: piłki nożne
-  key: e917ef73-9117-43f7-8d1a-028d7978c2d5
+  key: 9bcdab39-92c2-4320-88e1-1983cd5a4118
 - pl: gra
   en: game
   word_type: noun
   gender: feminine
   plural_form: gry
-  key: a81acc5b-f5fb-48d7-b1ce-334848fa8da6
+  key: 6e07f3ed-6041-42e9-8d8e-b401f679e6df
 - pl: gracz
   en: player
   word_type: noun
   gender: masculine
   plural_form: gracze
-  key: 8e035ccc-67b9-40b1-ae9e-be15960dac7d
+  key: 6d9896a8-2b29-4229-b813-367a79da323a
 - pl: pływanie
   en: swimming
   word_type: noun
   gender: neuter
   plural_form: pływania
-  key: 292930b7-c9d6-48af-a26e-37ecaac0ad91
+  key: 5ee3f020-ed41-40a4-83b6-15cbf621a59e
 - pl: tenis
   en: tennis
   word_type: noun
   gender: masculine
   plural_form: tenisy
-  key: b852ff8b-b098-4299-8a3f-5b10ad356f6b
+  key: 2bd96c42-c4a7-445f-8991-49a1d8853943
 - pl: telefon
   en: phone
   word_type: noun
   gender: masculine
   plural_form: telefony
-  key: 450fffcf-83a2-443a-904d-3e53c9a2341f
+  key: 2dc0bbd7-d0d0-447c-b5f6-3e2a53b20643
 - pl: radio
   en: radio
   word_type: noun
   gender: neuter
   plural_form: radia
-  key: 9039ef72-fcc7-44e9-be93-3134a70678ef
+  key: 2c06a236-83da-4a9b-9cc2-77f3f9ac3eb4
 - pl: telewizja
   en: television
   word_type: noun
   gender: feminine
   plural_form: telewizje
-  key: 71d999ea-06c0-4cfd-ade5-358f3cd68e15
+  key: 46bf30bb-89f0-499a-b0ab-a3e180ba10bd
 - pl: komputer
   en: computer
   word_type: noun
   gender: masculine
   plural_form: komputery
-  key: 5131c61f-3350-4cbe-a8f4-71df8e6f6d00
+  key: bff42c37-7e48-4c4e-8007-b98ba9a2e8f8
 - pl: internet
   en: internet
   word_type: noun
   gender: masculine
   plural_form: internety
-  key: e1b4665f-1d3c-4e54-a32c-f82461c0aedb
+  key: a49c291f-c983-4f97-9a9b-e0d7795612ce
 - pl: e-mail
-  en: email
+  en: e-mail
   word_type: noun
   gender: masculine
   plural_form: e-maile
-  key: 19e17ddc-f05c-483c-b3aa-3f4f7d937074
+  key: 84b75adf-7aa1-4af9-bf5a-2c5927238985
 - pl: kamera
   en: camera
   word_type: noun
   gender: feminine
   plural_form: kamery
-  key: 619af61b-0cbb-41e8-a6ee-c25d637e3565
+  key: f96e38e7-7016-49a0-bfbe-988c2ded801a
 - pl: ekran
   en: screen
   word_type: noun
   gender: masculine
   plural_form: ekrany
-  key: fc1f0fa1-f4af-410d-89d9-c144d6633245
+  key: f8b1e7c7-d252-43b5-8192-c278d66b0378
 - pl: ulica
   en: street
   word_type: noun
   gender: feminine
   plural_form: ulice
-  key: 3f9b098b-1d67-4190-bd55-5826218e97d9
+  key: 5dd57714-7c8e-4e2c-8f6b-c66182a9a3af
 - pl: miasto
-  en: city
+  en: city / town
   word_type: noun
   gender: neuter
   plural_form: miasta
-  key: 50224927-d2d2-4ece-8efd-a6ab70ad1fd6
+  key: bb791c0b-ca58-4413-bff9-e58f4adb6493
 - pl: budynek
   en: building
   word_type: noun
   gender: masculine
   plural_form: budynki
-  key: 7c915197-25b4-4584-bb9e-cac41ba80759
+  key: 6ee2474f-d923-49af-8d62-30d3882cca26
 - pl: biuro
   en: office
   word_type: noun
   gender: neuter
   plural_form: biura
-  key: f65d5621-7b54-470a-aef1-baed5cbaefa5
+  key: f9193224-0021-4f0b-8b2a-2d1351963ac9
 - pl: sklep
-  en: store
+  en: store / shop
   word_type: noun
   gender: masculine
   plural_form: sklepy
-  key: a577080c-ff45-4d0f-aebf-41a50fcd741d
+  key: 64359f10-5f9d-43af-8f96-cb8145ed58bc
 - pl: samochód
   en: car
   word_type: noun
   gender: masculine
   plural_form: samochody
-  key: 87743b77-2e09-4166-8cc4-76797def7b07
+  key: 06989756-8023-4355-897f-0e0891e8d2f6
 - pl: autobus
   en: bus
   word_type: noun
   gender: masculine
   plural_form: autobusy
-  key: eb28bcb6-d4d9-4962-a51d-6d7342daee1b
+  key: 3e02b02c-26d2-42a0-9e48-2df62efc2c7c
 - pl: pociąg
   en: train
   word_type: noun
   gender: masculine
   plural_form: pociągi
-  key: 213a9799-3000-47f3-9baf-f833319a2795
+  key: ebdd08c7-6953-417f-a0cb-bb17c2b1ab59
 - pl: rower
   en: bike
   word_type: noun
   gender: masculine
   plural_form: rowery
-  key: 94eb96b4-6c8d-4e12-979e-156df4b9f848
+  key: fb183d84-8e61-480f-9e56-23d5c129db8b
 - pl: łódź
   en: boat
   word_type: noun
   gender: feminine
   plural_form: łodzie
-  key: ca3259e1-2e06-4650-8241-f5ca180ddf8e
+  key: 44e99e3d-0146-417b-946c-18c8325be93f
 - pl: samolot
   en: plane
   word_type: noun
   gender: masculine
   plural_form: samoloty
-  key: 61741267-9f87-49b7-8137-338d68297aec
+  key: 5297645f-5fd9-4cd0-8923-927ca16ffaae
 - pl: bilet
   en: ticket
   word_type: noun
   gender: masculine
   plural_form: bilety
-  key: e49f4e40-589d-47c7-bcc9-1555fe585498
+  key: 667f3f4e-21b5-4a29-a1fd-3fc2b36ab07d
 - pl: prawo
   en: law
   word_type: noun
   gender: neuter
   plural_form: prawa
-  key: 96d97770-0a98-448e-b872-63be85d50c17
+  key: fc307347-a079-4254-91e3-56302db971df
 - pl: policja
   en: police
   word_type: noun
   gender: feminine
   plural_form: policje
-  key: 3c870446-5025-4edc-b26e-7f0ee9d24a5d
+  key: 6bbcb692-8976-4e0b-ae4e-22a1c44142c2
 - pl: więzienie
   en: prison
   word_type: noun
   gender: neuter
   plural_form: więzienia
-  key: 2ab383e2-50fa-4d6e-bc28-b536f4e46182
+  key: c494b7df-3512-407d-961c-3a891985c2ab
 - pl: przestępstwo
   en: crime
   word_type: noun
   gender: neuter
   plural_form: przestępstwa
-  key: 2213d937-097f-4a96-9e06-17a9d3a9a2bd
+  key: 7ef94f8d-e6fd-4782-8ada-ae757d028452
 - pl: kara
   en: punishment
   word_type: noun
   gender: feminine
   plural_form: kary
-  key: a15101ea-d652-41be-9c73-92596a6a652b
+  key: 67aa5315-4655-4b47-98e7-e2f8d84a7164
 - pl: sąd
   en: court (legal)
   word_type: noun
   gender: masculine
   plural_form: sądy
-  key: bdae0455-8657-49a3-abc6-a29c87042ce3
+  key: a013436a-50b0-472f-82cc-97a75c5ef0ec
 - pl: sędzia
   en: judge
   word_type: noun
   gender: masculine
   plural_form: sędziowie
-  key: fad391cd-ce08-4365-b234-a5ee7e6fd92a
+  key: fb1a6400-60d4-47b9-86fc-235e8bf09121
 - pl: Bóg
-  en: god
+  en: God
   word_type: noun
   gender: masculine
   plural_form: bogowie
-  key: 01cbbf97-9069-47b6-bfb7-e429e7dfd2ec
+  key: e6ebba89-9624-4b8d-8d7b-206a4ff5f300
 - pl: piekło
   en: hell
   word_type: noun
   gender: neuter
   plural_form: piekła
-  key: 7ae04e90-d35c-4811-9dfb-20bf1928fd28
+  key: 40214005-9a86-4ef7-a121-1fab38d32e12
