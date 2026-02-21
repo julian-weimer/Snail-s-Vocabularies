@@ -18,7 +18,9 @@ def upload_to_bucket(path: str) -> None:
 
     logger.info(f"Uploading {path} to {bucket_path}...")
 
-    result = os.system(f'gsutil -m rsync -r "{path}" "{bucket_path}"')
+    result = os.system(
+        f'gsutil -o "GSUtil:parallel_process_count=1" -m rsync -r "{path}" "{bucket_path}"'
+    )
 
     if result == 0:
         logger.info("Upload completed successfully")
