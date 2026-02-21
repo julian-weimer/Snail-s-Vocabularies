@@ -278,9 +278,9 @@ def finalize_list(
     if not word_objects:
         return
 
-    # regenerate key
+    # assign key if missing
     for word_obj in word_objects:
-        if "en" in word_obj:
+        if "en" in word_obj and "key" not in word_obj:
             word_obj["key"] = str(uuid.uuid4())
 
     # deduplicate list
