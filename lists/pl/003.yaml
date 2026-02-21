@@ -29,7 +29,7 @@
   plural_form: wakacje
   key: cc67a469-c88f-404c-b2ea-8e3430bfb0e5
 - pl: pora roku
-  en: season
+  en: season (annual season)
   word_type: noun
   gender: feminine
   plural_form: pory roku
@@ -208,7 +208,7 @@
   plural_form: decyzje
   key: d3f764ba-2e97-43e5-94be-2829bc9022c8
 - pl: pragnienie
-  en: desire
+  en: desire (intensively)
   word_type: noun
   gender: neuter
   plural_form: pragnienia
@@ -327,13 +327,13 @@
   plural_form: umysły
   key: 47c0c5ca-6b63-4801-b8f6-d87a505a6199
 - pl: opinia
-  en: opinion
+  en: opinion (reputation)
   word_type: noun
   gender: feminine
   plural_form: opinie
   key: 42fe71a7-6bc5-4ecd-a8c2-726a9cae6113
 - pl: pokój
-  en: peace
+  en: peace (absence of war or conflict)
   word_type: noun
   gender: masculine
   plural_form: pokoje

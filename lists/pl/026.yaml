@@ -1,91 +1,3 @@
-- pl: słyszeć
-  en: to hear
-  word_type: verb
-  perfective: usłyszeć
-  first_person_singular: ja słyszę
-  second_person_singular: ty słyszysz
-  third_person_singular: on/ona/ono słyszy
-  first_person_plural: my słyszymy
-  second_person_plural: wy słyszycie
-  third_person_plural: oni/one słyszą
-  key: e6a94f8f-658c-4a18-834b-dda5e00b7b69
-- pl: układ
-  en: system
-  word_type: noun
-  gender: masculine
-  plural_form: układy
-  key: 74f7bfc1-ba73-48a6-adb0-27b7c0f64c67
-- pl: umowa
-  en: agreement
-  word_type: noun
-  gender: feminine
-  plural_form: umowy
-  key: 7ef59937-f47c-4748-90ef-6164826251e1
-- pl: uwielbiać
-  en: to adore
-  word_type: verb
-  first_person_singular: ja uwielbiam
-  second_person_singular: ty uwielbiasz
-  third_person_singular: on/ona/ono uwielbia
-  first_person_plural: my uwielbiamy
-  second_person_plural: wy uwielbiacie
-  third_person_plural: oni/one uwielbiają
-  comment: This verb does not have a perfective form
-  key: b8059c1e-8822-4023-8f6f-637e2b0708a9
-- pl: wspólnie
-  en: together
-  word_type: adverb
-  key: 5d36c5b0-caa7-40fb-84c9-a0b10932016b
-- pl: zewnątrz
-  en: outside
-  word_type: adverb
-  key: 2cb08637-e3b0-448d-8ef4-3128dd12af4b
-- pl: znajomy
-  en: acquaintance
-  word_type: noun
-  gender: masculine
-  plural_form: znajomi
-  key: 5ca3c3cd-8903-4740-b2eb-9967a4ff49ad
-- pl: dowód
-  en: proof
-  word_type: noun
-  gender: masculine
-  plural_form: dowody
-  key: 5c8538be-4241-47b6-a566-d50546e49544
-- pl: serial
-  en: series (TV show)
-  word_type: noun
-  gender: masculine
-  plural_form: seriale
-  key: aece369a-f2fa-488b-8e46-80f92a0519d9
-- pl: usługa
-  en: service
-  word_type: noun
-  gender: feminine
-  plural_form: usługi
-  key: 9b165891-4af0-468e-92d9-5d58d60b49e8
-- pl: widok
-  en: view
-  word_type: noun
-  gender: masculine
-  plural_form: widoki
-  key: 157bb1bb-df2b-4311-a445-33cd15d5732e
-- pl: klub
-  en: club
-  word_type: noun
-  gender: masculine
-  plural_form: kluby
-  key: c64efb83-23cd-4a4a-89de-76744e6ce6c7
-- pl: mieszkanie
-  en: apartment
-  word_type: noun
-  gender: neuter
-  plural_form: mieszkania
-  key: 0c2920a6-7212-41be-a88f-d8be933ea880
-- pl: niezależnie
-  en: independently
-  word_type: adverb
-  key: 201545ef-9d80-4a28-8dc9-bcbea0968d6e
 - pl: pięknie
   en: beautifully
   word_type: adverb
@@ -184,13 +96,13 @@
   plural_form: podróże
   key: f57afc91-20bc-4ed1-95c5-d872e5f4e5ea
 - pl: poparcie
-  en: support
+  en: support (approval)
   word_type: noun
   gender: neuter
   plural_form: poparcia
   key: bb05e57b-1b12-4b90-a96f-76886be91549
 - pl: powodować
-  en: to cause
+  en: to cause (causal chain)
   word_type: verb
   perfective: spowodować
   first_person_singular: ja powoduję
@@ -215,7 +127,7 @@
   word_type: adverb
   key: 0cd35f0d-8f6b-41e4-8abf-978c2eb48953
 - pl: aktualnie
-  en: currently
+  en: currently (immediate moment)
   word_type: adverb
   key: 408ee6f5-6a46-42b1-ada3-e237ae4bf494
 - pl: kochanie
@@ -231,7 +143,7 @@
   plural_form: konferencje
   key: 9853bf0d-d19d-4c45-bc7b-8df1e9ed934f
 - pl: lecieć
-  en: to fly
+  en: to fly (determinate; specific journey)
   word_type: verb
   perfective: polecieć
   first_person_singular: ja lecę
@@ -264,7 +176,7 @@
   plural_form: Polski
   key: 3079381a-a789-4fc0-b282-8c9766a566c7
 - pl: pozdrawiać
-  en: to greet
+  en: to greet (in writing or through someone else)
   word_type: verb
   perfective: pozdrowić
   first_person_singular: ja pozdrawiam
@@ -328,3 +240,106 @@
   gender: feminine
   plural_form: marki
   key: efad6e70-7af8-4315-aebc-29f74b5b8bb0
+- pl: nowo
+  en: newly
+  word_type: adverb
+  key: 29469500-515c-4304-9062-940222302c85
+- pl: powrót
+  en: return
+  word_type: noun
+  gender: masculine
+  plural_form: powroty
+  key: a616e1bf-4a5b-40b1-94ad-eb16f73c99b5
+- pl: procent
+  en: percent
+  word_type: noun
+  gender: masculine
+  plural_form: procenty
+  key: 7ec78218-c38e-4c6e-b425-e3b9be9b89a3
+- pl: przechodzić
+  en: to pass
+  word_type: verb
+  perfective: przejść
+  first_person_singular: ja przechodzę
+  second_person_singular: ty przechodzisz
+  third_person_singular: on/ona/ono przechodzi
+  first_person_plural: my przechodzimy
+  second_person_plural: wy przechodzicie
+  third_person_plural: oni/one przechodzą
+  key: 9e1b6719-cd3e-470d-abde-cae18122670e
+- pl: przyznawać
+  en: to admit
+  word_type: verb
+  perfective: przyznać
+  first_person_singular: ja przyznaję
+  second_person_singular: ty przyznajesz
+  third_person_singular: on/ona/ono przyznaje
+  first_person_plural: my przyznajemy
+  second_person_plural: wy przyznajecie
+  third_person_plural: oni/one przyznają
+  key: dc2ae725-0d3c-4bab-a9b2-e8a082554ad6
+- pl: rozmawiać
+  en: to talk
+  word_type: verb
+  perfective: porozmawiać
+  first_person_singular: ja rozmawiam
+  second_person_singular: ty rozmawiasz
+  third_person_singular: on/ona/ono rozmawia
+  first_person_plural: my rozmawiamy
+  second_person_plural: wy rozmawiacie
+  third_person_plural: oni/one rozmawiają
+  key: a14a1156-96b4-4f45-80f7-c0e7d07b5992
+- pl: sprzedaż
+  en: sale
+  word_type: noun
+  gender: feminine
+  plural_form: sprzedaże
+  key: 1ce01e1c-8544-4790-bc7a-9114829813ab
+- pl: w szczególności
+  en: in particular
+  word_type: adverb
+  key: 1af3e921-0570-4b8c-8dc2-e63ae28a981a
+- pl: sądzić
+  en: to think / to judge
+  word_type: verb
+  perfective: osądzić
+  first_person_singular: ja sądzę
+  second_person_singular: ty sądzisz
+  third_person_singular: on/ona/ono sądzi
+  first_person_plural: my sądzimy
+  second_person_plural: wy sądzicie
+  third_person_plural: oni/one sądzą
+  key: 119ac427-b67b-4dd9-b521-5839163551da
+- pl: wideo
+  en: video
+  word_type: noun
+  gender: neuter
+  plural_form: wideo
+  key: 9bec8b62-85d2-47a2-bf5e-eaf338a3040f
+- pl: wniosek
+  en: conclusion
+  word_type: noun
+  gender: masculine
+  plural_form: wnioski
+  key: 1a72b686-2a73-4096-90a4-d7140b5bcc91
+- pl: administracja
+  en: administration
+  word_type: noun
+  gender: feminine
+  plural_form: administracje
+  key: 56e615e9-223a-43c2-9b19-70e1d3773c2f
+- pl: angielski
+  en: English
+  word_type: adjective
+  positive: angielski
+  key: 3865834e-3d72-4421-8bae-26754c742fee
+- pl: bać się
+  en: to fear
+  word_type: verb
+  first_person_singular: ja boję się
+  second_person_singular: ty boisz się
+  third_person_singular: on/ona/ono boi się
+  first_person_plural: my boimy się
+  second_person_plural: wy boicie się
+  third_person_plural: oni/one boją się
+  key: 93ec7ee6-096c-4cc3-b1c0-c2ab18c4e5e6

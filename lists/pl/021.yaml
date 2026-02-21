@@ -1,54 +1,3 @@
-- pl: spotkanie
-  en: meeting
-  word_type: noun
-  gender: neuter
-  plural_form: spotkania
-  key: 4e60d638-47d1-4192-b70d-6df892814dc7
-- pl: wpływ
-  en: influence
-  word_type: noun
-  gender: masculine
-  plural_form: wpływy
-  key: 06451a0c-d823-49e9-bf01-697d45139caa
-- pl: zasada
-  en: rule / principle / law
-  word_type: noun
-  gender: feminine
-  plural_form: zasady
-  key: 27e9e40f-57e3-422a-822b-e0d20eb354dc
-- pl: zatem
-  en: therefore
-  word_type: adverb
-  key: c2589b3e-19fd-4a6f-a831-ba4f7fbbfd32
-- pl: źródło
-  en: source
-  word_type: noun
-  gender: neuter
-  plural_form: źródła
-  key: 61808a09-729b-4d8d-a396-fbe10f838e63
-- pl: brakować
-  en: to lack
-  word_type: verb
-  perfective: zabrakować
-  first_person_singular: mi brakuje
-  second_person_singular: ci brakuje
-  third_person_singular: mu/jej brakuje
-  first_person_plural: nam brakuje
-  second_person_plural: wam brakuje
-  third_person_plural: im brakuje
-  key: d3136692-f223-42ff-be90-099ccea36936
-- pl: członek
-  en: member
-  word_type: noun
-  gender: masculine
-  plural_form: członkowie
-  key: ad4f4121-d5e6-4185-852a-536ac2d66a8a
-- pl: komisja
-  en: commission
-  word_type: noun
-  gender: feminine
-  plural_form: komisje
-  key: 55aa0f16-2d35-46f9-a327-9d0e79aa0a3f
 - pl: pewien
   en: certain
   word_type: adjective
@@ -133,10 +82,6 @@
   gender: masculine
   plural_form: ministrowie
   key: b453f2dd-1be9-4ba5-80bd-13467c3d9d5e
-- pl: przeciw
-  en: against
-  word_type: preposition
-  key: 40bb3300-020b-4333-b77e-da03069c8fc5
 - pl: społeczeństwo
   en: society
   word_type: noun
@@ -298,7 +243,7 @@
   plural_form: mecze
   key: 68c9eaec-7e1f-4698-af33-c81ff662b02c
 - pl: potrafić
-  en: to be able to
+  en: to be able to (skill; capability)
   word_type: verb
   aspect: imperfective
   perfective: potrafić
@@ -320,3 +265,53 @@
   en: truly / frankly
   word_type: adverb
   key: 7198460a-b73c-4ec8-ad99-7da5cff1bdd1
+- pl: codziennie
+  en: daily (every day)
+  word_type: adverb
+  key: b7cfc8b3-c93a-4a6c-a9f4-430df99c1299
+- pl: ilość
+  en: quantity
+  word_type: noun
+  gender: feminine
+  plural_form: ilości
+  key: dcde1fa5-760f-4154-b5ee-12045d73d1fd
+- pl: konto
+  en: account
+  word_type: noun
+  gender: neuter
+  plural_form: konta
+  key: 919a59ed-6737-4df2-8732-6ed8b84c300b
+- pl: podobno
+  en: apparently (based on opinions)
+  word_type: adverb
+  key: 306a6d70-19c5-4312-b1b6-fa1ff70dfa2f
+- pl: pora
+  en: time (of day)
+  word_type: noun
+  gender: feminine
+  plural_form: pory
+  key: 9be21233-0c17-42c7-abde-d4bb28b9f1c9
+- pl: post
+  en: post
+  word_type: noun
+  gender: masculine
+  plural_form: posty
+  key: 49c7b55b-c076-4258-8e57-e17df95a4a7d
+- pl: służba
+  en: service (duty)
+  word_type: noun
+  gender: feminine
+  plural_form: służby
+  key: 93e28fab-3d7e-4622-a0bf-95542a2bcf27
+- pl: unia
+  en: union
+  word_type: noun
+  gender: feminine
+  plural_form: unie
+  key: 705c729d-14c6-41f0-97c4-c80db72735d1
+- pl: widzenie
+  en: vision / eyesight
+  word_type: noun
+  gender: neuter
+  plural_form: widzenia
+  key: 30c5901a-fdf4-418f-9a2f-f413b38f4487

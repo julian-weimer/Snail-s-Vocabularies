@@ -1,15 +1,3 @@
-- en: bed
-  pl: łóżko
-  word_type: noun
-  gender: neuter
-  plural_form: łóżka
-  key: 2248072e-2a60-4656-b75d-6e5ff7d3a43f
-- en: table
-  pl: stół
-  word_type: noun
-  gender: masculine
-  plural_form: stoły
-  key: b46e5687-7d2d-4b50-931a-a23ff365c792
 - en: chair
   pl: krzesło
   word_type: noun
@@ -313,3 +301,15 @@
   word_type: noun
   gender: masculine
   key: 8c2e65cc-d685-4e49-b243-1a3277bb12fb
+- en: letter (mail)
+  pl: list
+  plural_form: listy
+  word_type: noun
+  gender: masculine
+  key: 4905cc01-5af4-434b-a002-59b26b4dcf16
+- en: meaning
+  pl: znaczenie
+  plural_form: znaczenia
+  word_type: noun
+  gender: neuter
+  key: e4ea3999-6516-45bc-8030-ccf78487f812

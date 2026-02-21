@@ -1,20 +1,3 @@
-- pl: modlić się
-  en: to pray
-  word_type: verb
-  perfective: pomodlić się
-  first_person_singular: ja modlę się
-  second_person_singular: ty modlisz się
-  third_person_singular: on/ona/ono modli się
-  first_person_plural: my modlimy się
-  second_person_plural: wy modlicie się
-  third_person_plural: oni/one modlą się
-  key: 6037142c-d229-4e62-8506-85cc255f4bfc
-- pl: ksiądz
-  en: priest
-  word_type: noun
-  gender: masculine
-  plural_form: księża
-  key: c3fb040d-e338-4c6d-8cbc-509753561a24
 - pl: religia
   en: religion
   word_type: noun
@@ -58,7 +41,7 @@
   plural_form: temperatury
   key: 6325dacd-bcf0-4e7e-8f95-6716e33b8192
 - pl: gdy
-  en: when
+  en: when (conjunction)
   word_type: conjunction
   key: 35ea3bbc-1f4c-417b-9e09-9c640bdd5d0c
 - pl: bez
@@ -79,14 +62,6 @@
   gender: masculine
   plural_form: ludzie
   key: 4a291eb5-013e-4525-8a9a-35bcb6556e04
-- pl: także
-  en: also
-  word_type: adverb
-  key: 60d4c3e7-0e77-4bae-87f3-2f7e30412c0b
-- pl: tu
-  en: here
-  word_type: adverb
-  key: 01f19cca-daa1-4740-bde1-900ff83fbbc4
 - pl: być
   en: to be
   word_type: verb
@@ -123,11 +98,11 @@
   word_type: adverb
   key: 4b477da3-ca3f-41ee-8a79-f7d5c192fbe4
 - pl: aby
-  en: in order to
+  en: in order to (formal)
   word_type: conjunction
   key: aa7eb5ab-5f27-49d0-b6d4-a9e40efcfe22
 - pl: albo
-  en: or
+  en: or (conversational)
   word_type: conjunction
   key: 157cd401-7b7f-4e90-b0ac-dbfeded69280
 - pl: dzięki
@@ -135,11 +110,11 @@
   word_type: preposition
   key: 5ba304a5-8d17-44b9-b808-1a8ea9e7b5e1
 - pl: bardziej
-  en: more
+  en: more (intensifier)
   word_type: adverb
   key: 7a6f5e1e-89fe-4f9e-b727-e2dd49eff724
 - pl: nad
-  en: above
+  en: above (physically)
   word_type: preposition
   key: c6f8e023-2a56-4bad-93ec-e14884681b80
 - pl: życie
@@ -153,10 +128,6 @@
   word_type: adjective
   positive: polski
   key: ca3cb397-8c25-482f-be38-3a5b9cff3757
-- pl: wszystek
-  en: all
-  word_type: pronoun
-  key: 3ebe4fb7-839e-4aea-91ab-fd3d03324253
 - pl: kilka
   en: several
   word_type: pronoun
@@ -189,7 +160,7 @@
   word_type: adverb
   key: 91846d77-b17e-4652-b65a-4b2ec8613778
 - pl: stan
-  en: state
+  en: state (condition; status)
   word_type: noun
   gender: masculine
   plural_form: stany
@@ -209,7 +180,7 @@
   word_type: adverb
   key: 7f874eac-710c-4eff-8971-aeafdd23a147
 - pl: aż
-  en: until
+  en: until (point in time)
   word_type: conjunction
   key: f0145096-a477-40ec-a0ce-9d0eafb5b32a
 - pl: tyle
@@ -249,3 +220,25 @@
   en: that is
   word_type: conjunction
   key: d23acb97-771d-47f7-9cb2-5d024be38990
+- pl: Niech...
+  en: Let...
+  word_type: other
+  key: 66a2019e-bdf1-4061-aa82-dcc25ac96b1d
+- pl: ani
+  en: nor
+  word_type: conjunction
+  key: 3f1e99e8-c46c-4ecb-9565-587813e15337
+- pl: pan
+  en: lord / mister
+  word_type: noun
+  gender: masculine
+  plural_form: panowie
+  key: 44f28e53-0ae9-4b2c-ada6-e453530b0fcc
+- pl: pewnie
+  en: probably
+  word_type: adverb
+  key: 35a0c2f3-f61f-4d9d-a48f-c8d78539db23
+- pl: jeżeli / jeśli
+  en: if
+  word_type: conjunction
+  key: 07570ffb-ad14-4af1-8299-721e9a7cb9bc

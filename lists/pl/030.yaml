@@ -1,111 +1,3 @@
-- pl: poseł
-  en: representative (deputy)
-  word_type: noun
-  gender: masculine
-  plural_form: posłowie
-  key: edb5d210-7548-458d-8765-79e735100bc1
-- pl: przemysł
-  en: industry
-  word_type: noun
-  gender: masculine
-  plural_form: przemysły
-  key: 83adaf4d-600a-4bc7-ae70-9afb5673a536
-- pl: reklama
-  en: advertisement
-  word_type: noun
-  gender: feminine
-  plural_form: reklamy
-  key: f855d3d0-d19e-4f54-9a58-e98fe0ae6693
-- pl: transport
-  en: transport
-  word_type: noun
-  gender: masculine
-  plural_form: transporty
-  key: 573f83d7-628e-4603-b453-13d9a6e43aca
-- pl: utrzymywać
-  en: to maintain
-  word_type: verb
-  perfective: utrzymać
-  first_person_singular: ja utrzymuję
-  second_person_singular: ty utrzymujesz
-  third_person_singular: on/ona/ono utrzymuje
-  first_person_plural: my utrzymujemy
-  second_person_plural: wy utrzymujecie
-  third_person_plural: oni/one utrzymują
-  key: dff76f29-079b-46af-9b77-bd28f5546c09
-- pl: wprost
-  en: directly
-  word_type: adverb
-  key: 5bf7f5e3-2268-4c65-b3a2-540deb1c361b
-- pl: wykorzystywać
-  en: to exploit (use)
-  word_type: verb
-  perfective: wykorzystać
-  first_person_singular: ja wykorzystuję
-  second_person_singular: ty wykorzystujesz
-  third_person_singular: on/ona/ono wykorzystuje
-  first_person_plural: my wykorzystujemy
-  second_person_plural: wy wykorzystujecie
-  third_person_plural: oni/one wykorzystują
-  key: b3311469-6b88-41d7-b305-4c49e36ef325
-- pl: zakładać
-  en: to establish (found)
-  word_type: verb
-  perfective: założyć
-  first_person_singular: ja zakładam
-  second_person_singular: ty zakładasz
-  third_person_singular: on/ona/ono zakłada
-  first_person_plural: my zakładamy
-  second_person_plural: wy zakładacie
-  third_person_plural: oni/one zakładają
-  key: 066d527e-f0be-46ce-89c9-acbd5e3ac8bc
-- pl: zwracać
-  en: to return (give back)
-  word_type: verb
-  perfective: zwrócić
-  first_person_singular: ja zwracam
-  second_person_singular: ty zwracasz
-  third_person_singular: on/ona/ono zwraca
-  first_person_plural: my zwracamy
-  second_person_plural: wy zwracacie
-  third_person_plural: oni/one zwracają
-  key: 10982c71-c155-4cc1-b255-1d4a6777c733
-- pl: śmieć
-  en: trash (garbage)
-  word_type: noun
-  gender: masculine
-  plural_form: śmieci
-  key: 31b7d7d9-8afe-40f5-84ab-222d12fb8b7d
-- pl: czynić
-  en: to do (make)
-  word_type: verb
-  perfective: uczynić
-  first_person_singular: ja czynię
-  second_person_singular: ty czynisz
-  third_person_singular: on/ona/ono czyni
-  first_person_plural: my czynimy
-  second_person_plural: wy czynicie
-  third_person_plural: oni/one czynią
-  key: 007b7c60-a3fb-4076-8f78-c66f2e14a1a3
-- pl: dokument
-  en: document
-  word_type: noun
-  gender: masculine
-  plural_form: dokumenty
-  key: ab744dfb-e893-4231-9bb5-032bf67bcada
-- pl: emocja
-  en: emotion
-  word_type: noun
-  gender: feminine
-  plural_form: emocje
-  key: cc0c52df-0ef4-4b49-bcd4-3e31e12c338b
-- pl: międzynarodowy
-  en: international
-  word_type: adjective
-  positive: international
-  comparative: more international
-  superlative: most international
-  key: 88997861-0d5b-4cc1-ace9-3fd6e6f5c467
 - pl: nieważny
   en: unimportant
   word_type: adjective
@@ -158,7 +50,7 @@
   plural_form: tradycje
   key: 97b4638b-7307-4bc9-9f9e-5aa5771cce7a
 - pl: uczelnia
-  en: university
+  en: institution of higher education
   word_type: noun
   gender: feminine
   plural_form: uczelnie
@@ -364,3 +256,92 @@
   gender: masculine
   plural_form: Żydzi
   key: 9082e7a5-9265-4f4a-a52b-4f2bd6f330ab
+- pl: cholera
+  en: damn (slang)
+  word_type: other
+  key: 2aabdc1c-acca-440f-a856-96d85a57e082
+- pl: nieźle
+  en: not bad
+  word_type: adverb
+  key: 46d021a4-40e4-4c8d-b700-08774aba2d7a
+- pl: osiągać
+  en: to achieve
+  word_type: verb
+  perfective: osiągnąć
+  first_person_singular: osiągam
+  second_person_singular: osiągasz
+  third_person_singular: osiąga
+  first_person_plural: osiągamy
+  second_person_plural: osiągacie
+  third_person_plural: osiągają
+  key: 33c59ea1-6bdf-4a56-8995-6553f0597b11
+- pl: prezydent
+  en: president
+  word_type: noun
+  gender: masculine
+  plural_form: prezydenci
+  key: 806ac20d-1c2e-444c-97ff-80e42069528b
+- pl: przeciwieństwo
+  en: opposite
+  word_type: noun
+  gender: neuter
+  plural_form: przeciwieństwa
+  key: d54219ae-bd82-45b8-9c3d-a6ca8b8a9b77
+- pl: przekonywać
+  en: to encourage / to persuade
+  word_type: verb
+  perfective: przekonać
+  first_person_singular: przekonuję
+  second_person_singular: przekonujesz
+  third_person_singular: przekonuje
+  first_person_plural: przekonujemy
+  second_person_plural: przekonujecie
+  third_person_plural: przekonują
+  key: f8fa005d-2dc8-4579-a70f-180971969162
+- pl: przemoc
+  en: violence
+  word_type: noun
+  gender: feminine
+  key: 346e206d-ec57-45ad-a40c-81bc1a886fa1
+- pl: setka
+  en: ton
+  word_type: noun
+  gender: feminine
+  plural_form: setki
+  key: cdc844de-1246-477f-a411-4346c1ed99c1
+- pl: skutek
+  en: effect (causally)
+  word_type: noun
+  gender: masculine
+  plural_form: skutki
+  key: dc36303a-ce52-44ab-8613-11198eb8649e
+- pl: stal
+  en: steel
+  word_type: noun
+  gender: feminine
+  plural_form: stale
+  key: e49077a1-dc37-45cf-81d2-e5debe95c909
+- pl: stop
+  en: alloy
+  word_type: noun
+  gender: masculine
+  plural_form: stopy
+  key: aef99b68-02a1-4ff3-b1b0-b5c42c851a49
+- pl: wojsko
+  en: army
+  word_type: noun
+  gender: neuter
+  plural_form: wojska
+  key: 79af1308-1f79-4fb0-9192-9b2b61ac38ca
+- pl: wspomnienie
+  en: memory (recollection)
+  word_type: noun
+  gender: neuter
+  plural_form: wspomnienia
+  key: 30462bbe-1fd1-4131-a33e-e7a0526f5b2e
+- pl: wygląd
+  en: appearance
+  word_type: noun
+  gender: masculine
+  plural_form: wyglądy
+  key: 0ca43b2e-e7f7-4a1f-a398-6b9bc431db7a

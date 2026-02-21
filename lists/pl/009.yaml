@@ -1,9 +1,3 @@
-- pl: kawałek
-  en: piece
-  word_type: noun
-  gender: masculine
-  plural_form: kawałki
-  key: ee184de8-9d7a-4bdd-9677-e488a61334a4
 - pl: strona
   en: side
   word_type: noun
@@ -11,7 +5,7 @@
   plural_form: strony
   key: 9f23e40f-5270-46ae-b775-f7ffb3c05620
 - pl: rozmiar
-  en: size
+  en: size (clothing)
   word_type: noun
   gender: masculine
   plural_form: rozmiary
@@ -56,7 +50,7 @@
   en: any
   word_type: pronoun
   key: 5e431fc6-a0d9-4859-b4d6-7ee8169d1ab0
-- pl: niektóre
+- pl: niektóre (e.g. some of a group)
   en: some
   word_type: pronoun
   key: c02a9853-47d4-41f0-bf91-1f4b7c51862f
@@ -73,7 +67,7 @@
   word_type: pronoun
   key: 82737bc5-ff5d-403e-8ebf-860eff4cd2b8
 - pl: więcej
-  en: more
+  en: more (quantity)
   word_type: adverb
   key: a95a3e15-7986-45df-9b82-392e9364ab23
 - pl: najbardziej
@@ -84,10 +78,6 @@
   en: much
   word_type: adverb
   key: 4e991219-33c0-4b39-ac31-ddf63159a2b5
-- pl: oba
-  en: both
-  word_type: pronoun
-  key: f2cc1324-c34a-4169-ae00-7c58467be35a
 - pl: inny
   en: other
   word_type: adjective
@@ -97,7 +87,7 @@
   en: very
   word_type: adverb
   key: e6137f19-0102-4839-92f9-3ebfda9c4082
-- pl: również
+- pl: również / także
   en: also
   word_type: adverb
   key: 4a28c13d-425a-4f75-949a-d1826e41e440
@@ -106,7 +96,7 @@
   word_type: adverb
   key: a07de235-3df5-423c-a681-62a460c420b3
 - pl: prawie
-  en: almost
+  en: almost (conversational)
   word_type: adverb
   key: 3e86e038-e5ce-4df2-a554-764cd237b31c
 - pl: naprawdę
@@ -130,7 +120,7 @@
   word_type: adverb
   key: 039ec2fa-98ae-49af-806b-48e65376b139
 - pl: razem
-  en: together
+  en: together (in the same place)
   word_type: adverb
   key: d807554f-b4b8-47fd-8f1e-3013aa901fb8
 - pl: jeszcze
@@ -138,7 +128,7 @@
   word_type: adverb
   key: 3857985d-ec5c-4b5c-b5ed-c673321e9283
 - pl: wystarczająco
-  en: enough
+  en: enough (sufficiently)
   word_type: adverb
   key: f5eff67d-53fc-4dd1-b8dc-b19ef42f3d97
 - pl: całkiem
@@ -242,3 +232,11 @@
   pl: jak
   word_type: adverb
   key: 3f98c5d7-282e-49d5-8e34-870c0c4a46ca
+- en: where
+  pl: gdzie
+  word_type: adverb
+  key: 63c12c2b-6ae3-4d66-97fa-4cd24efdf418
+- en: whose
+  pl: czyj
+  word_type: pronoun
+  key: aba0274c-0ca5-4a0a-9b43-510aa5346295

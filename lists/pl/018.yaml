@@ -1,43 +1,5 @@
-- pl: raczej
-  en: rather
-  word_type: adverb
-  key: 449251d9-c104-408d-ad55-16dd1dccaa85
-- pl: coraz
-  en: increasingly / more and more
-  word_type: adverb
-  key: d8349229-906c-4ddc-b856-2d48732e1eb5
-- pl: czasem
-  en: sometimes
-  word_type: adverb
-  key: 1f06d033-3f34-4f38-a0b9-a244f7d9d2fc
-- pl: skoro
-  en: since / when
-  word_type: conjunction
-  key: efe84a94-29dc-49bc-b61e-7d26ab4f75e1
-- pl: dziać się
-  en: to happen
-  word_type: verb
-  perfective: stać się
-  first_person_singular: ja dzieję się
-  first_person_plural: my dziejemy się
-  second_person_singular: ty dziejesz się
-  second_person_plural: wy dziejecie się
-  third_person_singular: on/ona/ono dzieje się
-  third_person_plural: oni/one dzieją się
-  key: f136c794-fcdf-4651-9fb4-ee944d3d1a63
-- pl: zamiast
-  en: instead
-  word_type: preposition
-  key: 5d051def-72d7-48e1-90bf-67f692141e23
-- pl: różny
-  en: different
-  word_type: adjective
-  positive: różny
-  comparative: różniejszy
-  superlative: najróżniejszy
-  key: f9a4685a-9e86-49a8-a99e-4d69ccae5d4b
 - pl: znowu
-  en: again
+  en: again (emotionally charged)
   word_type: adverb
   key: a01ded8b-a342-4262-a503-d31e3e49d396
 - pl: sprawy
@@ -59,7 +21,7 @@
   plural_form: sytuacje
   key: 47fd9467-5aa3-42de-9a39-145bbf9816d0
 - pl: oznaczać
-  en: to mean
+  en: to mean (consequence)
   word_type: verb
   perfective: oznaczyć
   first_person_singular: ja oznaczam
@@ -69,10 +31,14 @@
   second_person_plural: wy oznaczacie
   third_person_plural: oni/one oznaczają
   key: 4e8f8024-6842-4c72-a228-b08697b9a45b
-- pl: przeciwko
+- pl: przeciwko / przeciw
   en: against
   word_type: preposition
   key: d747fb75-9354-4890-9654-78f0ba7f785b
+  comment: '*przeciwko* is used in conversations while *przeciw* is commonly used
+    in literature or formal writing
+
+    '
 - pl: przynajmniej
   en: at least
   word_type: adverb
@@ -97,7 +63,7 @@
   third_person_plural: oni/one istnieją
   key: f7892e60-fdde-41cb-b2d9-99723e4d4a29
 - pl: lecz
-  en: but
+  en: but (formal)
   word_type: conjunction
   key: 48ce47c6-9cfc-42d3-9eea-36db93380692
 - pl: mieszkaniec
@@ -107,7 +73,7 @@
   plural_form: mieszkańcy
   key: 022aec63-2d44-4f1d-977a-a35bdd0fc72f
 - pl: poprzez
-  en: through
+  en: through (formal)
   word_type: preposition
   key: 81eda3b5-bdda-47b3-b7f7-19987356a557
 - pl: wobec
@@ -172,10 +138,6 @@
   second_person_plural: wy działacie
   third_person_plural: oni/one działają
   key: 0dc7cb8f-c9fb-4316-8f96-db2b167deba6
-- pl: pomiędzy
-  en: between
-  word_type: preposition
-  key: 22637cfd-5086-48c1-a90e-845a893f24ac
 - pl: stawać się
   en: to become
   word_type: verb
@@ -188,7 +150,7 @@
   third_person_plural: oni/one stają się
   key: 8612e570-399d-4434-a3cc-a2584e89e1ac
 - pl: działanie
-  en: action
+  en: action (in a process)
   word_type: noun
   gender: neuter
   plural_form: działania
@@ -206,7 +168,7 @@
   word_type: adverb
   key: 8de76bff-947a-407c-a303-168c0c3d2821
 - pl: kolejny
-  en: next
+  en: next (another in succession)
   word_type: adjective
   positive: kolejny
   key: 11b9e472-d783-4773-b3e4-2004edefc05e
@@ -240,7 +202,7 @@
   plural_form: kultury
   key: 697c7d41-4a4a-494f-8834-4d41326e8388
 - pl: widać
-  en: apparently
+  en: apparently (based on evidence)
   word_type: adverb
   key: 47c43353-7ef7-4ebf-bd91-c7c336bd3c8e
 - pl: jakoś
@@ -260,7 +222,7 @@
   plural_form: sumy
   key: 0c4d7ab3-66fb-4273-89bf-cba90a6faaf2
 - pl: zanim
-  en: before
+  en: before (e.g. before an event)
   word_type: conjunction
   key: 0d484ae3-b6b4-44df-b740-86933951be4e
 - pl: znać
@@ -297,3 +259,42 @@
   en: next
   word_type: adverb
   key: 0a4539d5-008a-470c-b7f1-0621bcf2ff8e
+- pl: podstawa
+  en: basis / base
+  word_type: noun
+  gender: feminine
+  plural_form: podstawy
+  key: 45ef09c8-d17c-4c35-b25c-d66bc62480f8
+- pl: program
+  en: program
+  word_type: noun
+  gender: masculine
+  plural_form: programy
+  key: adc68396-47cf-4389-9864-93d5688c4452
+- pl: najlepiej
+  en: best
+  word_type: adverb
+  key: 71ec6165-f4d9-483d-869a-174847105013
+- pl: okazja
+  en: event / opportunity
+  word_type: noun
+  gender: feminine
+  plural_form: okazje
+  key: 1924928b-5a66-4485-822d-d34fec0caf28
+- pl: trudno
+  en: difficult
+  word_type: adverb
+  key: 5ef9f698-e97c-4857-8198-479e370678ff
+- pl: zgodnie
+  en: under / correspondingly
+  word_type: adverb
+  key: 948fd300-f0a7-41d6-8a0f-388ec3a2c684
+  comment: Under the law, you can't do it. Zgodnie z prawem, nie możesz tego zrobić.
+- pl: mocno
+  en: strongly
+  word_type: adverb
+  key: 98bb5980-a786-4739-9359-ee2c690725b1
+- pl: najpierw
+  en: first
+  word_type: adverb
+  key: 860c4cee-192f-451a-86ee-ee493772763b

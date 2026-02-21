@@ -1,25 +1,3 @@
-- en: to cut
-  pl: ciąć
-  perfective: pociąć
-  word_type: verb
-  first_person_singular: ja tnę
-  second_person_singular: ty tniesz
-  third_person_singular: on/ona/ono tnie
-  first_person_plural: my tniemy
-  second_person_plural: wy tniecie
-  third_person_plural: oni/one tną
-  key: 3948cc0f-359a-4ba4-828a-94fbe17e3d07
-- en: to carry
-  pl: nosić
-  perfective: ponosić
-  word_type: verb
-  first_person_singular: ja noszę
-  second_person_singular: ty nosisz
-  third_person_singular: on/ona/ono nosi
-  first_person_plural: my nosimy
-  second_person_plural: wy nosicie
-  third_person_plural: oni/one noszą
-  key: b7adbc54-fbd0-49e2-a178-0296e237547e
 - en: to break
   pl: łamać
   perfective: złamać
@@ -53,7 +31,7 @@
   second_person_plural: wy budujecie
   third_person_plural: oni/one budują
   key: 5767fae3-747d-4efd-9521-1ac145b649f9
-- en: to stop
+- en: to stop (physically)
   pl: zatrzymywać się
   perfective: zatrzymać się
   word_type: verb
@@ -152,7 +130,7 @@
   second_person_plural: wy pchacie
   third_person_plural: oni/one pchają
   key: 03769ab3-28aa-4704-9e94-f39ac5b7c966
-- en: to fly
+- en: to fly (indeterminate; habitual)
   pl: latać
   perfective: polecieć
   word_type: verb
@@ -408,3 +386,17 @@
   comparative: jaśniejszy
   superlative: najjaśniejszy
   key: 6b8b3dbd-e7c7-45a3-a0c1-5a55ae0dccd4
+- en: beautiful
+  pl: piękny
+  word_type: adjective
+  positive: piękny
+  comparative: piękniejszy
+  superlative: najpiękniejszy
+  key: 4852e9b3-eed9-4340-98ff-80be7fae5caa
+- en: ugly
+  pl: brzydki
+  word_type: adjective
+  positive: brzydki
+  comparative: brzydszy
+  superlative: najbrzydszy
+  key: b41fd782-481c-4722-82b7-e604ed739aa6

@@ -1,55 +1,5 @@
-- pl: niektórzy
-  en: some (people)
-  word_type: pronoun
-  key: 00d2444a-680b-4762-bf47-df7915d061a1
-- pl: poziom
-  en: level
-  word_type: noun
-  gender: masculine
-  plural_form: poziomy
-  key: 70201c36-9bde-4890-a537-e0d2d7f9d62f
-- pl: zespół
-  en: team
-  word_type: noun
-  gender: masculine
-  plural_form: zespoły
-  key: e1c1f578-b8ea-4425-941a-31ee709a478e
-- pl: znacznie
-  en: significantly
-  word_type: adverb
-  key: 4b1c2779-96b4-4e43-bdb6-8ceea58b53d3
-- pl: brzmieć
-  en: to sound
-  word_type: verb
-  perfective: zabrzmi eć
-  first_person_singular: ja brzmię
-  second_person_singular: ty brzmisz
-  third_person_singular: on/ona/ono brzmi
-  first_person_plural: my brzmimy
-  second_person_plural: wy brzmicie
-  third_person_plural: oni/one brzmią
-  key: 0cbbf82f-643c-4793-bb33-211716ca6387
-- pl: styl
-  en: style
-  word_type: noun
-  gender: masculine
-  plural_form: style
-  key: 63c7281c-887c-42eb-938e-f964a0cf8226
-- pl: uważać
-  en: to think (believe)
-  word_type: verb
-  perfective: zauważyć
-  first_person_singular: ja uważam
-  second_person_singular: ty uważasz
-  third_person_singular: on/ona/ono uważa
-  first_person_plural: my uważamy
-  second_person_plural: wy uważacie
-  third_person_plural: oni/one uważają
-  comment: Note - zauważyć means "to notice"; uważać as "to believe" is typically
-    imperfective
-  key: 1dd091ff-4ac9-4ce5-b994-6606c978678c
 - pl: wielki
-  en: great
+  en: great (significant)
   word_type: adjective
   positive: wielki
   comparative: większy
@@ -64,7 +14,7 @@
   word_type: pronoun
   key: 997cf910-1747-45bb-bc73-04c79d07e73e
 - pl: całkowicie
-  en: completely
+  en: completely (factual)
   word_type: adverb
   key: 10fffb92-20db-4fdc-b1d9-82d1ba41de96
 - pl: nauka
@@ -164,7 +114,7 @@
   word_type: adverb
   key: f9a596b3-079b-497b-9bf2-ec19afbb63e1
 - pl: zdanie
-  en: opinion
+  en: opinion (personal view)
   word_type: noun
   gender: neuter
   plural_form: zdania
@@ -175,10 +125,6 @@
   gender: feminine
   plural_form: koleje
   key: 8050f78c-f106-4ea0-820a-5a994f14a44b
-- pl: nasza
-  en: our
-  word_type: pronoun
-  key: b7c49d3e-0f5f-4542-b9e5-2bc63e0ab391
 - pl: polecać
   en: to recommend
   word_type: verb
@@ -224,7 +170,7 @@
   word_type: preposition
   key: b6778d70-6ee3-4656-8ed8-dca7dcba0991
 - pl: właściwie
-  en: actually
+  en: actually (well, actually...; strictly speaking...)
   word_type: adverb
   key: e021c366-14f7-4d43-9b93-ce59babc3cb0
 - pl: związany
@@ -291,3 +237,54 @@
   gender: feminine
   plural_form: produkcje
   key: 75875637-70bd-4c6e-9486-2848ec34a58e
+- pl: spotkanie
+  en: meeting
+  word_type: noun
+  gender: neuter
+  plural_form: spotkania
+  key: 4e60d638-47d1-4192-b70d-6df892814dc7
+- pl: wpływ
+  en: influence
+  word_type: noun
+  gender: masculine
+  plural_form: wpływy
+  key: 06451a0c-d823-49e9-bf01-697d45139caa
+- pl: zasada
+  en: rule / principle / law
+  word_type: noun
+  gender: feminine
+  plural_form: zasady
+  key: 27e9e40f-57e3-422a-822b-e0d20eb354dc
+- pl: zatem
+  en: therefore
+  word_type: adverb
+  key: c2589b3e-19fd-4a6f-a831-ba4f7fbbfd32
+- pl: źródło
+  en: source
+  word_type: noun
+  gender: neuter
+  plural_form: źródła
+  key: 61808a09-729b-4d8d-a396-fbe10f838e63
+- pl: brakować
+  en: to lack
+  word_type: verb
+  perfective: zabrakować
+  first_person_singular: mi brakuje
+  second_person_singular: ci brakuje
+  third_person_singular: mu/jej brakuje
+  first_person_plural: nam brakuje
+  second_person_plural: wam brakuje
+  third_person_plural: im brakuje
+  key: d3136692-f223-42ff-be90-099ccea36936
+- pl: członek
+  en: member
+  word_type: noun
+  gender: masculine
+  plural_form: członkowie
+  key: ad4f4121-d5e6-4185-852a-536ac2d66a8a
+- pl: komisja
+  en: commission
+  word_type: noun
+  gender: feminine
+  plural_form: komisje
+  key: 55aa0f16-2d35-46f9-a327-9d0e79aa0a3f

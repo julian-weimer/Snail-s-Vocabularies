@@ -1,15 +1,3 @@
-- pl: biznes
-  en: business
-  word_type: noun
-  gender: masculine
-  plural_form: biznesy
-  key: 02bec586-5c66-4a2c-8c96-bab1e91ccbac
-- pl: rynek
-  en: market
-  word_type: noun
-  gender: masculine
-  plural_form: rynki
-  key: 75899803-7327-464f-b76b-806d690b05cc
 - pl: produkt
   en: product
   word_type: noun
@@ -298,3 +286,20 @@
   gender: neuter
   plural_form: piekła
   key: 40214005-9a86-4ef7-a121-1fab38d32e12
+- pl: modlić się
+  en: to pray
+  word_type: verb
+  perfective: pomodlić się
+  first_person_singular: ja modlę się
+  second_person_singular: ty modlisz się
+  third_person_singular: on/ona/ono modli się
+  first_person_plural: my modlimy się
+  second_person_plural: wy modlicie się
+  third_person_plural: oni/one modlą się
+  key: 6037142c-d229-4e62-8506-85cc255f4bfc
+- pl: ksiądz
+  en: priest
+  word_type: noun
+  gender: masculine
+  plural_form: księża
+  key: c3fb040d-e338-4c6d-8cbc-509753561a24

@@ -186,14 +186,14 @@
   positive: brązowy
   key: 668efc15-80a4-48e5-b3da-1709b11071a1
 - en: here
-  pl: tutaj
+  pl: tutaj / tu
   word_type: adverb
   key: 358318a8-abb8-4425-8e62-c29163ad80c2
-- en: there
+- en: there (spatial)
   pl: tam
   word_type: adverb
   key: 9014d009-e8d9-4c19-8119-a40d2ce9a503
-- en: area
+- en: area (conceptual; measurable)
   pl: obszar
   word_type: noun
   gender: masculine

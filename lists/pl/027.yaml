@@ -1,106 +1,3 @@
-- pl: nowo
-  en: newly
-  word_type: adverb
-  key: 29469500-515c-4304-9062-940222302c85
-- pl: powrót
-  en: return
-  word_type: noun
-  gender: masculine
-  plural_form: powroty
-  key: a616e1bf-4a5b-40b1-94ad-eb16f73c99b5
-- pl: procent
-  en: percent
-  word_type: noun
-  gender: masculine
-  plural_form: procenty
-  key: 7ec78218-c38e-4c6e-b425-e3b9be9b89a3
-- pl: przechodzić
-  en: to pass
-  word_type: verb
-  perfective: przejść
-  first_person_singular: ja przechodzę
-  second_person_singular: ty przechodzisz
-  third_person_singular: on/ona/ono przechodzi
-  first_person_plural: my przechodzimy
-  second_person_plural: wy przechodzicie
-  third_person_plural: oni/one przechodzą
-  key: 9e1b6719-cd3e-470d-abde-cae18122670e
-- pl: przyznawać
-  en: to admit
-  word_type: verb
-  perfective: przyznać
-  first_person_singular: ja przyznaję
-  second_person_singular: ty przyznajesz
-  third_person_singular: on/ona/ono przyznaje
-  first_person_plural: my przyznajemy
-  second_person_plural: wy przyznajecie
-  third_person_plural: oni/one przyznają
-  key: dc2ae725-0d3c-4bab-a9b2-e8a082554ad6
-- pl: rozmawiać
-  en: to talk
-  word_type: verb
-  perfective: porozmawiać
-  first_person_singular: ja rozmawiam
-  second_person_singular: ty rozmawiasz
-  third_person_singular: on/ona/ono rozmawia
-  first_person_plural: my rozmawiamy
-  second_person_plural: wy rozmawiacie
-  third_person_plural: oni/one rozmawiają
-  key: a14a1156-96b4-4f45-80f7-c0e7d07b5992
-- pl: sprzedaż
-  en: sale
-  word_type: noun
-  gender: feminine
-  plural_form: sprzedaże
-  key: 1ce01e1c-8544-4790-bc7a-9114829813ab
-- pl: w szczególności
-  en: in particular
-  word_type: adverb
-  key: 1af3e921-0570-4b8c-8dc2-e63ae28a981a
-- pl: sądzić
-  en: to think / to judge
-  word_type: verb
-  perfective: osądzić
-  first_person_singular: ja sądzę
-  second_person_singular: ty sądzisz
-  third_person_singular: on/ona/ono sądzi
-  first_person_plural: my sądzimy
-  second_person_plural: wy sądzicie
-  third_person_plural: oni/one sądzą
-  key: 119ac427-b67b-4dd9-b521-5839163551da
-- pl: wideo
-  en: video
-  word_type: noun
-  gender: neuter
-  plural_form: wideo
-  key: 9bec8b62-85d2-47a2-bf5e-eaf338a3040f
-- pl: wniosek
-  en: conclusion
-  word_type: noun
-  gender: masculine
-  plural_form: wnioski
-  key: 1a72b686-2a73-4096-90a4-d7140b5bcc91
-- pl: administracja
-  en: administration
-  word_type: noun
-  gender: feminine
-  plural_form: administracje
-  key: 56e615e9-223a-43c2-9b19-70e1d3773c2f
-- pl: angielski
-  en: English
-  word_type: adjective
-  positive: angielski
-  key: 3865834e-3d72-4421-8bae-26754c742fee
-- pl: bać się
-  en: to fear
-  word_type: verb
-  first_person_singular: ja boję się
-  second_person_singular: ty boisz się
-  third_person_singular: on/ona/ono boi się
-  first_person_plural: my boimy się
-  second_person_plural: wy boicie się
-  third_person_plural: oni/one boją się
-  key: 93ec7ee6-096c-4cc3-b1c0-c2ab18c4e5e6
 - pl: demokracja
   en: democracy
   word_type: noun
@@ -276,7 +173,7 @@
   third_person_plural: oni/one zapraszają
   key: 274f4b16-b6e8-41df-b1df-2b9676c7c44f
 - pl: doskonale
-  en: perfectly
+  en: perfectly (masterfully done)
   word_type: adverb
   key: 966849f2-515b-42e9-8e0b-d56fd4768b49
 - pl: konkurs
@@ -326,7 +223,7 @@
   third_person_plural: oni/one wskazują
   key: 4a110187-9df0-4d6e-8895-1472a6244d24
 - pl: drużyna
-  en: team
+  en: team (sports)
   word_type: noun
   gender: feminine
   plural_form: drużyny
@@ -343,3 +240,93 @@
   gender: masculine
   plural_form: koncerty
   key: dda68a7f-7872-4c1c-9ae4-47607be8cdc4
+- pl: miara
+  en: measure
+  word_type: noun
+  gender: feminine
+  plural_form: miary
+  key: 1cb8ed9c-4e78-4102-9a9f-4cb0a3c1949f
+- pl: prawy
+  en: right (side) / legitimate
+  word_type: adjective
+  positive: prawy
+  key: 414b2772-5792-4eb1-a535-52b4830b5a36
+- pl: późno
+  en: late
+  word_type: adverb
+  key: bc1b5fde-7c6f-4ed1-b76a-fe579e65ea65
+- pl: republika
+  en: republic
+  word_type: noun
+  gender: feminine
+  plural_form: republiki
+  key: 0d3f641e-a018-48f8-8b8a-f819ed3c9aab
+- pl: sala
+  en: hall
+  word_type: noun
+  gender: feminine
+  plural_form: sale
+  key: 2782748c-7703-419b-bec4-8ea5d55e408e
+- pl: spokój
+  en: peace (inner calm)
+  word_type: noun
+  gender: masculine
+  plural_form: spokoje
+  key: fee07fe0-903f-4815-b639-c856f0963f4f
+- pl: uczestnik
+  en: participant
+  word_type: noun
+  gender: masculine
+  plural_form: uczestnicy
+  key: e57120fc-571d-41b3-bb15-c9baa8122f10
+- pl: wysoko
+  en: high
+  word_type: adverb
+  positive: wysoko
+  comparative: wyżej
+  superlative: najwyżej
+  key: c92ac68c-2bce-40eb-9451-9cd31f7ed127
+- pl: łączyć
+  en: to connect
+  word_type: verb
+  perfective: połączyć
+  first_person_singular: ja łączę
+  second_person_singular: ty łączysz
+  third_person_singular: on/ona/ono łączy
+  first_person_plural: my łączymy
+  second_person_plural: wy łączycie
+  third_person_plural: oni/one łączą
+  key: c78124e0-3222-4cef-a04b-b5447a5a13fd
+- pl: dziedzina
+  en: field (domain)
+  word_type: noun
+  gender: feminine
+  plural_form: dziedziny
+  key: 9e3f1d13-7f14-403b-a0c8-ae71e716b754
+- pl: dziennie
+  en: daily (per day)
+  word_type: adverb
+  key: e29e31d3-b869-4488-9681-c3f6fe278b14
+- pl: gość
+  en: guest
+  word_type: noun
+  gender: masculine
+  plural_form: goście
+  key: ff756910-a306-4891-a211-b0cd89dd7531
+- pl: instytucja
+  en: institution
+  word_type: noun
+  gender: feminine
+  plural_form: instytucje
+  key: bf95cc24-755e-4396-a836-9b7e2a278dce
+- pl: jechać
+  en: to go (by vehicle)
+  word_type: verb
+  first_person_singular: ja jadę
+  second_person_singular: ty jedziesz
+  third_person_singular: on/ona/ono jedzie
+  first_person_plural: my jedziemy
+  second_person_plural: wy jedziecie
+  third_person_plural: oni/one jadą
+  perfective: pojechać
+  key: 9d2c431f-63dd-429a-80d7-042b550c473b

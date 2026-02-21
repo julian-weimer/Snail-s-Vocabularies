@@ -1,9 +1,3 @@
-- en: fish
-  pl: ryba
-  plural_form: ryby
-  word_type: noun
-  gender: feminine
-  key: c4134c18-de30-4141-9f51-8e5645ac489d
 - en: snake
   pl: wąż
   plural_form: węże
@@ -298,3 +292,9 @@
   gender: feminine
   plural_form: kolacje
   key: cdbffcf9-bfec-42b2-ab8d-0450d01bc13e
+- pl: kawałek
+  en: piece
+  word_type: noun
+  gender: masculine
+  plural_form: kawałki
+  key: ee184de8-9d7a-4bdd-9677-e488a61334a4

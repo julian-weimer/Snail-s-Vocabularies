@@ -1,88 +1,3 @@
-- pl: długość
-  en: length
-  word_type: noun
-  gender: feminine
-  plural_form: długości
-  key: 47ad48a0-6770-4ec6-bbf0-b6dfa94d0edd
-- pl: finansowy
-  en: financial
-  word_type: adjective
-  positive: finansowy
-  key: bfa24419-a80b-43a5-ab06-e39b25c9cf3b
-- pl: idealny
-  en: ideal
-  word_type: adjective
-  positive: idealny
-  comparative: bardziej idealny
-  superlative: najbardziej idealny
-  key: b1c9e53c-65a6-4909-86a2-51023a04dbee
-- pl: metoda
-  en: method
-  word_type: noun
-  gender: feminine
-  plural_form: metody
-  key: c22c9458-36ff-45ee-834e-b79645c58fa4
-- pl: niezwykle
-  en: extremely
-  word_type: adverb
-  key: 5414e93d-9389-4217-9504-f0cb7e8d689f
-- pl: ocena
-  en: assessment
-  word_type: noun
-  gender: feminine
-  plural_form: oceny
-  key: 32df8bdf-1d8a-4353-82a8-1c331746c4b0
-- pl: odpowiednio
-  en: accordingly
-  word_type: adverb
-  key: 4cce525d-b62f-4663-8caa-78ba2acc0374
-- pl: papież
-  en: pope
-  word_type: noun
-  gender: masculine
-  plural_form: papieże
-  key: 9ada6d5c-1f58-452a-859f-0be82c0f375c
-- pl: podstawowy
-  en: basic
-  word_type: adjective
-  positive: podstawowy
-  comparative: bardziej podstawowy
-  superlative: najbardziej podstawowy
-  key: 912d19a1-ec2f-4714-bc0a-c4720a320e9d
-- pl: poszczególny
-  en: individual
-  word_type: adjective
-  positive: poszczególny
-  key: 0650a84d-f2a9-4df4-8191-3ad548f5f65b
-- pl: prezent
-  en: gift
-  word_type: noun
-  gender: masculine
-  plural_form: prezenty
-  key: 66f090e5-4574-4e32-891c-a9525d7bdcb0
-- pl: przestawać
-  en: to stop
-  word_type: verb
-  perfective: przestać
-  first_person_singular: ja przestaję
-  second_person_singular: ty przestajesz
-  third_person_singular: on/ona/ono przestaje
-  first_person_plural: my przestajemy
-  second_person_plural: wy przestajecie
-  third_person_plural: oni/one przestają
-  key: 761140ef-e428-4adf-9cc4-e21e8edf1c79
-- pl: rak
-  en: cancer
-  word_type: noun
-  gender: masculine
-  plural_form: raki
-  key: 923ceef6-f31d-453a-bac8-884ef710ad70
-- pl: relacja
-  en: relation
-  word_type: noun
-  gender: feminine
-  plural_form: relacje
-  key: 914cc1bb-30ac-44a8-af48-f2e681c84ba6
 - pl: rosyjski
   en: Russian
   word_type: adjective
@@ -95,7 +10,7 @@
   plural_form: terminy
   key: 7a703166-af60-4187-bdb2-93920f82c38f
 - pl: wielkość
-  en: size
+  en: size (general)
   word_type: noun
   gender: feminine
   plural_form: wielkości
@@ -145,7 +60,7 @@
   plural_form: zwycięstwa
   key: 8193f93e-50ec-49d5-918c-29b459ee4531
 - pl: auto
-  en: car
+  en: car (casually)
   word_type: noun
   gender: neuter
   plural_form: auta
@@ -258,7 +173,7 @@
   word_type: adverb
   key: 00527905-2540-4ce1-80b0-326eaad3ca4f
 - pl: idealnie
-  en: perfectly
+  en: perfectly (ideally)
   word_type: adverb
   key: 3681559f-30db-40fb-a636-95f880135454
 - pl: klient
@@ -273,7 +188,7 @@
   positive: niemożliwy
   key: 76c8dc31-0861-4c26-933e-c31a96bbc6a4
 - pl: ochota
-  en: desire
+  en: desire (casually)
   word_type: noun
   gender: feminine
   plural_form: ochoty
@@ -294,3 +209,111 @@
   gender: neuter
   plural_form: pola
   key: 46dd9887-bb9a-4bad-93ec-46d70fe4742c
+- pl: poseł
+  en: representative (deputy)
+  word_type: noun
+  gender: masculine
+  plural_form: posłowie
+  key: edb5d210-7548-458d-8765-79e735100bc1
+- pl: przemysł
+  en: industry
+  word_type: noun
+  gender: masculine
+  plural_form: przemysły
+  key: 83adaf4d-600a-4bc7-ae70-9afb5673a536
+- pl: reklama
+  en: advertisement
+  word_type: noun
+  gender: feminine
+  plural_form: reklamy
+  key: f855d3d0-d19e-4f54-9a58-e98fe0ae6693
+- pl: transport
+  en: transport
+  word_type: noun
+  gender: masculine
+  plural_form: transporty
+  key: 573f83d7-628e-4603-b453-13d9a6e43aca
+- pl: utrzymywać
+  en: to maintain
+  word_type: verb
+  perfective: utrzymać
+  first_person_singular: ja utrzymuję
+  second_person_singular: ty utrzymujesz
+  third_person_singular: on/ona/ono utrzymuje
+  first_person_plural: my utrzymujemy
+  second_person_plural: wy utrzymujecie
+  third_person_plural: oni/one utrzymują
+  key: dff76f29-079b-46af-9b77-bd28f5546c09
+- pl: wprost
+  en: directly (bluntly)
+  word_type: adverb
+  key: 5bf7f5e3-2268-4c65-b3a2-540deb1c361b
+- pl: wykorzystywać
+  en: to exploit (use)
+  word_type: verb
+  perfective: wykorzystać
+  first_person_singular: ja wykorzystuję
+  second_person_singular: ty wykorzystujesz
+  third_person_singular: on/ona/ono wykorzystuje
+  first_person_plural: my wykorzystujemy
+  second_person_plural: wy wykorzystujecie
+  third_person_plural: oni/one wykorzystują
+  key: b3311469-6b88-41d7-b305-4c49e36ef325
+- pl: zakładać
+  en: to establish (found)
+  word_type: verb
+  perfective: założyć
+  first_person_singular: ja zakładam
+  second_person_singular: ty zakładasz
+  third_person_singular: on/ona/ono zakłada
+  first_person_plural: my zakładamy
+  second_person_plural: wy zakładacie
+  third_person_plural: oni/one zakładają
+  key: 066d527e-f0be-46ce-89c9-acbd5e3ac8bc
+- pl: zwracać
+  en: to return (give back)
+  word_type: verb
+  perfective: zwrócić
+  first_person_singular: ja zwracam
+  second_person_singular: ty zwracasz
+  third_person_singular: on/ona/ono zwraca
+  first_person_plural: my zwracamy
+  second_person_plural: wy zwracacie
+  third_person_plural: oni/one zwracają
+  key: 10982c71-c155-4cc1-b255-1d4a6777c733
+- pl: śmieć
+  en: trash (garbage)
+  word_type: noun
+  gender: masculine
+  plural_form: śmieci
+  key: 31b7d7d9-8afe-40f5-84ab-222d12fb8b7d
+- pl: czynić
+  en: to do (make)
+  word_type: verb
+  perfective: uczynić
+  first_person_singular: ja czynię
+  second_person_singular: ty czynisz
+  third_person_singular: on/ona/ono czyni
+  first_person_plural: my czynimy
+  second_person_plural: wy czynicie
+  third_person_plural: oni/one czynią
+  key: 007b7c60-a3fb-4076-8f78-c66f2e14a1a3
+- pl: dokument
+  en: document
+  word_type: noun
+  gender: masculine
+  plural_form: dokumenty
+  key: ab744dfb-e893-4231-9bb5-032bf67bcada
+- pl: emocja
+  en: emotion
+  word_type: noun
+  gender: feminine
+  plural_form: emocje
+  key: cc0c52df-0ef4-4b49-bcd4-3e31e12c338b
+- pl: międzynarodowy
+  en: international
+  word_type: adjective
+  positive: international
+  comparative: more international
+  superlative: most international
+  key: 88997861-0d5b-4cc1-ace9-3fd6e6f5c467

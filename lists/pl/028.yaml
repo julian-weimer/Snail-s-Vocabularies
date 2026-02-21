@@ -1,93 +1,3 @@
-- pl: miara
-  en: measure
-  word_type: noun
-  gender: feminine
-  plural_form: miary
-  key: 1cb8ed9c-4e78-4102-9a9f-4cb0a3c1949f
-- pl: prawy
-  en: right (side) / legitimate
-  word_type: adjective
-  positive: prawy
-  key: 414b2772-5792-4eb1-a535-52b4830b5a36
-- pl: późno
-  en: late
-  word_type: adverb
-  key: bc1b5fde-7c6f-4ed1-b76a-fe579e65ea65
-- pl: republika
-  en: republic
-  word_type: noun
-  gender: feminine
-  plural_form: republiki
-  key: 0d3f641e-a018-48f8-8b8a-f819ed3c9aab
-- pl: sala
-  en: hall
-  word_type: noun
-  gender: feminine
-  plural_form: sale
-  key: 2782748c-7703-419b-bec4-8ea5d55e408e
-- pl: spokój
-  en: peace
-  word_type: noun
-  gender: masculine
-  plural_form: spokoje
-  key: fee07fe0-903f-4815-b639-c856f0963f4f
-- pl: uczestnik
-  en: participant
-  word_type: noun
-  gender: masculine
-  plural_form: uczestnicy
-  key: e57120fc-571d-41b3-bb15-c9baa8122f10
-- pl: wysoko
-  en: high
-  word_type: adverb
-  positive: wysoko
-  comparative: wyżej
-  superlative: najwyżej
-  key: c92ac68c-2bce-40eb-9451-9cd31f7ed127
-- pl: łączyć
-  en: to connect
-  word_type: verb
-  perfective: połączyć
-  first_person_singular: ja łączę
-  second_person_singular: ty łączysz
-  third_person_singular: on/ona/ono łączy
-  first_person_plural: my łączymy
-  second_person_plural: wy łączycie
-  third_person_plural: oni/one łączą
-  key: c78124e0-3222-4cef-a04b-b5447a5a13fd
-- pl: dziedzina
-  en: field (domain)
-  word_type: noun
-  gender: feminine
-  plural_form: dziedziny
-  key: 9e3f1d13-7f14-403b-a0c8-ae71e716b754
-- pl: dziennie
-  en: daily
-  word_type: adverb
-  key: e29e31d3-b869-4488-9681-c3f6fe278b14
-- pl: gość
-  en: guest
-  word_type: noun
-  gender: masculine
-  plural_form: goście
-  key: ff756910-a306-4891-a211-b0cd89dd7531
-- pl: instytucja
-  en: institution
-  word_type: noun
-  gender: feminine
-  plural_form: instytucje
-  key: bf95cc24-755e-4396-a836-9b7e2a278dce
-- pl: jechać
-  en: to go (by vehicle)
-  word_type: verb
-  first_person_singular: ja jadę
-  second_person_singular: ty jedziesz
-  third_person_singular: on/ona/ono jedzie
-  first_person_plural: my jedziemy
-  second_person_plural: wy jedziecie
-  third_person_plural: oni/one jadą
-  perfective: pojechać
-  key: 9d2c431f-63dd-429a-80d7-042b550c473b
 - pl: kasa
   en: cash register
   word_type: noun
@@ -174,7 +84,7 @@
   plural_form: gazety
   key: aca1dd5f-a32e-41d2-a1cf-a80198d69f47
 - pl: kompletnie
-  en: completely
+  en: completely (emotionally charged)
   word_type: adverb
   key: 90d9fe03-23c8-4bf0-877f-9a344dec4fe2
 - pl: powstawać
@@ -201,7 +111,7 @@
   plural_form: stowarzyszenia
   key: afd0bcc2-92fb-4cae-b43e-9dfc390b8a49
 - pl: student
-  en: student
+  en: student (university)
   word_type: noun
   gender: masculine
   plural_form: studenci
@@ -282,7 +192,7 @@
   plural_form: sceny
   key: dcd0103e-27ef-45d0-98e7-447b451bd12e
 - pl: starać się
-  en: to try
+  en: to try (making an effort)
   word_type: verb
   first_person_singular: ja staram się
   second_person_singular: ty starasz się
@@ -316,3 +226,88 @@
   gender: masculine
   plural_form: dziennikarze
   key: d4ce6b6b-246a-4a95-88aa-482e4bdb68ad
+- pl: długość
+  en: length
+  word_type: noun
+  gender: feminine
+  plural_form: długości
+  key: 47ad48a0-6770-4ec6-bbf0-b6dfa94d0edd
+- pl: finansowy
+  en: financial
+  word_type: adjective
+  positive: finansowy
+  key: bfa24419-a80b-43a5-ab06-e39b25c9cf3b
+- pl: idealny
+  en: ideal
+  word_type: adjective
+  positive: idealny
+  comparative: bardziej idealny
+  superlative: najbardziej idealny
+  key: b1c9e53c-65a6-4909-86a2-51023a04dbee
+- pl: metoda
+  en: method
+  word_type: noun
+  gender: feminine
+  plural_form: metody
+  key: c22c9458-36ff-45ee-834e-b79645c58fa4
+- pl: niezwykle
+  en: extremely
+  word_type: adverb
+  key: 5414e93d-9389-4217-9504-f0cb7e8d689f
+- pl: ocena
+  en: assessment
+  word_type: noun
+  gender: feminine
+  plural_form: oceny
+  key: 32df8bdf-1d8a-4353-82a8-1c331746c4b0
+- pl: odpowiednio
+  en: accordingly
+  word_type: adverb
+  key: 4cce525d-b62f-4663-8caa-78ba2acc0374
+- pl: papież
+  en: pope
+  word_type: noun
+  gender: masculine
+  plural_form: papieże
+  key: 9ada6d5c-1f58-452a-859f-0be82c0f375c
+- pl: podstawowy
+  en: basic
+  word_type: adjective
+  positive: podstawowy
+  comparative: bardziej podstawowy
+  superlative: najbardziej podstawowy
+  key: 912d19a1-ec2f-4714-bc0a-c4720a320e9d
+- pl: poszczególny
+  en: individual
+  word_type: adjective
+  positive: poszczególny
+  key: 0650a84d-f2a9-4df4-8191-3ad548f5f65b
+- pl: prezent
+  en: gift
+  word_type: noun
+  gender: masculine
+  plural_form: prezenty
+  key: 66f090e5-4574-4e32-891c-a9525d7bdcb0
+- pl: przestawać
+  en: to stop (activity or habit)
+  word_type: verb
+  perfective: przestać
+  first_person_singular: ja przestaję
+  second_person_singular: ty przestajesz
+  third_person_singular: on/ona/ono przestaje
+  first_person_plural: my przestajemy
+  second_person_plural: wy przestajecie
+  third_person_plural: oni/one przestają
+  key: 761140ef-e428-4adf-9cc4-e21e8edf1c79
+- pl: rak
+  en: cancer
+  word_type: noun
+  gender: masculine
+  plural_form: raki
+  key: 923ceef6-f31d-453a-bac8-884ef710ad70
+- pl: relacja
+  en: relation
+  word_type: noun
+  gender: feminine
+  plural_form: relacje
+  key: 914cc1bb-30ac-44a8-af48-f2e681c84ba6

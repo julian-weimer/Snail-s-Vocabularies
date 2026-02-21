@@ -1,74 +1,3 @@
-- pl: leżeć
-  en: to lie (down)
-  word_type: verb
-  perfective: położyć się
-  first_person_singular: ja leżę
-  first_person_plural: my leżymy
-  second_person_singular: ty leżysz
-  second_person_plural: wy leżycie
-  third_person_singular: on/ona/ono leży
-  third_person_plural: oni/one leżą
-  key: 076be8b9-4611-4dbf-9c86-988f0bc87b53
-- pl: mnóstwo
-  en: plenty
-  word_type: noun
-  gender: neuter
-  plural_form: mnóstwa
-  key: 5e597ae6-0042-4cde-bc19-c7f934944521
-- pl: natychmiast
-  en: immediately
-  word_type: adverb
-  key: 03acf5c8-0cb2-45c5-9482-648229c23c4f
-- pl: normalnie
-  en: normally
-  word_type: adverb
-  key: 27690ea8-07b2-49fc-a0fd-e5d70ce0126a
-- pl: ono
-  en: it
-  word_type: pronoun
-  key: 962640a8-45fe-4622-bb15-c81c7321f225
-- pl: równie
-  en: equally
-  word_type: adverb
-  key: 062f514a-f9eb-421d-be62-de983334a918
-- pl: specjalnie
-  en: specially
-  word_type: adverb
-  key: e0515684-3202-432e-9755-5c0b68c8a9e9
-- pl: technologia
-  en: technology
-  word_type: noun
-  gender: feminine
-  plural_form: technologie
-  key: c7968c15-b34a-45fc-b5fa-64274693a12c
-- pl: uczyć
-  en: to teach
-  word_type: verb
-  perfective: nauczyć
-  first_person_singular: ja uczę
-  first_person_plural: my uczymy
-  second_person_singular: ty uczysz
-  second_person_plural: wy uczycie
-  third_person_singular: on/ona/ono uczy
-  third_person_plural: oni/one uczą
-  key: d5932b20-fba2-4dbe-8ded-44abf8da9b79
-- pl: ustawa
-  en: law (statute)
-  word_type: noun
-  gender: feminine
-  plural_form: ustawy
-  key: 39c32121-5f86-422b-ad39-c89ed5c163a5
-- pl: wręcz
-  en: even (downright)
-  word_type: adverb
-  key: c16f479a-3962-4509-ab58-4579fc459a4b
-  comment: This is a good idea. Great, even! To dobry pomysł. Wręcz świetny!
-- pl: wsparcie
-  en: support
-  word_type: noun
-  gender: neuter
-  plural_form: wsparcia
-  key: 187cf9aa-5681-40d9-b5cf-247649265383
 - pl: wątpliwość
   en: doubt
   word_type: noun
@@ -141,12 +70,6 @@
   gender: feminine
   plural_form: jakości
   key: f7173be7-b84b-4b77-8f44-5be3750896ce
-- pl: nazwisko
-  en: surname
-  word_type: noun
-  gender: neuter
-  plural_form: nazwiska
-  key: dc7269a1-e30c-47fb-878d-3786dbf07877
 - pl: pojawiać się
   en: to appear
   word_type: verb
@@ -205,7 +128,7 @@
   third_person_plural: oni/one zgadzają się
   key: 1ea7bc6c-b2df-447a-a45c-f047c27297ad
 - pl: ładnie
-  en: nicely
+  en: nicely (visually)
   word_type: adverb
   key: 7f58bdf7-52b4-4a02-bc84-1d332731a265
 - pl: charakter
@@ -232,7 +155,7 @@
   gender: masculine
   plural_form: modele
   key: 2734be6e-dc03-4343-a1ba-a64b1d6cf879
-- pl: obaj
+- pl: obaj (m.) / oba (f.)
   en: both
   word_type: pronoun
   key: 1e9d6721-5ff0-44b8-a9be-bcc35fe245c9
@@ -270,7 +193,7 @@
   positive: złoty
   key: 61b4e353-7d87-4bef-a9eb-91c9da06387d
 - pl: efekt
-  en: effect
+  en: effect (result)
   word_type: noun
   gender: masculine
   plural_form: efekty
@@ -298,7 +221,7 @@
   plural_form: operacje
   key: 8276a11f-9d47-45a1-9387-c43adda7a4e7
 - pl: powyżej
-  en: above
+  en: above (e.g. higher than a number)
   word_type: preposition
   key: cb91d714-7373-4988-84ee-44bdca9af1d6
 - pl: północny
@@ -321,3 +244,87 @@
   second_person_plural: wy spotykacie
   third_person_plural: oni/one spotykają
   key: bf720ff6-faf7-464a-8bf9-caaf2f5b7c9b
+- pl: słyszeć
+  en: to hear
+  word_type: verb
+  perfective: usłyszeć
+  first_person_singular: ja słyszę
+  second_person_singular: ty słyszysz
+  third_person_singular: on/ona/ono słyszy
+  first_person_plural: my słyszymy
+  second_person_plural: wy słyszycie
+  third_person_plural: oni/one słyszą
+  key: e6a94f8f-658c-4a18-834b-dda5e00b7b69
+- pl: układ
+  en: system (arrangement; configuration)
+  word_type: noun
+  gender: masculine
+  plural_form: układy
+  key: 74f7bfc1-ba73-48a6-adb0-27b7c0f64c67
+- pl: umowa
+  en: agreement
+  word_type: noun
+  gender: feminine
+  plural_form: umowy
+  key: 7ef59937-f47c-4748-90ef-6164826251e1
+- pl: uwielbiać
+  en: to adore
+  word_type: verb
+  first_person_singular: ja uwielbiam
+  second_person_singular: ty uwielbiasz
+  third_person_singular: on/ona/ono uwielbia
+  first_person_plural: my uwielbiamy
+  second_person_plural: wy uwielbiacie
+  third_person_plural: oni/one uwielbiają
+  comment: This verb does not have a perfective form
+  key: b8059c1e-8822-4023-8f6f-637e2b0708a9
+- pl: wspólnie
+  en: together (collaboratively)
+  word_type: adverb
+  key: 5d36c5b0-caa7-40fb-84c9-a0b10932016b
+- pl: znajomy
+  en: acquaintance
+  word_type: noun
+  gender: masculine
+  plural_form: znajomi
+  key: 5ca3c3cd-8903-4740-b2eb-9967a4ff49ad
+- pl: dowód
+  en: proof
+  word_type: noun
+  gender: masculine
+  plural_form: dowody
+  key: 5c8538be-4241-47b6-a566-d50546e49544
+- pl: serial
+  en: series (TV show)
+  word_type: noun
+  gender: masculine
+  plural_form: seriale
+  key: aece369a-f2fa-488b-8e46-80f92a0519d9
+- pl: usługa
+  en: service (commercial)
+  word_type: noun
+  gender: feminine
+  plural_form: usługi
+  key: 9b165891-4af0-468e-92d9-5d58d60b49e8
+- pl: widok
+  en: view
+  word_type: noun
+  gender: masculine
+  plural_form: widoki
+  key: 157bb1bb-df2b-4311-a445-33cd15d5732e
+- pl: klub
+  en: club
+  word_type: noun
+  gender: masculine
+  plural_form: kluby
+  key: c64efb83-23cd-4a4a-89de-76744e6ce6c7
+- pl: mieszkanie
+  en: apartment
+  word_type: noun
+  gender: neuter
+  plural_form: mieszkania
+  key: 0c2920a6-7212-41be-a88f-d8be933ea880
+- pl: niezależnie
+  en: independently
+  word_type: adverb
+  key: 201545ef-9d80-4a28-8dc9-bcbea0968d6e

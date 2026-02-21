@@ -24,7 +24,7 @@
   en: across
   word_type: adverb
   key: 84f97b5b-2d3f-4517-8acb-eb003c412bc4
-- pl: między
+- pl: między / pomiędzy
   en: between
   word_type: preposition
   key: 8597942f-eaa9-4495-9361-9b7633d85114
@@ -33,7 +33,7 @@
   word_type: preposition
   key: eaba87d1-0385-4cff-a4ab-d0bfd34c7ff9
 - pl: moment
-  en: moment
+  en: moment (precise)
   word_type: noun
   gender: masculine
   plural_form: momenty
@@ -141,7 +141,7 @@
   plural_form: przyszłości
   key: bc94a008-5bf3-4539-90c2-a385ca7f687a
 - pl: przed
-  en: before
+  en: before (physical)
   word_type: preposition
   key: 70b888b7-2ccc-4ae5-8c27-39009148f7bf
 - pl: po
@@ -152,10 +152,10 @@
   en: later
   word_type: adverb
   key: e66c3caf-dc6d-46f1-a88d-b7ff9f60896e
-- pl: wkrótce
-  en: soon
+- pl: niedługo
+  en: soon (conversational)
   word_type: adverb
-  key: 16e5f61d-1f52-4c2e-a4a5-853c721f40e2
+  key: c21d6560-496e-4930-b3b7-b3d4b41bdabe
 - pl: wcześnie
   en: early
   word_type: adverb
@@ -182,7 +182,7 @@
   en: often
   word_type: adverb
   key: ca840ce3-3478-4709-99ec-147548bf3f00
-- pl: czasami
+- pl: czasami / czasem
   en: sometimes
   word_type: adverb
   key: 99bd693d-4c9c-474f-8bee-42fee123d9e2
@@ -190,10 +190,6 @@
   en: once
   word_type: adverb
   key: 8a7c6ad9-6646-4a1f-9bf3-ce3603b280a4
-- pl: zazwyczaj
-  en: usually
-  word_type: adverb
-  key: 5825e855-6eea-4511-b0e6-5f7a59820235
 - pl: kiedykolwiek
   en: ever
   word_type: adverb
@@ -203,7 +199,7 @@
   word_type: adverb
   key: 66bf4255-3daa-453e-baee-c82665d728fd
 - pl: wciąż
-  en: still
+  en: still (emotional)
   word_type: adverb
   key: 4ab9505b-ae0f-4419-b9b0-7f41a17af38b
 - pl: ponownie
@@ -211,7 +207,7 @@
   word_type: adverb
   key: 6c8773bf-a208-455f-bd71-71de0de5f96a
 - pl: kiedy
-  en: when
+  en: when (in questions or as a conjunction)
   word_type: adverb
   key: 10c3b0f0-38a2-4fe5-8923-9a47035c149e
 - pl: odległość
@@ -238,3 +234,9 @@
   gender: masculine
   plural_form: metry
   key: a210852c-efc9-4332-9c71-03f109054192
+- en: kilometer
+  pl: kilometr
+  word_type: noun
+  gender: masculine
+  plural_form: kilometry
+  key: 5021093d-213e-4308-8a21-83dca9f2d9e3

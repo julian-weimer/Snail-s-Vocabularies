@@ -1,22 +1,10 @@
-- en: letter (mail)
-  pl: list
-  plural_form: listy
-  word_type: noun
-  gender: masculine
-  key: 4905cc01-5af4-434b-a002-59b26b4dcf16
-- en: meaning
-  pl: znaczenie
-  plural_form: znaczenia
-  word_type: noun
-  gender: neuter
-  key: e4ea3999-6516-45bc-8030-ccf78487f812
 - en: message
   pl: wiadomość
   plural_form: wiadomości
   word_type: noun
   gender: feminine
   key: 051891ac-8265-4ecd-87e8-11cca767c558
-- en: name
+- en: name (things, places etc.)
   pl: nazwa
   plural_form: nazwy
   word_type: noun
@@ -69,7 +57,7 @@
   word_type: noun
   gender: masculine
   key: 2ddf34fc-bc22-409f-a39f-2da7d5f54cd7
-- en: statement
+- en: statement (announcement)
   pl: oświadczenie
   plural_form: oświadczenia
   word_type: noun
@@ -111,7 +99,7 @@
   gender: masculine
   plural_form: nauczyciele
   key: f070c5e6-f3c6-4af4-92e5-5902f44adc07
-- en: student
+- en: student (school pupil)
   pl: uczeń
   word_type: noun
   gender: masculine
@@ -338,3 +326,15 @@
   gender: feminine
   plural_form: gotówki
   key: bd830c29-d366-4c6e-9a45-6ce3030097af
+- pl: biznes
+  en: business
+  word_type: noun
+  gender: masculine
+  plural_form: biznesy
+  key: 02bec586-5c66-4a2c-8c96-bab1e91ccbac
+- pl: rynek
+  en: market
+  word_type: noun
+  gender: masculine
+  plural_form: rynki
+  key: 75899803-7327-464f-b76b-806d690b05cc

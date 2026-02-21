@@ -1,64 +1,3 @@
-- pl: środek
-  en: center / middle
-  word_type: noun
-  gender: masculine
-  plural_form: środki
-  key: 464edb7c-be19-4974-8e14-42c78cb00b9d
-- pl: jedyny
-  en: only
-  word_type: adjective
-  positive: jedyny
-  key: d5052e46-70fb-4f7d-8b94-90244662acee
-- pl: kontrola
-  en: control
-  word_type: noun
-  gender: feminine
-  plural_form: kontrole
-  key: c08cb272-0ae9-4a73-80dc-8126fb05282f
-- pl: podobny
-  en: similar
-  word_type: adjective
-  positive: podobny
-  comparative: bardziej podobny
-  superlative: najbardziej podobny
-  key: 039188be-c779-4ecb-94e8-ae91fb0aa47b
-- pl: Polak
-  en: Pole (Polish person)
-  word_type: noun
-  gender: masculine
-  plural_form: Polacy
-  key: 7c9383e8-1d37-4a45-9a05-277585446c83
-- pl: reszta
-  en: rest (remainder) / change (money)
-  word_type: noun
-  gender: feminine
-  plural_form: reszty
-  key: e6771273-fbfd-4734-a4bf-b52544088b90
-- pl: rzeczywiście
-  en: really
-  word_type: adverb
-  key: 80d6dae0-d038-4dfa-b013-ba3bb8360fa7
-- pl: stawać
-  en: to stand
-  word_type: verb
-  perfective: stanąć
-  first_person_singular: ja staję
-  second_person_singular: ty stajesz
-  third_person_singular: on/ona/ono staje
-  first_person_plural: my stajemy
-  second_person_plural: wy stajecie
-  third_person_plural: oni/one stają
-  key: c80a1db3-c168-48e5-9031-22167b33602a
-- pl: strasznie
-  en: terribly
-  word_type: adverb
-  key: 2d7f5544-58c7-409d-b1ea-f3c157b05714
-- pl: sukces
-  en: success
-  word_type: noun
-  gender: masculine
-  plural_form: sukcesy
-  key: bb7a0029-e278-409c-9aa7-2824fc5ec25b
 - pl: trwać
   en: to last
   word_type: verb
@@ -75,7 +14,7 @@
   word_type: adverb
   key: af584189-faed-4f0c-8df9-c5adb1e1908c
 - pl: wypowiedź
-  en: statement
+  en: statement (remark)
   word_type: noun
   gender: feminine
   plural_form: wypowiedzi
@@ -97,10 +36,6 @@
   word_type: adjective
   positive: dawny
   key: 8978dab7-f74c-4705-b578-b9b92829d400
-- pl: jeśli
-  en: if
-  word_type: conjunction
-  key: d5f9db7d-4aaf-4d53-998a-5391bffb9c2e
 - pl: kończyć
   en: to finish
   word_type: verb
@@ -146,10 +81,10 @@
   word_type: adjective
   positive: narodowy
   key: 592db750-003e-4576-b702-546943d239d0
-- pl: niedługo
+- pl: wkrótce (formal)
   en: soon
   word_type: adverb
-  key: c21d6560-496e-4930-b3b7-b3d4b41bdabe
+  key: 16e5f61d-1f52-4c2e-a4a5-853c721f40e2
 - pl: okazywać się
   en: to turn out (prove)
   word_type: verb
@@ -304,3 +239,83 @@
   gender: masculine
   plural_form: profile
   key: c899390a-0122-41c6-a975-07e710e9edb5
+- pl: przypominać
+  en: to remind
+  word_type: verb
+  perfective: przypomnieć
+  first_person_singular: ja przypominam
+  second_person_singular: ty przypominasz
+  third_person_singular: on/ona/ono przypomina
+  first_person_plural: my przypominamy
+  second_person_plural: wy przypominacie
+  third_person_plural: oni/one przypominają
+  key: f72387f4-3b8a-40c4-9b16-b07cf2b77f13
+- pl: póki
+  en: while / as long as
+  word_type: conjunction
+  key: 71d80804-5c52-459f-b91b-21a47d460016
+- pl: sprawdzać
+  en: to check
+  word_type: verb
+  perfective: sprawdzić
+  first_person_singular: ja sprawdzam
+  second_person_singular: ty sprawdzasz
+  third_person_singular: on/ona/ono sprawdza
+  first_person_plural: my sprawdzamy
+  second_person_plural: wy sprawdzacie
+  third_person_plural: oni/one sprawdzają
+  key: dbd42e04-ee72-4541-9ee4-f4ffe73ee261
+- pl: stosunek
+  en: attitude / relationship
+  word_type: noun
+  gender: masculine
+  plural_form: stosunki
+  key: aa8df242-bfdc-47c6-9fc2-28bc0d1be649
+- pl: wolno
+  en: freely
+  word_type: adverb
+  key: 054fb95c-1fa7-41a1-9896-ac22f1c60511
+- pl: wymagać
+  en: to require
+  word_type: verb
+  perfective: wymagać
+  first_person_singular: ja wymagam
+  second_person_singular: ty wymagasz
+  third_person_singular: on/ona/ono wymaga
+  first_person_plural: my wymagamy
+  second_person_plural: wy wymagacie
+  third_person_plural: oni/one wymagają
+  comment: This verb has the same form for both imperfective and perfective aspects
+  key: 7bc10e01-ef24-42ce-90fb-c72527e08dae
+- pl: wynosić
+  en: to total / to amount to
+  word_type: verb
+  perfective: wynieść
+  first_person_singular: ja wynoszę
+  second_person_singular: ty wynosisz
+  third_person_singular: on/ona/ono wynosi
+  first_person_plural: my wynosimy
+  second_person_plural: wy wynosicie
+  third_person_plural: oni/one wynoszą
+  key: 3a2b3450-58f9-421c-9bdf-b33edef3d61a
+- pl: zwierzę
+  en: animal
+  word_type: noun
+  gender: neuter
+  plural_form: zwierzęta
+  key: 202dfa52-b872-4088-bf9d-645ba8dc4064
+- pl: warunek
+  en: condition
+  word_type: noun
+  gender: masculine
+  plural_form: warunki
+  key: 7141c4a8-f1fd-4a80-8723-990d6739bb6f
+- pl: światowy
+  en: global / worldwide
+  word_type: adjective
+  positive: światowy
+  key: 049ee8fd-400a-4d7d-9d40-49466402cf38
+- pl: gorzej
+  en: worse
+  word_type: adverb
+  key: 5aaf6d6c-fb9e-40c4-8378-e1aa35d39bee

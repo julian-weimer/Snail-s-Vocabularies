@@ -1,25 +1,3 @@
-- pl: Niech...
-  en: Let...
-  word_type: other
-  key: 66a2019e-bdf1-4061-aa82-dcc25ac96b1d
-- pl: ani
-  en: nor
-  word_type: conjunction
-  key: 3f1e99e8-c46c-4ecb-9565-587813e15337
-- pl: pan
-  en: lord / mister
-  word_type: noun
-  gender: masculine
-  plural_form: panowie
-  key: 44f28e53-0ae9-4b2c-ada6-e453530b0fcc
-- pl: pewnie
-  en: probably
-  word_type: adverb
-  key: 35a0c2f3-f61f-4d9d-a48f-c8d78539db23
-- pl: jeżeli
-  en: if
-  word_type: conjunction
-  key: 07570ffb-ad14-4af1-8299-721e9a7cb9bc
 - pl: nadal
   en: still
   word_type: adverb
@@ -29,7 +7,7 @@
   word_type: pronoun
   key: 6a2f8461-8649-49bc-9d53-290678e3dd61
 - pl: jakiś
-  en: some
+  en: some (some kind of)
   word_type: pronoun
   key: b0acd242-8695-4085-a0db-4fb73a8df39b
 - pl: poza
@@ -52,7 +30,7 @@
   word_type: adverb
   key: 042af748-0771-492c-b47e-89ef28ddda00
 - pl: ponad
-  en: over / above
+  en: over / above (quantity)
   word_type: preposition
   key: a186513b-6008-44f9-802c-7366e7e85589
 - pl: pani
@@ -85,10 +63,10 @@
   word_type: adverb
   key: dd38fdb0-3c74-4785-b5dd-511b39c12428
 - pl: obecnie
-  en: currently
+  en: currently (nowadays)
   word_type: adverb
   key: c02735e0-8abd-4816-a1f8-620dd9ad27d2
-- pl: mimo
+- pl: mimo / pomimo
   en: despite
   word_type: preposition
   key: f2e94b12-4021-457f-bdf8-1f3343df6972
@@ -150,7 +128,7 @@
   word_type: adverb
   key: 9779092b-e7b2-4f52-b91c-5bf40f83aca2
 - pl: państwo
-  en: state
+  en: state (nation; country)
   word_type: noun
   gender: neuter
   plural_form: państwa
@@ -167,7 +145,7 @@
   gender: feminine
   plural_form: większości
   key: 364da6d0-d842-4e78-bd58-7da28aedf5de
-- pl: dość
+- pl: dość / dosyć
   en: enough
   word_type: adverb
   key: e7361e6f-769a-4f12-b207-8ae6d286966c
@@ -206,7 +184,7 @@
   word_type: adverb
   key: ab33a735-0b32-451a-801d-5baa6abd7206
 - pl: znaczyć
-  en: to mean
+  en: to mean (e.g. meaning of a word)
   word_type: verb
   first_person_singular: ja znaczę
   first_person_plural: my znaczymy
@@ -216,16 +194,12 @@
   third_person_plural: oni/one znaczą
   perfective: oznaczyć
   key: c693439e-f1bb-48b8-b2a0-1e7f58f72de9
-- pl: choć
-  en: although
-  word_type: conjunction
-  key: e7570d21-941a-4d3f-a510-1b373e2360de
 - pl: jedynie
   en: only
   word_type: adverb
   key: 12f9304d-d6d7-45fe-8a49-1f88b341b96e
 - pl: natomiast
-  en: however
+  en: however (in contrast; whereas)
   word_type: conjunction
   key: 2c49ccdf-b13c-45a5-b20a-a79104838a95
 - pl: pomoc
@@ -234,12 +208,12 @@
   gender: feminine
   plural_form: pomoce
   key: 2ddc52aa-bab9-48ee-ad8b-a1e2a5363611
-- pl: wraz
-  en: together
+- pl: wraz z
+  en: along with (formal)
   word_type: adverb
   key: bccd2d65-ec1c-4658-ab7f-f3a24eae0159
 - pl: zaraz
-  en: immediately
+  en: immediately (very soon)
   word_type: adverb
   key: c7ae24f5-a9aa-47a2-be69-b811a31b85b7
 - pl: mało
@@ -265,3 +239,37 @@
   gender: masculine
   plural_form: przypadki
   key: 60970144-bd91-487d-a701-3d06f1a9a309
+- pl: raczej
+  en: rather
+  word_type: adverb
+  key: 449251d9-c104-408d-ad55-16dd1dccaa85
+- pl: coraz
+  en: increasingly / more and more
+  word_type: adverb
+  key: d8349229-906c-4ddc-b856-2d48732e1eb5
+- pl: skoro
+  en: since / when
+  word_type: conjunction
+  key: efe84a94-29dc-49bc-b61e-7d26ab4f75e1
+- pl: dziać się
+  en: to happen (ongoing event)
+  word_type: verb
+  perfective: stać się
+  first_person_singular: ja dzieję się
+  first_person_plural: my dziejemy się
+  second_person_singular: ty dziejesz się
+  second_person_plural: wy dziejecie się
+  third_person_singular: on/ona/ono dzieje się
+  third_person_plural: oni/one dzieją się
+  key: f136c794-fcdf-4651-9fb4-ee944d3d1a63
+- pl: zamiast
+  en: instead
+  word_type: preposition
+  key: 5d051def-72d7-48e1-90bf-67f692141e23
+- pl: różny
+  en: different
+  word_type: adjective
+  positive: różny
+  comparative: różniejszy
+  superlative: najróżniejszy
+  key: f9a4685a-9e86-49a8-a99e-4d69ccae5d4b

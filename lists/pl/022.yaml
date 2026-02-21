@@ -1,53 +1,3 @@
-- pl: codziennie
-  en: daily
-  word_type: adverb
-  key: b7cfc8b3-c93a-4a6c-a9f4-430df99c1299
-- pl: ilość
-  en: quantity
-  word_type: noun
-  gender: feminine
-  plural_form: ilości
-  key: dcde1fa5-760f-4154-b5ee-12045d73d1fd
-- pl: konto
-  en: account
-  word_type: noun
-  gender: neuter
-  plural_form: konta
-  key: 919a59ed-6737-4df2-8732-6ed8b84c300b
-- pl: podobno
-  en: apparently
-  word_type: adverb
-  key: 306a6d70-19c5-4312-b1b6-fa1ff70dfa2f
-- pl: pora
-  en: time (of day)
-  word_type: noun
-  gender: feminine
-  plural_form: pory
-  key: 9be21233-0c17-42c7-abde-d4bb28b9f1c9
-- pl: post
-  en: post
-  word_type: noun
-  gender: masculine
-  plural_form: posty
-  key: 49c7b55b-c076-4258-8e57-e17df95a4a7d
-- pl: służba
-  en: service
-  word_type: noun
-  gender: feminine
-  plural_form: służby
-  key: 93e28fab-3d7e-4622-a0bf-95542a2bcf27
-- pl: unia
-  en: union
-  word_type: noun
-  gender: feminine
-  plural_form: unie
-  key: 705c729d-14c6-41f0-97c4-c80db72735d1
-- pl: widzenie
-  en: vision / eyesight
-  word_type: noun
-  gender: neuter
-  plural_form: widzenia
-  key: 30c5901a-fdf4-418f-9a2f-f413b38f4487
 - pl: świetnie
   en: great
   word_type: adverb
@@ -62,12 +12,8 @@
   en: generally
   word_type: adverb
   key: bffce626-c068-4e5b-b056-f7acef81efad
-- pl: pomimo
-  en: despite
-  word_type: preposition
-  key: fe1f6068-e337-4fe5-8903-58a07637477d
 - pl: sprawiać
-  en: to cause
+  en: to cause (personally; feelings)
   word_type: verb
   aspect: imperfective
   perfective: sprawić
@@ -116,11 +62,11 @@
   superlative: najdziwniejszy
   key: 4d116142-4246-4058-9a74-31de3b0b488f
 - pl: akurat
-  en: just (exactly)
+  en: just (exactly; ironically)
   word_type: adverb
   key: c2d42c88-b8ad-41ba-a87e-91bc641fc0cd
 - pl: niemal
-  en: almost
+  en: almost (formal)
   word_type: adverb
   key: 5af1a9ad-bc43-498f-94f3-2aa192b68ce4
 - pl: najczęściej
@@ -128,7 +74,7 @@
   word_type: adverb
   key: 50cbfd20-8721-4692-880c-9ee46449c689
 - pl: dopóki
-  en: until
+  en: until (duration of condition)
   word_type: conjunction
   key: b62295a3-cbcf-411d-980b-8d39294d92ed
 - pl: ku
@@ -185,7 +131,7 @@
   third_person_plural: oni/one zawierają
   key: 993d7fe0-19b2-495c-9081-c198bd719314
 - pl: bezpośrednio
-  en: directly
+  en: directly (direct route)
   word_type: adverb
   key: d4fa3671-ef96-48d8-ad5f-acad437974b2
 - pl: dotyczyć
@@ -252,7 +198,7 @@
   third_person_plural: oni/one dochodzą
   key: 93d7f23d-84bf-4fcd-a14d-fa1c1c9ea467
 - pl: faktycznie
-  en: actually
+  en: actually (in fact; indeed)
   word_type: adverb
   key: 10cc71a8-affd-445c-af2d-a68d1cca876b
 - pl: liczyć
@@ -301,7 +247,7 @@
   plural_form: uniwersytety
   key: b25382bc-5845-4ce9-a36b-28c5d1a582ee
 - pl: witać
-  en: to greet
+  en: to greet (in person)
   word_type: verb
   perfective: powitać
   first_person_singular: ja witam
@@ -322,3 +268,64 @@
   second_person_plural: wy wychodzicie
   third_person_plural: oni/one wychodzą
   key: 21a94f55-22ea-4759-809a-4d6adb2746a0
+- pl: środek
+  en: center / middle
+  word_type: noun
+  gender: masculine
+  plural_form: środki
+  key: 464edb7c-be19-4974-8e14-42c78cb00b9d
+- pl: jedyny
+  en: only
+  word_type: adjective
+  positive: jedyny
+  key: d5052e46-70fb-4f7d-8b94-90244662acee
+- pl: kontrola
+  en: control
+  word_type: noun
+  gender: feminine
+  plural_form: kontrole
+  key: c08cb272-0ae9-4a73-80dc-8126fb05282f
+- pl: podobny
+  en: similar
+  word_type: adjective
+  positive: podobny
+  comparative: bardziej podobny
+  superlative: najbardziej podobny
+  key: 039188be-c779-4ecb-94e8-ae91fb0aa47b
+- pl: Polak
+  en: Pole (Polish person)
+  word_type: noun
+  gender: masculine
+  plural_form: Polacy
+  key: 7c9383e8-1d37-4a45-9a05-277585446c83
+- pl: reszta
+  en: rest (remainder) / change (money)
+  word_type: noun
+  gender: feminine
+  plural_form: reszty
+  key: e6771273-fbfd-4734-a4bf-b52544088b90
+- pl: rzeczywiście
+  en: really
+  word_type: adverb
+  key: 80d6dae0-d038-4dfa-b013-ba3bb8360fa7
+- pl: stawać
+  en: to stand (to stop moving)
+  word_type: verb
+  perfective: stanąć
+  first_person_singular: ja staję
+  second_person_singular: ty stajesz
+  third_person_singular: on/ona/ono staje
+  first_person_plural: my stajemy
+  second_person_plural: wy stajecie
+  third_person_plural: oni/one stają
+  key: c80a1db3-c168-48e5-9031-22167b33602a
+- pl: strasznie
+  en: terribly
+  word_type: adverb
+  key: 2d7f5544-58c7-409d-b1ea-f3c157b05714
+- pl: sukces
+  en: success
+  word_type: noun
+  gender: masculine
+  plural_form: sukcesy
+  key: bb7a0029-e278-409c-9aa7-2824fc5ec25b

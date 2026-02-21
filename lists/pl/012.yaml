@@ -1,17 +1,3 @@
-- en: beautiful
-  pl: piękny
-  word_type: adjective
-  positive: piękny
-  comparative: piękniejszy
-  superlative: najpiękniejszy
-  key: 4852e9b3-eed9-4340-98ff-80be7fae5caa
-- en: ugly
-  pl: brzydki
-  word_type: adjective
-  positive: brzydki
-  comparative: brzydszy
-  superlative: najbrzydszy
-  key: b41fd782-481c-4722-82b7-e604ed739aa6
 - en: strong
   pl: silny
   word_type: adjective
@@ -188,11 +174,11 @@
   pl: i
   word_type: conjunction
   key: e8d6bec2-cc82-4dd4-ae2a-14bc1c540056
-- en: or
+- en: or (formal)
   pl: lub
   word_type: conjunction
   key: 67bdacd7-086f-4ad2-b794-e23b4c09f2bb
-- en: but
+- en: but (conversational)
   pl: ale
   word_type: conjunction
   key: c9dd2a0d-1298-4793-8388-e21c6de32d4b
@@ -200,12 +186,12 @@
   pl: więc
   word_type: conjunction
   key: 833c1d6c-279c-4451-afd3-981abe0e5507
-- en: because
+- en: because (conversational)
   pl: ponieważ
   word_type: conjunction
   key: 76250f54-6ab3-43dc-b09e-2a251479456e
-- en: however
-  pl: jednak
+- en: however (after all; yet)
+  pl: jednak / jednakże
   word_type: conjunction
   key: f569fcb5-2bd0-417b-bc22-d5f1be526a61
 - en: therefore
@@ -213,7 +199,7 @@
   word_type: conjunction
   key: cbb28087-2214-42f3-8b7b-5c676388a32e
 - en: although
-  pl: chociaż
+  pl: chociaż / choć
   word_type: conjunction
   key: 051f0163-5352-4076-b175-ca43ce59378d
 - en: nothing
@@ -290,3 +276,15 @@
   gender: masculine
   plural_form: dachy
   key: 94c1ed08-68f8-4f69-9a72-aa1f195e2b11
+- en: bed
+  pl: łóżko
+  word_type: noun
+  gender: neuter
+  plural_form: łóżka
+  key: 2248072e-2a60-4656-b75d-6e5ff7d3a43f
+- en: table
+  pl: stół
+  word_type: noun
+  gender: masculine
+  plural_form: stoły
+  key: b46e5687-7d2d-4b50-931a-a23ff365c792

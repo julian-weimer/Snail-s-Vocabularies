@@ -1,42 +1,3 @@
-- pl: podstawa
-  en: basis / base
-  word_type: noun
-  gender: feminine
-  plural_form: podstawy
-  key: 45ef09c8-d17c-4c35-b25c-d66bc62480f8
-- pl: program
-  en: program
-  word_type: noun
-  gender: masculine
-  plural_form: programy
-  key: adc68396-47cf-4389-9864-93d5688c4452
-- pl: najlepiej
-  en: best
-  word_type: adverb
-  key: 71ec6165-f4d9-483d-869a-174847105013
-- pl: okazja
-  en: event / opportunity
-  word_type: noun
-  gender: feminine
-  plural_form: okazje
-  key: 1924928b-5a66-4485-822d-d34fec0caf28
-- pl: trudno
-  en: difficult
-  word_type: adverb
-  key: 5ef9f698-e97c-4857-8198-479e370678ff
-- pl: zgodnie
-  en: under / correspondingly
-  word_type: adverb
-  key: 948fd300-f0a7-41d6-8a0f-388ec3a2c684
-  comment: Under the law, you can't do it. Zgodnie z prawem, nie możesz tego zrobić.
-- pl: mocno
-  en: strongly
-  word_type: adverb
-  key: 98bb5980-a786-4739-9359-ee2c690725b1
-- pl: najpierw
-  en: first
-  word_type: adverb
-  key: 860c4cee-192f-451a-86ee-ee493772763b
 - pl: rano
   en: morning
   word_type: noun
@@ -116,17 +77,23 @@
   plural_form: szczęścia
   key: fad13338-52ab-44b8-9f29-381c16878cd9
 - pl: teren
-  en: area
+  en: area (terrain)
   word_type: noun
   gender: masculine
   plural_form: tereny
   key: fc4dd20b-7819-441e-b552-ff80d1e6742c
 - pl: imię
-  en: name
+  en: name (first name)
   word_type: noun
   gender: neuter
   plural_form: imiona
   key: 1f613c79-28bd-43c5-af0d-d195ea457f0f
+- pl: nazwisko
+  en: surname
+  word_type: noun
+  gender: neuter
+  plural_form: nazwiska
+  key: dc7269a1-e30c-47fb-878d-3786dbf07877
 - pl: ostatni
   en: last
   word_type: adjective
@@ -149,7 +116,7 @@
   word_type: preposition
   key: dd23db2e-b83f-4c59-882a-a409adfb03d2
 - pl: oto
-  en: there
+  en: there (presenting something)
   word_type: other
   key: 3381ea91-011e-40b9-ae4e-d4f109946831
 - pl: podobnie
@@ -168,13 +135,13 @@
   comment: used informally
   key: eb213a83-2074-4855-9ac2-4290721af3b3
 - pl: akcja
-  en: action
+  en: action (campaign; plot in a story)
   word_type: noun
   gender: feminine
   plural_form: akcje
   key: dcb0a233-df57-422a-bff6-0bb11773e1e1
 - pl: pół
-  en: half
+  en: half (in compound expressions)
   word_type: noun
   gender: feminine
   plural_form: połowy
@@ -192,7 +159,7 @@
   plural_form: sieci
   key: 449f8bbc-3a11-4a3e-b8d3-7fd6cda76af9
 - pl: też
-  en: also
+  en: also (casually)
   word_type: adverb
   key: 4172afeb-3b89-40a7-bce0-43feb6d467c7
 - pl: badanie
@@ -260,7 +227,7 @@
   gender: feminine
   plural_form: wartości
   key: a3e83ae6-1ee4-4165-9b30-af533ab5ed3c
-- pl: zwykle
+- pl: zwykle / zazwyczaj
   en: usually
   word_type: adverb
   key: f127dc93-4d78-4ea5-8479-8c3eea74ae83
@@ -269,10 +236,60 @@
   word_type: adverb
   key: 292b363c-607b-4917-80ca-ef505ef9d23d
 - pl: gdyż
-  en: because
+  en: because (formal)
   word_type: conjunction
   key: f6e88b30-eb7a-4158-955b-79f2e80947cd
 - pl: nagle
   en: suddenly
   word_type: adverb
   key: c0347697-3d03-445b-9e3b-ee9e4e23a2ad
+- pl: niektórzy
+  en: some (people)
+  word_type: pronoun
+  key: 00d2444a-680b-4762-bf47-df7915d061a1
+- pl: poziom
+  en: level
+  word_type: noun
+  gender: masculine
+  plural_form: poziomy
+  key: 70201c36-9bde-4890-a537-e0d2d7f9d62f
+- pl: zespół
+  en: team (people working together)
+  word_type: noun
+  gender: masculine
+  plural_form: zespoły
+  key: e1c1f578-b8ea-4425-941a-31ee709a478e
+- pl: znacznie
+  en: significantly
+  word_type: adverb
+  key: 4b1c2779-96b4-4e43-bdb6-8ceea58b53d3
+- pl: brzmieć
+  en: to sound
+  word_type: verb
+  perfective: zabrzmieć
+  first_person_singular: ja brzmię
+  second_person_singular: ty brzmisz
+  third_person_singular: on/ona/ono brzmi
+  first_person_plural: my brzmimy
+  second_person_plural: wy brzmicie
+  third_person_plural: oni/one brzmią
+  key: 0cbbf82f-643c-4793-bb33-211716ca6387
+- pl: styl
+  en: style
+  word_type: noun
+  gender: masculine
+  plural_form: style
+  key: 63c7281c-887c-42eb-938e-f964a0cf8226
+- pl: uważać
+  en: to think (believe)
+  word_type: verb
+  perfective: zauważyć
+  first_person_singular: ja uważam
+  second_person_singular: ty uważasz
+  third_person_singular: on/ona/ono uważa
+  first_person_plural: my uważamy
+  second_person_plural: wy uważacie
+  third_person_plural: oni/one uważają
+  comment: Note - zauważyć means "to notice"; uważać as "to believe" is typically
+    imperfective
+  key: 1dd091ff-4ac9-4ce5-b994-6606c978678c

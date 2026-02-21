@@ -1,11 +1,3 @@
-- en: where
-  pl: gdzie
-  word_type: adverb
-  key: 63c12c2b-6ae3-4d66-97fa-4cd24efdf418
-- en: whose
-  pl: czyj
-  word_type: pronoun
-  key: aba0274c-0ca5-4a0a-9b43-510aa5346295
 - en: to have
   pl: mieć
   word_type: verb
@@ -27,7 +19,7 @@
   third_person_singular: on/ona/ono robi
   third_person_plural: oni/one robią
   key: b0364fb3-85db-4fe3-aff0-42250c7ecd02
-- en: to be able to
+- en: to be able to (through circumstances)
   pl: móc
   word_type: verb
   first_person_singular: ja mogę
@@ -158,7 +150,7 @@
   third_person_singular: on/ona/ono siedzi
   third_person_plural: oni/one siedzą
   key: aec8d026-c9de-486c-b82b-210fcba2acca
-- en: to stand
+- en: to stand (standing position)
   pl: stać
   word_type: verb
   perfective: stanąć
@@ -378,7 +370,7 @@
   third_person_singular: on/ona/ono przybywa
   third_person_plural: oni/one przybywają
   key: 904ef72a-a002-4de0-8075-53658a04cb64
-- en: to try
+- en: to try (to attempt)
   pl: próbować
   word_type: verb
   perfective: spróbować
@@ -389,7 +381,7 @@
   third_person_singular: on/ona/ono próbuje
   third_person_plural: oni/one próbują
   key: 906175c5-685f-45e8-ace4-d44752d940db
-- en: to happen
+- en: to happen / to occur
   pl: zdarzać się
   word_type: verb
   perfective: zdarzyć się
@@ -532,3 +524,25 @@
   second_person_plural: wy gotujecie
   third_person_plural: oni/one gotują
   key: 454e067f-a869-4f78-aa8e-af4fd18abfd7
+- en: to cut
+  pl: ciąć
+  perfective: pociąć
+  word_type: verb
+  first_person_singular: ja tnę
+  second_person_singular: ty tniesz
+  third_person_singular: on/ona/ono tnie
+  first_person_plural: my tniemy
+  second_person_plural: wy tniecie
+  third_person_plural: oni/one tną
+  key: 3948cc0f-359a-4ba4-828a-94fbe17e3d07
+- en: to carry
+  pl: nosić
+  perfective: ponosić
+  word_type: verb
+  first_person_singular: ja noszę
+  second_person_singular: ty nosisz
+  third_person_singular: on/ona/ono nosi
+  first_person_plural: my nosimy
+  second_person_plural: wy nosicie
+  third_person_plural: oni/one noszą
+  key: b7adbc54-fbd0-49e2-a178-0296e237547e
