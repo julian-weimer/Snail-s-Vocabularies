@@ -51,13 +51,6 @@ Add the `plural_form` key with the plural form of the noun if $language_name is 
 - spanish
 - swedish
 
-Add a short explanation in English of plural usage to a `comment` key if $language_name is one of the following languages (example: '2-4: [plural form]; 5+: [another plural form]'). The languages below don't need a `plural_form` key:
-- russian
-- ukrainian
-- polish
-- czech
-- croatian
-
 Add a `gender` key with one of the following values: `masculine`, `feminine`, `neuter` if $language_name is one of these languages:
 - catalan
 - croatian
