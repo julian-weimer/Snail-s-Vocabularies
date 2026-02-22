@@ -21,6 +21,7 @@ google-cloud-texttospeech = "*"
 jsonschema = "*"
 python-i18n = "*"
 genanki = "*"
+markdown = "*"
 pyperclip = "*"
 
 [dev-packages]

@@ -1,6 +1,7 @@
 import os
 
 import i18n
+import markdown as md
 
 # Configure i18n
 i18n.load_path.append(
@@ -118,9 +119,11 @@ def get_comment(comment: str) -> str:
     if not comment:
         return ""
 
+    comment_html = md.markdown(comment)
+
     return f"""<div class="comment">
   <div class="info-icon">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="24 24 208 208" fill="currentColor"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm-4,48a12,12,0,1,1-12,12A12,12,0,0,1,124,72Zm12,112a16,16,0,0,1-16-16V128a8,8,0,0,1,0-16,16,16,0,0,1,16,16v40a8,8,0,0,1,0,16Z"/></svg>
   </div>
-  <div class="comment-content">{comment}</div>
+  <div class="comment-content">{comment_html}</div>
 </div>"""
