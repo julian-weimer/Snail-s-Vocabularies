@@ -69,6 +69,7 @@ FLASHCARD_MODEL = genanki.Model(
         {"name": "plural_form"},
         {"name": "image_source"},
         {"name": "comment"},
+        {"name": "perfective"},
     ],
     templates=[
         {
@@ -110,6 +111,7 @@ def create_deck(
         plural_form = word_object.get("plural_form")
         gender = word_object.get("gender")
         comment_text = word_object.get("comment", "")
+        perfective = word_object.get("perfective", "")
         en = word_object.get("en", "")
 
         if not native_word or not target_word:
@@ -179,6 +181,7 @@ def create_deck(
                 plural_form_snippet,
                 image_source_snippet,
                 comment_snippet,
+                perfective,
             ],
         )
         deck.add_note(note)
