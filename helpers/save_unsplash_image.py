@@ -7,7 +7,9 @@ from PIL import Image
 from log import logger
 
 
-def save_unsplash_image(image_data: dict, image_file_path: str, metadata_file_path: str, key: str) -> None:
+def save_unsplash_image(
+    image_data: dict, image_file_path: str, metadata_file_path: str, key: str
+) -> None:
     # Get image URL and author info
     image_url = image_data["urls"]["full"]
     author = image_data["user"]["username"]

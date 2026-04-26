@@ -12,11 +12,8 @@ from constants import (
 )
 from helpers.get_image_source import get_image_source
 from helpers.get_word_additions import (
-    get_adjective_additions,
     get_comment,
     get_gender_addition,
-    get_plural_form_addition,
-    get_verb_additions,
 )
 from helpers.update_deck_index import update_deck_index
 from log import logger
@@ -57,16 +54,24 @@ def get_common_css() -> str:
 
 FLASHCARD_MODEL = genanki.Model(
     model_id=GENANKI_FLASHCARD_MODEL_ID,
-    name="Flashcard Model",
+    name="Snail's Vocabularies Note",
     fields=[
         {"name": "native_word"},
         {"name": "target_word"},
         {"name": "word_type"},
         {"name": "sound"},
         {"name": "image"},
-        {"name": "dl"},
         {"name": "gender"},
         {"name": "plural_form"},
+        {"name": "positive"},
+        {"name": "comparative"},
+        {"name": "superlative"},
+        {"name": "first_person_singular"},
+        {"name": "first_person_plural"},
+        {"name": "second_person_singular"},
+        {"name": "second_person_plural"},
+        {"name": "third_person_singular"},
+        {"name": "third_person_plural"},
         {"name": "image_source"},
         {"name": "comment"},
         {"name": "perfective"},
@@ -151,21 +156,7 @@ def create_deck(
         # Get image source attribution
         image_source_snippet = get_image_source(en_slug, images_dir)
 
-        # Get additions based on word type
-        dl_snippet = ""
-        gender_snippet = ""
-        plural_form_snippet = ""
-        if word_type == "noun":
-            gender_snippet = get_gender_addition(gender, native_language.value)
-            plural_form_snippet = get_plural_form_addition(
-                plural_form, native_language.value
-            )
-        elif word_type == "adjective":
-            dl_snippet = get_adjective_additions(word_object, native_language.value)
-        elif word_type == "verb":
-            dl_snippet = get_verb_additions(word_object, native_language.value)
-
-        # Get comment snippet
+        gender_snippet = get_gender_addition(gender, native_language.value)
         comment_snippet = get_comment(comment_text)
 
         note = genanki.Note(
@@ -176,9 +167,29 @@ def create_deck(
                 translated_word_type,
                 sound_field,
                 image_field,
-                dl_snippet,
                 gender_snippet,
-                plural_form_snippet,
+                plural_form or "",
+                word_object.get("positive", "") if word_type == "adjective" else "",
+                word_object.get("comparative", "") if word_type == "adjective" else "",
+                word_object.get("superlative", "") if word_type == "adjective" else "",
+                word_object.get("first_person_singular", "")
+                if word_type == "verb"
+                else "",
+                word_object.get("first_person_plural", "")
+                if word_type == "verb"
+                else "",
+                word_object.get("second_person_singular", "")
+                if word_type == "verb"
+                else "",
+                word_object.get("second_person_plural", "")
+                if word_type == "verb"
+                else "",
+                word_object.get("third_person_singular", "")
+                if word_type == "verb"
+                else "",
+                word_object.get("third_person_plural", "")
+                if word_type == "verb"
+                else "",
                 image_source_snippet,
                 comment_snippet,
                 perfective,

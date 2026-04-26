@@ -8,19 +8,54 @@
   - {{sound}}: Audio
   - {{image}}: Image
   - {{image_source}}: Attribution for the image source
-  - {{gender}}: Gender of nouns
-  - {{plural_form}}: Plural form of nouns
-  - {{dl}}: Definition list for verb conjugations or adjective forms
-  - {{comment}}: Comment
+  - {{gender}}: Gender abbreviation for nouns (e.g. "m.", "f.", "n.")
+  - {{plural_form}}: Plural form of nouns (plain text, e.g. "Hunde")
+  - {{positive}}: Positive form of adjectives
+  - {{comparative}}: Comparative form of adjectives
+  - {{superlative}}: Superlative form of adjectives
+  - {{first_person_singular}}: 1st person singular verb conjugation
+  - {{first_person_plural}}: 1st person plural verb conjugation
+  - {{second_person_singular}}: 2nd person singular verb conjugation
+  - {{second_person_plural}}: 2nd person plural verb conjugation
+  - {{third_person_singular}}: 3rd person singular verb conjugation
+  - {{third_person_plural}}: 3rd person plural verb conjugation
+  - {{perfective}}: Perfective aspect form of verbs
+  - {{comment}}: Comment (may contain HTML from Markdown)
 -->
 
 {{image_source}}
 {{image}}
 {{sound}}
 {{word_type}}
-{{target_word}}
-{{gender}}
-{{plural_form}}
-{{dl}}
+{{target_word}} {{#gender}}<span class="info">{{gender}}</span>{{/gender}}
+{{#perfective}}perfective: {{perfective}}{{/perfective}}
+{{#plural_form}}<div class="plural-form">{{plural_form}} <span class="info">pl.</span></div>{{/plural_form}}
+{{#comparative}}
+<dl class="additions">
+  <dt>positive</dt><dd>{{positive}}</dd>
+  <dt>comparative</dt><dd>{{comparative}}</dd>
+  {{#superlative}}<dt>superlative</dt><dd>{{superlative}}</dd>{{/superlative}}
+</dl>
+{{/comparative}}
+{{#first_person_singular}}
+<dl class="additions">
+  <dt>1st sg.</dt><dd>{{first_person_singular}}</dd>
+  {{#first_person_plural}}<dt>1st pl.</dt><dd>{{first_person_plural}}</dd>{{/first_person_plural}}
+</dl>
+{{/first_person_singular}}
+{{#second_person_singular}}
+<dl class="additions">
+  <dt>2nd sg.</dt><dd>{{second_person_singular}}</dd>
+  {{#second_person_plural}}<dt>2nd pl.</dt><dd>{{second_person_plural}}</dd>{{/second_person_plural}}
+</dl>
+{{/second_person_singular}}
+{{#third_person_singular}}
+<dl class="additions">
+  <dt>3rd sg.</dt><dd>{{third_person_singular}}</dd>
+  {{#third_person_plural}}<dt>3rd pl.</dt><dd>{{third_person_plural}}</dd>{{/third_person_plural}}
+</dl>
+{{/third_person_singular}}
 {{native_word}}
-{{comment}}
+{{#comment}}
+<div class="comment">{{comment}}</div>
+{{/comment}}

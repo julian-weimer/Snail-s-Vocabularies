@@ -21,7 +21,7 @@ For some, manually creating personal decks can be part of their learning journey
 - Images sourced from [Unsplash](https://unsplash.com) for nouns*
 - Fancy card design featuring a snail*
 
-\*The media files and the card templates are not part of the repository
+\*The media files are not part of the repository
 
 The foundational list is based on the following sources:
 - [Basic English List](https://en.wikipedia.org/wiki/Basic_English)
@@ -51,12 +51,6 @@ To use [Google Cloud TTS](https://cloud.google.com/text-to-speech), you must be 
 ### 3. Create the deck
 
 To generate the deck, use `create-deck` (example: `python toolkit.py create-deck fr`).
-
-## Theming
-
-In the `templates` folder you can find `card-answer.html.example` and `card-question.html.example`. Remove the `.example` suffix and use regular HTML and CSS to style your cards.
-
-If you include a `common.css` file in the templates folder, it will be prepended to the `<style>` tags of each card template.
 
 ## License
 

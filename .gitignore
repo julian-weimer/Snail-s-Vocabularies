@@ -53,9 +53,7 @@ decks/
 project.yml
 
 # card templates
-templates/card-question.html
-templates/card-answer.html
-templates/common.css
+templates/snail.svg
 
 # used for list creating workflow
 new

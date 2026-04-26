@@ -1,0 +1,387 @@
+<style>
+  @keyframes flipIn {
+    0% {
+      transform: perspective(1000px) rotateY(20deg);
+      opacity: 0;
+    }
+
+    100% {
+      transform: perspective(1000px) rotateY(0deg);
+      opacity: 1;
+    }
+  }
+
+  .container {
+    animation: flipIn 0.3s ease-out;
+    transform-style: preserve-3d;
+    min-height: 10rem;
+  }
+
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .image {
+    border-radius: var(--radius-2xl);
+    overflow: hidden;
+    align-self: center;
+    width: 150px;
+    height: 150px;
+    box-shadow: var(--shadow-sm);
+    transform: rotate(-5deg);
+    margin-bottom: var(--spacing-6);
+  }
+
+  .image:empty {
+    display: none;
+  }
+
+  .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .vocabulary {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    gap: var(--spacing-6);
+  }
+
+  .target-word {
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    color: var(--color-blue-1);
+  }
+
+  .native-word {
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    color: var(--color-blue-1);
+  }
+
+  .sound {
+    position: relative;
+    width: 3.5rem;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    align-self: flex-start;
+  }
+
+  .sound:hover {
+    transform: scale(1.05);
+  }
+
+  .sound:active {
+    transform: scale(0.95);
+  }
+
+  .sound-circle {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: var(--color-blue-2);
+    border-radius: var(--radius-full);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: var(--shadow-close);
+    pointer-events: none;
+  }
+
+  .sound-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: white;
+    z-index: 1;
+  }
+
+  .sound-button {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    opacity: 0;
+    cursor: pointer;
+  }
+
+  .word-with-sound {
+    display: flex;
+    gap: var(--spacing-3);
+    align-items: center;
+    flex-direction: row;
+    text-align: left;
+  }
+
+  .word-with-badge {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .word-type-badge {
+    margin-bottom: var(--spacing-2);
+    font-size: var(--font-size-xs);
+  }
+
+  .separator {
+    width: 100%;
+    background: var(--color-blue-7);
+    border-radius: var(--radius-md);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: stretch;
+    height: 5px;
+    min-height: auto;
+  }
+
+  .separator::after {
+    content: '';
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: var(--radius-full);
+    background-color: var(--color-blue-2);
+    border: 3px solid var(--color-blue-11);
+  }
+
+  .separator-icon {
+    position: absolute;
+    width: 1rem;
+    height: 1rem;
+    color: white;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+
+  .additions {
+    color: var(--color-blue-1);
+    margin-top: var(--spacing-3);
+  }
+
+  dt,
+  dd {
+    margin: 0;
+    padding: 0;
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: max-content auto;
+    text-align: left;
+    background: #fff;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    width: 100%;
+  }
+
+  dt {
+    font-weight: 600;
+    background: var(--color-blue-10);
+    color: var(--color-blue-2);
+    padding: var(--spacing-2) var(--spacing-2);
+    border-bottom: 1px solid var(--color-blue-8);
+    min-width: 70px;
+  }
+
+  dd {
+    padding: var(--spacing-2) var(--spacing-2);
+    color: var(--color-blue-1);
+    border-bottom: 1px solid var(--color-blue-10);
+  }
+
+  dt:last-of-type,
+  dd:last-of-type {
+    border-bottom: none;
+  }
+
+  dl.slim {
+    background: transparent;
+  }
+
+  dl.slim dt {
+    background: transparent;
+    padding-left: 0;
+    color: var(--color-blue-1);
+  }
+
+  dl.slim dd {
+    background: transparent;
+    padding-left: 0;
+  }
+
+  .info {
+    font-size: var(--font-size-xs);
+    font-weight: 300;
+    font-style: italic;
+  }
+
+  .plural-form {
+    margin-top: var(--spacing-3);
+    color: var(--color-blue-1);
+  }
+
+  .image-source {
+    color: var(--color-blue-5);
+    font-size: var(--font-size-xs);
+  }
+
+  hr {
+    border: none;
+    height: 4px;
+    background-color: var(--color-blue-8);
+    border-radius: 2px;
+    width: 100%;
+  }
+
+  .comment {
+    display: flex;
+    gap: var(--spacing-2);
+    align-items: flex-start;
+    color: var(--color-blue-1);
+    background: var(--color-blue-10);
+    padding: var(--spacing-2);
+    border-radius: calc(1rem + var(--spacing-1));
+    margin-top: var(--spacing-6);
+    text-align: left;
+    box-shadow: var(--shadow-close);
+  }
+
+  .info-icon {
+    flex-shrink: 0;
+    height: 1.75rem;
+    width: 1.75rem;
+    color: var(--color-blue-2);
+    border-radius: 50%;
+    overflow: hidden;
+  }
+
+  .info-icon svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  .comment-content {
+    flex: 1;
+    padding: var(--spacing-1) var(--spacing-1) var(--spacing-1) 0;
+  }
+
+  @media (min-width: 600px) {
+    .container {
+      min-width: 400px;
+    }
+
+    .vocabulary {
+      flex-direction: row;
+      gap: 0;
+    }
+
+    .separator {
+      width: 5px;
+      height: auto;
+      min-height: 8rem;
+    }
+
+    .separator::after {
+      width: 2rem;
+      height: 2rem;
+    }
+
+    .separator-icon {
+      transform: rotate(0deg);
+    }
+
+    .image {
+      width: 200px;
+      height: 200px;
+    }
+  }
+</style>
+
+<div class="container">
+  <span class="image-source">{{image_source}}</span>
+  <div class="card-content">
+    <div class="image">{{image}}</div>
+    <div class="vocabulary">
+      <div class="word-with-sound">
+        <div class="sound">
+          <div class="sound-circle">
+            <svg class="sound-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+              <rect width="256" height="256" fill="none" />
+              <path
+                d="M72,39.88V216.12a8,8,0,0,0,12.15,6.69l144.08-88.12a7.82,7.82,0,0,0,0-13.38L84.15,33.19A8,8,0,0,0,72,39.88Z"
+                fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" />
+            </svg>
+          </div>
+          <div class="sound-button">{{sound}}</div>
+        </div>
+        <div class="word-with-badge">
+          <div class="word-type-badge">{{word_type}}</div>
+          <div class="target-word">
+            {{target_word}} {{#gender}}<span class="info">{{gender}}</span>{{/gender}}
+          </div>
+          {{#perfective}}
+          <dl class="perfective slim">
+            <dt>perfective</dt><dd>{{perfective}}</dd>
+          </dl>
+          <hr />
+          {{/perfective}}
+          {{#plural_form}}<div class="plural-form">{{plural_form}} <span class="info">pl.</span></div>{{/plural_form}}
+          {{#comparative}}
+          <dl class="additions">
+            <dt>positive</dt><dd>{{positive}}</dd>
+            <dt>comparative</dt><dd>{{comparative}}</dd>
+            {{#superlative}}<dt>superlative</dt><dd>{{superlative}}</dd>{{/superlative}}
+          </dl>
+          {{/comparative}}
+          {{#first_person_singular}}
+          <dl class="additions">
+            <dt>1st sg.</dt><dd>{{first_person_singular}}</dd>
+            {{#first_person_plural}}<dt>1st pl.</dt><dd>{{first_person_plural}}</dd>{{/first_person_plural}}
+          </dl>
+          {{/first_person_singular}}
+          {{#second_person_singular}}
+          <dl class="additions">
+            <dt>2nd sg.</dt><dd>{{second_person_singular}}</dd>
+            {{#second_person_plural}}<dt>2nd pl.</dt><dd>{{second_person_plural}}</dd>{{/second_person_plural}}
+          </dl>
+          {{/second_person_singular}}
+          {{#third_person_singular}}
+          <dl class="additions">
+            <dt>3rd sg.</dt><dd>{{third_person_singular}}</dd>
+            {{#third_person_plural}}<dt>3rd pl.</dt><dd>{{third_person_plural}}</dd>{{/third_person_plural}}
+          </dl>
+          {{/third_person_singular}}
+        </div>
+      </div>
+      <div class="separator">
+        <svg class="separator-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+          <rect width="256" height="256" fill="none" />
+          <line x1="40" y1="128" x2="216" y2="128" fill="none" stroke="currentColor" stroke-linecap="round"
+            stroke-linejoin="round" stroke-width="24" />
+          <polyline points="144 56 216 128 144 200" fill="none" stroke="currentColor" stroke-linecap="round"
+            stroke-linejoin="round" stroke-width="24" />
+        </svg>
+      </div>
+      <div class="native-word">{{native_word}}</div>
+    </div>
+    {{#comment}}
+    <div class="comment">
+      <div class="info-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="24 24 208 208" fill="currentColor"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm-4,48a12,12,0,1,1-12,12A12,12,0,0,1,124,72Zm12,112a16,16,0,0,1-16-16V128a8,8,0,0,1,0-16,16,16,0,0,1,16,16v40a8,8,0,0,1,0,16Z"/></svg>
+      </div>
+      <div class="comment-content">{{comment}}</div>
+    </div>
+    {{/comment}}
+  </div>
+</div>
